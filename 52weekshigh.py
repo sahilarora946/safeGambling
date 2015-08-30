@@ -1,5 +1,5 @@
 from commonSettings import *
-from commonFunctions import getParsedHTML, getText, dumpData
+from commonFunctions import getParsedHTML, getText, dumpData, csvWriter
 
 def load(file):
     return pickle.load(open(file,'rb'))
@@ -24,8 +24,10 @@ def getCurrentAnd52WeekHighLow(url):
 
 
 #find all the stocks whose current prices are in 52 weeks high zone (not more than 10% from 52 week high)
-def 52weeksHighZone():
+def _52weeksHighZone():
     l = len(StockSymbols)
+    writer = csvWriter('data/52weeksHigh.csv',['symbol','low','high','curr'])
+
     for i in range(l):
         if len(StockSymbols[i])> 3 and StockSymbols[i][-1].startswith("http://www.moneycontrol.com/india/stockpricequote/"):
             url = StockSymbols[-1]
@@ -36,6 +38,7 @@ def 52weeksHighZone():
             diff = (high - curr)/(high - low)*100
             if diff < 10:
                 print low, high, curr, StockSymbols[:3]
+                writer.writerow({'symbol':str(StockSymbols[:3]), 'low':low,'high':high,'curr':curr})
 
 
 def is52WeekHigh(symbol):
@@ -55,3 +58,8 @@ def is52WeekHigh(symbol):
         print "Symbol not found"
         return False
 
+def main():
+    _52weeksHighZone()
+
+if __name__ == "__main__":
+    main()

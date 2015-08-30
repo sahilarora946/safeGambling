@@ -15,6 +15,11 @@ def getText(soup):
 def dumpData(data, file):
     pickle.dump(data, open(file,'wb'))
 
+def csvWriter(file, fieldnames):
+    f = open(file,'w')
+    writer = csv.DictWriter(f, fieldnames=fieldnames)
+    writer.writeheader()
+    return writer
 
 def main():
     pass
