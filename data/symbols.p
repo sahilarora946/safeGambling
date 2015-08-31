@@ -4,28328 +4,28623 @@ S'ALPINEHOU'
 p2
 aS'ALPINEHOU'
 p3
-aS''
+aS'526519'
 p4
 aa(lp5
 S'ADANIPORTS'
 p6
 aS'ADANIPORTS'
 p7
-ag4
-aa(lp8
+aS'532921'
+p8
+aa(lp9
 S'ALSTOMT&D;'
-p9
-aS'ALSTOMT&D;'
 p10
-ag4
-aa(lp11
-S'ARVINDREM'
+aS'ALSTOMT&D;'
+p11
+aS'522275'
 p12
+aa(lp13
+S'ARVINDREM'
+p14
 aS'ARVINDREM'
-p13
-ag4
-aa(lp14
-S'AIL'
 p15
-aS'AIL'
+aS'531823'
 p16
-ag4
 aa(lp17
-S'AMTL'
+S'AIL'
 p18
-aS'AMTL'
+aS'AIL'
 p19
-ag4
-aa(lp20
-S'ACCELYA'
-p21
-aS'ACCELYA'
+aS'532309'
+p20
+aa(lp21
+S'AMTL'
 p22
-ag4
-aa(lp23
-S'ANKITMETAL'
+aS'AMTL'
+p23
+aS'534612'
 p24
-aS'ANKITMETAL'
-p25
-ag4
-aa(lp26
-S'ATULAUTO'
+aa(lp25
+S'ACCELYA'
+p26
+aS'ACCELYA'
 p27
-aS'ATULAUTO'
+aS'532268'
 p28
-ag4
 aa(lp29
-S'AGRITECH'
+S'ANKITMETAL'
 p30
-aS'AGRITECH'
+aS'ANKITMETAL'
 p31
-ag4
-aa(lp32
-S'A2ZINFRA'
-p33
-aS'A2ZINFRA'
+aS'532870'
+p32
+aa(lp33
+S'ATULAUTO'
 p34
-ag4
-aa(lp35
-S'AGARIND'
+aS'ATULAUTO'
+p35
+aS'531795'
 p36
-aS'AGARIND'
-p37
-ag4
-aa(lp38
-S'APLAPOLLO'
+aa(lp37
+S'AGRITECH'
+p38
+aS'AGRITECH'
 p39
-aS'APLAPOLLO'
+aS'537292'
 p40
-ag4
 aa(lp41
-S'APOLSINHOT'
+S'A2ZINFRA'
 p42
-aS'APOLSINHOT'
+aS'A2ZINFRA'
 p43
-ag4
-aa(lp44
-S'ARCOTECH'
-p45
-aS'ARCOTECH'
+aS'533292'
+p44
+aa(lp45
+S'AGARIND'
 p46
-ag4
-aa(lp47
-S'AXISCADES'
+aS'AGARIND'
+p47
+aS'531921'
 p48
-aS'AXISCADES'
-p49
-ag4
-aa(lp50
-S'A D S Diagnostics Ltd'
+aa(lp49
+S'APLAPOLLO'
+p50
+aS'APLAPOLLO'
 p51
-ag4
-aS'523031'
+aS'533758'
 p52
 aa(lp53
-S'A2Z Maintenance & Engineering Services Limited'
+S'APOLSINHOT'
 p54
-aS'A2ZMES'
+aS'APOLSINHOT'
 p55
-aS'533292'
+aS''
 p56
 aa(lp57
-S'Aadi Industries Ltd'
+S'ARCOTECH'
 p58
-ag4
-aS'530027'
+aS'ARCOTECH'
 p59
-aa(lp60
-S'Aanjaneya Lifecare Ltd'
-p61
-aS'AANJANEYA'
+aS'532914'
+p60
+aa(lp61
+S'AXISCADES'
 p62
-aS'533412'
+aS'AXISCADES'
 p63
-aa(lp64
-S'Aarey Drugs & Pharmaceuticals Ltd'
-p65
-ag4
-aS'524412'
+aS'532395'
+p64
+aa(lp65
+S'A D S Diagnostics Ltd'
 p66
-aa(lp67
-S'Aarti Drugs Ltd'
-p68
-aS'AARTIDRUGS'
+ag56
+aS'523031'
+p67
+aa(lp68
+S'A2Z Maintenance & Engineering Services Limited'
 p69
-aS'524348'
+aS'A2ZINFRA'
 p70
-aa(lp71
-S'Aarti Industries Ltd'
-p72
-aS'AARTIIND'
+aS'533292'
+p71
+aa(lp72
+S'Aadi Industries Ltd'
 p73
-aS'524208'
+ag56
+aS'530027'
 p74
 aa(lp75
-S'Aarvee Denims & Exports Ltd'
+S'Aanjaneya Lifecare Ltd'
 p76
-aS'AARVEEDEN'
+aS'DRDATSONS'
 p77
-aS'514274'
+aS'533412'
 p78
 aa(lp79
-S'Aban Offshore Ltd'
+S'Aarey Drugs & Pharmaceuticals Ltd'
 p80
-aS'ABAN'
+ag56
+aS'524412'
 p81
-aS'523204'
-p82
-aa(lp83
-S'ABB Ltd'
+aa(lp82
+S'Aarti Drugs Ltd'
+p83
+aS'AARTIDRUGS'
 p84
-aS'ABB'
+aS'524348'
 p85
-aS'500002'
-p86
-aa(lp87
-S'Abbott India Ltd'
+aa(lp86
+S'Aarti Industries Ltd'
+p87
+aS'AARTIIND'
 p88
-aS'ABBOTINDIA'
+aS'524208'
 p89
-aS'500488'
-p90
-aa(lp91
-S'ABC Bearings Ltd'
+aa(lp90
+S'Aarvee Denims & Exports Ltd'
+p91
+aS'AARVEEDEN'
 p92
-aS'ANTFRIBEAR'
+aS'514274'
 p93
-aS'505665'
-p94
-aa(lp95
-S'ABC Gas International Ltd'
+aa(lp94
+S'Aban Offshore Ltd'
+p95
+aS'ABAN'
 p96
-ag4
-aS'513119'
+aS'523204'
 p97
 aa(lp98
-S'ABC India Ltd'
+S'ABB Ltd'
 p99
-ag4
-aS'520123'
+aS'ABB'
 p100
-aa(lp101
-S'ABC Paper Ltd'
-p102
-ag4
-aS'532937'
+aS'500002'
+p101
+aa(lp102
+S'Abbott India Ltd'
 p103
-aa(lp104
-S'Abee Info Consumables Ltd'
+aS'ABBOTINDIA'
+p104
+aS'500488'
 p105
-ag4
-aS'530833'
-p106
-aa(lp107
-S'ABG Infralogistics Ltd'
+aa(lp106
+S'ABC Bearings Ltd'
+p107
+aS'ANTFRIBEAR'
 p108
-aS'ABGHEAVY'
+aS'505665'
 p109
-aS'520155'
-p110
-aa(lp111
-S'ABG Shipyard Ltd'
+aa(lp110
+S'ABC Gas International Ltd'
+p111
+ag56
+aS'513119'
 p112
-aS'ABGSHIP'
-p113
-aS'532682'
+aa(lp113
+S'ABC India Ltd'
 p114
-aa(lp115
-S'Abhinav Capital Services Ltd'
-p116
-ag4
-aS'532057'
+ag56
+aS'520123'
+p115
+aa(lp116
+S'ABC Paper Ltd'
 p117
-aa(lp118
-S'Abhishek Corporation Ltd'
-p119
-aS'ABHISHEK'
+ag56
+aS'532937'
+p118
+aa(lp119
+S'Abee Info Consumables Ltd'
 p120
-aS'532831'
+ag56
+aS'530833'
 p121
 aa(lp122
-S'Abirami Financial Services India Ltd'
+S'ABG Infralogistics Ltd'
 p123
-ag4
-aS'511756'
+aS'ABGHEAVY'
 p124
-aa(lp125
-S'ABL Bio Technologies Ltd'
-p126
-ag4
-aS'526955'
+aS'520155'
+p125
+aa(lp126
+S'ABG Shipyard Ltd'
 p127
-aa(lp128
-S'ABM Knowledgeware Ltd'
+aS'ABGSHIP'
+p128
+aS'532682'
 p129
-ag4
-aS'531161'
-p130
-aa(lp131
-S'ACC Ltd'
+aa(lp130
+S'Abhinav Capital Services Ltd'
+p131
+ag56
+aS'532057'
 p132
-aS'ACC'
-p133
-aS'500410'
+aa(lp133
+S'Abhishek Corporation Ltd'
 p134
-aa(lp135
-S'Accel Frontline Ltd'
+aS'ABHISHEK'
+p135
+aS'532831'
 p136
-aS'AFL'
-p137
-aS'532774'
+aa(lp137
+S'Abirami Financial Services India Ltd'
 p138
-aa(lp139
-S'Accel Transmatic Ltd'
-p140
-ag4
-aS'517494'
+ag56
+aS'511756'
+p139
+aa(lp140
+S'ABL Bio Technologies Ltd'
 p141
-aa(lp142
-S'Accentia Technologies Ltd'
-p143
-ag4
-aS'531897'
+ag56
+aS'526955'
+p142
+aa(lp143
+S'ABM Knowledgeware Ltd'
 p144
-aa(lp145
-S'Accurate Transformers Ltd'
-p146
-ag4
-aS'530513'
+ag56
+aS'531161'
+p145
+aa(lp146
+S'ACC Ltd'
 p147
-aa(lp148
-S'Ace India Ltd'
+aS'ACC'
+p148
+aS'500410'
 p149
-ag4
-aS'530093'
-p150
-aa(lp151
-S'ACE Software Exports Ltd'
+aa(lp150
+S'Accel Frontline Ltd'
+p151
+aS'AFL'
 p152
-ag4
-aS'531525'
+aS'532774'
 p153
 aa(lp154
-S'ACI Infocom Ltd'
+S'Accel Transmatic Ltd'
 p155
-ag4
-aS'517356'
+ag56
+aS'517494'
 p156
 aa(lp157
-S'Acknit Industries Ltd'
+S'Accentia Technologies Ltd'
 p158
-ag4
-aS'530043'
+ag56
+aS'531897'
 p159
 aa(lp160
-S'Acropetal Technologies Limited'
+S'Accurate Transformers Ltd'
 p161
-aS'ACROPETAL'
+ag56
+aS'530513'
 p162
-aS'533330'
-p163
-aa(lp164
-S'Acrow India Ltd'
+aa(lp163
+S'Ace India Ltd'
+p164
+ag56
+aS'530093'
 p165
-ag4
-aS'513149'
-p166
-aa(lp167
-S'Acrysil Ltd'
+aa(lp166
+S'ACE Software Exports Ltd'
+p167
+ag56
+aS'531525'
 p168
-ag4
-aS'524091'
-p169
-aa(lp170
-S'Action Construction Equipment Ltd'
+aa(lp169
+S'ACI Infocom Ltd'
+p170
+ag56
+aS'517356'
 p171
-aS'ACE'
-p172
-aS'532762'
+aa(lp172
+S'Acknit Industries Ltd'
 p173
-aa(lp174
-S'Action Financial Services India Ltd'
-p175
-ag4
-aS'511706'
+ag56
+aS'530043'
+p174
+aa(lp175
+S'Acropetal Technologies Limited'
 p176
-aa(lp177
-S'Ad-Manum Finance Ltd'
+aS'ACROPETAL'
+p177
+aS'533330'
 p178
-ag4
-aS'511359'
-p179
-aa(lp180
-S'Adani Enterprises Ltd'
+aa(lp179
+S'Acrow India Ltd'
+p180
+ag56
+aS'513149'
 p181
-aS'ADANIENT'
-p182
-aS'512599'
+aa(lp182
+S'Acrysil Ltd'
 p183
-aa(lp184
-S'Adani Power Ltd'
-p185
-aS'ADANIPOWER'
+ag56
+aS'524091'
+p184
+aa(lp185
+S'Action Construction Equipment Ltd'
 p186
-aS'533096'
+aS'ACE'
 p187
-aa(lp188
-S'Adarsh Plant Protect Ltd'
-p189
-ag4
-aS'526711'
+aS'532762'
+p188
+aa(lp189
+S'Action Financial Services India Ltd'
 p190
-aa(lp191
-S'Addi Industries Ltd'
-p192
-ag4
-aS'507852'
+ag56
+aS'511706'
+p191
+aa(lp192
+S'Ad-Manum Finance Ltd'
 p193
-aa(lp194
-S'Adeshwar Cotton Industries Ltd'
-p195
-ag4
-aS'530901'
+ag56
+aS'511359'
+p194
+aa(lp195
+S'Adani Enterprises Ltd'
 p196
-aa(lp197
-S'Adf Foods Ltd'
+aS'ADANIENT'
+p197
+aS'512599'
 p198
-aS'ADFFOODS'
-p199
-aS'519183'
+aa(lp199
+S'Adani Power Ltd'
 p200
-aa(lp201
-S'Adhunik Metaliks Ltd'
+aS'ADANIPOWER'
+p201
+aS'533096'
 p202
-aS'ADHUNIK'
-p203
-aS'532727'
+aa(lp203
+S'Adarsh Plant Protect Ltd'
 p204
-aa(lp205
-S'Adi Rasayan Ltd'
-p206
-ag4
-aS'531592'
+ag56
+aS'526711'
+p205
+aa(lp206
+S'Addi Industries Ltd'
 p207
-aa(lp208
-S'Adinath Bio-Labs Ltd'
-p209
-ag4
-aS'590088'
+ag56
+aS'507852'
+p208
+aa(lp209
+S'Adeshwar Cotton Industries Ltd'
 p210
-aa(lp211
-S'Adinath Exim Resources Ltd'
-p212
-ag4
-aS'532056'
+ag56
+aS'530901'
+p211
+aa(lp212
+S'Adf Foods Ltd'
 p213
-aa(lp214
-S'Adinath Textiles Ltd'
+aS'ADFFOODS'
+p214
+aS'519183'
 p215
-ag4
-aS'514113'
-p216
-aa(lp217
-S'Aditya Birla Chemicals (India) Ltd'
+aa(lp216
+S'Adhunik Metaliks Ltd'
+p217
+aS'ADHUNIK'
 p218
-aS'ABCIL'
+aS'532727'
 p219
-aS'500057'
-p220
-aa(lp221
-S'Aditya Birla Money Ltd'
+aa(lp220
+S'Adi Rasayan Ltd'
+p221
+ag56
+aS'531592'
 p222
-aS'BIRLAMONEY'
-p223
-aS'532974'
+aa(lp223
+S'Adinath Bio-Labs Ltd'
 p224
-aa(lp225
-S'Aditya Birla Nuvo Ltd'
-p226
-aS'ABIRLANUVO'
+ag56
+aS'590088'
+p225
+aa(lp226
+S'Adinath Exim Resources Ltd'
 p227
-aS'500303'
+ag56
+aS'532056'
 p228
 aa(lp229
-S'Aditya Forge Ltd'
+S'Adinath Textiles Ltd'
 p230
-ag4
-aS'522150'
+ag56
+aS'514113'
 p231
 aa(lp232
-S'Aditya Ispat Ltd'
+S'Aditya Birla Chemicals (India) Ltd'
 p233
-ag4
-aS'513513'
+aS'ABCIL'
 p234
-aa(lp235
-S'Ador Fontech Ltd'
-p236
-ag4
-aS'530431'
+aS'500057'
+p235
+aa(lp236
+S'Aditya Birla Money Ltd'
 p237
-aa(lp238
-S'Ador Multiproducts Ltd'
+aS'BIRLAMONEY'
+p238
+aS'532974'
 p239
-ag4
-aS'523120'
-p240
-aa(lp241
-S'Ador Welding Ltd'
+aa(lp240
+S'Aditya Birla Nuvo Ltd'
+p241
+aS'ABIRLANUVO'
 p242
-aS'ADORWELD'
+aS'500303'
 p243
-aS'517041'
-p244
-aa(lp245
-S'Advance Petrochemicals Ltd'
+aa(lp244
+S'Aditya Forge Ltd'
+p245
+ag56
+aS'522150'
 p246
-ag4
-aS'506947'
-p247
-aa(lp248
-S'Advanced Micronic Devices Ltd'
+aa(lp247
+S'Aditya Ispat Ltd'
+p248
+ag56
+aS'513513'
 p249
-ag4
-aS'517552'
-p250
-aa(lp251
-S'Advani Hotels & Resorts (India) Ltd'
+aa(lp250
+S'Ador Fontech Ltd'
+p251
+ag56
+aS'530431'
 p252
-aS'ADVANIHOTR'
-p253
-aS'523269'
+aa(lp253
+S'Ador Multiproducts Ltd'
 p254
-aa(lp255
-S'Advanta India Ltd'
-p256
-aS'ADVANTA'
+ag56
+aS'523120'
+p255
+aa(lp256
+S'Ador Welding Ltd'
 p257
-aS'532840'
+aS'ADORWELD'
 p258
-aa(lp259
-S'Advent Computer Services Ltd'
-p260
-ag4
-aS'531429'
+aS'517041'
+p259
+aa(lp260
+S'Advance Petrochemicals Ltd'
 p261
-aa(lp262
-S'Advik Laboratories Ltd'
-p263
-ag4
-aS'531686'
+ag56
+aS'506947'
+p262
+aa(lp263
+S'Advanced Micronic Devices Ltd'
 p264
-aa(lp265
-S'Aegis Logistics Ltd'
-p266
-aS'AEGISCHEM'
+ag56
+aS'517552'
+p265
+aa(lp266
+S'Advani Hotels & Resorts (India) Ltd'
 p267
-aS'500003'
+aS'ADVANIHOTR'
 p268
-aa(lp269
-S'Aeonian Investments Company Ltd'
-p270
-ag4
-aS'503655'
+aS'523269'
+p269
+aa(lp270
+S'Advanta India Ltd'
 p271
-aa(lp272
-S'Aftek Ltd'
+aS'ADVANTA'
+p272
+aS'532840'
 p273
-aS'AFTEK'
-p274
-aS'530707'
+aa(lp274
+S'Advent Computer Services Ltd'
 p275
-aa(lp276
-S'Agarwal Holdings Ltd'
-p277
-ag4
-aS'503675'
+ag56
+aS'531429'
+p276
+aa(lp277
+S'Advik Laboratories Ltd'
 p278
-aa(lp279
-S'Agarwal Industrial Corporation Ltd'
-p280
-ag4
-aS'531921'
+ag56
+aS'531686'
+p279
+aa(lp280
+S'Aegis Logistics Ltd'
 p281
-aa(lp282
-S'AGC Networks Ltd'
+aS'AEGISCHEM'
+p282
+aS'500003'
 p283
-aS'AGCNET'
-p284
-aS'500463'
+aa(lp284
+S'Aeonian Investments Company Ltd'
 p285
-aa(lp286
-S'Agre Developers Limited'
-p287
-aS'AGRE'
+ag56
+aS'503655'
+p286
+aa(lp287
+S'Aftek Ltd'
 p288
-aS'533296'
+aS'AFTEK'
 p289
-aa(lp290
-S'Agro Dutch Industries Ltd'
-p291
-aS'AGRODUTCH'
+aS'530707'
+p290
+aa(lp291
+S'Agarwal Holdings Ltd'
 p292
-aS'519281'
+ag56
+aS'503675'
 p293
 aa(lp294
-S'Agro Tech Foods Ltd'
+S'Agarwal Industrial Corporation Ltd'
 p295
-aS'ATFL'
+aS'AGARIND'
 p296
-aS'500215'
+aS'531921'
 p297
 aa(lp298
-S'AGS Infotech Ltd'
+S'AGC Networks Ltd'
 p299
-aS'AGSINFO'
+aS'AGCNET'
 p300
-aS'533314'
+aS'500463'
 p301
 aa(lp302
-S'Ahlcon Parenterals India Ltd'
+S'Agre Developers Limited'
 p303
-ag4
-aS'524448'
+aS'FMNL'
 p304
-aa(lp305
-S'Ahluwalia Contracts India Ltd'
-p306
-aS'AHLUCONT'
+aS'533296'
+p305
+aa(lp306
+S'Agro Dutch Industries Ltd'
 p307
-aS'532811'
+aS'AGRODUTCH'
 p308
-aa(lp309
-S'Ahmedabad Advance Mills Ltd'
-p310
-ag4
-aS'521048'
+aS'519281'
+p309
+aa(lp310
+S'Agro Tech Foods Ltd'
 p311
-aa(lp312
-S'Ahmedabad Gases Ltd'
+aS'ATFL'
+p312
+aS'500215'
 p313
-ag4
-aS'526735'
-p314
-aa(lp315
-S'Ahmedabad Steelcraft Ltd'
+aa(lp314
+S'AGS Infotech Ltd'
+p315
+ag56
+aS'533314'
 p316
-ag4
-aS'522273'
-p317
-aa(lp318
-S'Ahmednagar Forgings Ltd'
+aa(lp317
+S'Ahlcon Parenterals India Ltd'
+p318
+ag56
+aS'524448'
 p319
-aS'AHMEDFORGE'
-p320
-aS'513335'
+aa(lp320
+S'Ahluwalia Contracts India Ltd'
 p321
-aa(lp322
-S'AI Champdany Industries Ltd'
+aS'AHLUCONT'
+p322
+aS'532811'
 p323
-aS'AICHAMP '
-p324
-aS'532806'
+aa(lp324
+S'Ahmedabad Advance Mills Ltd'
 p325
-aa(lp326
-S'AIA Engineering Ltd'
-p327
-aS'AIAENG'
+ag56
+aS'521048'
+p326
+aa(lp327
+S'Ahmedabad Gases Ltd'
 p328
-aS'532683'
+ag56
+aS'526735'
 p329
 aa(lp330
-S'Aimco Pesticides Ltd'
+S'Ahmedabad Steelcraft Ltd'
 p331
-aS'AIMCOPEST'
+ag56
+aS'522273'
 p332
-aS'524288'
-p333
-aa(lp334
-S'Aishwarya Telecom Ltd'
+aa(lp333
+S'Ahmednagar Forgings Ltd'
+p334
+aS'METALFORGE'
 p335
-aS'AISHWARYA'
+aS'513335'
 p336
-aS'532975'
-p337
-aa(lp338
-S'Ajanta Pharma Ltd'
+aa(lp337
+S'AI Champdany Industries Ltd'
+p338
+aS'AICHAMP'
 p339
-aS'AJANTPHARM'
+aS'532806'
 p340
-aS'532331'
-p341
-aa(lp342
-S'Ajanta Soya Ltd'
+aa(lp341
+S'AIA Engineering Ltd'
+p342
+aS'AIAENG'
 p343
-ag4
-aS'519216'
+aS'532683'
 p344
 aa(lp345
-S'Ajcon Global Services Ltd'
+S'Aimco Pesticides Ltd'
 p346
-ag4
-aS'511692'
+aS'AIMCOPEST'
 p347
-aa(lp348
-S'Ajmera Realty & Infra India Ltd'
-p349
-aS'AJMERA'
+aS'524288'
+p348
+aa(lp349
+S'Aishwarya Telecom Ltd'
 p350
-aS'513349'
+ag56
+aS'532975'
 p351
 aa(lp352
-S'Ajwa Fun World & Resort Ltd'
+S'Ajanta Pharma Ltd'
 p353
-ag4
-aS'526628'
+aS'AJANTPHARM'
 p354
-aa(lp355
-S'AK Capital Services Ltd'
-p356
-ag4
-aS'530499'
+aS'532331'
+p355
+aa(lp356
+S'Ajanta Soya Ltd'
 p357
-aa(lp358
-S'Akai Asian Ltd'
-p359
-ag4
-aS'506615'
+ag56
+aS'519216'
+p358
+aa(lp359
+S'Ajcon Global Services Ltd'
 p360
-aa(lp361
-S'Akanksha Finvest Ltd'
-p362
-ag4
-aS'530135'
+ag56
+aS'511692'
+p361
+aa(lp362
+S'Ajmera Realty & Infra India Ltd'
 p363
-aa(lp364
-S'Akar Tools Ltd'
+aS'AJMERA'
+p364
+aS'513349'
 p365
-ag4
-aS'530621'
-p366
-aa(lp367
-S'Akl Soft & Infosys India Ltd'
+aa(lp366
+S'Ajwa Fun World & Resort Ltd'
+p367
+ag56
+aS'526628'
 p368
-ag4
-aS'531838'
-p369
-aa(lp370
-S'Akruti City Ltd'
+aa(lp369
+S'AK Capital Services Ltd'
+p370
+ag56
+aS'530499'
 p371
-aS'ACKRUTI'
-p372
-aS'532799'
+aa(lp372
+S'Akai Asian Ltd'
 p373
-aa(lp374
-S'Aksh Optifibre Ltd'
-p375
-aS'AKSHOPTFBR'
+ag56
+aS'506615'
+p374
+aa(lp375
+S'Akanksha Finvest Ltd'
 p376
-aS'532351'
+ag56
+aS'530135'
 p377
 aa(lp378
-S'AksharChem India Ltd'
+S'Akar Tools Ltd'
 p379
-ag4
-aS'524598'
+ag56
+aS'530621'
 p380
 aa(lp381
-S'Akzo Nobel India Limited '
+S'Akl Soft & Infosys India Ltd'
 p382
-aS'AKZOINDIA'
+ag56
+aS'531838'
 p383
-aS'500710'
-p384
-aa(lp385
-S'Alang Industrial Gases Ltd'
+aa(lp384
+S'Akruti City Ltd'
+p385
+aS'HUBTOWN'
 p386
-ag4
-aS'531517'
+aS'532799'
 p387
 aa(lp388
-S'Albert David Ltd'
+S'Aksh Optifibre Ltd'
 p389
-ag4
-aS'524075'
+aS'AKSHOPTFBR'
 p390
-aa(lp391
-S'Albright & Wilson Chemicals India Ltd'
-p392
-aS'ALBRMORARJ'
+aS'532351'
+p391
+aa(lp392
+S'AksharChem India Ltd'
 p393
-aS'506230'
+ag56
+aS'524598'
 p394
 aa(lp395
-S'Alchemist Corporation Ltd'
+S'Akzo Nobel India Limited '
 p396
-ag4
-aS'531409'
+aS'AKZOINDIA'
 p397
-aa(lp398
-S'Alchemist Ltd'
-p399
-aS'ALCHEM'
+aS'500710'
+p398
+aa(lp399
+S'Alang Industrial Gases Ltd'
 p400
-aS'526707'
+ag56
+aS'531517'
 p401
 aa(lp402
-S'Alchemist Realty Ltd'
+S'Albert David Ltd'
 p403
-ag4
-aS'532114'
+ag56
+aS'524075'
 p404
 aa(lp405
-S'Alcobex Metals Ltd'
+S'Albright & Wilson Chemicals India Ltd'
 p406
-ag4
-aS'513412'
+aS'ALBRMORARJ'
 p407
-aa(lp408
-S'Alembic Ltd'
-p409
-aS'ALEMBICLTD'
+aS'506230'
+p408
+aa(lp409
+S'Alchemist Corporation Ltd'
 p410
-aS'506235'
+ag56
+aS'531409'
 p411
 aa(lp412
-S'Alembic Pharmaceuticals Limited'
+S'Alchemist Ltd'
 p413
-aS'APLLTD'
+aS'ALCHEM'
 p414
-aS'533573'
+aS'526707'
 p415
 aa(lp416
-S'Alfa Ica India Ltd'
+S'Alchemist Realty Ltd'
 p417
-ag4
-aS'530973'
+ag56
+aS'532114'
 p418
 aa(lp419
-S'Alfa Laval (India) Ltd'
+S'Alcobex Metals Ltd'
 p420
-aS'ALFALAVAL'
+ag56
+aS'513412'
 p421
-aS'505885'
-p422
-aa(lp423
-S'Alfa Transformers Ltd'
+aa(lp422
+S'Alembic Ltd'
+p423
+aS'ALEMBICLTD'
 p424
-ag4
-aS'517546'
+aS'506235'
 p425
 aa(lp426
-S'Alfavision Overseas India Ltd'
+S'Alembic Pharmaceuticals Limited'
 p427
-ag4
-aS'531156'
+aS'APLLTD'
 p428
-aa(lp429
-S'Alfred Herbert India Ltd'
-p430
-aS'ALFREDHERB'
+aS'533573'
+p429
+aa(lp430
+S'Alfa Ica India Ltd'
 p431
-aS'505216'
+ag56
+aS'530973'
 p432
 aa(lp433
-S'Alicon Castalloy Ltd'
+S'Alfa Laval (India) Ltd'
 p434
-aS'ALICON'
+aS'ALFALAVAL'
 p435
-aS'531147'
+aS'505885'
 p436
 aa(lp437
-S'Alka Diamond Industries Ltd'
+S'Alfa Transformers Ltd'
 p438
-ag4
-aS'531581'
+ag56
+aS'517546'
 p439
 aa(lp440
-S'Alka India Ltd'
+S'Alfavision Overseas India Ltd'
 p441
-ag4
-aS'530889'
+ag56
+aS'531156'
 p442
 aa(lp443
-S'Alka Securities Ltd'
+S'Alfred Herbert India Ltd'
 p444
-ag4
-aS'532166'
+aS'ALFREDHERB'
 p445
-aa(lp446
-S'Alkali Metals Ltd'
-p447
-aS'ALKALI'
+aS'505216'
+p446
+aa(lp447
+S'Alicon Castalloy Ltd'
 p448
-aS'533029'
+aS'ALICON'
 p449
-aa(lp450
-S'Alkyl Amines Chemicals Ltd'
-p451
-aS'ALKYLAMINE'
+aS'531147'
+p450
+aa(lp451
+S'Alka Diamond Industries Ltd'
 p452
-aS'506767'
+ag56
+aS'531581'
 p453
 aa(lp454
-S'Allahabad Bank'
+S'Alka India Ltd'
 p455
-aS'ALBK'
+ag56
+aS'530889'
 p456
-aS'532480'
-p457
-aa(lp458
-S'ALLAHABAD BK'
+aa(lp457
+S'Alka Securities Ltd'
+p458
+ag56
+aS'532166'
 p459
-ag4
-aS'632480'
-p460
-aa(lp461
-S'Allcargo Global Logistics Ltd'
+aa(lp460
+S'Alkali Metals Ltd'
+p461
+aS'ALKALI'
 p462
-aS'ALLCARGO'
+aS'533029'
 p463
-aS'532749'
-p464
-aa(lp465
-S'Allied Computers International (Asia) Ltd'
+aa(lp464
+S'Alkyl Amines Chemicals Ltd'
+p465
+aS'ALKYLAMINE'
 p466
-ag4
-aS'532919'
+aS'506767'
 p467
 aa(lp468
-S'Allied Digital Services Ltd'
+S'Allahabad Bank'
 p469
-aS'ADSL'
+aS'ALBK'
 p470
-aS'532875'
+aS'532480'
 p471
 aa(lp472
-S'Allsec Technologies Ltd'
+S'ALLAHABAD BK'
 p473
-aS'ALLSEC'
+ag56
+aS'632480'
 p474
-aS'532633'
-p475
-aa(lp476
-S'Almondz Capital & Management Services Ltd'
+aa(lp475
+S'Allcargo Global Logistics Ltd'
+p476
+aS'ALLCARGO'
 p477
-ag4
-aS'511589'
+aS'532749'
 p478
 aa(lp479
-S'Almondz Global Securities Ltd'
+S'Allied Computers International (Asia) Ltd'
 p480
-aS'ALMONDZ'
+ag56
+aS'532919'
 p481
-aS'531400'
-p482
-aa(lp483
-S'Alok Industries Ltd'
+aa(lp482
+S'Allied Digital Services Ltd'
+p483
+aS'ADSL'
 p484
-aS'ALOKTEXT'
+aS'532875'
 p485
-aS'521070'
-p486
-aa(lp487
-S'Alpa Laboratories Ltd'
+aa(lp486
+S'Allsec Technologies Ltd'
+p487
+aS'ALLSEC'
 p488
-aS'ALPA'
+aS'532633'
 p489
-aS'532878'
-p490
-aa(lp491
-S'Alpha Graphic India Ltd'
+aa(lp490
+S'Almondz Capital & Management Services Ltd'
+p491
+ag56
+aS'511589'
 p492
-ag4
-aS'531720'
-p493
-aa(lp494
-S'Alpha Hi-tech Fuel Ltd'
+aa(lp493
+S'Almondz Global Securities Ltd'
+p494
+aS'ALMONDZ'
 p495
-ag4
-aS'531247'
+aS'531400'
 p496
 aa(lp497
-S'Alphageo (India) Ltd'
+S'Alok Industries Ltd'
 p498
-aS'ALPHAGEO'
+aS'ALOKTEXT'
 p499
-aS'526397'
+aS'521070'
 p500
 aa(lp501
-S'Alpine Housing Development Corporation Ltd'
+S'Alpa Laboratories Ltd'
 p502
-ag4
-aS'526519'
+aS'ALPA'
 p503
-aa(lp504
-S'Alps Industries Ltd'
-p505
-aS'ALPSINDUS'
+aS'532878'
+p504
+aa(lp505
+S'Alpha Graphic India Ltd'
 p506
-aS'530715'
+ag56
+aS'531720'
 p507
 aa(lp508
-S'Alstom Projects India Ltd'
+S'Alpha Hi-tech Fuel Ltd'
 p509
-aS'APIL'
+ag56
+aS'531247'
 p510
-aS'532309'
-p511
-aa(lp512
-S'Alufluoride Ltd'
+aa(lp511
+S'Alphageo (India) Ltd'
+p512
+aS'ALPHAGEO'
 p513
-ag4
-aS'524634'
+aS'526397'
 p514
 aa(lp515
-S'Alumeco India Extrusion Ltd'
+S'Alpine Housing Development Corporation Ltd'
 p516
-ag4
-aS'513309'
+aS'ALPINEHOU'
 p517
-aa(lp518
-S'Amal Ltd'
-p519
-ag4
-aS'506597'
+aS'526519'
+p518
+aa(lp519
+S'Alps Industries Ltd'
 p520
-aa(lp521
-S'Amalgamated Electricity Company Ltd'
+aS'ALPSINDUS'
+p521
+aS'530715'
 p522
-ag4
-aS'501622'
-p523
-aa(lp524
-S'Amani Trading & Exports Ltd'
+aa(lp523
+S'Alstom Projects India Ltd'
+p524
+aS'AIL'
 p525
-ag4
-aS'512008'
+aS'532309'
 p526
 aa(lp527
-S'Amar Remedies Ltd'
+S'Alufluoride Ltd'
 p528
-aS'AMAR'
+ag56
+aS'524634'
 p529
-aS'532664'
-p530
-aa(lp531
-S'Amara Raja Batteries Ltd'
+aa(lp530
+S'Alumeco India Extrusion Ltd'
+p531
+ag56
+aS'513309'
 p532
-aS'AMARAJABAT'
-p533
-aS'500008'
+aa(lp533
+S'Amal Ltd'
 p534
-aa(lp535
-S'Amarjothi Spinning Mills Ltd'
-p536
-aS'AMARJOTHI'
+ag56
+aS'506597'
+p535
+aa(lp536
+S'Amalgamated Electricity Company Ltd'
 p537
-aS'521097'
+ag56
+aS'501622'
 p538
 aa(lp539
-S'Ambalal Sarabhai Enterprises Ltd'
+S'Amani Trading & Exports Ltd'
 p540
-aS'AMBASARABH'
+ag56
+aS'512008'
 p541
-aS'500009'
-p542
-aa(lp543
-S'Ambica Agarbathies & Aroma Industries Ltd'
+aa(lp542
+S'Amar Remedies Ltd'
+p543
+aS'AMAR'
 p544
-aS'AMBICAAGAR'
+aS'532664'
 p545
-aS'532335'
-p546
-aa(lp547
-S'Ambika Cotton Mills Ltd'
+aa(lp546
+S'Amara Raja Batteries Ltd'
+p547
+aS'AMARAJABAT'
 p548
-aS'AMBIKCO'
+aS'500008'
 p549
-aS'531978'
-p550
-aa(lp551
-S'Ambitious Plastomac Company Ltd'
+aa(lp550
+S'Amarjothi Spinning Mills Ltd'
+p551
+aS'AMARJOTHI'
 p552
-ag4
-aS'526439'
+aS'521097'
 p553
 aa(lp554
-S'Ambuja Cements Ltd'
+S'Ambalal Sarabhai Enterprises Ltd'
 p555
-aS'AMBUJACEM'
+aS'AMBASARABH'
 p556
-aS'500425'
+aS'500009'
 p557
 aa(lp558
-S'Amco India Ltd'
+S'Ambica Agarbathies & Aroma Industries Ltd'
 p559
-ag4
-aS'530133'
+aS'AMBICAAGAR'
 p560
-aa(lp561
-S'AMD Industries Ltd'
-p562
-aS'AMDIND'
+aS'532335'
+p561
+aa(lp562
+S'Ambika Cotton Mills Ltd'
 p563
-aS'532828'
+aS'AMBIKCO'
 p564
-aa(lp565
-S'Amforge Industries Ltd'
-p566
-aS'AMFORGEIND'
+aS'531978'
+p565
+aa(lp566
+S'Ambitious Plastomac Company Ltd'
 p567
-aS'513117'
+ag56
+aS'526439'
 p568
 aa(lp569
-S'Amines & Plasticizers Ltd'
+S'Ambuja Cements Ltd'
 p570
-ag4
-aS'506248'
+aS'AMBUJACEM'
 p571
-aa(lp572
-S'Amit Alcohol & Carbon Dioxide Ltd (Merged)'
-p573
-aS'CLUTCHAUTO'
+aS'500425'
+p572
+aa(lp573
+S'Amco India Ltd'
 p574
-aS'506904'
+ag56
+aS'530133'
 p575
 aa(lp576
-S'Amit International Ltd'
+S'AMD Industries Ltd'
 p577
-ag4
-aS'531300'
+aS'AMDIND'
 p578
-aa(lp579
-S'Amit Securities Ltd'
-p580
-ag4
-aS'531557'
+aS'532828'
+p579
+aa(lp580
+S'Amforge Industries Ltd'
 p581
-aa(lp582
-S'Amit Spinning Industries Ltd'
+aS'AMFORGEIND'
+p582
+aS'513117'
 p583
-aS'ASIL'
-p584
-aS'521076'
+aa(lp584
+S'Amines & Plasticizers Ltd'
 p585
-aa(lp586
-S'AML Steel Ltd'
-p587
-aS'AMLSTEEL'
+ag56
+aS'506248'
+p586
+aa(lp587
+S'Amit Alcohol & Carbon Dioxide Ltd (Merged)'
 p588
-aS'530464'
+aS'CLUTCHAUTO'
 p589
-aa(lp590
-S'Amradeep Industries Ltd'
-p591
-ag4
-aS'531681'
+aS'505052'
+p590
+aa(lp591
+S'Amit International Ltd'
 p592
-aa(lp593
-S'Amrapali Developers India Ltd'
-p594
-ag4
-aS'521103'
+ag56
+aS'531300'
+p593
+aa(lp594
+S'Amit Securities Ltd'
 p595
-aa(lp596
-S'Amrapali Industries Ltd'
-p597
-ag4
-aS'526241'
+ag56
+aS'531557'
+p596
+aa(lp597
+S'Amit Spinning Industries Ltd'
 p598
-aa(lp599
-S'Amraworld Agrico Ltd'
+aS'ASIL'
+p599
+aS'521076'
 p600
-ag4
-aS'531991'
-p601
-aa(lp602
-S'Amrit Banaspati Company Ltd'
+aa(lp601
+S'AML Steel Ltd'
+p602
+aS'AMLSTEEL'
 p603
-ag4
-aS'531728'
-p604
-aa(lp605
-S'Amrit Corp Ltd'
+ag56
+aa(lp604
+S'Amradeep Industries Ltd'
+p605
+ag56
+aS'531681'
 p606
-ag4
-aS'507525'
-p607
-aa(lp608
-S'Amrutanjan Ltd'
+aa(lp607
+S'Amrapali Developers India Ltd'
+p608
+ag56
+aS'521103'
 p609
-aS'AMRUTANJAN'
-p610
-aS'590006'
+aa(lp610
+S'Amrapali Industries Ltd'
 p611
-aa(lp612
-S'Amtek Auto Ltd'
-p613
-aS'AMTEKAUTO'
+ag56
+aS'526241'
+p612
+aa(lp613
+S'Amraworld Agrico Ltd'
 p614
-aS'520077'
+ag56
+aS'531991'
 p615
 aa(lp616
-S'Amtek India Ltd'
+S'Amrit Banaspati Company Ltd'
 p617
-aS'AMTEKINDIA'
+ag56
+aS'531728'
 p618
-aS'532282'
-p619
-aa(lp620
-S'Amulya Leasing & Finance Ltd'
+aa(lp619
+S'Amrit Corp Ltd'
+p620
+ag56
+aS'507525'
 p621
-ag4
-aS'531761'
-p622
-aa(lp623
-S'Anand Credit Ltd'
+aa(lp622
+S'Amrutanjan Ltd'
+p623
+aS'AMRUTANJAN'
 p624
-ag4
-aS'531678'
+aS'590006'
 p625
 aa(lp626
-S'Anand Electric Supply Company Ltd'
+S'Amtek Auto Ltd'
 p627
-ag4
-aS'501630'
+aS'AMTEKAUTO'
 p628
-aa(lp629
-S'Anant Raj Industries Ltd'
-p630
-aS'ANANTRAJ'
+aS'520077'
+p629
+aa(lp630
+S'Amtek India Ltd'
 p631
-aS'515055'
+aS'CASTEXTECH'
 p632
-aa(lp633
-S'Ananthi Constructions Ltd'
-p634
-ag4
-aS'526833'
+aS'532282'
+p633
+aa(lp634
+S'Amulya Leasing & Finance Ltd'
 p635
-aa(lp636
-S'Ancent Software International Ltd'
-p637
-ag4
-aS'530375'
+ag56
+aS'531761'
+p636
+aa(lp637
+S'Anand Credit Ltd'
 p638
-aa(lp639
-S'Andhra Bank'
-p640
-aS'ANDHRABANK'
+ag56
+aS'531678'
+p639
+aa(lp640
+S'Anand Electric Supply Company Ltd'
 p641
-aS'532418'
+ag56
+aS'501630'
 p642
 aa(lp643
-S'Andhra Cements Ltd'
+S'Anant Raj Industries Ltd'
 p644
-aS'ANDHRACEMT'
+aS'ANANTRAJ'
 p645
-aS'532141'
+aS'515055'
 p646
 aa(lp647
-S'Andhra Petrochemicals Ltd'
+S'Ananthi Constructions Ltd'
 p648
-aS'ANDHRAPET'
+ag56
+aS'526833'
 p649
-aS'500012'
-p650
-aa(lp651
-S'Andhra Pradesh Paper Mills Ltd'
+aa(lp650
+S'Ancent Software International Ltd'
+p651
+ag56
+aS'530375'
 p652
-aS'APPAPER'
-p653
-aS'502330'
+aa(lp653
+S'Andhra Bank'
 p654
-aa(lp655
-S'Andhra Sugars Ltd'
+aS'ANDHRABANK'
+p655
+aS'532418'
 p656
-aS'ANDHRSUGAR'
-p657
-aS'590062'
+aa(lp657
+S'Andhra Cements Ltd'
 p658
-aa(lp659
-S'Andrew Yule & Company Ltd'
+aS'ANDHRACEMT'
+p659
+aS'532141'
 p660
-aS'ANDREWYULE'
-p661
-aS'526173'
+aa(lp661
+S'Andhra Petrochemicals Ltd'
 p662
-aa(lp663
-S'ANG Auto Ltd'
+aS'ANDHRAPET'
+p663
+aS'500012'
 p664
-aS'ANGIND'
-p665
-aS'530721'
+aa(lp665
+S'Andhra Pradesh Paper Mills Ltd'
 p666
-aa(lp667
-S'Anik Industries Ltd'
+aS'IPAPPM'
+p667
+aS'502330'
 p668
-aS'ANIKINDS'
-p669
-aS'519383'
+aa(lp669
+S'Andhra Sugars Ltd'
 p670
-aa(lp671
-S'Anil Modi Oil Industries Ltd'
+aS'ANDHRSUGAR'
+p671
+aS'590062'
 p672
-ag4
-aS'519003'
-p673
-aa(lp674
-S'Anil Products Ltd'
+aa(lp673
+S'Andrew Yule & Company Ltd'
+p674
+aS'ANDREWYULE'
 p675
-ag4
-aS'532910'
+aS'526173'
 p676
 aa(lp677
-S'Anil Special Steel Industries Ltd'
+S'ANG Auto Ltd'
 p678
-aS'ASILIND'
+aS'ANGIND'
 p679
-aS'504629'
+aS'530721'
 p680
 aa(lp681
-S'Anjani Fabrics Ltd'
+S'Anik Industries Ltd'
 p682
-ag4
-aS'521131'
+aS'ANIKINDS'
 p683
-aa(lp684
-S'Anjani Finance Ltd'
-p685
-ag4
-aS'531878'
+aS'519383'
+p684
+aa(lp685
+S'Anil Modi Oil Industries Ltd'
 p686
-aa(lp687
-S'Anjani Portland Cement Ltd'
-p688
-ag4
-aS'518091'
+ag56
+aS'519003'
+p687
+aa(lp688
+S'Anil Products Ltd'
 p689
-aa(lp690
-S'Anjani Synthetics Ltd'
-p691
-ag4
-aS'531223'
+ag56
+aS'532910'
+p690
+aa(lp691
+S'Anil Special Steel Industries Ltd'
 p692
-aa(lp693
-S'Anka India Ltd'
+aS'ASILIND'
+p693
+aS'504629'
 p694
-ag4
-aS'531673'
-p695
-aa(lp696
-S'Ankit Metal & Power Ltd'
+aa(lp695
+S'Anjani Fabrics Ltd'
+p696
+ag56
+aS'521131'
 p697
-ag4
-aS'532870'
-p698
-aa(lp699
-S'Ankur Drugs and Pharma Ltd'
+aa(lp698
+S'Anjani Finance Ltd'
+p699
+ag56
+aS'531878'
 p700
-aS'ANKURDRUGS'
-p701
-aS'531683'
+aa(lp701
+S'Anjani Portland Cement Ltd'
 p702
-aa(lp703
-S'Ankush Finstock Ltd'
-p704
-ag4
-aS'531519'
+ag56
+aS'518091'
+p703
+aa(lp704
+S'Anjani Synthetics Ltd'
 p705
-aa(lp706
-S'Anna Infrastructures Ltd'
-p707
-ag4
-aS'530799'
+ag56
+aS'531223'
+p706
+aa(lp707
+S'Anka India Ltd'
 p708
-aa(lp709
-S'ANS Agro Industries Ltd'
-p710
-ag4
-aS'531406'
+ag56
+aS'531673'
+p709
+aa(lp710
+S'Ankit Metal & Power Ltd'
 p711
-aa(lp712
-S'Ansal Buildwell Ltd'
+aS'ANKITMETAL'
+p712
+aS'532870'
 p713
-ag4
-aS'523007'
-p714
-aa(lp715
-S'Ansal Housing & Construction Ltd'
+aa(lp714
+S'Ankur Drugs and Pharma Ltd'
+p715
+aS'ANKURDRUGS'
 p716
-aS'ANSALHSG'
+aS'531683'
 p717
-aS'507828'
-p718
-aa(lp719
-S'Ansal Properties & Infrastructure Ltd'
+aa(lp718
+S'Ankush Finstock Ltd'
+p719
+ag56
+aS'531519'
 p720
-aS'ANSALAPI'
-p721
-aS'500013'
+aa(lp721
+S'Anna Infrastructures Ltd'
 p722
-aa(lp723
-S'Antarctica Ltd'
-p724
-aS'ANTGRAPHIC'
+ag56
+aS'530799'
+p723
+aa(lp724
+S'ANS Agro Industries Ltd'
 p725
-aS'526715'
+ag56
+aS'531406'
 p726
 aa(lp727
-S'Anuh Pharma Ltd'
+S'Ansal Buildwell Ltd'
 p728
-ag4
-aS'506260'
+ag56
+aS'523007'
 p729
 aa(lp730
-S'Anukaran Commercial Enterprises Ltd'
+S'Ansal Housing & Construction Ltd'
 p731
-ag4
-aS'512355'
+aS'ANSALHSG'
 p732
-aa(lp733
-S'Anup Malleable Ltd'
-p734
-ag4
-aS'506087'
+aS'507828'
+p733
+aa(lp734
+S'Ansal Properties & Infrastructure Ltd'
 p735
-aa(lp736
-S'Anus Laboratories Ltd'
+aS'ANSALAPI'
+p736
+aS'500013'
 p737
-ag4
-aS'532981'
-p738
-aa(lp739
-S'Anuvin Industries Ltd'
+aa(lp738
+S'Antarctica Ltd'
+p739
+aS'ANTGRAPHIC'
 p740
-ag4
-aS'514332'
+aS'526715'
 p741
 aa(lp742
-S'Apar Industries Ltd'
+S'Anuh Pharma Ltd'
 p743
-aS'APARINDS'
+ag56
+aS'506260'
 p744
-aS'532259'
-p745
-aa(lp746
-S'Apcotex Industries Ltd'
+aa(lp745
+S'Anukaran Commercial Enterprises Ltd'
+p746
+ag56
+aS'512355'
 p747
-aS'APCOTEXIND'
-p748
-aS'523694'
+aa(lp748
+S'Anup Malleable Ltd'
 p749
-aa(lp750
-S'Apeego Ltd'
-p751
-ag4
-aS'521167'
+ag56
+aS'506087'
+p750
+aa(lp751
+S'Anus Laboratories Ltd'
 p752
-aa(lp753
-S'Aplab Ltd'
-p754
-aS'APLAB'
+ag56
+aS'532981'
+p753
+aa(lp754
+S'Anuvin Industries Ltd'
 p755
-aS'517096'
+ag56
+aS'514332'
 p756
 aa(lp757
-S'APM Industries Ltd'
+S'Apar Industries Ltd'
 p758
-ag4
-aS'523537'
+aS'APARINDS'
 p759
-aa(lp760
-S'Apollo Finvest India Ltd'
-p761
-ag4
-aS'512437'
+aS'532259'
+p760
+aa(lp761
+S'Apcotex Industries Ltd'
 p762
-aa(lp763
-S'Apollo Hospitals Enterprise Ltd'
+aS'APCOTEXIND'
+p763
+aS'523694'
 p764
-aS'APOLLOHOSP'
-p765
-aS'508869'
+aa(lp765
+S'Apeego Ltd'
 p766
-aa(lp767
-S'Apollo Tyres Ltd'
-p768
-aS'APOLLOTYRE'
+ag56
+aS'521167'
+p767
+aa(lp768
+S'Aplab Ltd'
 p769
-aS'500877'
+aS'APLAB'
 p770
-aa(lp771
-S'Apple Finance Ltd'
-p772
-aS'APPLEIND'
+aS'517096'
+p771
+aa(lp772
+S'APM Industries Ltd'
 p773
-aS'500014'
+ag56
+aS'523537'
 p774
 aa(lp775
-S'Apte Amalgamations Ltd'
+S'Apollo Finvest India Ltd'
 p776
-ag4
-aS'507265'
+ag56
+aS'512437'
 p777
 aa(lp778
-S'Aptech Ltd'
+S'Apollo Hospitals Enterprise Ltd'
 p779
-aS'APTECHT'
+aS'APOLLOHOSP'
 p780
-aS'532475'
+aS'508869'
 p781
 aa(lp782
-S'APW President Systems Ltd'
+S'Apollo Tyres Ltd'
 p783
-ag4
-aS'590033'
+aS'APOLLOTYRE'
 p784
-aa(lp785
-S'Aqua Logistics Ltd'
-p786
-aS'AQUA'
+aS'500877'
+p785
+aa(lp786
+S'Apple Finance Ltd'
 p787
-aS'533159'
+aS'APPLEIND'
 p788
-aa(lp789
-S'Aravali Securities & Finance Ltd'
-p790
-aS'ARAVALISEC'
+aS'500014'
+p789
+aa(lp790
+S'Apte Amalgamations Ltd'
 p791
-aS'512344'
+ag56
+aS'507265'
 p792
 aa(lp793
-S'Arcadia Mercantile Capital Ltd'
+S'Aptech Ltd'
 p794
-ag4
-aS'531160'
+aS'APTECHT'
 p795
-aa(lp796
-S'Arcee Industries Ltd'
-p797
-ag4
-aS'520121'
+aS'532475'
+p796
+aa(lp797
+S'APW President Systems Ltd'
 p798
-aa(lp799
-S'Archana Software Ltd'
-p800
-aS'SSLFINANCE'
+ag56
+aS'590033'
+p799
+aa(lp800
+S'Aqua Logistics Ltd'
 p801
-aS'530565'
+aS'AQUA'
 p802
-aa(lp803
-S'Archidply Industries Ltd'
-p804
-aS'ARCHIDPLY'
+aS'533159'
+p803
+aa(lp804
+S'Aravali Securities & Finance Ltd'
 p805
-aS'532994'
+aS'ARAVALISEC'
 p806
-aa(lp807
-S'Archies Ltd'
-p808
-aS'ARCHIES'
+aS'512344'
+p807
+aa(lp808
+S'Arcadia Mercantile Capital Ltd'
 p809
-aS'532212'
+ag56
+aS'531160'
 p810
 aa(lp811
-S'Arcotech Ltd'
+S'Arcee Industries Ltd'
 p812
-ag4
-aS'532914'
+ag56
+aS'520121'
 p813
 aa(lp814
-S'Arcuttipore Tea Company Ltd'
+S'Archana Software Ltd'
 p815
-ag4
-aS'530261'
+ag56
+aS'530565'
 p816
 aa(lp817
-S'Ardi Investments & Trading Company Ltd'
+S'Archidply Industries Ltd'
 p818
-ag4
-aS'504370'
+aS'ARCHIDPLY'
 p819
-aa(lp820
-S'Areva T&D; India Ltd'
-p821
-aS'AREVAT&D;'
+aS'532994'
+p820
+aa(lp821
+S'Archies Ltd'
 p822
-aS'522275'
+aS'ARCHIES'
 p823
-aa(lp824
-S'Arex Industries Ltd'
-p825
-ag4
-aS'526851'
+aS'532212'
+p824
+aa(lp825
+S'Arcotech Ltd'
 p826
-aa(lp827
-S'Ari Consolidated Investments Ltd'
+aS'ARCOTECH'
+p827
+aS'532914'
 p828
-ag4
-aS'509110'
-p829
-aa(lp830
-S'Aries Agro Ltd'
+aa(lp829
+S'Arcuttipore Tea Company Ltd'
+p830
+ag56
+aS'530261'
 p831
-aS'ARIES'
-p832
-aS'532935'
+aa(lp832
+S'Ardi Investments & Trading Company Ltd'
 p833
-aa(lp834
-S'Arihant Avenues & Credit Ltd'
-p835
-ag4
-aS'531553'
+ag56
+aS'504370'
+p834
+aa(lp835
+S'Areva T&D; India Ltd'
 p836
-aa(lp837
-S'Arihant Capital Markets Ltd'
+aS'ALSTOMT&D;'
+p837
+aS'522275'
 p838
-ag4
-aS'511605'
-p839
-aa(lp840
-S'Arihant Foundations & Housing Ltd'
+aa(lp839
+S'Arex Industries Ltd'
+p840
+ag56
+aS'526851'
 p841
-aS'ARIHANT'
-p842
-aS'531381'
+aa(lp842
+S'Ari Consolidated Investments Ltd'
 p843
-aa(lp844
-S'Arihant Tournesol Ltd'
-p845
-ag4
-aS'526125'
+ag56
+aS'509110'
+p844
+aa(lp845
+S'Aries Agro Ltd'
 p846
-aa(lp847
-S'Arihants Securities Ltd'
+aS'ARIES'
+p847
+aS'532935'
 p848
-ag4
-aS'531017'
-p849
-aa(lp850
-S'Arman Lease & Finance Ltd'
+aa(lp849
+S'Arihant Avenues & Credit Ltd'
+p850
+ag56
+aS'531553'
 p851
-ag4
-aS'531179'
-p852
-aa(lp853
-S'Armour Polymers Ltd'
+aa(lp852
+S'Arihant Capital Markets Ltd'
+p853
+ag56
+aS'511605'
 p854
-ag4
-aS'524218'
-p855
-aa(lp856
-S'Aro Granite Industries Ltd'
+aa(lp855
+S'Arihant Foundations & Housing Ltd'
+p856
+aS'ARIHANT'
 p857
-aS'AROGRANITE'
+aS'531381'
 p858
-aS'513729'
-p859
-aa(lp860
-S'Aroni Commercials Ltd'
+aa(lp859
+S'Arihant Tournesol Ltd'
+p860
+ag56
+aS'526125'
 p861
-ag4
-aS'512273'
-p862
-aa(lp863
-S'Arora Fibres Ltd'
+aa(lp862
+S'Arihants Securities Ltd'
+p863
+ag56
+aS'531017'
 p864
-ag4
-aS'521174'
-p865
-aa(lp866
-S'Arrow Coated Products Ltd'
+aa(lp865
+S'Arman Lease & Finance Ltd'
+p866
+ag56
+aS'531179'
 p867
-ag4
-aS'516064'
-p868
-aa(lp869
-S'Arrow Securities Ltd'
+aa(lp868
+S'Armour Polymers Ltd'
+p869
+ag56
+aS'524218'
 p870
-ag4
-aS'531448'
-p871
-aa(lp872
-S'Arrow Textiles Ltd'
+aa(lp871
+S'Aro Granite Industries Ltd'
+p872
+aS'AROGRANITE'
 p873
-aS'ARROWTEX'
+aS'513729'
 p874
-aS'533068'
-p875
-aa(lp876
-S'ARSBONDS'
+aa(lp875
+S'Aroni Commercials Ltd'
+p876
+ag56
+aS'512273'
 p877
-aS'ARSBONDS'
-p878
-ag4
-aa(lp879
-S'Arshiya International Ltd'
+aa(lp878
+S'Arora Fibres Ltd'
+p879
+ag56
+aS'521174'
 p880
-aS'ARSHIYA'
-p881
-aS'506074'
+aa(lp881
+S'Arrow Coated Products Ltd'
 p882
-aa(lp883
-S'Arsi Cosmetics & Chemicals Ltd'
+aS'ARROWCOAT'
+p883
+aS'516064'
 p884
-ag4
-aS'531320'
-p885
-aa(lp886
-S'ARSS Infrastructure Projects Ltd'
+aa(lp885
+S'Arrow Securities Ltd'
+p886
+ag56
+aS'531448'
 p887
-aS'ARSSINFRA'
-p888
-aS'533163'
+aa(lp888
+S'Arrow Textiles Ltd'
 p889
-aa(lp890
-S'Artech Power Products Ltd'
+aS'ARROWTEX'
+p890
+aS'533068'
 p891
-ag4
-aS'517481'
-p892
-aa(lp893
-S'Artefact Projects Ltd'
+aa(lp892
+S'ARSBONDS'
+p893
+aS'ARSBONDS'
 p894
-ag4
-aS'531297'
-p895
-aa(lp896
-S'Artheon Finance Ltd'
+ag56
+aa(lp895
+S'Arshiya International Ltd'
+p896
+aS'ARSHIYA'
 p897
-ag4
-aS'509026'
+aS'506074'
 p898
 aa(lp899
-S'Artillegence Bio Innovations Ltd'
+S'Arsi Cosmetics & Chemicals Ltd'
 p900
-ag4
-aS'512642'
+ag56
+aS'531320'
 p901
 aa(lp902
-S'Artson Engineering Ltd'
+S'ARSS Infrastructure Projects Ltd'
 p903
-aS'ARTSONENGG'
+aS'ARSSINFRA'
 p904
-aS'522134'
+aS'533163'
 p905
 aa(lp906
-S'Arunjyoti Enterprises Ltd'
+S'Artech Power Products Ltd'
 p907
-ag4
-aS'590114'
+ag56
+aS'517481'
 p908
 aa(lp909
-S'Arunoday Mills Ltd'
+S'Artefact Projects Ltd'
 p910
-ag4
-aS'502700'
+ag56
+aS'531297'
 p911
 aa(lp912
-S'Arvind Chemicals Ltd'
+S'Artheon Finance Ltd'
 p913
-ag4
-aS'531881'
+ag56
+aS'509026'
 p914
 aa(lp915
-S'Arvind International Ltd'
+S'Artillegence Bio Innovations Ltd'
 p916
-ag4
-aS'524760'
+ag56
+aS'512642'
 p917
 aa(lp918
-S'Arvind Ltd'
+S'Artson Engineering Ltd'
 p919
-aS'ARVIND'
+aS'ARTSONENGG'
 p920
-aS'500101'
+aS'522134'
 p921
 aa(lp922
-S'Arvind Products Ltd'
+S'Arunjyoti Enterprises Ltd'
 p923
-ag4
-aS'532489'
+ag56
+aS'590114'
 p924
 aa(lp925
-S'Arvind Remedies Ltd'
+S'Arunoday Mills Ltd'
 p926
-aS'ARL'
+ag56
+aS'502700'
 p927
-aS'531823'
-p928
-aa(lp929
-S'Aryaman Financial Services Ltd'
+aa(lp928
+S'Arvind Chemicals Ltd'
+p929
+ag56
+aS'531881'
 p930
-ag4
-aS'530245'
-p931
-aa(lp932
-S'Asahi Fibres Ltd'
+aa(lp931
+S'Arvind International Ltd'
+p932
+ag56
+aS'524760'
 p933
-ag4
-aS'514482'
-p934
-aa(lp935
-S'Asahi India Glass Ltd'
+aa(lp934
+S'Arvind Ltd'
+p935
+aS'ARVIND'
 p936
-aS'ASAHIINDIA'
+aS'500101'
 p937
-aS'515030'
-p938
-aa(lp939
-S'Asahi Infrastructure & Projects Ltd'
+aa(lp938
+S'Arvind Products Ltd'
+p939
+ag56
+aS'532489'
 p940
-ag4
-aS'512535'
-p941
-aa(lp942
-S'Asahi Songwon Colors Ltd'
+aa(lp941
+S'Arvind Remedies Ltd'
+p942
+aS'ARVINDREM'
 p943
-aS'ASAHISONG'
+aS'531823'
 p944
-aS'532853'
-p945
-aa(lp946
-S'Ascent Exim India Ltd'
+aa(lp945
+S'Aryaman Financial Services Ltd'
+p946
+ag56
+aS'530245'
 p947
-ag4
-aS'511750'
-p948
-aa(lp949
-S'Ashapura Minechem Ltd'
+aa(lp948
+S'Asahi Fibres Ltd'
+p949
+ag56
+aS'514482'
 p950
-aS'ASHAPURMIN'
-p951
-aS'527001'
+aa(lp951
+S'Asahi India Glass Ltd'
 p952
-aa(lp953
-S'Ashco  Niulab Industries Ltd'
+aS'ASAHIINDIA'
+p953
+aS'515030'
 p954
-aS'ASHCONIUL'
-p955
-aS'517565'
+aa(lp955
+S'Asahi Infrastructure & Projects Ltd'
 p956
-aa(lp957
-S'Ashiana Agro Industries Ltd'
-p958
-ag4
-aS'519174'
+ag56
+aS'512535'
+p957
+aa(lp958
+S'Asahi Songwon Colors Ltd'
 p959
-aa(lp960
-S'Ashiana Housing Ltd'
+aS'ASAHISONG'
+p960
+aS'532853'
 p961
-aS'ASHIANA'
-p962
-aS'523716'
+aa(lp962
+S'Ascent Exim India Ltd'
 p963
-aa(lp964
-S'Ashiana Ispat Ltd'
-p965
-ag4
-aS'513401'
+ag56
+aS'511750'
+p964
+aa(lp965
+S'Ashapura Minechem Ltd'
 p966
-aa(lp967
-S'Ashim Investment Company Ltd'
+aS'ASHAPURMIN'
+p967
+aS'527001'
 p968
-ag4
-aS'532753'
-p969
-aa(lp970
-S'Ashima Ltd'
+aa(lp969
+S'Ashco  Niulab Industries Ltd'
+p970
+aS'ASHCONIUL'
 p971
-aS'ASHIMASYN'
+aS'517565'
 p972
-aS'514286'
-p973
-aa(lp974
-S'Ashirwad Capital Ltd'
+aa(lp973
+S'Ashiana Agro Industries Ltd'
+p974
+ag56
+aS'519174'
 p975
-ag4
-aS'512247'
-p976
-aa(lp977
-S'Ashirwad Steels & Industries Ltd'
+aa(lp976
+S'Ashiana Housing Ltd'
+p977
+aS'ASHIANA'
 p978
-ag4
-aS'526847'
+aS'523716'
 p979
 aa(lp980
-S'Ashish Polyplast Ltd'
+S'Ashiana Ispat Ltd'
 p981
-ag4
-aS'530429'
+ag56
+aS'513401'
 p982
 aa(lp983
-S'Ashnoor Textile Mills Ltd'
+S'Ashim Investment Company Ltd'
 p984
-ag4
-aS'507872'
+ag56
+aS'532753'
 p985
 aa(lp986
-S'Ashok Alco Chem Ltd'
+S'Ashima Ltd'
 p987
-aS'ASHOKALCO'
+aS'ASHIMASYN'
 p988
-aS'524594'
+aS'514286'
 p989
 aa(lp990
-S'Ashok Leyland Ltd'
+S'Ashirwad Capital Ltd'
 p991
-aS'ASHOKLEY'
+ag56
+aS'512247'
 p992
-aS'500477'
-p993
-aa(lp994
-S'Ashoka Buildcon Ltd'
+aa(lp993
+S'Ashirwad Steels & Industries Ltd'
+p994
+ag56
+aS'526847'
 p995
-aS'ASHOKA'
-p996
-aS'533271'
+aa(lp996
+S'Ashish Polyplast Ltd'
 p997
-aa(lp998
-S'Ashoka Refineries Ltd'
-p999
-ag4
-aS'526983'
+ag56
+aS'530429'
+p998
+aa(lp999
+S'Ashnoor Textile Mills Ltd'
 p1000
-aa(lp1001
-S'Ashram Online.Com Ltd'
-p1002
-aS'TATIASKYLN'
+ag56
+aS'507872'
+p1001
+aa(lp1002
+S'Ashok Alco Chem Ltd'
 p1003
-aS'526187'
+aS'ASHOKALCO'
 p1004
-aa(lp1005
-S'Ashutosh Paper Mills Ltd'
-p1006
-ag4
-aS'531568'
+aS'524594'
+p1005
+aa(lp1006
+S'Ashok Leyland Ltd'
 p1007
-aa(lp1008
-S'Asia HR Technologies Ltd'
+aS'ASHOKLEY'
+p1008
+aS'500477'
 p1009
-ag4
-aS'532435'
-p1010
-aa(lp1011
-S'Asia Pack Ltd'
+aa(lp1010
+S'Ashoka Buildcon Ltd'
+p1011
+aS'ASHOKA'
 p1012
-ag4
-aS'530899'
+aS'533271'
 p1013
 aa(lp1014
-S'Asian CERC Information Technology Ltd'
+S'Ashoka Refineries Ltd'
 p1015
-ag4
-aS'530619'
+ag56
+aS'526983'
 p1016
 aa(lp1017
-S'Asian Electronics Ltd'
+S'Ashram Online.Com Ltd'
 p1018
-aS'ASIANELEC'
+aS'TATIASKYLN'
 p1019
-aS'503940'
+aS'526187'
 p1020
 aa(lp1021
-S'Asian Films Production & Distribution Ltd'
+S'Ashutosh Paper Mills Ltd'
 p1022
-ag4
-aS'532047'
+ag56
+aS'531568'
 p1023
 aa(lp1024
-S'Asian Flora Ltd'
+S'Asia HR Technologies Ltd'
 p1025
-ag4
-aS'531392'
+ag56
+aS'532435'
 p1026
 aa(lp1027
-S'Asian Granito India Ltd'
+S'Asia Pack Ltd'
 p1028
-aS'ASIANTILES'
+ag56
+aS'530899'
 p1029
-aS'532888'
-p1030
-aa(lp1031
-S'Asian Hotels (East) Ltd'
+aa(lp1030
+S'Asian CERC Information Technology Ltd'
+p1031
+ag56
+aS'530619'
 p1032
-aS'AHLEAST'
-p1033
-aS'533227'
+aa(lp1033
+S'Asian Electronics Ltd'
 p1034
-aa(lp1035
-S'Asian Hotels (West) Ltd'
+aS'ASIANELEC'
+p1035
+aS'503940'
 p1036
-aS'AHLWEST'
-p1037
-aS'533221'
+aa(lp1037
+S'Asian Films Production & Distribution Ltd'
 p1038
-aa(lp1039
-S'Asian Hotels Ltd'
-p1040
-aS'ASIANHOTNR'
+ag56
+aS'532047'
+p1039
+aa(lp1040
+S'Asian Flora Ltd'
 p1041
-aS'500023'
+ag56
+aS'531392'
 p1042
 aa(lp1043
-S'Asian Independent Network Ltd'
+S'Asian Granito India Ltd'
 p1044
-ag4
-aS'519485'
+aS'ASIANTILES'
 p1045
-aa(lp1046
-S'Asian Oilfield Services Ltd'
-p1047
-ag4
-aS'530355'
+aS'532888'
+p1046
+aa(lp1047
+S'Asian Hotels (East) Ltd'
 p1048
-aa(lp1049
-S'Asian Paints Ltd'
+aS'AHLEAST'
+p1049
+aS'533227'
 p1050
-aS'ASIANPAINT'
-p1051
-aS'500820'
+aa(lp1051
+S'Asian Hotels (West) Ltd'
 p1052
-aa(lp1053
-S'Asian Petroproducts & Exports Ltd'
+aS'AHLWEST'
+p1053
+aS'533221'
 p1054
-ag4
-aS'524434'
-p1055
-aa(lp1056
-S'Asian Star Company Ltd'
+aa(lp1055
+S'Asian Hotels Ltd'
+p1056
+aS'ASIANHOTNR'
 p1057
-ag4
-aS'531847'
+aS'500023'
 p1058
 aa(lp1059
-S'Asian Tea & Exports Ltd'
+S'Asian Independent Network Ltd'
 p1060
-ag4
-aS'519532'
+ag56
+aS'519485'
 p1061
 aa(lp1062
-S'Asianlak Capital & finance Ltd'
+S'Asian Oilfield Services Ltd'
 p1063
-ag4
-aS'531463'
+ag56
+aS'530355'
 p1064
 aa(lp1065
-S'Asit C Mehta Financial Services Ltd'
+S'Asian Paints Ltd'
 p1066
-ag4
-aS'530723'
+aS'ASIANPAINT'
 p1067
-aa(lp1068
-S'Ask Me Info Hubs Ltd'
-p1069
-ag4
-aS'506874'
+aS'500820'
+p1068
+aa(lp1069
+S'Asian Petroproducts & Exports Ltd'
 p1070
-aa(lp1071
-S'ASM Technologies Ltd'
-p1072
-ag4
-aS'526433'
+ag56
+aS'524434'
+p1071
+aa(lp1072
+S'Asian Star Company Ltd'
 p1073
-aa(lp1074
-S'Assam Company Ltd'
-p1075
-aS'ASSAMCO'
+ag56
+aS'531847'
+p1074
+aa(lp1075
+S'Asian Tea & Exports Ltd'
 p1076
-aS'500024'
+ag56
+aS'519532'
 p1077
 aa(lp1078
-S'Assambrook Ltd'
+S'Asianlak Capital & finance Ltd'
 p1079
-ag4
-aS'500025'
+ag56
+aS'531463'
 p1080
 aa(lp1081
-S'Associated Alcohols & Breweries Ltd'
+S'Asit C Mehta Financial Services Ltd'
 p1082
-aS'ASOCALCHOL'
+ag56
+aS'530723'
 p1083
-aS'507526'
-p1084
-aa(lp1085
-S'Associated Finlease Ltd'
+aa(lp1084
+S'Ask Me Info Hubs Ltd'
+p1085
+ag56
+aS'506874'
 p1086
-ag4
-aS'531192'
-p1087
-aa(lp1088
-S'Associated Stone Industries Kotah Ltd'
+aa(lp1087
+S'ASM Technologies Ltd'
+p1088
+ag56
+aS'526433'
 p1089
-aS'ASOCSTONE'
-p1090
-aS'502015'
+aa(lp1090
+S'Assam Company Ltd'
 p1091
-aa(lp1092
-S'Associated Textile Rubber Products Ltd'
+aS'ASSAMCO'
+p1092
+aS'500024'
 p1093
-ag4
-aS'531307'
-p1094
-aa(lp1095
-S'Astec Lifesciences Ltd'
+aa(lp1094
+S'Assambrook Ltd'
+p1095
+ag56
+aS'500025'
 p1096
-aS'ASTEC'
-p1097
-aS'533138'
+aa(lp1097
+S'Associated Alcohols & Breweries Ltd'
 p1098
-aa(lp1099
-S'Aster Silicates Ltd'
+aS'ASOCALCHOL'
+p1099
+aS'507526'
 p1100
-aS'ASTERSILI'
-p1101
-aS'533219'
+aa(lp1101
+S'Associated Finlease Ltd'
 p1102
-aa(lp1103
-S'Astra Microwave Products Ltd'
-p1104
-aS'ASTRAMICRO'
+ag56
+aS'531192'
+p1103
+aa(lp1104
+S'Associated Stone Industries Kotah Ltd'
 p1105
-aS'532493'
+aS'ASOCSTONE'
 p1106
-aa(lp1107
-S'Astral Poly Technik Ltd'
-p1108
-aS'ASTRAL'
+aS'502015'
+p1107
+aa(lp1108
+S'Associated Textile Rubber Products Ltd'
 p1109
-aS'532830'
+ag56
+aS'531307'
 p1110
 aa(lp1111
-S'AstraZeneca Pharma India Ltd'
+S'Astec Lifesciences Ltd'
 p1112
-aS'ASTRAZEN'
+aS'ASTEC'
 p1113
-aS'506820'
+aS'533138'
 p1114
 aa(lp1115
-S'Atharv Enterprises Ltd'
+S'Aster Silicates Ltd'
 p1116
-ag4
-aS'530187'
+aS'ASTERSILI'
 p1117
-aa(lp1118
-S'Atlanta Ltd'
-p1119
-aS'ATLANTA'
+aS'533219'
+p1118
+aa(lp1119
+S'Astra Microwave Products Ltd'
 p1120
-aS'532759'
+aS'ASTRAMICRO'
 p1121
-aa(lp1122
-S'Atlas Copco India Ltd'
-p1123
-aS'ATLASCOPCO'
+aS'532493'
+p1122
+aa(lp1123
+S'Astral Poly Technik Ltd'
 p1124
-aS'526991'
+aS'ASTRAL'
 p1125
-aa(lp1126
-S'Atlas Cycles (Haryana) Ltd'
-p1127
-aS'ATLASCYCLE'
+aS'532830'
+p1126
+aa(lp1127
+S'AstraZeneca Pharma India Ltd'
 p1128
-aS'505029'
+aS'ASTRAZEN'
 p1129
-aa(lp1130
-S'ATN International Ltd'
-p1131
-aS'ATNINTER'
+aS'506820'
+p1130
+aa(lp1131
+S'Atharv Enterprises Ltd'
 p1132
-aS'511427'
+ag56
+aS'530187'
 p1133
 aa(lp1134
-S'Atul Auto Ltd'
+S'Atlanta Ltd'
 p1135
-ag4
-aS'531795'
+aS'ATLANTA'
 p1136
-aa(lp1137
-S'Atul Ltd'
-p1138
-aS'ATUL'
+aS'532759'
+p1137
+aa(lp1138
+S'Atlas Copco India Ltd'
 p1139
-aS'500027'
+aS'ATLASCOPCO'
 p1140
-aa(lp1141
-S'ATV Projects India Ltd'
-p1142
-aS'ATVPROJ'
+aS'526991'
+p1141
+aa(lp1142
+S'Atlas Cycles (Haryana) Ltd'
 p1143
-aS'500028'
+aS'ATLASCYCLE'
 p1144
-aa(lp1145
-S'Aunde Faze Three Autofab Ltd'
-p1146
-ag4
-aS'532459'
+aS'505029'
+p1145
+aa(lp1146
+S'ATN International Ltd'
 p1147
-aa(lp1148
-S'Aurangabad Paper Mills Ltd'
+aS'ATNINTER'
+p1148
+aS'511427'
 p1149
-aS'AURANPAPER'
-p1150
-aS'502352'
+aa(lp1150
+S'Atul Auto Ltd'
 p1151
-aa(lp1152
-S'Aurionpro Solutions Ltd'
+aS'ATULAUTO'
+p1152
+aS'531795'
 p1153
-aS'AURIONPRO'
-p1154
-aS'532668'
+aa(lp1154
+S'Atul Ltd'
 p1155
-aa(lp1156
-S'Auro Laboratories Ltd'
+aS'ATUL'
+p1156
+aS'500027'
 p1157
-ag4
-aS'530233'
-p1158
-aa(lp1159
-S'Aurobindo Pharma Ltd'
+aa(lp1158
+S'ATV Projects India Ltd'
+p1159
+aS'ATVPROJ'
 p1160
-aS'AUROPHARMA'
+aS'500028'
 p1161
-aS'524804'
-p1162
-aa(lp1163
-S'Auroma Coke Ltd'
+aa(lp1162
+S'Aunde Faze Three Autofab Ltd'
+p1163
+ag56
+aS'532459'
 p1164
-ag4
-aS'531336'
-p1165
-aa(lp1166
-S'Ausom Enterprise Ltd'
+aa(lp1165
+S'Aurangabad Paper Mills Ltd'
+p1166
+ag56
+aS'502352'
 p1167
-aS'AUSOMENT'
-p1168
-aS'509009'
+aa(lp1168
+S'Aurionpro Solutions Ltd'
 p1169
-aa(lp1170
-S'Austin Engineering Company Ltd'
+aS'AURIONPRO'
+p1170
+aS'532668'
 p1171
-ag4
-aS'522005'
-p1172
-aa(lp1173
-S'Austral Coke & Projects Ltd'
+aa(lp1172
+S'Auro Laboratories Ltd'
+p1173
+ag56
+aS'530233'
 p1174
-aS'AUSTRAL'
-p1175
-aS'533016'
+aa(lp1175
+S'Aurobindo Pharma Ltd'
 p1176
-aa(lp1177
-S'Autoline Industries Ltd'
+aS'AUROPHARMA'
+p1177
+aS'524804'
 p1178
-aS'AUTOIND'
-p1179
-aS'532797'
+aa(lp1179
+S'Auroma Coke Ltd'
 p1180
-aa(lp1181
-S'Autolite India Ltd'
-p1182
-aS'AUTOLITIND'
+ag56
+aS'531336'
+p1181
+aa(lp1182
+S'Ausom Enterprise Ltd'
 p1183
-aS'500029'
+aS'AUSOMENT'
 p1184
-aa(lp1185
-S'Automobile Corporation of Goa Ltd'
-p1186
-aS'AUTOCORP'
+aS'509009'
+p1185
+aa(lp1186
+S'Austin Engineering Company Ltd'
 p1187
-aS'505036'
+ag56
+aS'522005'
 p1188
 aa(lp1189
-S'Automotive Axles Ltd'
+S'Austral Coke & Projects Ltd'
 p1190
-aS'AUTOAXLES'
+aS'AUSTRAL'
 p1191
-aS'505010'
+aS'533016'
 p1192
 aa(lp1193
-S'Automotive Stampings and Assemblies Ltd'
+S'Autoline Industries Ltd'
 p1194
-aS'ASAL'
+aS'AUTOIND'
 p1195
-aS'520119'
+aS'532797'
 p1196
 aa(lp1197
-S'Autoriders Finance Ltd'
+S'Autolite India Ltd'
 p1198
-aS'AUTORIDFIN'
+aS'AUTOLITIND'
 p1199
-aS'500030'
+aS'500029'
 p1200
 aa(lp1201
-S'AV Cottex Ltd'
+S'Automobile Corporation of Goa Ltd'
 p1202
-ag4
-aS'531190'
+aS'AUTOCORP'
 p1203
-aa(lp1204
-S'Available Finance Ltd'
-p1205
-ag4
-aS'531310'
+aS'505036'
+p1204
+aa(lp1205
+S'Automotive Axles Ltd'
 p1206
-aa(lp1207
-S'Avance Technologies Ltd'
+aS'AUTOAXLES'
+p1207
+aS'505010'
 p1208
-ag4
-aS'512149'
-p1209
-aa(lp1210
-S'Avantel Softech Ltd'
+aa(lp1209
+S'Automotive Stampings and Assemblies Ltd'
+p1210
+aS'ASAL'
 p1211
-ag4
-aS'532406'
+aS'520119'
 p1212
 aa(lp1213
-S'Avanti Feeds Ltd'
+S'Autoriders Finance Ltd'
 p1214
-aS'AVANTI'
+aS'AUTORIDFIN'
 p1215
-aS'512573'
+aS'500030'
 p1216
 aa(lp1217
-S'Aventis Pharma Ltd'
+S'AV Cottex Ltd'
 p1218
-aS'AVENTIS'
+ag56
+aS'531190'
 p1219
-aS'500674'
-p1220
-aa(lp1221
-S'Avery India Ltd'
+aa(lp1220
+S'Available Finance Ltd'
+p1221
+ag56
+aS'531310'
 p1222
-aS'AVERY'
-p1223
-aS'526556'
+aa(lp1223
+S'Avance Technologies Ltd'
 p1224
-aa(lp1225
-S'AVI Photochem Ltd'
-p1226
-ag4
-aS'523896'
+ag56
+aS'512149'
+p1225
+aa(lp1226
+S'Avantel Softech Ltd'
 p1227
-aa(lp1228
-S'Aviva Industries Ltd'
-p1229
-ag4
-aS'512109'
+ag56
+aS'532406'
+p1228
+aa(lp1229
+S'Avanti Feeds Ltd'
 p1230
-aa(lp1231
-S'Avon Organics Ltd'
+aS'AVANTIFEED'
+p1231
+aS'512573'
 p1232
-ag4
-aS'531541'
-p1233
-aa(lp1234
-S'Avon Weighing Systems Ltd'
+aa(lp1233
+S'Aventis Pharma Ltd'
+p1234
+aS'SANOFI'
 p1235
-ag4
-aS'532995'
+aS'500674'
 p1236
 aa(lp1237
-S'AVT Natural Products Ltd'
+S'Avery India Ltd'
 p1238
-aS'AVTNPL'
+aS'AVERY'
 p1239
-aS'519105'
+aS'526556'
 p1240
 aa(lp1241
-S'Axel Polymers Ltd'
+S'AVI Photochem Ltd'
 p1242
-ag4
-aS'513642'
+ag56
+aS'523896'
 p1243
 aa(lp1244
-S'AXIS Bank Ltd'
+S'Aviva Industries Ltd'
 p1245
-aS'AXISBANK'
+ag56
+aS'512109'
 p1246
-aS'532215'
-p1247
-aa(lp1248
-S'Axis Capital Markets India Ltd'
+aa(lp1247
+S'Avon Organics Ltd'
+p1248
+ag56
+aS'531541'
 p1249
-ag4
-aS'531278'
-p1250
-aa(lp1251
-S'Axis Gold ETF'
+aa(lp1250
+S'Avon Weighing Systems Ltd'
+p1251
+ag56
+aS'532995'
 p1252
-aS'AXISGOLD'
-p1253
-aS'533570'
+aa(lp1253
+S'AVT Natural Products Ltd'
 p1254
-aa(lp1255
-S'AXIS IT&T; Ltd'
+aS'AVTNPL'
+p1255
+aS'519105'
 p1256
-aS'AXIS-IT&T;'
-p1257
-aS'532395'
+aa(lp1257
+S'Axel Polymers Ltd'
 p1258
-aa(lp1259
-S'Axis Mutual Fund'
-p1260
-ag4
-aS'590119'
+ag56
+aS'513642'
+p1259
+aa(lp1260
+S'AXIS Bank Ltd'
 p1261
-aa(lp1262
-S'Axon Infotech Ltd'
+aS'AXISBANK'
+p1262
+aS'532215'
 p1263
-ag4
-aS'505506'
-p1264
-aa(lp1265
-S'Axtel Industries Ltd'
+aa(lp1264
+S'Axis Capital Markets India Ltd'
+p1265
+ag56
+aS'531278'
 p1266
-ag4
-aS'523850'
-p1267
-aa(lp1268
-S'Aztecsoft Ltd'
+aa(lp1267
+S'Axis Gold ETF'
+p1268
+aS'AXISGOLD'
 p1269
-aS'AZTECSOFT'
+aS'533570'
 p1270
-aS'532385'
-p1271
-aa(lp1272
-S'Rajdarshan Industries Ltd'
+aa(lp1271
+S'AXIS IT&T; Ltd'
+p1272
+aS'AXISCADES'
 p1273
-aS'ARENTERP'
+aS'532395'
 p1274
-aS'526662'
-p1275
-aa(lp1276
-S'Shirpur Gold Refinery Ltd'
+aa(lp1275
+S'Axis Mutual Fund'
+p1276
+ag56
+aS'590119'
 p1277
-aS'AGEEGOLD'
-p1278
-aS'512289'
+aa(lp1278
+S'Axon Infotech Ltd'
 p1279
-aa(lp1280
-S'SVC Superchem Ltd'
-p1281
-aS'ATVPETRO'
+ag56
+aS'505506'
+p1280
+aa(lp1281
+S'Axtel Industries Ltd'
 p1282
-aS'524488'
+ag56
+aS'523850'
 p1283
 aa(lp1284
-S'BUTTERFLY'
+S'Aztecsoft Ltd'
 p1285
-aS'BUTTERFLY'
+aS'AZTECSOFT'
 p1286
-ag4
-aa(lp1287
-S'BSLIMITED'
-p1288
-aS'BSLIMITED'
+aS'532385'
+p1287
+aa(lp1288
+S'Rajdarshan Industries Ltd'
 p1289
-ag4
-aa(lp1290
-S'BAFNAPHARM'
+aS'ARENTERP'
+p1290
+aS'526662'
 p1291
-aS'BAFNAPHARM'
-p1292
-ag4
-aa(lp1293
-S'Aditya Birla Money Ltd'
+aa(lp1292
+S'Shirpur Gold Refinery Ltd'
+p1293
+aS'SHIRPUR-G'
 p1294
-aS'BIRLAMONEY'
+aS'512289'
 p1295
-aS'532974'
-p1296
-aa(lp1297
-S'B & A Ltd'
+aa(lp1296
+S'SVC Superchem Ltd'
+p1297
+aS'ATVPETRO'
 p1298
-ag4
-aS'508136'
+aS'524488'
 p1299
 aa(lp1300
-S'B Nanji Enterprises Ltd'
+S'BUTTERFLY'
 p1301
-ag4
-aS'526594'
+aS'BUTTERFLY'
 p1302
-aa(lp1303
-S'B&A; Multiwall Packaging Ltd'
-p1304
-ag4
-aS'523186'
+aS'517421'
+p1303
+aa(lp1304
+S'BSLIMITED'
 p1305
-aa(lp1306
-S'B2B Software Technologies Ltd'
+aS'BSLIMITED'
+p1306
+aS'533276'
 p1307
-ag4
-aS'531268'
-p1308
-aa(lp1309
-S'Baba Arts Ltd'
+aa(lp1308
+S'BAFNAPHARM'
+p1309
+aS'BAFNAPHARM'
 p1310
-ag4
-aS'532380'
+aS'532989'
 p1311
 aa(lp1312
-S'Bacil Pharma Ltd'
+S'Aditya Birla Money Ltd'
 p1313
-ag4
-aS'524516'
+aS'BIRLAMONEY'
 p1314
-aa(lp1315
-S'Badal Exports & Consultant Ltd'
-p1316
-ag4
-aS'512169'
+aS'532974'
+p1315
+aa(lp1316
+S'B & A Ltd'
 p1317
-aa(lp1318
-S'Baffin Engineering Projects Ltd'
-p1319
-ag4
-aS'532161'
+ag56
+aS'508136'
+p1318
+aa(lp1319
+S'B Nanji Enterprises Ltd'
 p1320
-aa(lp1321
-S'Bafna Pharmaceuticals Ltd'
-p1322
-ag4
-aS'532989'
+ag56
+aS'526594'
+p1321
+aa(lp1322
+S'B&A; Multiwall Packaging Ltd'
 p1323
-aa(lp1324
-S'Bafna Spinning Mills & Exports Ltd'
-p1325
-ag4
-aS'531733'
+ag56
+aS'523186'
+p1324
+aa(lp1325
+S'B2B Software Technologies Ltd'
 p1326
-aa(lp1327
-S'BAG Films & Media Ltd'
-p1328
-aS'BAGFILMS'
+ag56
+aS'531268'
+p1327
+aa(lp1328
+S'Baba Arts Ltd'
 p1329
-aS'532507'
+ag56
+aS'532380'
 p1330
 aa(lp1331
-S'Bagadia Colourchem Ltd'
+S'Bacil Pharma Ltd'
 p1332
-ag4
-aS'530197'
+ag56
+aS'524516'
 p1333
 aa(lp1334
-S'Bagalkot Udyog Ltd'
+S'Badal Exports & Consultant Ltd'
 p1335
-ag4
-aS'502125'
+ag56
+aS'512169'
 p1336
 aa(lp1337
-S'Baid Leasing & Finance Company Ltd'
+S'Baffin Engineering Projects Ltd'
 p1338
-ag4
-aS'511724'
+ag56
+aS'532161'
 p1339
 aa(lp1340
-S'Bajaj Auto Ltd'
+S'Bafna Pharmaceuticals Ltd'
 p1341
-aS'BAJAJ-AUTO'
+aS'BAFNAPHARM'
 p1342
-aS'532977'
+aS'532989'
 p1343
 aa(lp1344
-S'Bajaj Corp Ltd'
+S'Bafna Spinning Mills & Exports Ltd'
 p1345
-aS'BAJAJCORP'
+ag56
+aS'531733'
 p1346
-aS'533229'
-p1347
-aa(lp1348
-S'Bajaj Electricals Ltd'
+aa(lp1347
+S'BAG Films & Media Ltd'
+p1348
+aS'BAGFILMS'
 p1349
-aS'BAJAJELEC'
+aS'532507'
 p1350
-aS'500031'
-p1351
-aa(lp1352
-S'Bajaj Finance Ltd'
+aa(lp1351
+S'Bagadia Colourchem Ltd'
+p1352
+ag56
+aS'530197'
 p1353
-aS'BAJFINANCE'
-p1354
-aS'500034'
+aa(lp1354
+S'Bagalkot Udyog Ltd'
 p1355
-aa(lp1356
-S'Bajaj Finserv Ltd'
-p1357
-aS'BAJAJFINSV'
+ag56
+aS'502125'
+p1356
+aa(lp1357
+S'Baid Leasing & Finance Company Ltd'
 p1358
-aS'532978'
+ag56
+aS'511724'
 p1359
 aa(lp1360
-S'Bajaj Hindusthan Ltd'
+S'Bajaj Auto Ltd'
 p1361
-aS'BAJAJHIND'
+aS'BAJAJ-AUTO'
 p1362
-aS'500032'
+aS'532977'
 p1363
 aa(lp1364
-S'Bajaj Hindusthan Sugar & Industries Ltd'
+S'Bajaj Corp Ltd'
 p1365
-ag4
-aS'507500'
+aS'BAJAJCORP'
 p1366
-aa(lp1367
-S'Bajaj Holdings & Investment Ltd'
-p1368
-aS'BAJAJHLDNG'
+aS'533229'
+p1367
+aa(lp1368
+S'Bajaj Electricals Ltd'
 p1369
-aS'500490'
+aS'BAJAJELEC'
 p1370
-aa(lp1371
-S'Bajaj Steel Industries Ltd'
-p1372
-ag4
-aS'507944'
+aS'500031'
+p1371
+aa(lp1372
+S'Bajaj Finance Ltd'
 p1373
-aa(lp1374
-S'Bajrang Finance Ltd'
+aS'BAJFINANCE'
+p1374
+aS'500034'
 p1375
-ag4
-aS'511139'
-p1376
-aa(lp1377
-S'Bal Pharma Ltd'
+aa(lp1376
+S'Bajaj Finserv Ltd'
+p1377
+aS'BAJAJFINSV'
 p1378
-aS'BALPHARMA'
+aS'532978'
 p1379
-aS'524824'
-p1380
-aa(lp1381
-S'Bala Techno Global Ltd'
+aa(lp1380
+S'Bajaj Hindusthan Ltd'
+p1381
+aS'BAJAJHIND'
 p1382
-ag4
-aS'511395'
+aS'500032'
 p1383
 aa(lp1384
-S'Bala Techno Industries Ltd'
+S'Bajaj Hindusthan Sugar & Industries Ltd'
 p1385
-ag4
-aS'514199'
+ag56
+aS'507500'
 p1386
 aa(lp1387
-S'Balaji Amines Ltd'
+S'Bajaj Holdings & Investment Ltd'
 p1388
-aS'BALAMINES'
+aS'BAJAJHLDNG'
 p1389
-aS'530999'
+aS'500490'
 p1390
 aa(lp1391
-S'Balaji Distilleries Ltd'
+S'Bajaj Steel Industries Ltd'
 p1392
-aS'BALAJIDIST'
+ag56
+aS'507944'
 p1393
-aS'500035'
-p1394
-aa(lp1395
-S'Balaji Telefilms Ltd'
+aa(lp1394
+S'Bajrang Finance Ltd'
+p1395
+ag56
+aS'511139'
 p1396
-aS'BALAJITELE'
-p1397
-aS'532382'
+aa(lp1397
+S'Bal Pharma Ltd'
 p1398
-aa(lp1399
-S'Balasore Alloys Ltd'
+aS'BALPHARMA'
+p1399
+aS'524824'
 p1400
-aS'ISPATALLOY'
-p1401
-aS'513142'
+aa(lp1401
+S'Bala Techno Global Ltd'
 p1402
-aa(lp1403
-S'Balkrishna Industries Ltd'
-p1404
-aS'BALKRISIND'
+ag56
+aS'511395'
+p1403
+aa(lp1404
+S'Bala Techno Industries Ltd'
 p1405
-aS'502355'
+ag56
+aS'514199'
 p1406
 aa(lp1407
-S'Ballarpur Industries Ltd'
+S'Balaji Amines Ltd'
 p1408
-aS'BALLARPUR'
+aS'BALAMINES'
 p1409
-aS'500102'
+aS'530999'
 p1410
 aa(lp1411
-S'Balmer Lawrie & Company Ltd'
+S'Balaji Distilleries Ltd'
 p1412
-aS'BALMLAWRIE'
+aS'BALAJIDIST'
 p1413
-aS'523319'
+aS'500035'
 p1414
 aa(lp1415
-S'Balmer Lawrie Investments Ltd'
+S'Balaji Telefilms Ltd'
 p1416
-ag4
-aS'532485'
+aS'BALAJITELE'
 p1417
-aa(lp1418
-S'Balrampur Chini Mills Ltd'
-p1419
-aS'BALRAMCHIN'
+aS'532382'
+p1418
+aa(lp1419
+S'Balasore Alloys Ltd'
 p1420
-aS'500038'
+aS'ISPATALLOY'
 p1421
-aa(lp1422
-S'Balurghat Technologies Ltd'
-p1423
-aS'BALURTRANS'
+aS'513142'
+p1422
+aa(lp1423
+S'Balkrishna Industries Ltd'
 p1424
-aS'520127'
+aS'BALKRISIND'
 p1425
-aa(lp1426
-S'Bambino Agro Industries Ltd'
-p1427
-ag4
-aS'519295'
+aS'502355'
+p1426
+aa(lp1427
+S'Ballarpur Industries Ltd'
 p1428
-aa(lp1429
-S'Bampsl Securities Ltd'
+aS'BALLARPUR'
+p1429
+aS'500102'
 p1430
-ag4
-aS'531591'
-p1431
-aa(lp1432
-S'Banaras Beads Ltd'
+aa(lp1431
+S'Balmer Lawrie & Company Ltd'
+p1432
+aS'BALMLAWRIE'
 p1433
-aS'BANARBEADS'
+aS'523319'
 p1434
-aS'526849'
-p1435
-aa(lp1436
-S'Banas Finance Ltd'
+aa(lp1435
+S'Balmer Lawrie Investments Ltd'
+p1436
+ag56
+aS'532485'
 p1437
-ag4
-aS'509053'
-p1438
-aa(lp1439
-S'Banco Products (India) Ltd'
+aa(lp1438
+S'Balrampur Chini Mills Ltd'
+p1439
+aS'BALRAMCHIN'
 p1440
-aS'BANCOINDIA'
+aS'500038'
 p1441
-aS'500039'
-p1442
-aa(lp1443
-S'Bang Overseas Ltd'
+aa(lp1442
+S'Balurghat Technologies Ltd'
+p1443
+aS'BALURTRANS'
 p1444
-aS'BANG'
+aS'520127'
 p1445
-aS'532946'
-p1446
-aa(lp1447
-S'Bank of Baroda'
+aa(lp1446
+S'Bambino Agro Industries Ltd'
+p1447
+ag56
+aS'519295'
 p1448
-aS'BANKBARODA'
-p1449
-aS'532134'
+aa(lp1449
+S'Bampsl Securities Ltd'
 p1450
-aa(lp1451
-S'Bank of India'
-p1452
-aS'BANKINDIA'
+ag56
+aS'531591'
+p1451
+aa(lp1452
+S'Banaras Beads Ltd'
 p1453
-aS'532149'
+aS'BANARBEADS'
 p1454
-aa(lp1455
-S'Bank of Maharashtra'
-p1456
-aS'MAHABANK'
+aS'526849'
+p1455
+aa(lp1456
+S'Banas Finance Ltd'
 p1457
-aS'532525'
+ag56
+aS'509053'
 p1458
 aa(lp1459
-S'Bank of Rajasthan Ltd'
+S'Banco Products (India) Ltd'
 p1460
-aS'BANKRAJAS'
+aS'BANCOINDIA'
 p1461
-aS'500019'
+aS'500039'
 p1462
 aa(lp1463
-S'Bannari Amman Spinning Mills Ltd'
+S'Bang Overseas Ltd'
 p1464
-aS'BASML'
+aS'BANG'
 p1465
-aS'532674'
+aS'532946'
 p1466
 aa(lp1467
-S'Bannari Amman Sugars Ltd'
+S'Bank of Baroda'
 p1468
-aS'BANARISUG'
+aS'BANKBARODA'
 p1469
-aS'500041'
+aS'532134'
 p1470
 aa(lp1471
-S'Banswara Syntex Ltd'
+S'Bank of India'
 p1472
-aS'BANSWRAS'
+aS'BANKINDIA'
 p1473
-aS'503722'
+aS'532149'
 p1474
 aa(lp1475
-S'Barak Valley Cements Ltd'
+S'Bank of Maharashtra'
 p1476
-aS'BVCL'
+aS'MAHABANK'
 p1477
-aS'532916'
+aS'532525'
 p1478
 aa(lp1479
-S'Baroda Extrusion Ltd'
+S'Bank of Rajasthan Ltd'
 p1480
-ag4
-aS'513502'
+aS'BANKRAJAS'
 p1481
-aa(lp1482
-S'Baron Infotech Ltd'
-p1483
-ag4
-aS'532336'
+aS'500019'
+p1482
+aa(lp1483
+S'Bannari Amman Spinning Mills Ltd'
 p1484
-aa(lp1485
-S'Bartronics India Ltd'
+aS'BASML'
+p1485
+aS'532674'
 p1486
-aS'BARTRONICS'
-p1487
-aS'532694'
+aa(lp1487
+S'Bannari Amman Sugars Ltd'
 p1488
-aa(lp1489
-S'Basant Agro Tech India Ltd'
+aS'BANARISUG'
+p1489
+aS'500041'
 p1490
-ag4
-aS'524687'
-p1491
-aa(lp1492
-S'BASF India Ltd'
+aa(lp1491
+S'Banswara Syntex Ltd'
+p1492
+aS'BANSWRAS'
 p1493
-aS'BASF'
+aS'503722'
 p1494
-aS'500042'
-p1495
-aa(lp1496
-S'Basil Infrastructure Projects Ltd'
+aa(lp1495
+S'Barak Valley Cements Ltd'
+p1496
+aS'BVCL'
 p1497
-ag4
-aS'511210'
+aS'532916'
 p1498
 aa(lp1499
-S'Bata India Ltd'
+S'Baroda Extrusion Ltd'
 p1500
-aS'BATAINDIA'
+ag56
+aS'513502'
 p1501
-aS'500043'
-p1502
-aa(lp1503
-S'Batliboi Ltd'
+aa(lp1502
+S'Baron Infotech Ltd'
+p1503
+ag56
+aS'532336'
 p1504
-aS'BATLIBOI'
-p1505
-aS'522004'
+aa(lp1505
+S'Bartronics India Ltd'
 p1506
-aa(lp1507
-S'Bayer CropScience Ltd'
+aS'BARTRONICS'
+p1507
+aS'532694'
 p1508
-aS'BAYERCROP'
-p1509
-aS'506285'
+aa(lp1509
+S'Basant Agro Tech India Ltd'
 p1510
-aa(lp1511
-S'BCC Finance Ltd'
-p1512
-ag4
-aS'531178'
+ag56
+aS'524687'
+p1511
+aa(lp1512
+S'BASF India Ltd'
 p1513
-aa(lp1514
-S'BCC Fuba India Ltd'
+aS'BASF'
+p1514
+aS'500042'
 p1515
-ag4
-aS'517246'
-p1516
-aa(lp1517
-S'BCL Forgings Ltd'
+aa(lp1516
+S'Basil Infrastructure Projects Ltd'
+p1517
+ag56
+aS'511210'
 p1518
-ag4
-aS'506093'
-p1519
-aa(lp1520
-S'BDH Industries Ltd'
+aa(lp1519
+S'Bata India Ltd'
+p1520
+aS'BATAINDIA'
 p1521
-aS'MBIND'
+aS'500043'
 p1522
-aS'524828'
-p1523
-aa(lp1524
-S'Beardsell Ltd'
+aa(lp1523
+S'Batliboi Ltd'
+p1524
+aS'BATLIBOI'
 p1525
-aS'BEARDSELL'
+aS'522004'
 p1526
-aS'530466'
-p1527
-aa(lp1528
-S'Beckons Industries Ltd'
+aa(lp1527
+S'Bayer CropScience Ltd'
+p1528
+aS'BAYERCROP'
 p1529
-ag4
-aS'531937'
+aS'506285'
 p1530
 aa(lp1531
-S'Bedmutha Industries Ltd'
+S'BCC Finance Ltd'
 p1532
-aS'BEDMUTHA'
+ag56
+aS'531178'
 p1533
-aS'533270'
-p1534
-aa(lp1535
-S'Beeyu Overseas Ltd'
+aa(lp1534
+S'BCC Fuba India Ltd'
+p1535
+ag56
+aS'517246'
 p1536
-ag4
-aS'532645'
-p1537
-aa(lp1538
-S'Belapur Industries Ltd'
+aa(lp1537
+S'BCL Forgings Ltd'
+p1538
+ag56
+aS'506093'
 p1539
-ag4
-aS'507050'
-p1540
-aa(lp1541
-S'Bell Agromachina Ltd'
+aa(lp1540
+S'BDH Industries Ltd'
+p1541
+ag56
+aS'524828'
 p1542
-ag4
-aS'531112'
-p1543
-aa(lp1544
-S'Bell Ceramics Ltd'
+aa(lp1543
+S'Beardsell Ltd'
+p1544
+aS'BEARDSELL'
 p1545
-aS'BELLCERATL'
-p1546
-aS'515035'
+ag56
+aa(lp1546
+S'Beckons Industries Ltd'
 p1547
-aa(lp1548
-S'Bellary Steels & Alloys Ltd'
-p1549
-aS'BELLARYSTL'
+ag56
+aS'531937'
+p1548
+aa(lp1549
+S'Bedmutha Industries Ltd'
 p1550
-aS'500045'
+aS'BEDMUTHA'
 p1551
-aa(lp1552
-S'Bemco Hydraulics Ltd'
-p1553
-ag4
-aS'522650'
+aS'533270'
+p1552
+aa(lp1553
+S'Beeyu Overseas Ltd'
 p1554
-aa(lp1555
-S'BEML Ltd'
-p1556
-aS'BEML'
+ag56
+aS'532645'
+p1555
+aa(lp1556
+S'Belapur Industries Ltd'
 p1557
-aS'500048'
+ag56
+aS'507050'
 p1558
 aa(lp1559
-S'Benares Hotels Ltd'
+S'Bell Agromachina Ltd'
 p1560
-ag4
-aS'509438'
+ag56
+aS'531112'
 p1561
 aa(lp1562
-S'Benchmark Asset Management Company Private Limited'
+S'Bell Ceramics Ltd'
 p1563
-aS'LIQUIDBEES'
+aS'BELLCERATL'
 p1564
-ag4
-aa(lp1565
-S'Benchmark Asset Management Company Pvt. Ltd.'
-p1566
-aS'BANKBEES'
+aS'515035'
+p1565
+aa(lp1566
+S'Bellary Steels & Alloys Ltd'
 p1567
-aS'590106'
+aS'BELLARYSTL'
 p1568
-aa(lp1569
-S'Benchmark GoldBees'
-p1570
-aS'GOLDBEES'
+aS'500045'
+p1569
+aa(lp1570
+S'Bemco Hydraulics Ltd'
 p1571
-aS'590095'
+ag56
+aS'522650'
 p1572
 aa(lp1573
-S'Benchmark Mutual Fund'
+S'BEML Ltd'
 p1574
-aS'NIFTYBEES'
+aS'BEML'
 p1575
-ag4
-aa(lp1576
-S'Benchmark Mutual Fund'
-p1577
-aS'BSCFAUG08A'
+aS'500048'
+p1576
+aa(lp1577
+S'Benares Hotels Ltd'
 p1578
-ag4
-aa(lp1579
-S'Benchmark Mutual Fund - Shariah Benchmark Exchange'
-p1580
-aS'SHARIABEES'
+ag56
+aS'509438'
+p1579
+aa(lp1580
+S'Benchmark Asset Management Company Private Limited'
 p1581
-ag4
-aa(lp1582
-S'Benchmark Mutual Fund-Nifty Junior Benchmark ETF'
+aS'LIQUIDBEES'
+p1582
+aS'590096'
 p1583
-aS'JUNIORBEES'
-p1584
-ag4
-aa(lp1585
-S'Bengal & Assam Company Ltd'
+aa(lp1584
+S'Benchmark Asset Management Company Pvt. Ltd.'
+p1585
+aS'BANKBEES'
 p1586
-ag4
-aS'533095'
+aS'590106'
 p1587
 aa(lp1588
-S'Bengal Tea & Fabrics Ltd'
+S'Benchmark GoldBees'
 p1589
-ag4
-aS'532230'
+aS'GOLDBEES'
 p1590
-aa(lp1591
-S'Benzo Petro International Ltd'
-p1592
-ag4
-aS'524737'
+aS'590095'
+p1591
+aa(lp1592
+S'Benchmark Mutual Fund'
 p1593
-aa(lp1594
-S'Berger Paints India Ltd'
+aS'NIFTYBEES'
+p1594
+aS'590103'
 p1595
-aS'BERGEPAINT'
-p1596
-aS'509480'
+aa(lp1596
+S'Benchmark Mutual Fund'
 p1597
-aa(lp1598
-S'Bervin Investment & Leasing Ltd'
-p1599
-ag4
-aS'531340'
+aS'BSCFAUG08A'
+p1598
+ag56
+aa(lp1599
+S'Benchmark Mutual Fund - Shariah Benchmark Exchange'
 p1600
-aa(lp1601
-S'Beryl Drugs Ltd'
+aS'SHARIABEES'
+p1601
+aS'590109'
 p1602
-ag4
-aS'524606'
-p1603
-aa(lp1604
-S'Beryl Securities Ltd'
+aa(lp1603
+S'Benchmark Mutual Fund-Nifty Junior Benchmark ETF'
+p1604
+aS'JUNIORBEES'
 p1605
-ag4
-aS'531582'
+aS'590104'
 p1606
 aa(lp1607
-S'Best & Crompton Engineering Ltd'
+S'Bengal & Assam Company Ltd'
 p1608
-aS'BECREL'
+ag56
+aS'533095'
 p1609
-aS'500046'
-p1610
-aa(lp1611
-S'Best Eastern Hotels Ltd'
+aa(lp1610
+S'Bengal Tea & Fabrics Ltd'
+p1611
+ag56
+aS'532230'
 p1612
-ag4
-aS'508664'
-p1613
-aa(lp1614
-S'Beta Kappa Investments Ltd'
+aa(lp1613
+S'Benzo Petro International Ltd'
+p1614
+ag56
+aS'524737'
 p1615
-ag4
-aS'531481'
-p1616
-aa(lp1617
-S'Betala Global Securities Ltd'
+aa(lp1616
+S'Berger Paints India Ltd'
+p1617
+aS'BERGEPAINT'
 p1618
-ag4
-aS'531530'
+aS'509480'
 p1619
 aa(lp1620
-S'Betex India Ltd'
+S'Bervin Investment & Leasing Ltd'
 p1621
-ag4
-aS'512477'
+ag56
+aS'531340'
 p1622
 aa(lp1623
-S'BF Investment'
+S'Beryl Drugs Ltd'
 p1624
-aS'BFINVEST'
+ag56
+aS'524606'
 p1625
-aS'533303'
-p1626
-aa(lp1627
-S'BF Utilities Ltd'
+aa(lp1626
+S'Beryl Securities Ltd'
+p1627
+ag56
+aS'531582'
 p1628
-aS'BFUTILITIE'
-p1629
-aS'532430'
+aa(lp1629
+S'Best & Crompton Engineering Ltd'
 p1630
-aa(lp1631
-S'BGIL Films & Technologies Ltd'
+aS'BECREL'
+p1631
+aS'500046'
 p1632
-ag4
-aS'511664'
-p1633
-aa(lp1634
-S'BGR Energy Systems Ltd'
+aa(lp1633
+S'Best Eastern Hotels Ltd'
+p1634
+ag56
+aS'508664'
 p1635
-aS'BGRENERGY'
-p1636
-aS'532930'
+aa(lp1636
+S'Beta Kappa Investments Ltd'
 p1637
-aa(lp1638
-S'Bhagawati Gases Ltd'
-p1639
-aS'BAGWATIGAS'
+ag56
+aS'531481'
+p1638
+aa(lp1639
+S'Betala Global Securities Ltd'
 p1640
-aS'500051'
+ag56
+aS'531530'
 p1641
 aa(lp1642
-S'Bhagawati Oxygen Ltd'
+S'Betex India Ltd'
 p1643
-ag4
-aS'509449'
+ag56
+aS'512477'
 p1644
 aa(lp1645
-S'Bhageria Dye Chem Ltd'
+S'BF Investment'
 p1646
-ag4
-aS'530803'
+aS'BFINVEST'
 p1647
-aa(lp1648
-S'Bhagiradha Chemicals & Industries Ltd'
-p1649
-ag4
-aS'531719'
+aS'533303'
+p1648
+aa(lp1649
+S'BF Utilities Ltd'
 p1650
-aa(lp1651
-S'Bhagwandas Metals Ltd'
+aS'BFUTILITIE'
+p1651
+aS'532430'
 p1652
-ag4
-aS'530095'
-p1653
-aa(lp1654
-S'Bhagwati Autocast Ltd'
+aa(lp1653
+S'BGIL Films & Technologies Ltd'
+p1654
+ag56
+aS'511664'
 p1655
-ag4
-aS'504646'
-p1656
-aa(lp1657
-S'Bhagwati Banquets & Hotels Ltd'
+aa(lp1656
+S'BGR Energy Systems Ltd'
+p1657
+aS'BGRENERGY'
 p1658
-aS'BHAGWATIHO'
+aS'532930'
 p1659
-aS'532845'
-p1660
-aa(lp1661
-S'Bhagyanagar India Ltd'
+aa(lp1660
+S'Bhagawati Gases Ltd'
+p1661
+aS'BAGWATIGAS'
 p1662
-aS'BHAGYNAGAR'
+aS'500051'
 p1663
-aS'512296'
-p1664
-aa(lp1665
-S'Bhagyanagar Wood Plast Ltd'
+aa(lp1664
+S'Bhagawati Oxygen Ltd'
+p1665
+ag56
+aS'509449'
 p1666
-ag4
-aS'514442'
-p1667
-aa(lp1668
-S'Bhagyashree Leasing & Finance Ltd'
+aa(lp1667
+S'Bhageria Dye Chem Ltd'
+p1668
+ag56
+aS'530803'
 p1669
-ag4
-aS'511698'
-p1670
-aa(lp1671
-S'Bhagyodaya Marketing Company Ltd'
+aa(lp1670
+S'Bhagiradha Chemicals & Industries Ltd'
+p1671
+ag56
+aS'531719'
 p1672
-ag4
-aS'501233'
-p1673
-aa(lp1674
-S'Bhandari Consultancy & Finance Ltd'
+aa(lp1673
+S'Bhagwandas Metals Ltd'
+p1674
+ag56
+aS'530095'
 p1675
-ag4
-aS'532029'
-p1676
-aa(lp1677
-S'Bhandari Hosiery Exports Ltd'
+aa(lp1676
+S'Bhagwati Autocast Ltd'
+p1677
+ag56
+aS'504646'
 p1678
-ag4
-aS'512608'
-p1679
-aa(lp1680
-S'Bhandari Udhyog Ltd'
+aa(lp1679
+S'Bhagwati Banquets & Hotels Ltd'
+p1680
+aS'TGBHOTELS'
 p1681
-ag4
-aS'530891'
+aS'532845'
 p1682
 aa(lp1683
-S'Bhansali Engineering Polymers Ltd'
+S'Bhagyanagar India Ltd'
 p1684
-aS'BEPL'
+aS'BHAGYNAGAR'
 p1685
-aS'500052'
+aS'512296'
 p1686
 aa(lp1687
-S'Bharat Bhushan Share & Commodity Brokers Ltd'
+S'Bhagyanagar Wood Plast Ltd'
 p1688
-ag4
-aS'511501'
+ag56
+aS'514442'
 p1689
 aa(lp1690
-S'Bharat Bijlee Ltd'
+S'Bhagyashree Leasing & Finance Ltd'
 p1691
-aS'BBL'
+ag56
+aS'511698'
 p1692
-aS'503960'
-p1693
-aa(lp1694
-S'Bharat Electronics Ltd'
+aa(lp1693
+S'Bhagyodaya Marketing Company Ltd'
+p1694
+ag56
+aS'501233'
 p1695
-aS'BEL'
-p1696
-aS'500049'
+aa(lp1696
+S'Bhandari Consultancy & Finance Ltd'
 p1697
-aa(lp1698
-S'Bharat Fertiliser Industries Ltd'
-p1699
-ag4
-aS'531862'
+ag56
+aS'532029'
+p1698
+aa(lp1699
+S'Bhandari Hosiery Exports Ltd'
 p1700
-aa(lp1701
-S'Bharat Forge Ltd'
-p1702
-aS'BHARATFORG'
+ag56
+aS'512608'
+p1701
+aa(lp1702
+S'Bhandari Udhyog Ltd'
 p1703
-aS'500493'
+ag56
+aS'530891'
 p1704
 aa(lp1705
-S'Bharat Gears Ltd'
+S'Bhansali Engineering Polymers Ltd'
 p1706
-aS'BHARATGEAR'
+aS'BEPL'
 p1707
-aS'505688'
+aS'500052'
 p1708
 aa(lp1709
-S'Bharat Heavy Electricals Ltd'
+S'Bharat Bhushan Share & Commodity Brokers Ltd'
 p1710
-aS'BHEL'
+ag56
+aS'511501'
 p1711
-aS'500103'
-p1712
-aa(lp1713
-S'Bharat Immunologicals & Biologicals Corporation Ltd'
+aa(lp1712
+S'Bharat Bijlee Ltd'
+p1713
+aS'BBL'
 p1714
-ag4
-aS'524663'
+aS'503960'
 p1715
 aa(lp1716
-S'Bharat Petroleum Corporation Ltd'
+S'Bharat Electronics Ltd'
 p1717
-aS'BPCL'
+aS'BEL'
 p1718
-aS'500547'
+aS'500049'
 p1719
 aa(lp1720
-S'Bharat Rasayan Ltd'
+S'Bharat Fertiliser Industries Ltd'
 p1721
-aS'BHARATRAS'
+ag56
+aS'531862'
 p1722
-aS'590021'
-p1723
-aa(lp1724
-S'Bharat Seats Ltd'
+aa(lp1723
+S'Bharat Forge Ltd'
+p1724
+aS'BHARATFORG'
 p1725
-ag4
-aS'523229'
+aS'500493'
 p1726
 aa(lp1727
-S'Bharat Textiles & Proofing Industries Ltd'
+S'Bharat Gears Ltd'
 p1728
-ag4
-aS'531029'
+aS'BHARATGEAR'
 p1729
-aa(lp1730
-S'Bharati Shipyard Ltd'
-p1731
-aS'BHARTISHIP'
+aS'505688'
+p1730
+aa(lp1731
+S'Bharat Heavy Electricals Ltd'
 p1732
-aS'532609'
+aS'BHEL'
 p1733
-aa(lp1734
-S'Bharatiya Global Infomedia ltd'
-p1735
-aS'BGLOBAL'
+aS'500103'
+p1734
+aa(lp1735
+S'Bharat Immunologicals & Biologicals Corporation Ltd'
 p1736
-aS'533499'
+ag56
+aS'524663'
 p1737
 aa(lp1738
-S'Bharti Airtel Ltd'
+S'Bharat Petroleum Corporation Ltd'
 p1739
-aS'BHARTIARTL'
+aS'BPCL'
 p1740
-aS'532454'
+aS'500547'
 p1741
 aa(lp1742
-S'Bhartiya International Ltd'
+S'Bharat Rasayan Ltd'
 p1743
-aS'BIL'
+aS'BHARATRAS'
 p1744
-aS'526666'
+aS'590021'
 p1745
 aa(lp1746
-S'Bhatinda Chemicals Ltd'
+S'Bharat Seats Ltd'
 p1747
-ag4
-aS'524332'
+ag56
+aS'523229'
 p1748
 aa(lp1749
-S'Bhilwara Spinners Ltd'
+S'Bharat Textiles & Proofing Industries Ltd'
 p1750
-ag4
-aS'514272'
+ag56
+aS'531029'
 p1751
 aa(lp1752
-S'Bhilwara Technical Textiles Ltd'
+S'Bharati Shipyard Ltd'
 p1753
-ag4
-aS'533108'
+aS'BHARTISHIP'
 p1754
-aa(lp1755
-S'Bhilwara Tex-Fin Ltd'
-p1756
-ag4
-aS'530879'
+aS'532609'
+p1755
+aa(lp1756
+S'Bharatiya Global Infomedia ltd'
 p1757
-aa(lp1758
-S'Bholanath International Ltd'
+aS'BGLOBAL'
+p1758
+aS'533499'
 p1759
-ag4
-aS'530841'
-p1760
-aa(lp1761
-S'Bhoruka Aluminium Ltd'
+aa(lp1760
+S'Bharti Airtel Ltd'
+p1761
+aS'BHARTIARTL'
 p1762
-ag4
-aS'506027'
+aS'532454'
 p1763
 aa(lp1764
-S'Bhoruka Steel & Services Ltd'
+S'Bhartiya International Ltd'
 p1765
-ag4
-aS'504997'
+aS'BIL'
 p1766
-aa(lp1767
-S'Bhuruka Gases Ltd'
-p1768
-ag4
-aS'509728'
+aS'526666'
+p1767
+aa(lp1768
+S'Bhatinda Chemicals Ltd'
 p1769
-aa(lp1770
-S'Bhushan Steel Ltd'
-p1771
-aS'BHUSANSTL'
+ag56
+aS'524332'
+p1770
+aa(lp1771
+S'Bhilwara Spinners Ltd'
 p1772
-aS'500055'
+ag56
+aS'514272'
 p1773
 aa(lp1774
-S'Bhuwalka Steel Industries Ltd'
+S'Bhilwara Technical Textiles Ltd'
 p1775
-aS'BUWALKASTL'
+ag56
+aS'533108'
 p1776
-aS'513333'
-p1777
-aa(lp1778
-S'Bihar Sponge Iron Ltd'
+aa(lp1777
+S'Bhilwara Tex-Fin Ltd'
+p1778
+ag56
+aS'530879'
 p1779
-aS'BIHARSPONG'
-p1780
-aS'500058'
+aa(lp1780
+S'Bholanath International Ltd'
 p1781
-aa(lp1782
-S'Bihar Tubes Ltd'
-p1783
-ag4
-aS'590059'
+ag56
+aS'530841'
+p1782
+aa(lp1783
+S'Bhoruka Aluminium Ltd'
 p1784
-aa(lp1785
-S'Bijoy Hans Ltd'
-p1786
-ag4
-aS'524723'
+ag56
+aS'506027'
+p1785
+aa(lp1786
+S'Bhoruka Steel & Services Ltd'
 p1787
-aa(lp1788
-S'Bil Energy Systems Limited'
-p1789
-aS'BILENERGY'
+ag56
+aS'504997'
+p1788
+aa(lp1789
+S'Bhuruka Gases Ltd'
 p1790
-aS'533321'
+ag56
+aS'509728'
 p1791
 aa(lp1792
-S'Bilcare Ltd'
+S'Bhushan Steel Ltd'
 p1793
-ag4
-aS'526853'
+aS'BHUSANSTL'
 p1794
-aa(lp1795
-S'Bilpower Ltd'
-p1796
-aS'BILPOWER'
+aS'500055'
+p1795
+aa(lp1796
+S'Bhuwalka Steel Industries Ltd'
 p1797
-aS'531590'
+aS'BUWALKASTL'
 p1798
-aa(lp1799
-S'Bimetal Bearings Ltd'
-p1800
-aS'BIMETAL'
+aS'513333'
+p1799
+aa(lp1800
+S'Bihar Sponge Iron Ltd'
 p1801
-aS'505681'
+aS'BIHARSPONG'
 p1802
-aa(lp1803
-S'Binani Cement Ltd'
-p1804
-aS'BINANICEM'
+aS'500058'
+p1803
+aa(lp1804
+S'Bihar Tubes Ltd'
 p1805
-aS'532849'
+ag56
+aS'590059'
 p1806
 aa(lp1807
-S'Binani Industries Ltd'
+S'Bijoy Hans Ltd'
 p1808
-aS'BINANIIND'
+ag56
+aS'524723'
 p1809
-aS'500059'
-p1810
-aa(lp1811
-S'Binayak Tex Processors Ltd'
+aa(lp1810
+S'Bil Energy Systems Limited'
+p1811
+aS'BILENERGY'
 p1812
-ag4
-aS'523054'
+aS'533321'
 p1813
 aa(lp1814
-S'Binny Ltd'
+S'Bilcare Ltd'
 p1815
-ag4
-aS'514215'
+ag56
+aS'526853'
 p1816
 aa(lp1817
-S'Bio Green Industries Ltd'
+S'Bilpower Ltd'
 p1818
-ag4
-aS'512253'
+aS'BILPOWER'
 p1819
-aa(lp1820
-S'Bio Whitegold Industries Ltd'
-p1821
-ag4
-aS'531250'
+aS'531590'
+p1820
+aa(lp1821
+S'Bimetal Bearings Ltd'
 p1822
-aa(lp1823
-S'Biocon Ltd'
+aS'BIMETAL'
+p1823
+aS'505681'
 p1824
-aS'BIOCON'
-p1825
-aS'532523'
+aa(lp1825
+S'Binani Cement Ltd'
 p1826
-aa(lp1827
-S'Biofil Chemicals & Pharmaceuticals Ltd'
+aS'BINANICEM'
+p1827
+aS'532849'
 p1828
-aS'BIOFILCHEM'
-p1829
-aS'524396'
+aa(lp1829
+S'Binani Industries Ltd'
 p1830
-aa(lp1831
-S'Biopac India Corporation Ltd'
+aS'BINANIIND'
+p1831
+aS'500059'
 p1832
-ag4
-aS'532330'
-p1833
-aa(lp1834
-S'Birla Capital & Financial Services Ltd'
+aa(lp1833
+S'Binayak Tex Processors Ltd'
+p1834
+ag56
+aS'523054'
 p1835
-ag4
-aS'512332'
-p1836
-aa(lp1837
-S'Birla Corporation Ltd'
+aa(lp1836
+S'Binny Ltd'
+p1837
+ag56
+aS'514215'
 p1838
-aS'BIRLACORPN'
-p1839
-aS'500335'
+aa(lp1839
+S'Bio Green Industries Ltd'
 p1840
-aa(lp1841
-S'Birla Cotsyn (India) Ltd'
-p1842
-aS'BIRLACOT'
+ag56
+aS'512253'
+p1841
+aa(lp1842
+S'Bio Whitegold Industries Ltd'
 p1843
-aS'533006'
+ag56
+aS'531250'
 p1844
 aa(lp1845
-S'Birla Ericsson Optical Ltd'
+S'Biocon Ltd'
 p1846
-aS'BIRLAERIC'
+aS'BIOCON'
 p1847
-aS'500060'
+aS'532523'
 p1848
 aa(lp1849
-S'BIRLA PACIFIC MEDSPA LTD'
+S'Biofil Chemicals & Pharmaceuticals Ltd'
 p1850
-ag4
-aS'533469'
+aS'BIOFILCHEM'
 p1851
-aa(lp1852
-S'Birla Power Solutions Ltd'
-p1853
-aS'BIRLAPOWER'
+aS'524396'
+p1852
+aa(lp1853
+S'Biopac India Corporation Ltd'
 p1854
-aS'517001'
+ag56
+aS'532330'
 p1855
 aa(lp1856
-S'Birla Precision Technologies Ltd'
+S'Birla Capital & Financial Services Ltd'
 p1857
-ag4
-aS'522105'
+ag56
+aS'512332'
 p1858
 aa(lp1859
-S'Birla Sun Life Gold ETF'
+S'Birla Corporation Ltd'
 p1860
-aS'BSLGOLDETF'
+aS'BIRLACORPN'
 p1861
-aS'533408'
+aS'500335'
 p1862
 aa(lp1863
-S'Birla Sun Life Mutual Fund - Birla Sun Life Nifty ETF - Growth'
+S'Birla Cotsyn (India) Ltd'
 p1864
-aS'BSLNIFTY'
+aS'BIRLACOT'
 p1865
-ag4
-aa(lp1866
-S'Birla Transasia Carpets Ltd'
-p1867
-ag4
-aS'503823'
+aS'533006'
+p1866
+aa(lp1867
+S'Birla Ericsson Optical Ltd'
 p1868
-aa(lp1869
-S'Bisleri Gujarat Ltd'
+aS'BIRLAERIC'
+p1869
+aS'500060'
 p1870
-ag4
-aS'531671'
-p1871
-aa(lp1872
-S'Bits Ltd'
+aa(lp1871
+S'BIRLA PACIFIC MEDSPA LTD'
+p1872
+ag56
+aS'533469'
 p1873
-ag4
-aS'526709'
-p1874
-aa(lp1875
-S'BK Duplex Board Ltd'
+aa(lp1874
+S'Birla Power Solutions Ltd'
+p1875
+aS'BIRLAPOWER'
 p1876
-ag4
-aS'516112'
+aS'517001'
 p1877
 aa(lp1878
-S'BKV Industries Ltd'
+S'Birla Precision Technologies Ltd'
 p1879
-ag4
-aS'519500'
+ag56
+aS'522105'
 p1880
 aa(lp1881
-S'BL Kashyap & Sons Ltd'
+S'Birla Sun Life Gold ETF'
 p1882
-aS'BLKASHYAP'
+aS'BSLGOLDETF'
 p1883
-aS'532719'
+aS'533408'
 p1884
 aa(lp1885
-S'Black Rose Industries Ltd'
+S'Birla Sun Life Mutual Fund - Birla Sun Life Nifty ETF - Growth'
 p1886
-ag4
-aS'514183'
+aS'BSLNIFTY'
 p1887
+ag56
 aa(lp1888
-S'BLB Ltd'
+S'Birla Transasia Carpets Ltd'
 p1889
-aS'BLBLIMITED'
+ag56
+aS'503823'
 p1890
-aS'532290'
-p1891
-aa(lp1892
-S'Bliss GVS Pharma Ltd'
+aa(lp1891
+S'Bisleri Gujarat Ltd'
+p1892
+ag56
+aS'531671'
 p1893
-aS'BLISSGVS'
-p1894
-aS'506197'
+aa(lp1894
+S'Bits Ltd'
 p1895
-aa(lp1896
-S'Bloom Dekor Ltd'
-p1897
-ag4
-aS'526225'
+ag56
+aS'526709'
+p1896
+aa(lp1897
+S'BK Duplex Board Ltd'
 p1898
-aa(lp1899
-S'Bloom Industries Ltd'
-p1900
-ag4
-aS'513422'
+ag56
+aS'516112'
+p1899
+aa(lp1900
+S'BKV Industries Ltd'
 p1901
-aa(lp1902
-S'Blue Bird India Ltd'
-p1903
-aS'BLUEBIRD'
+ag56
+aS'519500'
+p1902
+aa(lp1903
+S'BL Kashyap & Sons Ltd'
 p1904
-aS'532781'
+aS'BLKASHYAP'
 p1905
-aa(lp1906
-S'Blue Blends Finance Ltd'
-p1907
-ag4
-aS'511361'
+aS'532719'
+p1906
+aa(lp1907
+S'Black Rose Industries Ltd'
 p1908
-aa(lp1909
-S'Blue Blends India Ltd'
-p1910
-aS'BLUEBLENDS'
+ag56
+aS'514183'
+p1909
+aa(lp1910
+S'BLB Ltd'
 p1911
-aS'502761'
+aS'BLBLIMITED'
 p1912
-aa(lp1913
-S'Blue Chip India Ltd'
-p1914
-aS'BLUECHIP'
+aS'532290'
+p1913
+aa(lp1914
+S'Bliss GVS Pharma Ltd'
 p1915
-aS'531936'
+aS'BLISSGVS'
 p1916
-aa(lp1917
-S'Blue Circle Services Ltd'
-p1918
-ag4
-aS'508939'
+aS'506197'
+p1917
+aa(lp1918
+S'Bloom Dekor Ltd'
 p1919
-aa(lp1920
-S'Blue Coast Hotels & Resorts Ltd'
-p1921
-aS'BLUECOAST'
+ag56
+aS'526225'
+p1920
+aa(lp1921
+S'Bloom Industries Ltd'
 p1922
-aS'531495'
+ag56
+aS'513422'
 p1923
 aa(lp1924
-S'Blue Dart Express Ltd'
+S'Blue Bird India Ltd'
 p1925
-aS'BLUEDART'
+aS'BLUEBIRD'
 p1926
-aS'526612'
+aS'532781'
 p1927
 aa(lp1928
-S'Blue Star Infotech Ltd'
+S'Blue Blends Finance Ltd'
 p1929
-aS'BLUESTINFO'
+ag56
+aS'511361'
 p1930
-aS'532346'
-p1931
-aa(lp1932
-S'Blue Star Ltd'
+aa(lp1931
+S'Blue Blends India Ltd'
+p1932
+aS'BLUEBLENDS'
 p1933
-aS'BLUESTARCO'
+aS'502761'
 p1934
-aS'500067'
-p1935
-aa(lp1936
-S'Bluechip Stockspin Ltd'
+aa(lp1935
+S'Blue Chip India Ltd'
+p1936
+aS'BLUECHIP'
 p1937
-ag4
-aS'531713'
+aS'531936'
 p1938
 aa(lp1939
-S'Bluechip Tex Industries Ltd'
+S'Blue Circle Services Ltd'
 p1940
-ag4
-aS'506981'
+ag56
+aS'508939'
 p1941
 aa(lp1942
-S'BMB Music & Magnetics Ltd'
+S'Blue Coast Hotels & Resorts Ltd'
 p1943
-ag4
-aS'531420'
+aS'BLUECOAST'
 p1944
-aa(lp1945
-S'BN Rathi Securities Ltd'
-p1946
-ag4
-aS'523019'
+aS'531495'
+p1945
+aa(lp1946
+S'Blue Dart Express Ltd'
 p1947
-aa(lp1948
-S'BNK Capital Markets Ltd'
+aS'BLUEDART'
+p1948
+aS'526612'
 p1949
-ag4
-aS'500069'
-p1950
-aa(lp1951
-S'BNR Udyog Ltd'
+aa(lp1950
+S'Blue Star Infotech Ltd'
+p1951
+aS'BLUESTINFO'
 p1952
-ag4
-aS'530809'
+aS'532346'
 p1953
 aa(lp1954
-S'BOC India Ltd'
+S'Blue Star Ltd'
 p1955
-aS'BOC'
+aS'BLUESTARCO'
 p1956
-aS'523457'
+aS'500067'
 p1957
 aa(lp1958
-S'Bodal Chemicals Ltd'
+S'Bluechip Stockspin Ltd'
 p1959
-aS'BODALCHEM'
+ag56
+aS'531713'
 p1960
-aS'524370'
-p1961
-aa(lp1962
-S'Bodhtree Consulting Ltd'
+aa(lp1961
+S'Bluechip Tex Industries Ltd'
+p1962
+ag56
+aS'506981'
 p1963
-aS'BODHTREE'
-p1964
-aS'514204'
+aa(lp1964
+S'BMB Music & Magnetics Ltd'
 p1965
-aa(lp1966
-S'Bombay Burmah Trading Corporation Ltd'
-p1967
-aS'BBTC'
+ag56
+aS'531420'
+p1966
+aa(lp1967
+S'BN Rathi Securities Ltd'
 p1968
-aS'501425'
+ag56
+aS'523019'
 p1969
 aa(lp1970
-S'Bombay Cycle & Motor Agency Ltd'
+S'BNK Capital Markets Ltd'
 p1971
-ag4
-aS'501430'
+ag56
+aS'500069'
 p1972
 aa(lp1973
-S'Bombay Dyeing & Manufacturing Company Ltd'
+S'BNR Udyog Ltd'
 p1974
-aS'BOMDYEING'
+ag56
+aS'530809'
 p1975
-aS'500020'
-p1976
-aa(lp1977
-S'Bombay Oxygen Corporation Ltd'
+aa(lp1976
+S'BOC India Ltd'
+p1977
+aS'LINDEINDIA'
 p1978
-ag4
-aS'509470'
+aS'523457'
 p1979
 aa(lp1980
-S'Bombay Paints Ltd'
+S'Bodal Chemicals Ltd'
 p1981
-ag4
-aS'509475'
+aS'BODALCHEM'
 p1982
-aa(lp1983
-S'Bombay Polymers Ltd'
-p1984
-ag4
-aS'506313'
+aS'524370'
+p1983
+aa(lp1984
+S'Bodhtree Consulting Ltd'
 p1985
-aa(lp1986
-S'Bombay Potteries & Tiles Ltd'
+aS'BODHTREE'
+p1986
+aS'539122'
 p1987
-ag4
-aS'502216'
-p1988
-aa(lp1989
-S'Bombay Rayon Fashions Ltd'
+aa(lp1988
+S'Bombay Burmah Trading Corporation Ltd'
+p1989
+aS'BBTC'
 p1990
-aS'BRFL'
+aS'501425'
 p1991
-aS'532678'
-p1992
-aa(lp1993
-S'Bombay Swadeshi Stores Ltd'
+aa(lp1992
+S'Bombay Cycle & Motor Agency Ltd'
+p1993
+ag56
+aS'501430'
 p1994
-ag4
-aS'531276'
-p1995
-aa(lp1996
-S'Bonanza Industries Ltd'
+aa(lp1995
+S'Bombay Dyeing & Manufacturing Company Ltd'
+p1996
+aS'BOMDYEING'
 p1997
-ag4
-aS'523133'
+aS'500020'
 p1998
 aa(lp1999
-S'Bongaigaon Refinery & Petrochemicals Ltd'
+S'Bombay Oxygen Corporation Ltd'
 p2000
-aS'BONGAIREFN'
+ag56
+aS'509470'
 p2001
-aS'500072'
-p2002
-aa(lp2003
-S'Borax Morarji Ltd'
+aa(lp2002
+S'Bombay Paints Ltd'
+p2003
+ag56
+aS'509475'
 p2004
-ag4
-aS'506315'
-p2005
-aa(lp2006
-S'Borosil Glass Works Ltd'
+aa(lp2005
+S'Bombay Polymers Ltd'
+p2006
+ag56
+aS'506313'
 p2007
-aS'BOROGLASS'
-p2008
-aS'502219'
+aa(lp2008
+S'Bombay Potteries & Tiles Ltd'
 p2009
-aa(lp2010
-S'Bosch Ltd'
-p2011
-aS'BOSCHLTD'
+ag56
+aS'502216'
+p2010
+aa(lp2011
+S'Bombay Rayon Fashions Ltd'
 p2012
-aS'500530'
+aS'BRFL'
 p2013
-aa(lp2014
-S'BOSS Securities Ltd'
-p2015
-ag4
-aS'531537'
+aS'532678'
+p2014
+aa(lp2015
+S'Bombay Swadeshi Stores Ltd'
 p2016
-aa(lp2017
-S'BPL Engineering Ltd'
-p2018
-aS'BPLENGG'
+ag56
+aS'531276'
+p2017
+aa(lp2018
+S'Bonanza Industries Ltd'
 p2019
-aS'500073'
+ag56
+aS'523133'
 p2020
 aa(lp2021
-S'BPL Ltd'
+S'Bongaigaon Refinery & Petrochemicals Ltd'
 p2022
-aS'BPL'
+aS'BONGAIREFN'
 p2023
-aS'500074'
+aS'500072'
 p2024
 aa(lp2025
-S'Brabourne Enterprises Ltd'
+S'Borax Morarji Ltd'
 p2026
-aS'BRABOURNE'
+ag56
+aS'506315'
 p2027
-aS'500384'
-p2028
-aa(lp2029
-S'Brady & Morris Engineering Company Ltd'
+aa(lp2028
+S'Borosil Glass Works Ltd'
+p2029
+aS'BOROGLASS'
 p2030
-ag4
-aS'505690'
+aS'502219'
 p2031
 aa(lp2032
-S'Brahmanand Himghar Ltd'
+S'Bosch Ltd'
 p2033
-ag4
-aS'590081'
+aS'BOSCHLTD'
 p2034
-aa(lp2035
-S'Brakes Auto India Ltd'
-p2036
-ag4
-aS'520115'
+aS'500530'
+p2035
+aa(lp2036
+S'BOSS Securities Ltd'
 p2037
-aa(lp2038
-S'Brandhouse Retails Ltd'
-p2039
-aS'BRANDHOUSE'
+ag56
+aS'531537'
+p2038
+aa(lp2039
+S'BPL Engineering Ltd'
 p2040
-aS'533059'
+aS'BPLENGG'
 p2041
-aa(lp2042
-S'Brawn Pharmaceuticals Ltd'
-p2043
-ag4
-aS'530207'
+aS'500073'
+p2042
+aa(lp2043
+S'BPL Ltd'
 p2044
-aa(lp2045
-S'Brels Infotech Ltd'
+aS'BPL'
+p2045
+aS'500074'
 p2046
-ag4
-aS'531175'
-p2047
-aa(lp2048
-S'Brescon Corporate Advisors Ltd'
+aa(lp2047
+S'Brabourne Enterprises Ltd'
+p2048
+aS'BRABOURNE'
 p2049
-ag4
-aS'511628'
+aS'500384'
 p2050
 aa(lp2051
-S'Bridge Securities Ltd'
+S'Brady & Morris Engineering Company Ltd'
 p2052
-ag4
-aS'530249'
+ag56
+aS'505690'
 p2053
 aa(lp2054
-S'Brigade Enterprises Ltd'
+S'Brahmanand Himghar Ltd'
 p2055
-aS'BRIGADE'
+ag56
+aS'590081'
 p2056
-aS'532929'
-p2057
-aa(lp2058
-S'Bright Brothers Ltd'
+aa(lp2057
+S'Brakes Auto India Ltd'
+p2058
+ag56
+aS'520115'
 p2059
-aS'BRIGHTBROS'
-p2060
-aS'526731'
+aa(lp2060
+S'Brandhouse Retails Ltd'
 p2061
-aa(lp2062
-S'Brijlaxmi Leasing & Finance Ltd'
+aS'BRANDHOUSE'
+p2062
+aS'533059'
 p2063
-ag4
-aS'532113'
-p2064
-aa(lp2065
-S'Brilliant Securities Ltd'
+aa(lp2064
+S'Brawn Pharmaceuticals Ltd'
+p2065
+ag56
+aS'530207'
 p2066
-ag4
-aS'531723'
-p2067
-aa(lp2068
-S'Brindaban Holdings & Trading Ltd'
+aa(lp2067
+S'Brels Infotech Ltd'
+p2068
+ag56
+aS'531175'
 p2069
-ag4
-aS'506164'
-p2070
-aa(lp2071
-S'Britannia Industries Ltd'
+aa(lp2070
+S'Brescon Corporate Advisors Ltd'
+p2071
+ag56
+aS'511628'
 p2072
-aS'BRITANNIA'
-p2073
-aS'500825'
+aa(lp2073
+S'Bridge Securities Ltd'
 p2074
-aa(lp2075
-S'Broadcast Initiatives Ltd'
-p2076
-aS'BROADCAST'
+ag56
+aS'530249'
+p2075
+aa(lp2076
+S'Brigade Enterprises Ltd'
 p2077
-aS'532816'
+aS'BRIGADE'
 p2078
-aa(lp2079
-S'Brooks Laboratories Limited'
-p2080
-aS'BROOKS'
+aS'532929'
+p2079
+aa(lp2080
+S'Bright Brothers Ltd'
 p2081
-aS'533543'
+aS'BRIGHTBROS'
 p2082
-aa(lp2083
-S'Brushman India Ltd'
-p2084
-ag4
-aS'590061'
+aS'526731'
+p2083
+aa(lp2084
+S'Brijlaxmi Leasing & Finance Ltd'
 p2085
-aa(lp2086
-S'BS Transcomm Ltd'
-p2087
-aS'BSTRANSCOM'
+ag56
+aS'532113'
+p2086
+aa(lp2087
+S'Brilliant Securities Ltd'
 p2088
-aS'533276'
+ag56
+aS'531723'
 p2089
 aa(lp2090
-S'BSE'
+S'Brindaban Holdings & Trading Ltd'
 p2091
-aS'^BSESN'
+ag56
+aS'506164'
 p2092
-ag4
 aa(lp2093
-S'BSEL Infrastructure Realty Ltd'
+S'Britannia Industries Ltd'
 p2094
-aS'BSELINFRA'
+aS'BRITANNIA'
 p2095
-aS'532123'
+aS'500825'
 p2096
 aa(lp2097
-S'BSL Ltd'
+S'Broadcast Initiatives Ltd'
 p2098
-aS'BSL'
+aS'BROADCAST'
 p2099
-aS'514045'
+aS'532816'
 p2100
 aa(lp2101
-S'Bubna Stock Broking Services Ltd'
+S'Brooks Laboratories Limited'
 p2102
-ag4
-aS'530763'
+aS'BROOKS'
 p2103
-aa(lp2104
-S'Burnpur Cement Ltd'
-p2105
-aS'BURNPUR'
+aS'533543'
+p2104
+aa(lp2105
+S'Brushman India Ltd'
 p2106
-aS'532931'
+ag56
+aS'590061'
 p2107
 aa(lp2108
-S'BWL Ltd'
+S'BS Transcomm Ltd'
 p2109
-ag4
-aS'504643'
+aS'BSLIMITED'
 p2110
-aa(lp2111
-S'Force Motors Ltd'
-p2112
-aS'BAJAJTEMPO'
+aS'533276'
+p2111
+aa(lp2112
+S'BSE'
 p2113
-aS'500033'
+aS'^BSESN'
 p2114
+ag56
 aa(lp2115
-S'Oswal Chemicals & Fertilizers Ltd'
+S'BSEL Infrastructure Realty Ltd'
 p2116
-aS'BINDALAGRO'
+aS'BSELINFRA'
 p2117
-aS'500063'
+aS'532123'
 p2118
 aa(lp2119
-S'CCHHL'
+S'BSL Ltd'
 p2120
-aS'CCHHL'
+aS'BSL'
 p2121
-ag4
-aa(lp2122
-S'CYIENT'
-p2123
-aS'CYIENT'
+aS'514045'
+p2122
+aa(lp2123
+S'Bubna Stock Broking Services Ltd'
 p2124
-ag4
-aa(lp2125
-S'CGCL'
-p2126
-aS'CGCL'
+ag56
+aS'530763'
+p2125
+aa(lp2126
+S'Burnpur Cement Ltd'
 p2127
-ag4
-aa(lp2128
-S'CEREBRAINT'
+aS'BURNPUR'
+p2128
+aS'532931'
 p2129
-aS'CEREBRAINT'
-p2130
-ag4
-aa(lp2131
-S'CARERATING'
+aa(lp2130
+S'BWL Ltd'
+p2131
+ag56
+aS'504643'
 p2132
-aS'CARERATING'
-p2133
-ag4
-aa(lp2134
-S'CAPF'
+aa(lp2133
+S'Force Motors Ltd'
+p2134
+aS'BAJAJTEMPO'
 p2135
-aS'CAPF'
+aS'500033'
 p2136
-ag4
 aa(lp2137
-S'COUNCODOS'
+S'Oswal Chemicals & Fertilizers Ltd'
 p2138
-aS'COUNCODOS'
+aS'BINDALAGRO'
 p2139
-ag4
-aa(lp2140
-S'CINEPRO'
-p2141
-aS'CINEPRO'
+aS'500063'
+p2140
+aa(lp2141
+S'CCHHL'
 p2142
-ag4
-aa(lp2143
-S'CHROMATIC'
+aS'CCHHL'
+p2143
+aS'526550'
 p2144
-aS'CHROMATIC'
-p2145
-ag4
-aa(lp2146
-S'CRMFGETF'
+aa(lp2145
+S'CYIENT'
+p2146
+aS'CYIENT'
 p2147
-aS'CRMFGETF'
+aS'532175'
 p2148
-ag4
 aa(lp2149
-S'COMPUSOFT'
+S'CGCL'
 p2150
-aS'COMPUSOFT'
+aS'CGCL'
 p2151
-ag4
-aa(lp2152
-S'CAREERP'
-p2153
-aS'CAREERP'
+aS'531595'
+p2152
+aa(lp2153
+S'CEREBRAINT'
 p2154
-ag4
-aa(lp2155
-S'CAPLIPOINT'
+aS'CEREBRAINT'
+p2155
+aS'532413'
 p2156
-aS'CAPLIPOINT'
-p2157
-ag4
-aa(lp2158
-S'CIGNITITEC'
+aa(lp2157
+S'CARERATING'
+p2158
+aS'CARERATING'
 p2159
-aS'CIGNITITEC'
+aS'534804'
 p2160
-ag4
 aa(lp2161
-S'CAMLINFINE'
+S'CAPF'
 p2162
-aS'CAMLINFINE'
+aS'CAPF'
 p2163
-ag4
-aa(lp2164
-S'CASTROLIND'
-p2165
-aS'CASTROLIND'
+aS'532938'
+p2164
+aa(lp2165
+S'COUNCODOS'
 p2166
-ag4
-aa(lp2167
-S'CNOVAPETRO'
+aS'COUNCODOS'
+p2167
+aS'531624'
 p2168
-aS'CNOVAPETRO'
-p2169
-ag4
-aa(lp2170
-S'CINELINE'
+aa(lp2169
+S'CINEPRO'
+p2170
+aS'CINEPRO'
 p2171
-aS'CINELINE'
-p2172
-ag4
-aa(lp2173
-S'CPSEETF'
+ag56
+aa(lp2172
+S'CHROMATIC'
+p2173
+aS'CHROMATIC'
 p2174
-aS'CPSEETF'
+aS'530191'
 p2175
-ag4
 aa(lp2176
-S'CREST'
+S'CRMFGETF'
 p2177
-aS'CREST'
+aS'CRMFGETF'
 p2178
-ag4
-aa(lp2179
-S'CINEMAXIN'
-p2180
-aS'CINEMAXIN'
+aS'534631'
+p2179
+aa(lp2180
+S'COMPUSOFT'
 p2181
-ag4
-aa(lp2182
-S'Amit Alcohol & Carbon Dioxide Ltd (Merged)'
+aS'COMPUSOFT'
+p2182
+aS'532339'
 p2183
-aS'CLUTCHAUTO'
-p2184
-aS'506904'
+aa(lp2184
+S'CAREERP'
 p2185
-aa(lp2186
-S'C & C Constructions Ltd'
+aS'CAREERP'
+p2186
+aS'533260'
 p2187
-aS'CANDC '
-p2188
-aS'532813'
+aa(lp2188
+S'CAPLIPOINT'
 p2189
-aa(lp2190
-S'C.Mahendra Exports Limited'
+aS'CAPLIPOINT'
+p2190
+aS'524742'
 p2191
-aS'CMAHENDRA'
-p2192
-aS'533304'
+aa(lp2192
+S'CIGNITITEC'
 p2193
-aa(lp2194
-S'Cable Corporation of India Ltd'
+aS'CIGNITITEC'
+p2194
+aS'534758'
 p2195
-aS'CCI'
-p2196
-aS'500077'
+aa(lp2196
+S'CAMLINFINE'
 p2197
-aa(lp2198
-S'Cachar Metals Ltd'
+aS'CAMLINFINE'
+p2198
+aS'532834'
 p2199
-ag4
-aS'513305'
-p2200
-aa(lp2201
-S'Cadila Healthcare Ltd'
+aa(lp2200
+S'CASTROLIND'
+p2201
+aS'CASTROLIND'
 p2202
-aS'CADILAHC'
+aS'500870'
 p2203
-aS'532321'
-p2204
-aa(lp2205
-S'Cairn India Ltd'
+aa(lp2204
+S'CNOVAPETRO'
+p2205
+aS'CNOVAPETRO'
 p2206
-aS'CAIRN'
+aS'533407'
 p2207
-aS'532792'
-p2208
-aa(lp2209
-S'Calcom Vision Ltd'
+aa(lp2208
+S'CINELINE'
+p2209
+aS'CINELINE'
 p2210
-ag4
-aS'517236'
+aS'532807'
 p2211
 aa(lp2212
-S'California Software Company Ltd'
+S'CPSEETF'
 p2213
-aS'CALSOFT'
+aS'CPSEETF'
 p2214
-aS'532386'
+aS'538057'
 p2215
 aa(lp2216
-S'Cals Refineries Ltd'
+S'CREST'
 p2217
-ag4
-aS'526652'
+aS'CREST'
 p2218
-aa(lp2219
-S'Cambridge Solutions Ltd'
-p2220
-aS'CAMBRIDGE'
+aS'511413'
+p2219
+aa(lp2220
+S'CINEMAXIN'
 p2221
-aS'532616'
+aS'CINEMAXIN'
 p2222
-aa(lp2223
-S'Cambridge Technology Enterprises Ltd'
-p2224
-aS'CTE '
+aS'534711'
+p2223
+aa(lp2224
+S'Amit Alcohol & Carbon Dioxide Ltd (Merged)'
 p2225
-aS'532801'
+aS'CLUTCHAUTO'
 p2226
-aa(lp2227
-S'Camex Ltd'
-p2228
-ag4
-aS'524440'
+aS'505052'
+p2227
+aa(lp2228
+S'C & C Constructions Ltd'
 p2229
-aa(lp2230
-S'Camlin Fine Chemicals Ltd'
+aS'CANDC'
+p2230
+aS'532813'
 p2231
-ag4
-aS'532834'
-p2232
-aa(lp2233
-S'Camlin Ltd'
+aa(lp2232
+S'C.Mahendra Exports Limited'
+p2233
+aS'CMAHENDRA'
 p2234
-aS'CAMLIN'
+aS'533304'
 p2235
-aS'523207'
-p2236
-aa(lp2237
-S'Camphor & Allied Products Ltd'
+aa(lp2236
+S'Cable Corporation of India Ltd'
+p2237
+aS'CCI'
 p2238
-aS'CAMPALLIED'
+aS'500077'
 p2239
-aS'500078'
-p2240
-aa(lp2241
-S'Camson Bio Technologies Ltd'
+aa(lp2240
+S'Cachar Metals Ltd'
+p2241
+ag56
+aS'513305'
 p2242
-ag4
-aS'590076'
-p2243
-aa(lp2244
-S'Can Fin Homes Ltd'
+aa(lp2243
+S'Cadila Healthcare Ltd'
+p2244
+aS'CADILAHC'
 p2245
-aS'CANFINHOME'
+aS'532321'
 p2246
-aS'511196'
-p2247
-aa(lp2248
-S'Canaan International Infotech Ltd'
+aa(lp2247
+S'Cairn India Ltd'
+p2248
+aS'CAIRN'
 p2249
-ag4
-aS'511367'
+aS'532792'
 p2250
 aa(lp2251
-S'Canara Bank'
+S'Calcom Vision Ltd'
 p2252
-aS'CANBK'
+ag56
+aS'517236'
 p2253
-aS'532483'
-p2254
-aa(lp2255
-S'Cantabil Retail India Ltd'
+aa(lp2254
+S'California Software Company Ltd'
+p2255
+aS'CALSOFT'
 p2256
-aS'CANTABIL'
+aS'532386'
 p2257
-aS'533267'
-p2258
-aa(lp2259
-S'Capital Trust Ltd'
+aa(lp2258
+S'Cals Refineries Ltd'
+p2259
+ag56
+aS'526652'
 p2260
-ag4
-aS'511505'
-p2261
-aa(lp2262
-S'Caplin Point Laboratories Ltd'
+aa(lp2261
+S'Cambridge Solutions Ltd'
+p2262
+aS'XCHANGING'
 p2263
-ag4
-aS'524742'
+aS'532616'
 p2264
 aa(lp2265
-S'Capman Financials Ltd'
+S'Cambridge Technology Enterprises Ltd'
 p2266
-ag4
-aS'511720'
+aS'CTE'
 p2267
-aa(lp2268
-S'Caprihans India Ltd'
-p2269
-aS'CAPRIHANS'
+aS'532801'
+p2268
+aa(lp2269
+S'Camex Ltd'
 p2270
-aS'509486'
+ag56
+aS'524440'
 p2271
 aa(lp2272
-S'Caprolactam Chemicals Ltd'
+S'Camlin Fine Chemicals Ltd'
 p2273
-ag4
-aS'507486'
+aS'CAMLINFINE'
 p2274
-aa(lp2275
-S'Carborundum Universal Ltd'
-p2276
-aS'CARBORUNIV'
+aS'532834'
+p2275
+aa(lp2276
+S'Camlin Ltd'
 p2277
-aS'513375'
+aS'KOKUYOCMLN'
 p2278
-aa(lp2279
-S'Career Point Infosystems Ltd'
-p2280
-aS'CPIL'
+aS'523207'
+p2279
+aa(lp2280
+S'Camphor & Allied Products Ltd'
 p2281
-aS'533260'
+aS'CAMPALLIED'
 p2282
-aa(lp2283
-S'Carnation Industries Ltd'
-p2284
-ag4
-aS'530609'
+aS'500078'
+p2283
+aa(lp2284
+S'Camson Bio Technologies Ltd'
 p2285
-aa(lp2286
-S'Carol Info Services Ltd'
-p2287
-aS'CAROLINFO'
+ag56
+aS'590076'
+p2286
+aa(lp2287
+S'Can Fin Homes Ltd'
 p2288
-aS'500446'
+aS'CANFINHOME'
 p2289
-aa(lp2290
-S'Castrol India Ltd'
-p2291
-aS'CASTROL'
+aS'511196'
+p2290
+aa(lp2291
+S'Canaan International Infotech Ltd'
 p2292
-aS'500870'
+ag56
+aS'511367'
 p2293
 aa(lp2294
-S'Cat Technologies Ltd'
+S'Canara Bank'
 p2295
-ag4
-aS'531682'
+aS'CANBK'
 p2296
-aa(lp2297
-S'Catvision Products Ltd'
-p2298
-ag4
-aS'531158'
+aS'532483'
+p2297
+aa(lp2298
+S'Cantabil Retail India Ltd'
 p2299
-aa(lp2300
-S'CCAP Ltd'
+aS'CANTABIL'
+p2300
+aS'533267'
 p2301
-ag4
-aS'526839'
-p2302
-aa(lp2303
-S'CCL Products India Ltd'
+aa(lp2302
+S'Capital Trust Ltd'
+p2303
+ag56
+aS'511505'
 p2304
-aS'CCL'
-p2305
-aS'519600'
+aa(lp2305
+S'Caplin Point Laboratories Ltd'
 p2306
-aa(lp2307
-S'CCS Infotech Ltd'
+aS'CAPLIPOINT'
+p2307
+aS'524742'
 p2308
-ag4
-aS'532405'
-p2309
-aa(lp2310
-S'CDR Healthcare Ltd'
+aa(lp2309
+S'Capman Financials Ltd'
+p2310
+ag56
+aS'511720'
 p2311
-ag4
-aS'523353'
-p2312
-aa(lp2313
-S'CDR Industries Ltd'
+aa(lp2312
+S'Caprihans India Ltd'
+p2313
+aS'CAPRIHANS'
 p2314
-ag4
-aS'524588'
+aS'509486'
 p2315
 aa(lp2316
-S'Ceat Ltd'
+S'Caprolactam Chemicals Ltd'
 p2317
-aS'CEATLTD'
+ag56
+aS'507486'
 p2318
-aS'500878'
-p2319
-aa(lp2320
-S'Ceejay Finance Ltd'
+aa(lp2319
+S'Carborundum Universal Ltd'
+p2320
+aS'CARBORUNIV'
 p2321
-ag4
-aS'530789'
+aS'513375'
 p2322
 aa(lp2323
-S'Ceekay Daikin Ltd'
+S'Career Point Infosystems Ltd'
 p2324
-ag4
-aS'505923'
+aS'CAREERP'
 p2325
-aa(lp2326
-S'Ceenik Exports India Ltd'
-p2327
-aS'CEENIKEXPO'
+aS'533260'
+p2326
+aa(lp2327
+S'Carnation Industries Ltd'
 p2328
-aS'531119'
+ag56
+aS'530609'
 p2329
 aa(lp2330
-S'Ceeta Industries Ltd'
+S'Carol Info Services Ltd'
 p2331
-ag4
-aS'514171'
+aS'CAROLINFO'
 p2332
-aa(lp2333
-S'Celebrity Fashions Ltd'
-p2334
-aS'CELEBRITY'
+aS'500446'
+p2333
+aa(lp2334
+S'Castrol India Ltd'
 p2335
-aS'532695'
+aS'CASTROLIND'
 p2336
-aa(lp2337
-S'Celestial Labs Ltd'
-p2338
-aS'CELESTIAL'
+aS'500870'
+p2337
+aa(lp2338
+S'Cat Technologies Ltd'
 p2339
-aS'532871'
+ag56
+aS'531682'
 p2340
 aa(lp2341
-S'Cenlub Industries Ltd'
+S'Catvision Products Ltd'
 p2342
-ag4
-aS'522251'
+ag56
+aS'531158'
 p2343
 aa(lp2344
-S'Centenial Surgical Suture Ltd'
+S'CCAP Ltd'
 p2345
-ag4
-aS'531380'
+ag56
+aS'526839'
 p2346
 aa(lp2347
-S'Central Bank of India'
+S'CCL Products India Ltd'
 p2348
-aS'CENTRALBK'
+aS'CCL'
 p2349
-aS'532885'
+aS'519600'
 p2350
 aa(lp2351
-S'Central Provinces Railways Company Ltd'
+S'CCS Infotech Ltd'
 p2352
-ag4
-aS'501827'
+ag56
+aS'532405'
 p2353
 aa(lp2354
-S'Centron Industrial Alliance Ltd'
+S'CDR Healthcare Ltd'
 p2355
-ag4
-aS'509499'
+ag56
+aS'523353'
 p2356
 aa(lp2357
-S'Centrum Capital Ltd'
+S'CDR Industries Ltd'
 p2358
-ag4
-aS'501150'
+ag56
+aS'524588'
 p2359
 aa(lp2360
-S'Centum Electronics Ltd'
+S'Ceat Ltd'
 p2361
-aS'CENTUM'
+aS'CEATLTD'
 p2362
-aS'517544'
+aS'500878'
 p2363
 aa(lp2364
-S'Century 21st Portfolio Ltd'
+S'Ceejay Finance Ltd'
 p2365
-ag4
-aS'530881'
+ag56
+aS'530789'
 p2366
 aa(lp2367
-S'Century Enka Ltd'
+S'Ceekay Daikin Ltd'
 p2368
-aS'CENTENKA'
+ag56
+aS'505923'
 p2369
-aS'500280'
-p2370
-aa(lp2371
-S'Century Extrusions Ltd'
+aa(lp2370
+S'Ceenik Exports India Ltd'
+p2371
+aS'CEENIKEXPO'
 p2372
-aS'CENTEXT'
+aS'531119'
 p2373
-aS'500083'
-p2374
-aa(lp2375
-S'Century Plyboards India Ltd'
+aa(lp2374
+S'Ceeta Industries Ltd'
+p2375
+ag56
+aS'514171'
 p2376
-aS'CENTURYPLY'
-p2377
-aS'532548'
+aa(lp2377
+S'Celebrity Fashions Ltd'
 p2378
-aa(lp2379
-S'Century Textiles & Industries Ltd'
+aS'CELEBRITY'
+p2379
+aS'532695'
 p2380
-aS'CENTURYTEX'
-p2381
-aS'500040'
+aa(lp2381
+S'Celestial Labs Ltd'
 p2382
-aa(lp2383
-S'Cera Sanitaryware Ltd'
+aS'CELESTIAL'
+p2383
+aS'532871'
 p2384
-aS'CERA'
-p2385
-aS'532443'
+aa(lp2385
+S'Cenlub Industries Ltd'
 p2386
-aa(lp2387
-S'Cerebra Integrated Technologies Ltd'
-p2388
-ag4
-aS'532413'
+ag56
+aS'522251'
+p2387
+aa(lp2388
+S'Centenial Surgical Suture Ltd'
 p2389
-aa(lp2390
-S'CESC Ltd'
-p2391
-aS'CESC'
+ag56
+aS'531380'
+p2390
+aa(lp2391
+S'Central Bank of India'
 p2392
-aS'500084'
+aS'CENTRALBK'
 p2393
-aa(lp2394
-S'CFL Capital Financial Services Ltd'
-p2395
-aS'CEATFIN'
+aS'532885'
+p2394
+aa(lp2395
+S'Central Provinces Railways Company Ltd'
 p2396
-aS'511272'
+ag56
+aS'501827'
 p2397
 aa(lp2398
-S'CG Impex Ltd'
+S'Centron Industrial Alliance Ltd'
 p2399
-ag4
-aS'531932'
+ag56
+aS'509499'
 p2400
 aa(lp2401
-S'CG Vak Software & Exports Ltd'
+S'Centrum Capital Ltd'
 p2402
-ag4
-aS'531489'
+ag56
+aS'501150'
 p2403
 aa(lp2404
-S'Chakkilam Infotech Ltd'
+S'Centum Electronics Ltd'
 p2405
-ag4
-aS'590089'
+aS'CENTUM'
 p2406
-aa(lp2407
-S'Chaman Lal Setia Exports Ltd'
-p2408
-ag4
-aS'530307'
+aS'517544'
+p2407
+aa(lp2408
+S'Century 21st Portfolio Ltd'
 p2409
-aa(lp2410
-S'Chambal Breweries & Distilleries Ltd'
-p2411
-ag4
-aS'512301'
+ag56
+aS'530881'
+p2410
+aa(lp2411
+S'Century Enka Ltd'
 p2412
-aa(lp2413
-S'Chambal Fertilisers & Chemicals Ltd'
+aS'CENTENKA'
+p2413
+aS'500280'
 p2414
-aS'CHAMBLFERT'
-p2415
-aS'500085'
+aa(lp2415
+S'Century Extrusions Ltd'
 p2416
-aa(lp2417
-S'Champagne Vineyards Ltd'
+aS'CENTEXT'
+p2417
+aS'500083'
 p2418
-ag4
-aS'532264'
-p2419
-aa(lp2420
-S'Chandni Textiles Ltd'
+aa(lp2419
+S'Century Plyboards India Ltd'
+p2420
+aS'CENTURYPLY'
 p2421
-ag4
-aS'522292'
+aS'532548'
 p2422
 aa(lp2423
-S'Chandra Prabhu International Ltd'
+S'Century Textiles & Industries Ltd'
 p2424
-ag4
-aS'530309'
+aS'CENTURYTEX'
 p2425
-aa(lp2426
-S'Chandrika Traders Ltd'
-p2427
-ag4
-aS'512624'
+aS'500040'
+p2426
+aa(lp2427
+S'Cera Sanitaryware Ltd'
 p2428
-aa(lp2429
-S'Chankya Investments Ltd'
+aS'CERA'
+p2429
+aS'532443'
 p2430
-ag4
-aS'501270'
-p2431
-aa(lp2432
-S'Channel Guide India Ltd'
+aa(lp2431
+S'Cerebra Integrated Technologies Ltd'
+p2432
+aS'CEREBRAINT'
 p2433
-ag4
-aS'531337'
+aS'532413'
 p2434
 aa(lp2435
-S'Charms Industries Ltd'
+S'CESC Ltd'
 p2436
-ag4
-aS'531327'
+aS'CESC'
 p2437
-aa(lp2438
-S'Chartered Capital & Investment Ltd'
-p2439
-ag4
-aS'511696'
+aS'500084'
+p2438
+aa(lp2439
+S'CFL Capital Financial Services Ltd'
 p2440
-aa(lp2441
-S'Chartered Logistics Ltd'
+aS'CEATFIN'
+p2441
+aS'511272'
 p2442
-ag4
-aS'531977'
-p2443
-aa(lp2444
-S'Chase Bright Steel Ltd'
+aa(lp2443
+S'CG Impex Ltd'
+p2444
+ag56
+aS'531932'
 p2445
-ag4
-aS'504671'
-p2446
-aa(lp2447
-S'CHD Developers Ltd'
+aa(lp2446
+S'CG Vak Software & Exports Ltd'
+p2447
+ag56
+aS'531489'
 p2448
-ag4
-aS'526917'
-p2449
-aa(lp2450
-S'Chembond Chemicals Ltd'
+aa(lp2449
+S'Chakkilam Infotech Ltd'
+p2450
+ag56
+aS'590089'
 p2451
-ag4
-aS'530871'
-p2452
-aa(lp2453
-S'Chemcel Bio-Tech Ltd'
+aa(lp2452
+S'Chaman Lal Setia Exports Ltd'
+p2453
+ag56
+aS'530307'
 p2454
-ag4
-aS'533026'
-p2455
-aa(lp2456
-S'Chemcrown India Ltd'
+aa(lp2455
+S'Chambal Breweries & Distilleries Ltd'
+p2456
+ag56
+aS'512301'
 p2457
-ag4
-aS'523351'
-p2458
-aa(lp2459
-S'Chemfab Alkalis Ltd'
+aa(lp2458
+S'Chambal Fertilisers & Chemicals Ltd'
+p2459
+aS'CHAMBLFERT'
 p2460
-aS'CHEMFALKAL'
+aS'500085'
 p2461
-aS'506894'
-p2462
-aa(lp2463
-S'Chemo Pharma Laboratories Ltd'
+aa(lp2462
+S'Champagne Vineyards Ltd'
+p2463
+ag56
+aS'532264'
 p2464
-ag4
-aS'506365'
-p2465
-aa(lp2466
-S'Chemplast Sanmar Ltd'
+aa(lp2465
+S'Chandni Textiles Ltd'
+p2466
+ag56
+aS'522292'
 p2467
-aS'CHEMPLAST'
-p2468
-aS'506355'
+aa(lp2468
+S'Chandra Prabhu International Ltd'
 p2469
-aa(lp2470
-S'Chennai Meenakshi Multispeciality Hospital Ltd'
-p2471
-ag4
-aS'523489'
+ag56
+aS'530309'
+p2470
+aa(lp2471
+S'Chandrika Traders Ltd'
 p2472
-aa(lp2473
-S'Chennai Petroleum Corporation Ltd'
-p2474
-aS'CHENNPETRO'
+ag56
+aS'512624'
+p2473
+aa(lp2474
+S'Chankya Investments Ltd'
 p2475
-aS'500110'
+ag56
+aS'501270'
 p2476
 aa(lp2477
-S'Cheslind Textiles Ltd'
+S'Channel Guide India Ltd'
 p2478
-aS'CHESLINTEX'
+ag56
+aS'531337'
 p2479
-aS'521056'
-p2480
-aa(lp2481
-S'Chettinad Cement Corporation Ltd'
+aa(lp2480
+S'Charms Industries Ltd'
+p2481
+ag56
+aS'531327'
 p2482
-aS'CHETTINAD'
-p2483
-aS'590001'
+aa(lp2483
+S'Chartered Capital & Investment Ltd'
 p2484
-aa(lp2485
-S'Cheviot Company Ltd'
-p2486
-ag4
-aS'526817'
+ag56
+aS'511696'
+p2485
+aa(lp2486
+S'Chartered Logistics Ltd'
 p2487
-aa(lp2488
-S'CHI Investments Ltd'
-p2489
-aS'CHI'
+ag56
+aS'531977'
+p2488
+aa(lp2489
+S'Chase Bright Steel Ltd'
 p2490
-aS'532969'
+ag56
+aS'504671'
 p2491
 aa(lp2492
-S'Chirawa Cements Ltd'
+S'CHD Developers Ltd'
 p2493
-ag4
-aS'531900'
+ag56
+aS'526917'
 p2494
 aa(lp2495
-S'Chitradurga Spintex Ltd'
+S'Chembond Chemicals Ltd'
 p2496
-ag4
-aS'521244'
+ag56
+aS'530871'
 p2497
 aa(lp2498
-S'CHL Ltd'
+S'Chemcel Bio-Tech Ltd'
 p2499
-ag4
-aS'532992'
+ag56
+aS'533026'
 p2500
 aa(lp2501
-S'Choice International Ltd'
+S'Chemcrown India Ltd'
 p2502
-ag4
-aS'531358'
+ag56
+aS'523351'
 p2503
 aa(lp2504
-S'Chokhani Business Ltd'
+S'Chemfab Alkalis Ltd'
 p2505
-ag4
-aS'507917'
+aS'CHEMFALKAL'
 p2506
-aa(lp2507
-S'Chokhani Securities Ltd'
-p2508
-ag4
-aS'511742'
+aS'506894'
+p2507
+aa(lp2508
+S'Chemo Pharma Laboratories Ltd'
 p2509
-aa(lp2510
-S'Choksh Infotech Ltd'
-p2511
-ag4
-aS'530713'
+ag56
+aS'506365'
+p2510
+aa(lp2511
+S'Chemplast Sanmar Ltd'
 p2512
-aa(lp2513
-S'Choksi Imaging Ltd'
+aS'CHEMPLAST'
+p2513
+aS'506355'
 p2514
-ag4
-aS'530427'
-p2515
-aa(lp2516
-S'Choksi Laboratories Ltd'
+aa(lp2515
+S'Chennai Meenakshi Multispeciality Hospital Ltd'
+p2516
+ag56
+aS'523489'
 p2517
-ag4
-aS'526546'
-p2518
-aa(lp2519
-S'Cholamandalam Investment & Finance Company Ltd'
+aa(lp2518
+S'Chennai Petroleum Corporation Ltd'
+p2519
+aS'CHENNPETRO'
 p2520
-aS'CHOLAFIN'
+aS'500110'
 p2521
-aS'511243'
-p2522
-aa(lp2523
-S'Chordia Food Products Ltd'
+aa(lp2522
+S'Cheslind Textiles Ltd'
+p2523
+aS'CHESLINTEX'
 p2524
-ag4
-aS'519475'
+aS'521056'
 p2525
 aa(lp2526
-S'Chowgule Steamships Ltd'
+S'Chettinad Cement Corporation Ltd'
 p2527
-aS'CHOWGULSTM'
+aS'CHETTINAD'
 p2528
-aS'501833'
+aS'590001'
 p2529
 aa(lp2530
-S'Chromatic India Ltd'
+S'Cheviot Company Ltd'
 p2531
-ag4
-aS'530191'
+ag56
+aS'526817'
 p2532
 aa(lp2533
-S'Ciba India Ltd'
+S'CHI Investments Ltd'
 p2534
-aS'CIBASPEC'
+aS'CHI'
 p2535
-aS'532184'
+aS'532969'
 p2536
 aa(lp2537
-S'CIL Nova Petrochemicals Limited'
+S'Chirawa Cements Ltd'
 p2538
-aS'CILNOVA'
+ag56
+aS'531900'
 p2539
-aS'533407'
-p2540
-aa(lp2541
-S'Cil Securities Ltd'
+aa(lp2540
+S'Chitradurga Spintex Ltd'
+p2541
+ag56
+aS'521244'
 p2542
-ag4
-aS'530829'
-p2543
-aa(lp2544
-S'Cimmco Birla Ltd'
+aa(lp2543
+S'CHL Ltd'
+p2544
+ag56
+aS'532992'
 p2545
-aS'CIMMCO'
-p2546
-aS'505230'
+aa(lp2546
+S'Choice International Ltd'
 p2547
-aa(lp2548
-S'Cindrella Financial Services Ltd'
-p2549
-ag4
-aS'531283'
+ag56
+aS'531358'
+p2548
+aa(lp2549
+S'Chokhani Business Ltd'
 p2550
-aa(lp2551
-S'Cindrella Hotels Ltd'
-p2552
-ag4
-aS'526373'
+ag56
+aS'507917'
+p2551
+aa(lp2552
+S'Chokhani Securities Ltd'
 p2553
-aa(lp2554
-S'Cinemax India Ltd'
-p2555
-aS'CINEMAX '
+ag56
+aS'511742'
+p2554
+aa(lp2555
+S'Choksh Infotech Ltd'
 p2556
-aS'532807'
+ag56
+aS'530713'
 p2557
 aa(lp2558
-S'Cinerad Communications Ltd'
+S'Choksi Imaging Ltd'
 p2559
-ag4
-aS'530457'
+ag56
+aS'530427'
 p2560
 aa(lp2561
-S'Cinevistaas Ltd'
+S'Choksi Laboratories Ltd'
 p2562
-aS'CINEVISTA'
+ag56
+aS'526546'
 p2563
-aS'532324'
-p2564
-aa(lp2565
-S'Cipla Ltd'
+aa(lp2564
+S'Cholamandalam Investment & Finance Company Ltd'
+p2565
+aS'CHOLAFIN'
 p2566
-aS'CIPLA'
+aS'511243'
 p2567
-aS'500087'
-p2568
-aa(lp2569
-S'Circuit Systems India Ltd'
+aa(lp2568
+S'Chordia Food Products Ltd'
+p2569
+ag56
+aS'519475'
 p2570
-ag4
-aS'532913'
-p2571
-aa(lp2572
-S'CISTRO Telelink Ltd'
+aa(lp2571
+S'Chowgule Steamships Ltd'
+p2572
+aS'CHOWGULSTM'
 p2573
-ag4
-aS'531775'
+aS'501833'
 p2574
 aa(lp2575
-S'Citi Port Financial Services Ltd'
+S'Chromatic India Ltd'
 p2576
-ag4
-aS'531235'
+aS'CHROMATIC'
 p2577
-aa(lp2578
-S'Citurgia Biochemicals Ltd'
-p2579
-aS'CITURGIBIO'
+aS'530191'
+p2578
+aa(lp2579
+S'Ciba India Ltd'
 p2580
-aS'506373'
+aS'CIBASPEC'
 p2581
-aa(lp2582
-S'City Man Clothings India Ltd'
-p2583
-ag4
-aS'521210'
+aS'532184'
+p2582
+aa(lp2583
+S'CIL Nova Petrochemicals Limited'
 p2584
-aa(lp2585
-S'City Union Bank Ltd'
+aS'CNOVAPETRO'
+p2585
+aS'533407'
 p2586
-aS'CUB'
-p2587
-aS'532210'
+aa(lp2587
+S'Cil Securities Ltd'
 p2588
-aa(lp2589
-S'CJ Gelatine Products Ltd'
-p2590
-ag4
-aS'507515'
+ag56
+aS'530829'
+p2589
+aa(lp2590
+S'Cimmco Birla Ltd'
 p2591
-aa(lp2592
-S'Ckoramaandel Cements Ltd'
+aS'CIMMCO'
+p2592
+aS'505230'
 p2593
-ag4
-aS'518017'
-p2594
-aa(lp2595
-S'Clariant Chemicals India Ltd'
+aa(lp2594
+S'Cindrella Financial Services Ltd'
+p2595
+ag56
+aS'531283'
 p2596
-aS'CLNINDIA'
-p2597
-aS'506390'
+aa(lp2597
+S'Cindrella Hotels Ltd'
 p2598
-aa(lp2599
-S'Clarus Finance & Securities Ltd'
-p2600
-ag4
-aS'511672'
+ag56
+aS'526373'
+p2599
+aa(lp2600
+S'Cinemax India Ltd'
 p2601
-aa(lp2602
-S'Classic Biotech & Exports Ltd'
+aS'CINELINE'
+p2602
+aS'532807'
 p2603
-ag4
-aS'531670'
-p2604
-aa(lp2605
-S'Classic Diamonds India Ltd'
+aa(lp2604
+S'Cinerad Communications Ltd'
+p2605
+ag56
+aS'530457'
 p2606
-aS'CLASSIC'
-p2607
-aS'523200'
+aa(lp2607
+S'Cinevistaas Ltd'
 p2608
-aa(lp2609
-S'Clio Infotech Ltd'
+aS'CINEVISTA'
+p2609
+aS'532324'
 p2610
-ag4
-aS'530839'
-p2611
-aa(lp2612
-S'Clutch Auto Ltd'
+aa(lp2611
+S'Cipla Ltd'
+p2612
+aS'CIPLA'
 p2613
-ag4
-aS'505052'
+aS'500087'
 p2614
 aa(lp2615
-S'CMC Ltd'
+S'Circuit Systems India Ltd'
 p2616
-aS'CMC'
+ag56
+aS'532913'
 p2617
-aS'517326'
-p2618
-aa(lp2619
-S'CMI Ltd'
+aa(lp2618
+S'CISTRO Telelink Ltd'
+p2619
+ag56
+aS'531775'
 p2620
-ag4
-aS'517330'
-p2621
-aa(lp2622
-S'CMM Broadcasting Network Ltd'
+aa(lp2621
+S'Citi Port Financial Services Ltd'
+p2622
+ag56
+aS'531235'
 p2623
-ag4
-aS'503673'
-p2624
-aa(lp2625
-S'CNI Research Ltd'
+aa(lp2624
+S'Citurgia Biochemicals Ltd'
+p2625
+aS'CITURGIBIO'
 p2626
-ag4
-aS'512018'
+aS'506373'
 p2627
 aa(lp2628
-S'Coal India Ltd'
+S'City Man Clothings India Ltd'
 p2629
-aS'COALINDIA'
+ag56
+aS'521210'
 p2630
-aS'533278'
-p2631
-aa(lp2632
-S'Coastal Corporation Ltd'
+aa(lp2631
+S'City Union Bank Ltd'
+p2632
+aS'CUB'
 p2633
-ag4
-aS'501831'
+aS'532210'
 p2634
 aa(lp2635
-S'Coastal Roadways Ltd'
+S'CJ Gelatine Products Ltd'
 p2636
-ag4
-aS'520131'
+ag56
+aS'507515'
 p2637
 aa(lp2638
-S'Cochin Malabar Estates & Industries Ltd'
+S'Ckoramaandel Cements Ltd'
 p2639
-ag4
-aS'508571'
+ag56
+aS'518017'
 p2640
 aa(lp2641
-S'Cochin Minerals & Rutiles Ltd'
+S'Clariant Chemicals India Ltd'
 p2642
-ag4
-aS'513353'
+aS'CLNINDIA'
 p2643
-aa(lp2644
-S'Colgate Palmolive India Ltd'
-p2645
-aS'COLPAL'
+aS'506390'
+p2644
+aa(lp2645
+S'Clarus Finance & Securities Ltd'
 p2646
-aS'500830'
+ag56
+aS'511672'
 p2647
 aa(lp2648
-S'Colinz Laboratories Ltd'
+S'Classic Biotech & Exports Ltd'
 p2649
-ag4
-aS'531210'
+ag56
+aS'531670'
 p2650
 aa(lp2651
-S'Color Chips India Ltd'
+S'Classic Diamonds India Ltd'
 p2652
-aS'COLORCHIPS'
+aS'CLASSIC'
 p2653
-aS'532172'
+aS'523200'
 p2654
 aa(lp2655
-S'Combat Drugs Ltd'
+S'Clio Infotech Ltd'
 p2656
-ag4
-aS'524752'
+ag56
+aS'530839'
 p2657
 aa(lp2658
-S'Comfort Intech Ltd'
+S'Clutch Auto Ltd'
 p2659
-ag4
-aS'531216'
+aS'CLUTCHAUTO'
 p2660
-aa(lp2661
-S'Commercial Engineers & Body Builders Company Ltd'
-p2662
-aS'CEBBCO'
+aS'505052'
+p2661
+aa(lp2662
+S'CMC Ltd'
 p2663
-aS'533272'
+aS'CMC'
 p2664
-aa(lp2665
-S'Commitment Capital Services Ltd'
-p2666
-ag4
-aS'526987'
+aS'517326'
+p2665
+aa(lp2666
+S'CMI Ltd'
 p2667
-aa(lp2668
-S'Comp U Learn Tech India Ltd'
-p2669
-ag4
-aS'532363'
+ag56
+aS'517330'
+p2668
+aa(lp2669
+S'CMM Broadcasting Network Ltd'
 p2670
-aa(lp2671
-S'Compact Disc India Ltd'
-p2672
-aS'COMPACDISC'
+ag56
+aS'503673'
+p2671
+aa(lp2672
+S'CNI Research Ltd'
 p2673
-aS'526141'
+ag56
+aS'512018'
 p2674
 aa(lp2675
-S'Competent Automobiles Company Ltd'
+S'Coal India Ltd'
 p2676
-ag4
-aS'531041'
+aS'COALINDIA'
 p2677
-aa(lp2678
-S'Compuage Infocom Ltd'
-p2679
-aS'COMPUAGE'
+aS'533278'
+p2678
+aa(lp2679
+S'Coastal Corporation Ltd'
 p2680
-aS'532456'
+ag56
+aS'501831'
 p2681
 aa(lp2682
-S'Compucom Software Ltd'
+S'Coastal Roadways Ltd'
 p2683
-ag4
-aS'532339'
+ag56
+aS'520131'
 p2684
 aa(lp2685
-S'Compulink Systems Ltd'
+S'Cochin Malabar Estates & Industries Ltd'
 p2686
-aS'COMSYS'
+ag56
+aS'508571'
 p2687
-aS'532688'
-p2688
-aa(lp2689
-S'Computech International Ltd'
+aa(lp2688
+S'Cochin Minerals & Rutiles Ltd'
+p2689
+ag56
+aS'513353'
 p2690
-aS'COMPUTECH'
-p2691
-aS'531224'
+aa(lp2691
+S'Colgate Palmolive India Ltd'
 p2692
-aa(lp2693
-S'Computer Point Ltd'
+aS'COLPAL'
+p2693
+aS'500830'
 p2694
-ag4
-aS'507833'
-p2695
-aa(lp2696
-S'Computerskill Ltd'
+aa(lp2695
+S'Colinz Laboratories Ltd'
+p2696
+ag56
+aS'531210'
 p2697
-ag4
-aS'531474'
-p2698
-aa(lp2699
-S'Conart Engineers Ltd'
+aa(lp2698
+S'Color Chips India Ltd'
+p2699
+aS'COLORCHIPS'
 p2700
-ag4
-aS'522231'
+aS'532172'
 p2701
 aa(lp2702
-S'Confidence Petroleum India Ltd'
+S'Combat Drugs Ltd'
 p2703
-ag4
-aS'526829'
+ag56
+aS'524752'
 p2704
 aa(lp2705
-S'Confidence Trading Company Ltd'
+S'Comfort Intech Ltd'
 p2706
-ag4
-aS'504340'
+ag56
+aS'531216'
 p2707
 aa(lp2708
-S'Consolidated Construction Consortium Ltd'
+S'Commercial Engineers & Body Builders Company Ltd'
 p2709
-aS'CCCL'
+aS'CEBBCO'
 p2710
-aS'532902'
+aS'533272'
 p2711
 aa(lp2712
-S'Consolidated Finvest & Holdings Ltd'
+S'Commitment Capital Services Ltd'
 p2713
-aS'CONSOFINVT'
+ag56
+aS'526987'
 p2714
-aS'500226'
-p2715
-aa(lp2716
-S'Consolidated Securities Ltd'
+aa(lp2715
+S'Comp U Learn Tech India Ltd'
+p2716
+ag56
+aS'532363'
 p2717
-ag4
-aS'530067'
-p2718
-aa(lp2719
-S'Container Corporation of India Ltd'
+aa(lp2718
+S'Compact Disc India Ltd'
+p2719
+aS'COMPACDISC'
 p2720
-aS'CONCOR'
+aS'526141'
 p2721
-aS'531344'
-p2722
-aa(lp2723
-S'Contech Software Ltd'
+aa(lp2722
+S'Competent Automobiles Company Ltd'
+p2723
+ag56
+aS'531041'
 p2724
-ag4
-aS'532397'
-p2725
-aa(lp2726
-S'Contil India Ltd'
+aa(lp2725
+S'Compuage Infocom Ltd'
+p2726
+aS'COMPUAGE'
 p2727
-ag4
-aS'531067'
+aS'532456'
 p2728
 aa(lp2729
-S'Continental Controls Ltd'
+S'Compucom Software Ltd'
 p2730
-ag4
-aS'531460'
+aS'COMPUSOFT'
 p2731
-aa(lp2732
-S'Continental Petroleums Ltd'
-p2733
-ag4
-aS'523232'
+aS'532339'
+p2732
+aa(lp2733
+S'Compulink Systems Ltd'
 p2734
-aa(lp2735
-S'Control Print India Ltd'
+aS'COMSYS'
+p2735
+aS'532688'
 p2736
-ag4
-aS'522295'
-p2737
-aa(lp2738
-S'Coral Hub Ltd'
+aa(lp2737
+S'Computech International Ltd'
+p2738
+aS'COMPUTECH'
 p2739
-aS'CORAL-HUB'
+aS'531224'
 p2740
-aS'533011'
-p2741
-aa(lp2742
-S'Coral India Finance & Housing Ltd'
+aa(lp2741
+S'Computer Point Ltd'
+p2742
+ag56
+aS'507833'
 p2743
-aS'CORALFINAC'
-p2744
-aS'531556'
+aa(lp2744
+S'Computerskill Ltd'
 p2745
-aa(lp2746
-S'Coral Laboratories Ltd'
-p2747
-ag4
-aS'524506'
+ag56
+aS'531474'
+p2746
+aa(lp2747
+S'Conart Engineers Ltd'
 p2748
-aa(lp2749
-S'Coral Newsprints Ltd'
-p2750
-ag4
-aS'530755'
+ag56
+aS'522231'
+p2749
+aa(lp2750
+S'Confidence Petroleum India Ltd'
 p2751
-aa(lp2752
-S'Cords Cable Industries Ltd'
-p2753
-aS'CORDSCABLE'
+ag56
+aS'526829'
+p2752
+aa(lp2753
+S'Confidence Trading Company Ltd'
 p2754
-aS'532941'
+ag56
+aS'504340'
 p2755
 aa(lp2756
-S'CORE Education & Technologies Limited'
+S'Consolidated Construction Consortium Ltd'
 p2757
-aS'COREEDUTEC'
+aS'CCCL'
 p2758
-aS'512199'
+aS'532902'
 p2759
 aa(lp2760
-S'Coromandel Agro Products & Oils Ltd'
+S'Consolidated Finvest & Holdings Ltd'
 p2761
-ag4
-aS'507543'
+aS'CONSOFINVT'
 p2762
-aa(lp2763
-S'Coromandel Engineering Company Ltd'
-p2764
-aS'COROENGG'
+aS'500226'
+p2763
+aa(lp2764
+S'Consolidated Securities Ltd'
 p2765
-aS'533167'
+ag56
+aS'530067'
 p2766
 aa(lp2767
-S'Coromandel International Ltd'
+S'Container Corporation of India Ltd'
 p2768
-aS'COROMANDEL'
+aS'CONCOR'
 p2769
-aS'506395'
+aS'531344'
 p2770
 aa(lp2771
-S'Corporate Couriers Ltd'
+S'Contech Software Ltd'
 p2772
-ag4
-aS'526737'
+ag56
+aS'532397'
 p2773
 aa(lp2774
-S'Corporation Bank'
+S'Contil India Ltd'
 p2775
-aS'CORPBANK'
+ag56
+aS'531067'
 p2776
-aS'532179'
-p2777
-aa(lp2778
-S'Cosboard Industries Ltd'
+aa(lp2777
+S'Continental Controls Ltd'
+p2778
+ag56
+aS'531460'
 p2779
-ag4
-aS'530859'
-p2780
-aa(lp2781
-S'Cosco India Ltd'
+aa(lp2780
+S'Continental Petroleums Ltd'
+p2781
+ag56
+aS'523232'
 p2782
-ag4
-aS'530545'
-p2783
-aa(lp2784
-S'Cosmo Ferrites Ltd'
+aa(lp2783
+S'Control Print India Ltd'
+p2784
+ag56
+aS'522295'
 p2785
-ag4
-aS'523100'
-p2786
-aa(lp2787
-S'Cosmo Films Ltd'
+aa(lp2786
+S'Coral Hub Ltd'
+p2787
+aS'CORAL-HUB'
 p2788
-aS'COSMOFILMS'
+aS'533011'
 p2789
-aS'508814'
-p2790
-aa(lp2791
-S'Cost Plus Credit Capital Ltd'
+aa(lp2790
+S'Coral India Finance & Housing Ltd'
+p2791
+aS'CORALFINAC'
 p2792
-ag4
-aS'526959'
+aS'531556'
 p2793
 aa(lp2794
-S'Country Club India Ltd'
+S'Coral Laboratories Ltd'
 p2795
-ag4
-aS'526550'
+ag56
+aS'524506'
 p2796
 aa(lp2797
-S'Country Condos Ltd'
+S'Coral Newsprints Ltd'
 p2798
-aS'NEOCURTHER'
+ag56
+aS'530755'
 p2799
-aS'531624'
-p2800
-aa(lp2801
-S'Coventry Coil-O-Matic Haryana Ltd'
+aa(lp2800
+S'Cords Cable Industries Ltd'
+p2801
+aS'CORDSCABLE'
 p2802
-ag4
-aS'523415'
+aS'532941'
 p2803
 aa(lp2804
-S'Cox & Kings (India) Ltd'
+S'CORE Education & Technologies Limited'
 p2805
-aS'COX&KINGS;'
+aS'COREEDUTEC'
 p2806
-aS'533144'
+aS'512199'
 p2807
 aa(lp2808
-S'CPEC Ltd'
+S'Coromandel Agro Products & Oils Ltd'
 p2809
-ag4
-aS'505678'
+ag56
+aS'507543'
 p2810
 aa(lp2811
-S'Cranes Software International Ltd'
+S'Coromandel Engineering Company Ltd'
 p2812
-aS'CRANESSOFT'
+aS'COROENGG'
 p2813
-aS'512093'
+aS'533167'
 p2814
 aa(lp2815
-S'Cranex Ltd'
+S'Coromandel International Ltd'
 p2816
-ag4
-aS'522001'
+aS'COROMANDEL'
 p2817
-aa(lp2818
-S'Cravatex Ltd'
-p2819
-ag4
-aS'509472'
+aS'506395'
+p2818
+aa(lp2819
+S'Corporate Couriers Ltd'
 p2820
-aa(lp2821
-S'Crazy Infotech Ltd'
-p2822
-ag4
-aS'524388'
+ag56
+aS'526737'
+p2821
+aa(lp2822
+S'Corporation Bank'
 p2823
-aa(lp2824
-S'Creative Eye Ltd'
+aS'CORPBANK'
+p2824
+aS'532179'
 p2825
-aS'CREATIVEYE'
-p2826
-aS'532392'
+aa(lp2826
+S'Cosboard Industries Ltd'
 p2827
-aa(lp2828
-S'Credence Sound & Vision Ltd'
-p2829
-ag4
-aS'526741'
+ag56
+aS'530859'
+p2828
+aa(lp2829
+S'Cosco India Ltd'
 p2830
-aa(lp2831
-S'Cressanda Solutions Ltd'
-p2832
-ag4
-aS'512379'
+ag56
+aS'530545'
+p2831
+aa(lp2832
+S'Cosmo Ferrites Ltd'
 p2833
-aa(lp2834
-S'Crest Animation Studios Ltd'
-p2835
-aS'CRESTANI'
+ag56
+aS'523100'
+p2834
+aa(lp2835
+S'Cosmo Films Ltd'
 p2836
-aS'526785'
+aS'COSMOFILMS'
 p2837
-aa(lp2838
-S'Crestchem Ltd'
-p2839
-ag4
-aS'526269'
+aS'508814'
+p2838
+aa(lp2839
+S'Cost Plus Credit Capital Ltd'
 p2840
-aa(lp2841
-S'Crew BOS Products Ltd'
-p2842
-aS'CREWBOS'
+ag56
+aS'526959'
+p2841
+aa(lp2842
+S'Country Club India Ltd'
 p2843
-aS'532542'
+aS'CCHHL'
 p2844
-aa(lp2845
-S'CRISIL Ltd'
-p2846
-aS'CRISIL'
+aS'526550'
+p2845
+aa(lp2846
+S'Country Condos Ltd'
 p2847
-aS'500092'
+aS'COUNCODOS'
 p2848
-aa(lp2849
-S'Crompton Greaves Ltd'
-p2850
-aS'CROMPGREAV'
+aS'531624'
+p2849
+aa(lp2850
+S'Coventry Coil-O-Matic Haryana Ltd'
 p2851
-aS'500093'
+ag56
+aS'523415'
 p2852
 aa(lp2853
-S'Cronimet Alloys India Ltd'
+S'Cox & Kings (India) Ltd'
 p2854
-aS'CRONIMET'
+aS'COX&KINGS;'
 p2855
-aS'532990'
+aS'533144'
 p2856
 aa(lp2857
-S'Crystal Software Solutions Ltd'
+S'CPEC Ltd'
 p2858
-ag4
-aS'526033'
+ag56
+aS'505678'
 p2859
 aa(lp2860
-S'CSS Technergy Ltd'
+S'Cranes Software International Ltd'
 p2861
-ag4
-aS'590050'
+aS'CRANESSOFT'
 p2862
-aa(lp2863
-S'Cubex Tubings Ltd'
-p2864
-aS'CUBEXTUB'
+aS'512093'
+p2863
+aa(lp2864
+S'Cranex Ltd'
 p2865
-aS'526027'
+ag56
+aS'522001'
 p2866
 aa(lp2867
-S'Cubical Financial Services Ltd'
+S'Cravatex Ltd'
 p2868
-ag4
-aS'511710'
+ag56
+aS'509472'
 p2869
 aa(lp2870
-S'Cummins India Ltd'
+S'Crazy Infotech Ltd'
 p2871
-aS'CUMMINSIND'
+ag56
+aS'524388'
 p2872
-aS'500480'
-p2873
-aa(lp2874
-S'Cupid Ltd'
+aa(lp2873
+S'Creative Eye Ltd'
+p2874
+aS'CREATIVEYE'
 p2875
-ag4
-aS'530843'
+aS'532392'
 p2876
 aa(lp2877
-S'Cupid Trades & Finance Ltd'
+S'Credence Sound & Vision Ltd'
 p2878
-ag4
-aS'512361'
+ag56
+aS'526741'
 p2879
 aa(lp2880
-S'Cura Technologies Limited'
+S'Cressanda Solutions Ltd'
 p2881
-aS'CURATECH'
+ag56
+aS'512379'
 p2882
-aS'532332'
-p2883
-aa(lp2884
-S'Cybele Industries Ltd'
+aa(lp2883
+S'Crest Animation Studios Ltd'
+p2884
+aS'CRESTANI'
 p2885
-ag4
-aS'531472'
+aS'526785'
 p2886
 aa(lp2887
-S'Cyber Media India Ltd'
+S'Crestchem Ltd'
 p2888
-aS'CYBERMEDIA'
+ag56
+aS'526269'
 p2889
-aS'532640'
-p2890
-aa(lp2891
-S'Cyber Tech Systems & Software Ltd'
+aa(lp2890
+S'Crew BOS Products Ltd'
+p2891
+aS'CREWBOS'
 p2892
-aS'CYBERTECH'
+aS'532542'
 p2893
-aS'532173'
-p2894
-aa(lp2895
-S'Cybermate Infotek Ltd'
+aa(lp2894
+S'CRISIL Ltd'
+p2895
+aS'CRISIL'
 p2896
-ag4
-aS'532271'
+aS'500092'
 p2897
 aa(lp2898
-S'Cyberscape Multimedia Ltd'
+S'Crompton Greaves Ltd'
 p2899
-ag4
-aS'532364'
+aS'CROMPGREAV'
 p2900
-aa(lp2901
-S'DUNCANSLTD'
-p2902
-aS'DUNCANSLTD'
+aS'500093'
+p2901
+aa(lp2902
+S'Cronimet Alloys India Ltd'
 p2903
-ag4
-aa(lp2904
-S'DALMIABHA'
+aS'METKORE'
+p2904
+aS'532990'
 p2905
-aS'DALMIABHA'
-p2906
-ag4
-aa(lp2907
-S'DYNATECH'
+aa(lp2906
+S'Crystal Software Solutions Ltd'
+p2907
+ag56
+aS'526033'
 p2908
-aS'DYNATECH'
-p2909
-ag4
-aa(lp2910
-S'DHFL'
+aa(lp2909
+S'CSS Technergy Ltd'
+p2910
+ag56
+aS'590050'
 p2911
-aS'DHFL'
-p2912
-ag4
-aa(lp2913
-S'DRDATSONS'
+aa(lp2912
+S'Cubex Tubings Ltd'
+p2913
+aS'CUBEXTUB'
 p2914
-aS'DRDATSONS'
+aS'526027'
 p2915
-ag4
 aa(lp2916
-S'DBSTOCKBRO'
+S'Cubical Financial Services Ltd'
 p2917
-aS'DBSTOCKBRO'
+ag56
+aS'511710'
 p2918
-ag4
 aa(lp2919
-S'DCBBANK'
+S'Cummins India Ltd'
 p2920
-aS'DCBBANK'
+aS'CUMMINSIND'
 p2921
-ag4
-aa(lp2922
-S'DSSL'
-p2923
-aS'DSSL'
+aS'500480'
+p2922
+aa(lp2923
+S'Cupid Ltd'
 p2924
-ag4
-aa(lp2925
-S'DCMSHRIRAM'
-p2926
-aS'DCMSHRIRAM'
+ag56
+aS'530843'
+p2925
+aa(lp2926
+S'Cupid Trades & Finance Ltd'
 p2927
-ag4
-aa(lp2928
-S'DPL'
-p2929
-aS'DPL'
+ag56
+aS'512361'
+p2928
+aa(lp2929
+S'Cura Technologies Limited'
 p2930
-ag4
-aa(lp2931
-S'DTIL'
+aS'CURATECH'
+p2931
+aS'532332'
 p2932
-aS'DTIL'
-p2933
-ag4
-aa(lp2934
-S'D B Corp Ltd'
+aa(lp2933
+S'Cybele Industries Ltd'
+p2934
+ag56
+aS'531472'
 p2935
-aS'DBCORP'
-p2936
-aS'533151'
+aa(lp2936
+S'Cyber Media India Ltd'
 p2937
-aa(lp2938
-S'D B Realty Ltd'
+aS'CYBERMEDIA'
+p2938
+aS'532640'
 p2939
-aS'DBREALTY'
-p2940
-aS'533160'
+aa(lp2940
+S'Cyber Tech Systems & Software Ltd'
 p2941
-aa(lp2942
-S'D&H; Welding Electrodes India Ltd'
+aS'CYBERTECH'
+p2942
+aS'532173'
 p2943
-ag4
-aS'517514'
-p2944
-aa(lp2945
-S'D-Link India Ltd'
+aa(lp2944
+S'Cybermate Infotek Ltd'
+p2945
+ag56
+aS'532271'
 p2946
-aS'DLINKINDIA'
-p2947
-aS'533146'
+aa(lp2947
+S'Cyberscape Multimedia Ltd'
 p2948
-aa(lp2949
-S'Dabur India Ltd'
-p2950
-aS'DABUR'
+ag56
+aS'532364'
+p2949
+aa(lp2950
+S'DUNCANSLTD'
 p2951
-aS'500096'
+aS'DUNCANSLTD'
 p2952
-aa(lp2953
-S'Dagger Forst Tools Ltd'
-p2954
-aS'DAGERFORST'
+aS'590063'
+p2953
+aa(lp2954
+S'DALMIABHA'
 p2955
-aS'505426'
+aS'DALMIABHA'
 p2956
-aa(lp2957
-S'Dahyabhai Sons Ltd'
-p2958
-ag4
-aS'512113'
+aS'533309'
+p2957
+aa(lp2958
+S'DYNATECH'
 p2959
-aa(lp2960
-S'Dai-Ichi Karkaria Ltd'
+aS'DYNATECH'
+p2960
+aS'534674'
 p2961
-aS'DAICHIKARK'
-p2962
-aS'526821'
+aa(lp2962
+S'DHFL'
 p2963
-aa(lp2964
-S'Daikaffil Chemicals India Ltd'
+aS'DHFL'
+p2964
+aS'511072'
 p2965
-ag4
-aS'530825'
-p2966
-aa(lp2967
-S'Dairyfield Ltd'
+aa(lp2966
+S'DRDATSONS'
+p2967
+aS'DRDATSONS'
 p2968
-ag4
-aS'531640'
+aS'533412'
 p2969
 aa(lp2970
-S'Dalal Street Investments Ltd'
+S'DBSTOCKBRO'
 p2971
-ag4
-aS'501148'
+aS'DBSTOCKBRO'
 p2972
-aa(lp2973
-S'Dalmia Bharat Enterprises Limited'
-p2974
-aS'DALMIABEL'
+aS'530393'
+p2973
+aa(lp2974
+S'DCBBANK'
 p2975
-aS'533309'
+aS'DCBBANK'
 p2976
-aa(lp2977
-S'Dalmia Bharat Sugar & Industries Ltd'
-p2978
-aS'DALMIASUG'
+aS'532772'
+p2977
+aa(lp2978
+S'DSSL'
 p2979
-aS'500097'
+aS'DSSL'
 p2980
-aa(lp2981
-S'Damodar Threads Ltd'
-p2982
-ag4
-aS'521220'
+aS'532365'
+p2981
+aa(lp2982
+S'DCMSHRIRAM'
 p2983
-aa(lp2984
-S'Danlaw Technologies India Ltd'
+aS'DCMSHRIRAM'
+p2984
+aS'523367'
 p2985
-ag4
-aS'532329'
-p2986
-aa(lp2987
-S'Datamatics Global Services Ltd'
+aa(lp2986
+S'DPL'
+p2987
+aS'DPL'
 p2988
-aS'DATAMATICS'
+aS'523736'
 p2989
-aS'532528'
-p2990
-aa(lp2991
-S'Datanet Systems Ltd'
+aa(lp2990
+S'DTIL'
+p2991
+aS'DTIL'
 p2992
-ag4
-aS'532373'
+aS'538902'
 p2993
 aa(lp2994
-S'Datasoft Application Software India Ltd'
+S'D B Corp Ltd'
 p2995
-ag4
-aS'526443'
+aS'DBCORP'
 p2996
-aa(lp2997
-S'Daulat Securities Ltd'
-p2998
-ag4
-aS'530171'
+aS'533151'
+p2997
+aa(lp2998
+S'D B Realty Ltd'
 p2999
-aa(lp3000
-S'Dazzel Confindive Ltd'
+aS'DBREALTY'
+p3000
+aS'533160'
 p3001
-ag4
-aS'531270'
-p3002
-aa(lp3003
-S'DB International Stock Brokers Ltd'
+aa(lp3002
+S'D&H; Welding Electrodes India Ltd'
+p3003
+ag56
+aS'517514'
 p3004
-ag4
-aS'530393'
-p3005
-aa(lp3006
-S'DCM Financial Services Ltd'
+aa(lp3005
+S'D-Link India Ltd'
+p3006
+aS'DLINKINDIA'
 p3007
-aS'DCMFINSERV'
+aS'533146'
 p3008
-aS'511611'
-p3009
-aa(lp3010
-S'DCM Ltd'
+aa(lp3009
+S'Dabur India Ltd'
+p3010
+aS'DABUR'
 p3011
-aS'DCM'
+aS'500096'
 p3012
-aS'502820'
-p3013
-aa(lp3014
-S'DCM Shriram Consolidated Ltd'
+aa(lp3013
+S'Dagger Forst Tools Ltd'
+p3014
+aS'DAGERFORST'
 p3015
-aS'DCMSRMCONS'
+aS'505426'
 p3016
-aS'523367'
-p3017
-aa(lp3018
-S'DCM Shriram Industries Ltd'
+aa(lp3017
+S'Dahyabhai Sons Ltd'
+p3018
+ag56
+aS'512113'
 p3019
-aS'DCMSRMIND'
-p3020
-aS'523369'
+aa(lp3020
+S'Dai-Ichi Karkaria Ltd'
 p3021
-aa(lp3022
-S'DCW Ltd'
+aS'DAICHIKARK'
+p3022
+aS'526821'
 p3023
-aS'DCW'
-p3024
-aS'500117'
+aa(lp3024
+S'Daikaffil Chemicals India Ltd'
 p3025
-aa(lp3026
-S'Deccan Bearings Ltd'
-p3027
-ag4
-aS'505703'
+ag56
+aS'530825'
+p3026
+aa(lp3027
+S'Dairyfield Ltd'
 p3028
-aa(lp3029
-S'Deccan Cements Ltd'
-p3030
-aS'DECCANCE'
+ag56
+aS'531640'
+p3029
+aa(lp3030
+S'Dalal Street Investments Ltd'
 p3031
-aS'502137'
+ag56
+aS'501148'
 p3032
 aa(lp3033
-S'Deccan Chronicle Holdings Ltd'
+S'Dalmia Bharat Enterprises Limited'
 p3034
-aS'DCHL'
+aS'DALMIABHA'
 p3035
-aS'532608'
+aS'533309'
 p3036
 aa(lp3037
-S'Deccan Gold Mines Ltd'
+S'Dalmia Bharat Sugar & Industries Ltd'
 p3038
-ag4
-aS'512068'
+aS'DALMIASUG'
 p3039
-aa(lp3040
-S'Deccan Polypacks Ltd'
-p3041
-ag4
-aS'531989'
+aS'500097'
+p3040
+aa(lp3041
+S'Damodar Threads Ltd'
 p3042
-aa(lp3043
-S'Deco Mica Ltd'
-p3044
-ag4
-aS'531227'
+ag56
+aS'521220'
+p3043
+aa(lp3044
+S'Danlaw Technologies India Ltd'
 p3045
-aa(lp3046
-S'Decolight Ceramics Ltd'
-p3047
-aS'DECOLIGHT'
+ag56
+aS'532329'
+p3046
+aa(lp3047
+S'Datamatics Global Services Ltd'
 p3048
-aS'532858'
+aS'DATAMATICS'
 p3049
-aa(lp3050
-S'Dee Kartavya Finance Ltd'
-p3051
-ag4
-aS'531826'
+aS'532528'
+p3050
+aa(lp3051
+S'Datanet Systems Ltd'
 p3052
-aa(lp3053
-S'Deep Industries Ltd'
-p3054
-aS'DEEPIND'
+ag56
+aS'532373'
+p3053
+aa(lp3054
+S'Datasoft Application Software India Ltd'
 p3055
-aS'532760'
+ag56
+aS'526443'
 p3056
 aa(lp3057
-S'Deepak Fertilisers & Petrochemicals Corporation Ltd'
+S'Daulat Securities Ltd'
 p3058
-aS'DEEPAKFERT'
+ag56
+aS'530171'
 p3059
-aS'500645'
-p3060
-aa(lp3061
-S'Deepak Nitrite Ltd'
+aa(lp3060
+S'Dazzel Confindive Ltd'
+p3061
+ag56
+aS'531270'
 p3062
-aS'DEEPAKNTR'
-p3063
-aS'506401'
+aa(lp3063
+S'DB International Stock Brokers Ltd'
 p3064
-aa(lp3065
-S'Deepak Spinners Ltd'
+aS'DBSTOCKBRO'
+p3065
+aS'530393'
 p3066
-aS'DEEPAKSPIN'
-p3067
-aS'514030'
+aa(lp3067
+S'DCM Financial Services Ltd'
 p3068
-aa(lp3069
-S'Delco Remy Electricals India Ltd'
+aS'DCMFINSERV'
+p3069
+aS'511611'
 p3070
-ag4
-aS'505817'
-p3071
-aa(lp3072
-S'Delta Corp Ltd'
+aa(lp3071
+S'DCM Ltd'
+p3072
+aS'DCM'
 p3073
-aS'DELTACORP'
+aS'502820'
 p3074
-aS'532848'
-p3075
-aa(lp3076
-S'Delta Magnets Ltd'
+aa(lp3075
+S'DCM Shriram Consolidated Ltd'
+p3076
+aS'DCMSHRIRAM'
 p3077
-aS'DELTAMAGNT'
+aS'523367'
 p3078
-aS'504286'
-p3079
-aa(lp3080
-S'Delton Cables Ltd'
+aa(lp3079
+S'DCM Shriram Industries Ltd'
+p3080
+aS'DCMSRMIND'
 p3081
-ag4
-aS'504240'
+aS'523369'
 p3082
 aa(lp3083
-S'Deltron Ltd'
+S'DCW Ltd'
 p3084
-ag4
-aS'504256'
+aS'DCW'
 p3085
-aa(lp3086
-S'Den Networks Ltd'
-p3087
-aS'DEN'
+aS'500117'
+p3086
+aa(lp3087
+S'Deccan Bearings Ltd'
 p3088
-aS'533137'
+ag56
+aS'505703'
 p3089
 aa(lp3090
-S'Dena Bank'
+S'Deccan Cements Ltd'
 p3091
-aS'DENABANK'
+aS'DECCANCE'
 p3092
-aS'532121'
+aS'502137'
 p3093
 aa(lp3094
-S'Denison Hydraulics India Ltd'
+S'Deccan Chronicle Holdings Ltd'
 p3095
-ag4
-aS'505232'
+aS'DCHL'
 p3096
-aa(lp3097
-S'Denso India Ltd'
-p3098
-aS'DENSO'
+aS'532608'
+p3097
+aa(lp3098
+S'Deccan Gold Mines Ltd'
 p3099
-aS'520022'
+ag56
+aS'512068'
 p3100
 aa(lp3101
-S'Dera Paints & Chemicals Ltd'
+S'Deccan Polypacks Ltd'
 p3102
-ag4
-aS'523782'
+ag56
+aS'531989'
 p3103
 aa(lp3104
-S'Desh Rakshak Aushdhalaya Ltd'
+S'Deco Mica Ltd'
 p3105
-ag4
-aS'531521'
+ag56
+aS'531227'
 p3106
 aa(lp3107
-S'Deutsche Mutual Fund - DWS Fixed Term Series 50 - Plan A - Dividend option'
+S'Decolight Ceramics Ltd'
 p3108
-ag4
-aS'533003'
+aS'DECOLIGHT'
 p3109
-aa(lp3110
-S'Development Credit Bank Ltd'
-p3111
-aS'DCB'
+aS'532858'
+p3110
+aa(lp3111
+S'Dee Kartavya Finance Ltd'
 p3112
-aS'532772'
+ag56
+aS'531826'
 p3113
 aa(lp3114
-S'Devika Proteins Ltd'
+S'Deep Industries Ltd'
 p3115
-ag4
-aS'531171'
+aS'DEEPIND'
 p3116
-aa(lp3117
-S'Devine Impex Ltd'
-p3118
-ag4
-aS'531585'
+aS'532760'
+p3117
+aa(lp3118
+S'Deepak Fertilisers & Petrochemicals Corporation Ltd'
 p3119
-aa(lp3120
-S'Devinsu Trading Ltd'
+aS'DEEPAKFERT'
+p3120
+aS'500645'
 p3121
-ag4
-aS'512445'
-p3122
-aa(lp3123
-S'Devki Leasing & Finance Ltd'
+aa(lp3122
+S'Deepak Nitrite Ltd'
+p3123
+aS'DEEPAKNTR'
 p3124
-ag4
-aS'530765'
+aS'506401'
 p3125
 aa(lp3126
-S'Dewan Housing Finance Corporation Ltd'
+S'Deepak Spinners Ltd'
 p3127
-aS'DEWANHOUS'
+aS'DEEPAKSPIN'
 p3128
-aS'511072'
+aS'514030'
 p3129
 aa(lp3130
-S'DFM Foods Ltd'
+S'Delco Remy Electricals India Ltd'
 p3131
-ag4
-aS'519588'
+ag56
+aS'505817'
 p3132
 aa(lp3133
-S'DGP Securities Ltd'
+S'Delta Corp Ltd'
 p3134
-ag4
-aS'509695'
+aS'DELTACORP'
 p3135
-aa(lp3136
-S'Dhampur Sugar Kashipur Ltd'
-p3137
-ag4
-aS'502512'
+aS'532848'
+p3136
+aa(lp3137
+S'Delta Magnets Ltd'
 p3138
-aa(lp3139
-S'Dhampur Sugar Mills Ltd'
+aS'DELTAMAGNT'
+p3139
+aS'504286'
 p3140
-aS'DHAMPURSUG'
-p3141
-aS'500119'
+aa(lp3141
+S'Delton Cables Ltd'
 p3142
-aa(lp3143
-S'Dhampure Specialty Sugars Ltd'
-p3144
-ag4
-aS'531923'
+ag56
+aS'504240'
+p3143
+aa(lp3144
+S'Deltron Ltd'
 p3145
-aa(lp3146
-S'Dhanalakshmi Bank Ltd'
-p3147
-aS'DHANBANK'
+ag56
+aS'504256'
+p3146
+aa(lp3147
+S'Den Networks Ltd'
 p3148
-aS'532180'
+aS'DEN'
 p3149
-aa(lp3150
-S'Dhanalaxmi Roto Spinners Ltd'
-p3151
-ag4
-aS'521216'
+aS'533137'
+p3150
+aa(lp3151
+S'Dena Bank'
 p3152
-aa(lp3153
-S'Dhandapani Finance Ltd'
+aS'DENABANK'
+p3153
+aS'532121'
 p3154
-ag4
-aS'511393'
-p3155
-aa(lp3156
-S'Dhanlaxmi Cotex Ltd'
+aa(lp3155
+S'Denison Hydraulics India Ltd'
+p3156
+ag56
+aS'505232'
 p3157
-ag4
-aS'512485'
-p3158
-aa(lp3159
-S'Dhanlaxmi Fabrics Ltd'
+aa(lp3158
+S'Denso India Ltd'
+p3159
+aS'DENSO'
 p3160
-ag4
-aS'521151'
+aS'520022'
 p3161
 aa(lp3162
-S'Dhanprayog Investments Company Ltd'
+S'Dera Paints & Chemicals Ltd'
 p3163
-ag4
-aS'505533'
+ag56
+aS'523782'
 p3164
 aa(lp3165
-S'Dhanuka Agritech Ltd'
+S'Desh Rakshak Aushdhalaya Ltd'
 p3166
-aS'DHANUKA'
+ag56
+aS'531521'
 p3167
-aS'507717'
-p3168
-aa(lp3169
-S'Dhanus Technologies Ltd'
+aa(lp3168
+S'Deutsche Mutual Fund - DWS Fixed Term Series 50 - Plan A - Dividend option'
+p3169
+ag56
+aS'533003'
 p3170
-aS'DHANUS'
-p3171
-aS'532903'
+aa(lp3171
+S'Development Credit Bank Ltd'
 p3172
-aa(lp3173
-S'Dhanvantri Jeevan Rekha Ltd'
+aS'DCBBANK'
+p3173
+aS'532772'
 p3174
-ag4
-aS'531043'
-p3175
-aa(lp3176
-S'Dharamsi Morarji Chemical Company Ltd'
+aa(lp3175
+S'Devika Proteins Ltd'
+p3176
+ag56
+aS'531171'
 p3177
-aS'DHARAMORAR'
-p3178
-aS'506405'
+aa(lp3178
+S'Devine Impex Ltd'
 p3179
-aa(lp3180
-S'Dharani Finance Ltd'
-p3181
-ag4
-aS'511451'
+ag56
+aS'531585'
+p3180
+aa(lp3181
+S'Devinsu Trading Ltd'
 p3182
-aa(lp3183
-S'Dharani Sugars & Chemicals Ltd'
-p3184
-aS'DHARSUGAR'
+ag56
+aS'512445'
+p3183
+aa(lp3184
+S'Devki Leasing & Finance Ltd'
 p3185
-aS'507442'
+ag56
+aS'530765'
 p3186
 aa(lp3187
-S'Dhoot Industrial Finance Ltd'
+S'Dewan Housing Finance Corporation Ltd'
 p3188
-ag4
-aS'526971'
+aS'DHFL'
 p3189
-aa(lp3190
-S'Dhoot Industries Ltd'
-p3191
-ag4
-aS'523862'
+aS'511072'
+p3190
+aa(lp3191
+S'DFM Foods Ltd'
 p3192
-aa(lp3193
-S'DHP India Ltd'
-p3194
-ag4
-aS'531306'
+ag56
+aS'519588'
+p3193
+aa(lp3194
+S'DGP Securities Ltd'
 p3195
-aa(lp3196
-S'Dhruv Estates Ltd'
-p3197
-ag4
-aS'507886'
+ag56
+aS'509695'
+p3196
+aa(lp3197
+S'Dhampur Sugar Kashipur Ltd'
 p3198
-aa(lp3199
-S'Dhruva Capital Services Ltd'
-p3200
-ag4
-aS'531237'
+ag56
+aS'502512'
+p3199
+aa(lp3200
+S'Dhampur Sugar Mills Ltd'
 p3201
-aa(lp3202
-S'Dhunseri Investments Limited'
+aS'DHAMPURSUG'
+p3202
+aS'500119'
 p3203
-aS'DHUNINV'
-p3204
-aS'533336'
+aa(lp3204
+S'Dhampure Specialty Sugars Ltd'
 p3205
-aa(lp3206
-S'Dhunseri Petrochem & Tea Ltd'
-p3207
-aS'DPTL'
+ag56
+aS'531923'
+p3206
+aa(lp3207
+S'Dhanalakshmi Bank Ltd'
 p3208
-aS'523736'
+aS'DHANBANK'
 p3209
-aa(lp3210
-S'Dhvanil Chemicals Ltd'
-p3211
-ag4
-aS'531695'
+aS'532180'
+p3210
+aa(lp3211
+S'Dhanalaxmi Roto Spinners Ltd'
 p3212
-aa(lp3213
-S'Diamant Investment & Finance Ltd'
-p3214
-ag4
-aS'508860'
+ag56
+aS'521216'
+p3213
+aa(lp3214
+S'Dhandapani Finance Ltd'
 p3215
-aa(lp3216
-S'Diamines & Chemicals Ltd'
-p3217
-ag4
-aS'500120'
+ag56
+aS'511393'
+p3216
+aa(lp3217
+S'Dhanlaxmi Cotex Ltd'
 p3218
-aa(lp3219
-S'Diamond Cables Ltd'
-p3220
-aS'DIAPOWER'
+ag56
+aS'512485'
+p3219
+aa(lp3220
+S'Dhanlaxmi Fabrics Ltd'
 p3221
-aS'522163'
+ag56
+aS'521151'
 p3222
 aa(lp3223
-S'Diana Tea Company Ltd'
+S'Dhanprayog Investments Company Ltd'
 p3224
-ag4
-aS'530959'
+ag56
+aS'505533'
 p3225
 aa(lp3226
-S'DIC India Ltd'
+S'Dhanuka Agritech Ltd'
 p3227
-aS'DICIND'
+aS'DHANUKA'
 p3228
-aS'500089'
+aS'507717'
 p3229
 aa(lp3230
-S'Digjam Ltd'
+S'Dhanus Technologies Ltd'
 p3231
-aS'DIGJAM'
+aS'DHANUS'
 p3232
-aS'503796'
+aS'532903'
 p3233
 aa(lp3234
-S'Dil Ltd'
+S'Dhanvantri Jeevan Rekha Ltd'
 p3235
-ag4
-aS'506414'
+ag56
+aS'531043'
 p3236
 aa(lp3237
-S'Dil Vikas Finance Ltd'
+S'Dharamsi Morarji Chemical Company Ltd'
 p3238
-ag4
-aS'501261'
+aS'DHARAMORAR'
 p3239
-aa(lp3240
-S'Dinesh Allorga Ltd'
-p3241
-ag4
-aS'524590'
+aS'506405'
+p3240
+aa(lp3241
+S'Dharani Finance Ltd'
 p3242
-aa(lp3243
-S'DION GLOBAL SOLUTIONS LTD.'
-p3244
-aS'DION'
+ag56
+aS'511451'
+p3243
+aa(lp3244
+S'Dharani Sugars & Chemicals Ltd'
 p3245
-aS'526927'
+aS'DHARSUGAR'
 p3246
-aa(lp3247
-S'Disa India Ltd'
-p3248
-aS'GEORGFISCH'
+aS'507442'
+p3247
+aa(lp3248
+S'Dhoot Industrial Finance Ltd'
 p3249
-aS'500068'
+ag56
+aS'526971'
 p3250
 aa(lp3251
-S'Dish TV India Ltd'
+S'Dhoot Industries Ltd'
 p3252
-aS'DISHTV'
+ag56
+aS'523862'
 p3253
-aS'532839'
-p3254
-aa(lp3255
-S'Dishman Pharmaceuticals & Chemicals Ltd'
+aa(lp3254
+S'DHP India Ltd'
+p3255
+ag56
+aS'531306'
 p3256
-aS'DISHMAN'
-p3257
-aS'532526'
+aa(lp3257
+S'Dhruv Estates Ltd'
 p3258
-aa(lp3259
-S'Divis Laboratories Ltd'
-p3260
-aS'DIVISLAB'
+ag56
+aS'507886'
+p3259
+aa(lp3260
+S'Dhruva Capital Services Ltd'
 p3261
-aS'532488'
+ag56
+aS'531237'
 p3262
 aa(lp3263
-S'Divya Jyoti Industries Ltd'
+S'Dhunseri Investments Limited'
 p3264
-ag4
-aS'526285'
+aS'DHUNINV'
 p3265
-aa(lp3266
-S'Divyashakti Granites Ltd'
-p3267
-ag4
-aS'526315'
+aS'533336'
+p3266
+aa(lp3267
+S'Dhunseri Petrochem & Tea Ltd'
 p3268
-aa(lp3269
-S'DJS Stock & Shares Ltd'
+aS'DPL'
+p3269
+aS'523736'
 p3270
-ag4
-aS'511636'
-p3271
-aa(lp3272
-S'DLF Ltd'
+aa(lp3271
+S'Dhvanil Chemicals Ltd'
+p3272
+ag56
+aS'531695'
 p3273
-aS'DLF'
-p3274
-aS'532868'
+aa(lp3274
+S'Diamant Investment & Finance Ltd'
 p3275
-aa(lp3276
-S'DMC International Ltd'
-p3277
-ag4
-aS'517973'
+ag56
+aS'508860'
+p3276
+aa(lp3277
+S'Diamines & Chemicals Ltd'
 p3278
-aa(lp3279
-S'Dolat Investments Ltd'
-p3280
-ag4
-aS'505526'
+ag56
+aS'500120'
+p3279
+aa(lp3280
+S'Diamond Cables Ltd'
 p3281
-aa(lp3282
-S'Dollex Industries Ltd'
+aS'DIAPOWER'
+p3282
+aS'522163'
 p3283
-ag4
-aS'531367'
-p3284
-aa(lp3285
-S'Dolphin Medical Services Ltd'
+aa(lp3284
+S'Diana Tea Company Ltd'
+p3285
+ag56
+aS'530959'
 p3286
-ag4
-aS'526504'
-p3287
-aa(lp3288
-S'Dolphin Offshore Enterprises India Ltd'
+aa(lp3287
+S'DIC India Ltd'
+p3288
+aS'DICIND'
 p3289
-aS'DOLPHINOFF'
+aS'500089'
 p3290
-aS'522261'
-p3291
-aa(lp3292
-S'Donear Industries Ltd'
+aa(lp3291
+S'Digjam Ltd'
+p3292
+aS'DIGJAM'
 p3293
-aS'DONEAR'
+aS'503796'
 p3294
-aS'512519'
-p3295
-aa(lp3296
-S'DOW'
+aa(lp3295
+S'Dil Ltd'
+p3296
+ag56
+aS'506414'
 p3297
-aS'^DJI'
-p3298
-ag4
-aa(lp3299
-S'DPSC Ltd'
+aa(lp3298
+S'Dil Vikas Finance Ltd'
+p3299
+ag56
+aS'501261'
 p3300
-aS'DPSCLTD'
-p3301
-aS'532130'
+aa(lp3301
+S'Dinesh Allorga Ltd'
 p3302
-aa(lp3303
-S'DQ Entertainment International Ltd'
-p3304
-aS'DQE'
+ag56
+aS'524590'
+p3303
+aa(lp3304
+S'DION GLOBAL SOLUTIONS LTD.'
 p3305
-aS'533176'
+aS'FORTISFIN'
 p3306
-aa(lp3307
-S'Dr Agarwals Eye Hospital Ltd'
-p3308
-ag4
-aS'526783'
+aS'526927'
+p3307
+aa(lp3308
+S'Disa India Ltd'
 p3309
-aa(lp3310
-S'Dr Reddys Laboratories Ltd'
+aS'GEORGFISCH'
+p3310
+aS'500068'
 p3311
-aS'DRREDDY'
-p3312
-aS'500124'
+aa(lp3312
+S'Dish TV India Ltd'
 p3313
-aa(lp3314
-S'Dr Wellmans Homeopathic Laboratory Ltd'
+aS'DISHTV'
+p3314
+aS'532839'
 p3315
-ag4
-aS'531846'
-p3316
-aa(lp3317
-S'Dredging Corporation of India Ltd'
+aa(lp3316
+S'Dishman Pharmaceuticals & Chemicals Ltd'
+p3317
+aS'DISHMAN'
 p3318
-aS'DREDGECORP'
+aS'532526'
 p3319
-aS'523618'
-p3320
-aa(lp3321
-S'Drillco Metal Carbides Ltd'
+aa(lp3320
+S'Divis Laboratories Ltd'
+p3321
+aS'DIVISLAB'
 p3322
-ag4
-aS'505693'
+aS'532488'
 p3323
 aa(lp3324
-S'DS Kulkarni Developers Ltd'
+S'Divya Jyoti Industries Ltd'
 p3325
-aS'DSKULKARNI'
+ag56
+aS'526285'
 p3326
-aS'523890'
-p3327
-aa(lp3328
-S'DSJ Communications Ltd'
+aa(lp3327
+S'Divyashakti Granites Ltd'
+p3328
+ag56
+aS'526315'
 p3329
-aS'DALALSTCOM'
-p3330
-aS'526677'
+aa(lp3330
+S'DJS Stock & Shares Ltd'
 p3331
-aa(lp3332
-S'Dugar Housing Developments Ltd'
-p3333
-ag4
-aS'511634'
+ag56
+aS'511636'
+p3332
+aa(lp3333
+S'DLF Ltd'
 p3334
-aa(lp3335
-S'Dujodwala Paper Chemicals Ltd'
+aS'DLF'
+p3335
+aS'532868'
 p3336
-ag4
-aS'524276'
-p3337
-aa(lp3338
-S'Dujodwala Products Ltd'
+aa(lp3337
+S'DMC International Ltd'
+p3338
+ag56
+aS'517973'
 p3339
-ag4
-aS'514418'
-p3340
-aa(lp3341
-S'Duke Offshore Ltd'
+aa(lp3340
+S'Dolat Investments Ltd'
+p3341
+ag56
+aS'505526'
 p3342
-ag4
-aS'531471'
-p3343
-aa(lp3344
-S'Duncans Industries Ltd'
+aa(lp3343
+S'Dollex Industries Ltd'
+p3344
+ag56
+aS'531367'
 p3345
-aS'DUNCANSIND'
-p3346
-aS'590063'
+aa(lp3346
+S'Dolphin Medical Services Ltd'
 p3347
-aa(lp3348
-S'Dunlop India Ltd'
-p3349
-aS'DUNLOP'
+ag56
+aS'526504'
+p3348
+aa(lp3349
+S'Dolphin Offshore Enterprises India Ltd'
 p3350
-aS'509130'
+aS'DOLPHINOFF'
 p3351
-aa(lp3352
-S'Duro Pack Ltd'
-p3353
-ag4
-aS'526355'
+aS'522261'
+p3352
+aa(lp3353
+S'Donear Industries Ltd'
 p3354
-aa(lp3355
-S'Duroflex Engineering Ltd'
+aS'DONEAR'
+p3355
+aS'512519'
 p3356
-ag4
-aS'512229'
-p3357
-aa(lp3358
-S'Dutron Polymers Ltd'
+aa(lp3357
+S'DOW'
+p3358
+aS'^DJI'
 p3359
-ag4
-aS'517437'
-p3360
-aa(lp3361
-S'Dwarikesh Sugar Industries Ltd'
+ag56
+aa(lp3360
+S'DPSC Ltd'
+p3361
+aS'DPSCLTD'
 p3362
-aS'DWARKESH'
-p3363
-aS'532610'
+ag56
+aa(lp3363
+S'DQ Entertainment International Ltd'
 p3364
-aa(lp3365
-S'Dynacons Systems & Solutions Ltd'
+aS'DQE'
+p3365
+aS'533176'
 p3366
-aS'DYNASYS'
-p3367
-aS'532365'
+aa(lp3367
+S'Dr Agarwals Eye Hospital Ltd'
 p3368
-aa(lp3369
-S'Dynamatic Technologies Ltd'
-p3370
-aS'DYNAMATECH'
+ag56
+aS'526783'
+p3369
+aa(lp3370
+S'Dr Reddys Laboratories Ltd'
 p3371
-aS'505242'
+aS'DRREDDY'
 p3372
-aa(lp3373
-S'Dynamic Industries Ltd'
-p3374
-ag4
-aS'524818'
+aS'500124'
+p3373
+aa(lp3374
+S'Dr Wellmans Homeopathic Laboratory Ltd'
 p3375
-aa(lp3376
-S'Dynamic Microsteppers Ltd'
-p3377
-ag4
-aS'531330'
+ag56
+aS'531846'
+p3376
+aa(lp3377
+S'Dredging Corporation of India Ltd'
 p3378
-aa(lp3379
-S'Dynamic Portfolio Management & Services Ltd'
+aS'DREDGECORP'
+p3379
+aS'523618'
 p3380
-ag4
-aS'530779'
-p3381
-aa(lp3382
-S'Dynemic Products Ltd'
+aa(lp3381
+S'Drillco Metal Carbides Ltd'
+p3382
+ag56
+aS'505693'
 p3383
-ag4
-aS'532707'
-p3384
-aa(lp3385
-S'Elantas Beck India Ltd'
+aa(lp3384
+S'DS Kulkarni Developers Ltd'
+p3385
+aS'DSKULKARNI'
 p3386
-aS'DRBECK'
+aS'523890'
 p3387
-aS'500123'
-p3388
-aa(lp3389
-S'LT Overseas Ltd'
+aa(lp3388
+S'DSJ Communications Ltd'
+p3389
+aS'DALALSTCOM'
 p3390
-aS'DAAWAT'
+aS'526677'
 p3391
-aS'532783'
-p3392
-aa(lp3393
-S'Titanor Components Ltd'
+aa(lp3392
+S'Dugar Housing Developments Ltd'
+p3393
+ag56
+aS'511634'
 p3394
-aS'DENORA'
-p3395
-aS'590031'
+aa(lp3395
+S'Dujodwala Paper Chemicals Ltd'
 p3396
-aa(lp3397
-S'ESSARSHPNG'
-p3398
-aS'ESSARSHPNG'
+ag56
+aS'524276'
+p3397
+aa(lp3398
+S'Dujodwala Products Ltd'
 p3399
-ag4
-aa(lp3400
-S'EON'
-p3401
-aS'EON'
+ag56
+aS'514418'
+p3400
+aa(lp3401
+S'Duke Offshore Ltd'
 p3402
-ag4
-aa(lp3403
-S'E Wha Foam India Ltd'
-p3404
-ag4
-aS'514440'
+ag56
+aS'531471'
+p3403
+aa(lp3404
+S'Duncans Industries Ltd'
 p3405
-aa(lp3406
-S'e.com Infotech India Ltd'
+aS'DUNCANSLTD'
+p3406
+aS'590063'
 p3407
-ag4
-aS'531533'
-p3408
-aa(lp3409
-S'e.Star Infotech Ltd'
+aa(lp3408
+S'Dunlop India Ltd'
+p3409
+aS'DUNLOP'
 p3410
-ag4
-aS'532417'
+aS'509130'
 p3411
 aa(lp3412
-S'Eastcoast Steel Ltd'
+S'Duro Pack Ltd'
 p3413
-ag4
-aS'520081'
+ag56
+aS'526355'
 p3414
 aa(lp3415
-S'Eastern Gases Ltd'
+S'Duroflex Engineering Ltd'
 p3416
-ag4
-aS'590080'
+ag56
+aS'512229'
 p3417
 aa(lp3418
-S'Eastern Silk Industries Ltd'
+S'Dutron Polymers Ltd'
 p3419
-aS'EASTSILK'
+ag56
+aS'517437'
 p3420
-aS'590022'
-p3421
-aa(lp3422
-S'Eastern Sugar & Industries Ltd'
+aa(lp3421
+S'Dwarikesh Sugar Industries Ltd'
+p3422
+aS'DWARKESH'
 p3423
-aS'EASTSUGIND'
+aS'532610'
 p3424
-aS'507528'
-p3425
-aa(lp3426
-S'Eastern Treads Ltd'
+aa(lp3425
+S'Dynacons Systems & Solutions Ltd'
+p3426
+aS'DSSL'
 p3427
-ag4
-aS'531346'
+aS'532365'
 p3428
 aa(lp3429
-S'Easun Reyrolle Ltd'
+S'Dynamatic Technologies Ltd'
 p3430
-aS'EASUNREYRL'
+aS'DYNAMATECH'
 p3431
-aS'532751'
+aS'505242'
 p3432
 aa(lp3433
-S'ECE Industries Ltd'
+S'Dynamic Industries Ltd'
 p3434
-aS'ECEIND'
+ag56
+aS'524818'
 p3435
-aS'532491'
-p3436
-aa(lp3437
-S'eClerx Services Ltd'
+aa(lp3436
+S'Dynamic Microsteppers Ltd'
+p3437
+ag56
+aS'531330'
 p3438
-aS'ECLERX'
-p3439
-aS'532927'
+aa(lp3439
+S'Dynamic Portfolio Management & Services Ltd'
 p3440
-aa(lp3441
-S'Ecoboard Industries Ltd'
-p3442
-aS'WESTERNBIO'
+ag56
+aS'530779'
+p3441
+aa(lp3442
+S'Dynemic Products Ltd'
 p3443
-aS'523732'
+ag56
+aS'532707'
 p3444
 aa(lp3445
-S'Ecoplast Ltd'
+S'Elantas Beck India Ltd'
 p3446
-ag4
-aS'526703'
+aS'DRBECK'
 p3447
-aa(lp3448
-S'Edelweiss Capital Ltd'
-p3449
-aS'EDELWEISS'
+aS'500123'
+p3448
+aa(lp3449
+S'LT Overseas Ltd'
 p3450
-aS'532922'
+aS'DAAWAT'
 p3451
-aa(lp3452
-S'Edserv Softsystems Ltd'
-p3453
-aS'EDSERV'
+aS'532783'
+p3452
+aa(lp3453
+S'Titanor Components Ltd'
 p3454
-aS'533055'
+aS'DENORA'
 p3455
-aa(lp3456
-S'Educomp Solutions Ltd'
-p3457
-aS'EDUCOMP'
+aS'590031'
+p3456
+aa(lp3457
+S'ESSARSHPNG'
 p3458
-aS'532696'
+aS'ESSARSHPNG'
 p3459
-aa(lp3460
-S'Eicher Motors Ltd'
-p3461
-aS'EICHERMOT'
+aS'533704'
+p3460
+aa(lp3461
+S'EON'
 p3462
-aS'505200'
+aS'EON'
 p3463
-aa(lp3464
-S'EID Parry India Ltd'
-p3465
-aS'EIDPARRY'
+aS'532658'
+p3464
+aa(lp3465
+S'E Wha Foam India Ltd'
 p3466
-aS'500125'
+ag56
+aS'514440'
 p3467
 aa(lp3468
-S'EIH Associated Hotels Ltd'
+S'e.com Infotech India Ltd'
 p3469
-aS'EIHAHOTELS'
+ag56
+aS'531533'
 p3470
-aS'523127'
-p3471
-aa(lp3472
-S'EIH Ltd'
+aa(lp3471
+S'e.Star Infotech Ltd'
+p3472
+ag56
+aS'532417'
 p3473
-aS'EIHOTEL'
-p3474
-aS'500840'
+aa(lp3474
+S'Eastcoast Steel Ltd'
 p3475
-aa(lp3476
-S'Eimco Elecon India Ltd'
+aS'ESTCSTSTEL'
+p3476
+aS'520081'
 p3477
-aS'EIMCOELECO'
-p3478
-aS'523708'
+aa(lp3478
+S'Eastern Gases Ltd'
 p3479
-aa(lp3480
-S'Ekam Leasing & Finance Company Ltd'
-p3481
-ag4
-aS'530581'
+ag56
+aS'590080'
+p3480
+aa(lp3481
+S'Eastern Silk Industries Ltd'
 p3482
-aa(lp3483
-S'EL CID Investments Ltd'
+aS'EASTSILK'
+p3483
+aS'590022'
 p3484
-ag4
-aS'503681'
-p3485
-aa(lp3486
-S'El Forge Ltd'
+aa(lp3485
+S'Eastern Sugar & Industries Ltd'
+p3486
+aS'EASTSUGIND'
 p3487
-aS'ELFORGE'
+aS'507528'
 p3488
-aS'531144'
-p3489
-aa(lp3490
-S'Elango Industries Ltd'
+aa(lp3489
+S'Eastern Treads Ltd'
+p3490
+ag56
+aS'531346'
 p3491
-ag4
-aS'513452'
-p3492
-aa(lp3493
-S'Elantas Beck India Ltd'
+aa(lp3492
+S'Easun Reyrolle Ltd'
+p3493
+aS'EASUNREYRL'
 p3494
-aS'DRBECK'
+aS'532751'
 p3495
-aS'500123'
-p3496
-aa(lp3497
-S'Eldeco Housing & Industries Ltd'
+aa(lp3496
+S'ECE Industries Ltd'
+p3497
+aS'ECEIND'
 p3498
-ag4
-aS'523329'
+aS'532491'
 p3499
 aa(lp3500
-S'Elder Health Care Ltd'
+S'eClerx Services Ltd'
 p3501
-ag4
-aS'524830'
+aS'ECLERX'
 p3502
-aa(lp3503
-S'Elder Pharmaceuticals Ltd'
-p3504
-aS'ELDERPHARM'
+aS'532927'
+p3503
+aa(lp3504
+S'Ecoboard Industries Ltd'
 p3505
-aS'532322'
+aS'WESTERNBIO'
 p3506
-aa(lp3507
-S'Elder Projects Ltd'
-p3508
-ag4
-aS'524788'
+aS'523732'
+p3507
+aa(lp3508
+S'Ecoplast Ltd'
 p3509
-aa(lp3510
-S'Elecon Engineering Company Ltd'
-p3511
-aS'ELECON'
+ag56
+aS'526703'
+p3510
+aa(lp3511
+S'Edelweiss Capital Ltd'
 p3512
-aS'505700'
+aS'EDELWEISS'
 p3513
-aa(lp3514
-S'Electrosteel Castings Ltd'
-p3515
-aS'ELECTCAST'
+aS'532922'
+p3514
+aa(lp3515
+S'Edserv Softsystems Ltd'
 p3516
-aS'500128'
+aS'EDSERV'
 p3517
-aa(lp3518
-S'Electrosteel Steels Ltd'
-p3519
-aS'ESL'
+aS'533055'
+p3518
+aa(lp3519
+S'Educomp Solutions Ltd'
 p3520
-aS'533264'
+aS'EDUCOMP'
 p3521
-aa(lp3522
-S'Electrotherm India Ltd'
-p3523
-aS'ELECTHERM'
+aS'532696'
+p3522
+aa(lp3523
+S'Eicher Motors Ltd'
 p3524
-aS'526608'
+aS'EICHERMOT'
 p3525
-aa(lp3526
-S'Elegant Floriculture & Agrotech India Ltd'
-p3527
-ag4
-aS'526473'
+aS'505200'
+p3526
+aa(lp3527
+S'EID Parry India Ltd'
 p3528
-aa(lp3529
-S'Elegant Marbles & Grani Industries Ltd'
+aS'EIDPARRY'
+p3529
+aS'500125'
 p3530
-ag4
-aS'526705'
-p3531
-aa(lp3532
-S'Elgi Equipments Ltd'
+aa(lp3531
+S'EIH Associated Hotels Ltd'
+p3532
+aS'EIHAHOTELS'
 p3533
-aS'ELGIEQUIP'
+aS'523127'
 p3534
-aS'522074'
-p3535
-aa(lp3536
-S'Elgi Finance Ltd'
+aa(lp3535
+S'EIH Ltd'
+p3536
+aS'EIHOTEL'
 p3537
-ag4
-aS'500130'
+aS'500840'
 p3538
 aa(lp3539
-S'Elgi Rubber Company Ltd'
+S'Eimco Elecon India Ltd'
 p3540
-aS'ELGIRUBCO'
+aS'EIMCOELECO'
 p3541
-aS'590023'
+aS'523708'
 p3542
 aa(lp3543
-S'Ellenbarrie Industrial Gases Ltd'
+S'Ekam Leasing & Finance Company Ltd'
 p3544
-ag4
-aS'590087'
+ag56
+aS'530581'
 p3545
 aa(lp3546
-S'Ellora Paper Mills Ltd'
+S'EL CID Investments Ltd'
 p3547
-ag4
-aS'502374'
+ag56
+aS'503681'
 p3548
 aa(lp3549
-S'Elnet Technologies Ltd'
+S'El Forge Ltd'
 p3550
-aS'ELNET'
+aS'ELFORGE'
 p3551
-aS'517477'
+aS'531144'
 p3552
 aa(lp3553
-S'Elpro International Ltd'
+S'Elango Industries Ltd'
 p3554
-aS'ELPROINTL'
+ag56
+aS'513452'
 p3555
-aS'504000'
-p3556
-aa(lp3557
-S'Elpro Packaging Ltd'
+aa(lp3556
+S'Elantas Beck India Ltd'
+p3557
+aS'DRBECK'
 p3558
-ag4
-aS'526347'
+aS'500123'
 p3559
 aa(lp3560
-S'Eltrol Ltd'
+S'Eldeco Housing & Industries Ltd'
 p3561
-ag4
-aS'530835'
+ag56
+aS'523329'
 p3562
 aa(lp3563
-S'EMA India Ltd'
+S'Elder Health Care Ltd'
 p3564
-ag4
-aS'522027'
+ag56
+aS'524830'
 p3565
 aa(lp3566
-S'Emami Infrastructure Ltd'
+S'Elder Pharmaceuticals Ltd'
 p3567
-aS'EMAMIINFRA'
+aS'ELDERPHARM'
 p3568
-aS'533218'
+aS'532322'
 p3569
 aa(lp3570
-S'Emami Ltd'
+S'Elder Projects Ltd'
 p3571
-aS'EMAMILTD'
+ag56
+aS'524788'
 p3572
-aS'531162'
-p3573
-aa(lp3574
-S'Emami Paper Mills Ltd'
+aa(lp3573
+S'Elecon Engineering Company Ltd'
+p3574
+aS'ELECON'
 p3575
-ag4
-aS'533208'
+aS'505700'
 p3576
 aa(lp3577
-S'Emco Ltd'
+S'Electrosteel Castings Ltd'
 p3578
-aS'EMCO'
+aS'ELECTCAST'
 p3579
-aS'504008'
+aS'500128'
 p3580
 aa(lp3581
-S'Emgee Cables & Communications Ltd'
+S'Electrosteel Steels Ltd'
 p3582
-ag4
-aS'530333'
+aS'ESL'
 p3583
-aa(lp3584
-S'Emkay Global Financial Services Ltd'
-p3585
-aS'EMKAY'
+aS'533264'
+p3584
+aa(lp3585
+S'Electrotherm India Ltd'
 p3586
-aS'532737'
+aS'ELECTHERM'
 p3587
-aa(lp3588
-S'Emmbi Polyarns Ltd'
-p3589
-aS'EMMBI'
+aS'526608'
+p3588
+aa(lp3589
+S'Elegant Floriculture & Agrotech India Ltd'
 p3590
-aS'533161'
+ag56
+aS'526473'
 p3591
 aa(lp3592
-S'Emmessar Biotech & Nutrition Ltd'
+S'Elegant Marbles & Grani Industries Ltd'
 p3593
-ag4
-aS'524768'
+ag56
+aS'526705'
 p3594
 aa(lp3595
-S'Emmsons International Ltd'
+S'Elgi Equipments Ltd'
 p3596
-ag4
-aS'532038'
+aS'ELGIEQUIP'
 p3597
-aa(lp3598
-S'Empee Distilleries Ltd'
-p3599
-aS'EDL'
+aS'522074'
+p3598
+aa(lp3599
+S'Elgi Finance Ltd'
 p3600
-aS'532920'
+ag56
+aS'500130'
 p3601
 aa(lp3602
-S'Empee Sugars & Chemicals Ltd'
+S'Elgi Rubber Company Ltd'
 p3603
-aS'EMPEESUG'
+aS'ELGIRUBCO'
 p3604
-aS'500132'
+aS'590023'
 p3605
 aa(lp3606
-S'Empire Industries Ltd'
+S'Ellenbarrie Industrial Gases Ltd'
 p3607
-ag4
-aS'509525'
+ag56
+aS'590087'
 p3608
 aa(lp3609
-S'Empower Industries India Ltd'
+S'Ellora Paper Mills Ltd'
 p3610
-ag4
-aS'504351'
+ag56
+aS'502374'
 p3611
 aa(lp3612
-S'Emtex Industries India Ltd'
+S'Elnet Technologies Ltd'
 p3613
-aS'EMTEXIND'
+aS'ELNET'
 p3614
-aS'521099'
+aS'517477'
 p3615
 aa(lp3616
-S'Encore Software Ltd'
+S'Elpro International Ltd'
 p3617
-ag4
-aS'531750'
+aS'ELPROINTL'
 p3618
-aa(lp3619
-S'Energy Development Company Ltd'
-p3620
-aS'ENERGYDEV'
+aS'504000'
+p3619
+aa(lp3620
+S'Elpro Packaging Ltd'
 p3621
-aS'532219'
+ag56
+aS'526347'
 p3622
 aa(lp3623
-S'Engineers India Ltd'
+S'Eltrol Ltd'
 p3624
-aS'ENGINERSIN'
+ag56
+aS'530835'
 p3625
-aS'532178'
-p3626
-aa(lp3627
-S'English Indian Clays Ltd'
+aa(lp3626
+S'EMA India Ltd'
+p3627
+ag56
+aS'522027'
 p3628
-ag4
-aS'526560'
-p3629
-aa(lp3630
-S'ENKEI WHEELS (INDIA) LTD'
+aa(lp3629
+S'Emami Infrastructure Ltd'
+p3630
+aS'EMAMIINFRA'
 p3631
-ag4
-aS'533477'
+aS'533218'
 p3632
 aa(lp3633
-S'Ennore Coke Ltd'
+S'Emami Ltd'
 p3634
-ag4
-aS'512369'
+aS'EMAMILTD'
 p3635
-aa(lp3636
-S'Enrich Industries Ltd'
-p3637
-ag4
-aS'531127'
+aS'531162'
+p3636
+aa(lp3637
+S'Emami Paper Mills Ltd'
 p3638
-aa(lp3639
-S'Ensa Steel Industries Ltd'
-p3640
-ag4
-aS'512135'
+ag56
+aS'533208'
+p3639
+aa(lp3640
+S'Emco Ltd'
 p3641
-aa(lp3642
-S'Enso Secutrack Ltd'
+aS'EMCO'
+p3642
+aS'504008'
 p3643
-ag4
-aS'532984'
-p3644
-aa(lp3645
-S'Entegra Ltd'
+aa(lp3644
+S'Emgee Cables & Communications Ltd'
+p3645
+ag56
+aS'530333'
 p3646
-aS'ENTEGRA'
-p3647
-aS'532287'
+aa(lp3647
+S'Emkay Global Financial Services Ltd'
 p3648
-aa(lp3649
-S'Enterprise Intelligent Systems Ltd'
+aS'EMKAY'
+p3649
+aS'532737'
 p3650
-ag4
-aS'530801'
-p3651
-aa(lp3652
-S'Enterprise International Ltd'
+aa(lp3651
+S'Emmbi Polyarns Ltd'
+p3652
+aS'EMMBI'
 p3653
-ag4
-aS'526574'
+aS'533161'
 p3654
 aa(lp3655
-S'Entertainment Network India Ltd'
+S'Emmessar Biotech & Nutrition Ltd'
 p3656
-aS'ENIL'
+ag56
+aS'524768'
 p3657
-aS'532700'
-p3658
-aa(lp3659
-S'Envair Electrodyne Ltd'
+aa(lp3658
+S'Emmsons International Ltd'
+p3659
+ag56
+aS'532038'
 p3660
-aS'KIRLOSELEC'
-p3661
-aS'500246'
+aa(lp3661
+S'Empee Distilleries Ltd'
 p3662
-aa(lp3663
-S'Eon Electric Limited'
+aS'EDL'
+p3663
+aS'532920'
 p3664
-aS'EONELECT'
-p3665
-aS'532658'
+aa(lp3665
+S'Empee Sugars & Chemicals Ltd'
 p3666
-aa(lp3667
-S'eonour Technologies Ltd'
+aS'EMPEESUG'
+p3667
+aS'500132'
 p3668
-ag4
-aS'532308'
-p3669
-aa(lp3670
-S'EPC Industrie Ltd'
+aa(lp3669
+S'Empire Industries Ltd'
+p3670
+ag56
+aS'509525'
 p3671
-ag4
-aS'523754'
-p3672
-aa(lp3673
-S'EPIC Energy Ltd'
+aa(lp3672
+S'Empower Industries India Ltd'
+p3673
+ag56
+aS'504351'
 p3674
-ag4
-aS'530407'
-p3675
-aa(lp3676
-S'EPIC Enzymes, Pharmaceuticals & Industrial Chemicals Ltd'
+aa(lp3675
+S'Emtex Industries India Ltd'
+p3676
+aS'EMTEXIND'
 p3677
-ag4
-aS'524374'
+aS'521099'
 p3678
 aa(lp3679
-S'Era Financial Services India Ltd'
+S'Encore Software Ltd'
 p3680
-ag4
-aS'531615'
+ag56
+aS'531750'
 p3681
 aa(lp3682
-S'Era Infra Engineering Ltd'
+S'Energy Development Company Ltd'
 p3683
-aS'ERAINFRA'
+aS'ENERGYDEV'
 p3684
-aS'530323'
+aS'532219'
 p3685
 aa(lp3686
-S'Eros International Media Ltd'
+S'Engineers India Ltd'
 p3687
-aS'EROSMEDIA'
+aS'ENGINERSIN'
 p3688
-aS'533261'
+aS'532178'
 p3689
 aa(lp3690
-S'ERP Soft Systems Ltd'
+S'English Indian Clays Ltd'
 p3691
-ag4
-aS'530909'
+ag56
+aS'526560'
 p3692
 aa(lp3693
-S'Esaar India Ltd'
+S'ENKEI WHEELS (INDIA) LTD'
 p3694
-ag4
-aS'531502'
+ag56
+aS'533477'
 p3695
 aa(lp3696
-S'Esab India Ltd'
+S'Ennore Coke Ltd'
 p3697
-aS'ESABINDIA'
+ag56
+aS'512369'
 p3698
-aS'500133'
-p3699
-aa(lp3700
-S'Escorts Finance Ltd'
+aa(lp3699
+S'Enrich Industries Ltd'
+p3700
+ag56
+aS'531127'
 p3701
-aS'ESCORTSFIN'
-p3702
-aS'511716'
+aa(lp3702
+S'Ensa Steel Industries Ltd'
 p3703
-aa(lp3704
-S'Escorts Ltd'
-p3705
-aS'ESCORTS'
+ag56
+aS'512135'
+p3704
+aa(lp3705
+S'Enso Secutrack Ltd'
 p3706
-aS'500495'
+ag56
+aS'532984'
 p3707
 aa(lp3708
-S'Eskay KnIT India Ltd'
+S'Entegra Ltd'
 p3709
-aS'SHREEKRPET'
+aS'ENTEGRA'
 p3710
-aS'514118'
+aS'532287'
 p3711
 aa(lp3712
-S'Ess Dee Aluminium Ltd'
+S'Enterprise Intelligent Systems Ltd'
 p3713
-aS'ESSDEE'
+ag56
+aS'530801'
 p3714
-aS'532787'
-p3715
-aa(lp3716
-S'Essar Oil Ltd'
+aa(lp3715
+S'Enterprise International Ltd'
+p3716
+ag56
+aS'526574'
 p3717
-aS'ESSAROIL'
-p3718
-aS'500134'
+aa(lp3718
+S'Entertainment Network India Ltd'
 p3719
-aa(lp3720
-S'Essar Ports Limited'
+aS'ENIL'
+p3720
+aS'532700'
 p3721
-aS'ESSARPORTS'
-p3722
-aS'500630'
+aa(lp3722
+S'Envair Electrodyne Ltd'
 p3723
-aa(lp3724
-S'Essar Securities Ltd'
+aS'KIRLOSELEC'
+p3724
+aS'500246'
 p3725
-ag4
-aS'533149'
-p3726
-aa(lp3727
-S'Essar Steel Ltd'
+aa(lp3726
+S'Eon Electric Limited'
+p3727
+aS'EON'
 p3728
-aS'ESTL'
+aS'532658'
 p3729
-aS'500627'
-p3730
-aa(lp3731
-S'Essel Propack Ltd'
+aa(lp3730
+S'eonour Technologies Ltd'
+p3731
+ag56
+aS'532308'
 p3732
-aS'ESSELPACK'
-p3733
-aS'500135'
+aa(lp3733
+S'EPC Industrie Ltd'
 p3734
-aa(lp3735
-S'Essen Supplements India Ltd'
-p3736
-ag4
-aS'526532'
+ag56
+aS'523754'
+p3735
+aa(lp3736
+S'EPIC Energy Ltd'
 p3737
-aa(lp3738
-S'Ester Industries Ltd'
-p3739
-aS'ESTER'
+ag56
+aS'530407'
+p3738
+aa(lp3739
+S'EPIC Enzymes, Pharmaceuticals & Industrial Chemicals Ltd'
 p3740
-aS'500136'
+ag56
+aS'524374'
 p3741
 aa(lp3742
-S'ETC Networks Ltd'
+S'Era Financial Services India Ltd'
 p3743
-aS'ETC'
+ag56
+aS'531615'
 p3744
-aS'532958'
-p3745
-aa(lp3746
-S'Euro Ceramics Ltd'
+aa(lp3745
+S'Era Infra Engineering Ltd'
+p3746
+aS'ERAINFRA'
 p3747
-aS'EUROCERA'
+aS'530323'
 p3748
-aS'532823'
-p3749
-aa(lp3750
-S'Euro Gold Jewellery Ltd'
+aa(lp3749
+S'Eros International Media Ltd'
+p3750
+aS'EROSMEDIA'
 p3751
-ag4
-aS'531082'
+aS'533261'
 p3752
 aa(lp3753
-S'Euro Leder Fashion Ltd'
+S'ERP Soft Systems Ltd'
 p3754
-ag4
-aS'526468'
+ag56
+aS'530909'
 p3755
 aa(lp3756
-S'Euro Multivision Ltd'
+S'Esaar India Ltd'
 p3757
-aS'EUROMULTI'
+ag56
+aS'531502'
 p3758
-aS'533109'
-p3759
-aa(lp3760
-S'Eurotex Industries & Exports Ltd'
+aa(lp3759
+S'Esab India Ltd'
+p3760
+aS'ESABINDIA'
 p3761
-aS'EUROTEXIND'
+aS'500133'
 p3762
-aS'521014'
-p3763
-aa(lp3764
-S'Eveready Industries India Ltd'
+aa(lp3763
+S'Escorts Finance Ltd'
+p3764
+aS'ESCORTSFIN'
 p3765
-aS'EVEREADY'
+aS'511716'
 p3766
-aS'531508'
-p3767
-aa(lp3768
-S'Everest Buildcon Ltd'
+aa(lp3767
+S'Escorts Ltd'
+p3768
+aS'ESCORTS'
 p3769
-ag4
-aS'506162'
+aS'500495'
 p3770
 aa(lp3771
-S'Everest Fintrade Ltd'
+S'Eskay KnIT India Ltd'
 p3772
-ag4
-aS'512157'
+aS'SHREEKRPET'
 p3773
-aa(lp3774
-S'Everest Industries Ltd'
-p3775
-aS'EVERESTIND'
+aS'514118'
+p3774
+aa(lp3775
+S'Ess Dee Aluminium Ltd'
 p3776
-aS'508906'
+aS'ESSDEE'
 p3777
-aa(lp3778
-S'Everest Kanto Cylinder Ltd'
-p3779
-aS'EKC'
+aS'532787'
+p3778
+aa(lp3779
+S'Essar Oil Ltd'
 p3780
-aS'532684'
+aS'ESSAROIL'
 p3781
-aa(lp3782
-S'Everlon Synthetics Ltd'
-p3783
-ag4
-aS'514358'
+aS'500134'
+p3782
+aa(lp3783
+S'Essar Ports Limited'
 p3784
-aa(lp3785
-S'Everonn Systems India Ltd'
+aS'ESSARPORTS'
+p3785
+aS'500630'
 p3786
-aS'EVERONN'
-p3787
-aS'532876'
+aa(lp3787
+S'Essar Securities Ltd'
 p3788
-aa(lp3789
-S'Evinix Accessories Ltd'
-p3790
-aS'EVINIX'
+ag56
+aS'533149'
+p3789
+aa(lp3790
+S'Essar Steel Ltd'
 p3791
-aS'532818'
+aS'ESTL'
 p3792
-aa(lp3793
-S'Excel Crop Care Ltd'
-p3794
-aS'EXCELCROP'
+aS'500627'
+p3793
+aa(lp3794
+S'Essel Propack Ltd'
 p3795
-aS'532511'
+aS'ESSELPACK'
 p3796
-aa(lp3797
-S'Excel Glasses Ltd'
-p3798
-ag4
-aS'502223'
+aS'500135'
+p3797
+aa(lp3798
+S'Essen Supplements India Ltd'
 p3799
-aa(lp3800
-S'Excel Industries Ltd'
-p3801
-aS'EXCELINDUS'
+ag56
+aS'526532'
+p3800
+aa(lp3801
+S'Ester Industries Ltd'
 p3802
-aS'500650'
+aS'ESTER'
 p3803
-aa(lp3804
-S'Excel Infoways Ltd'
-p3805
-aS'EXCELINFO'
+aS'500136'
+p3804
+aa(lp3805
+S'ETC Networks Ltd'
 p3806
-aS'533090'
+aS'ETC'
 p3807
-aa(lp3808
-S'Exdon Trading Company Ltd'
-p3809
-ag4
-aS'512017'
+aS'532958'
+p3808
+aa(lp3809
+S'Euro Ceramics Ltd'
 p3810
-aa(lp3811
-S'Exelon Infrastructure Ltd'
+aS'EUROCERA'
+p3811
+aS'532823'
 p3812
-ag4
-aS'530337'
-p3813
-aa(lp3814
-S'Exide Industries Ltd'
+aa(lp3813
+S'Euro Gold Jewellery Ltd'
+p3814
+aS'ALANKIT'
 p3815
-aS'EXIDEIND'
+aS'531082'
 p3816
-aS'500086'
-p3817
-aa(lp3818
-S'Explicit Finance Ltd'
+aa(lp3817
+S'Euro Leder Fashion Ltd'
+p3818
+ag56
+aS'526468'
 p3819
-ag4
-aS'530571'
-p3820
-aa(lp3821
-S'Expo Gas Containers Ltd'
+aa(lp3820
+S'Euro Multivision Ltd'
+p3821
+aS'EUROMULTI'
 p3822
-ag4
-aS'526614'
+aS'533109'
 p3823
 aa(lp3824
-S'Extol Commercial Ltd'
+S'Eurotex Industries & Exports Ltd'
 p3825
-ag4
-aS'512163'
+aS'EUROTEXIND'
 p3826
-aa(lp3827
-S'EZ-Comm Trade Technologies Ltd'
-p3828
-ag4
-aS'531621'
+aS'521014'
+p3827
+aa(lp3828
+S'Eveready Industries India Ltd'
 p3829
-aa(lp3830
-S'FRL'
+aS'EVEREADY'
+p3830
+aS'531508'
 p3831
-aS'FRL'
-p3832
-ag4
-aa(lp3833
-S'FCEL'
+aa(lp3832
+S'Everest Buildcon Ltd'
+p3833
+ag56
+aS'506162'
 p3834
-aS'FCEL'
-p3835
-ag4
-aa(lp3836
-S'FLFL'
+aa(lp3835
+S'Everest Fintrade Ltd'
+p3836
+ag56
+aS'512157'
 p3837
-aS'FLFL'
-p3838
-ag4
-aa(lp3839
-S'FVIL'
+aa(lp3838
+S'Everest Industries Ltd'
+p3839
+aS'EVERESTIND'
 p3840
-aS'FVIL'
+aS'508906'
 p3841
-ag4
 aa(lp3842
-S'FRLDVR'
+S'Everest Kanto Cylinder Ltd'
 p3843
-aS'FRLDVR'
+aS'EKC'
 p3844
-ag4
-aa(lp3845
-S'FMNL'
-p3846
-aS'FMNL'
+aS'532684'
+p3845
+aa(lp3846
+S'Everlon Synthetics Ltd'
 p3847
-ag4
-aa(lp3848
-S'FLEXITUFF'
-p3849
-aS'FLEXITUFF'
+ag56
+aS'514358'
+p3848
+aa(lp3849
+S'Everonn Systems India Ltd'
 p3850
-ag4
-aa(lp3851
-S'Facor Alloys Ltd'
+aS'EVERONN'
+p3851
+aS'532876'
 p3852
-ag4
-aS'532656'
-p3853
-aa(lp3854
-S'Facor Steels Ltd'
+aa(lp3853
+S'Evinix Accessories Ltd'
+p3854
+aS'EVINIX'
 p3855
-ag4
-aS'532657'
+aS'532818'
 p3856
 aa(lp3857
-S'Fact Enterprise Ltd'
+S'Excel Crop Care Ltd'
 p3858
-ag4
-aS'511668'
+aS'EXCELCROP'
 p3859
-aa(lp3860
-S'FAG Bearings India Ltd'
-p3861
-aS'FAGBEARING'
+aS'532511'
+p3860
+aa(lp3861
+S'Excel Glasses Ltd'
 p3862
-aS'505790'
+ag56
+aS'502223'
 p3863
 aa(lp3864
-S'Fairdeal Filaments Ltd'
+S'Excel Industries Ltd'
 p3865
-ag4
-aS'514474'
+aS'EXCELINDUS'
 p3866
-aa(lp3867
-S'Fairfield Atlas Ltd'
-p3868
-ag4
-aS'520145'
+aS'500650'
+p3867
+aa(lp3868
+S'Excel Infoways Ltd'
 p3869
-aa(lp3870
-S'Falcon Tyres Ltd'
+aS'EXCEL'
+p3870
+aS'533090'
 p3871
-aS'FALCONTYRE'
-p3872
-aS'509527'
+aa(lp3872
+S'Exdon Trading Company Ltd'
 p3873
-aa(lp3874
-S'Fame India Ltd'
-p3875
-aS'FAME'
+ag56
+aS'512017'
+p3874
+aa(lp3875
+S'Exelon Infrastructure Ltd'
 p3876
-aS'532631'
+ag56
+aS'530337'
 p3877
 aa(lp3878
-S'Farmax India Ltd'
+S'Exide Industries Ltd'
 p3879
-aS'FARMAXIND'
+aS'EXIDEIND'
 p3880
-aS'590094'
+aS'500086'
 p3881
 aa(lp3882
-S'Farry Industries Ltd'
+S'Explicit Finance Ltd'
 p3883
-ag4
-aS'531252'
+ag56
+aS'530571'
 p3884
 aa(lp3885
-S'Fast Track Entertainment Ltd'
+S'Expo Gas Containers Ltd'
 p3886
-ag4
-aS'532084'
+ag56
+aS'526614'
 p3887
 aa(lp3888
-S'Faze Three Ltd'
+S'Extol Commercial Ltd'
 p3889
-aS'FAZETHREE'
+ag56
+aS'512163'
 p3890
-aS'530079'
-p3891
-aa(lp3892
-S'FCS Software Solutions Ltd'
+aa(lp3891
+S'EZ-Comm Trade Technologies Ltd'
+p3892
+ag56
+aS'531621'
 p3893
-aS'FCSSOFT'
-p3894
-aS'532666'
+aa(lp3894
+S'FRL'
 p3895
-aa(lp3896
-S'FDC Ltd'
+aS'FRL'
+p3896
+aS'523574'
 p3897
-aS'FDC'
-p3898
-aS'531599'
+aa(lp3898
+S'FCEL'
 p3899
-aa(lp3900
-S'Fedders Lloyd Corporation Ltd'
+aS'FCEL'
+p3900
+aS'533400'
 p3901
-aS'FEDDERLOYD'
-p3902
-aS'500139'
+aa(lp3902
+S'FLFL'
 p3903
-aa(lp3904
-S'Federal Bank Ltd'
+aS'FLFL'
+p3904
+aS'536507'
 p3905
-aS'FEDERALBNK'
-p3906
-aS'500469'
+aa(lp3906
+S'FVIL'
 p3907
-aa(lp3908
-S'Federal-Mogul Goetze (India) Ltd'
+aS'FCEL'
+p3908
+aS'533400'
 p3909
-aS'FMGOETZE'
-p3910
-aS'505744'
+aa(lp3910
+S'FRLDVR'
 p3911
-aa(lp3912
-S'Fem Care Pharma Ltd'
+aS'FRLDVR'
+p3912
+aS'570002'
 p3913
-ag4
-aS'524608'
-p3914
-aa(lp3915
-S'Fenoplast Ltd'
+aa(lp3914
+S'FMNL'
+p3915
+aS'FMNL'
 p3916
-ag4
-aS'526689'
+aS'533296'
 p3917
 aa(lp3918
-S'Ferro Alloys Corporation Ltd'
+S'FLEXITUFF'
 p3919
-aS'FERROALLOY'
+aS'FLEXITUFF'
 p3920
-aS'500141'
+aS'533638'
 p3921
 aa(lp3922
-S'Fertilizers & Chemicals Travancore Ltd'
+S'Facor Alloys Ltd'
 p3923
-aS'FACT'
+ag56
+aS'532656'
 p3924
-aS'590024'
-p3925
-aa(lp3926
-S'FGP Ltd'
+aa(lp3925
+S'Facor Steels Ltd'
+p3926
+ag56
+aS'532657'
 p3927
-aS'FGPIND'
-p3928
-aS'500142'
+aa(lp3928
+S'Fact Enterprise Ltd'
 p3929
-aa(lp3930
-S'Fiberweb India Ltd'
-p3931
-ag4
-aS'507910'
+ag56
+aS'511668'
+p3930
+aa(lp3931
+S'FAG Bearings India Ltd'
 p3932
-aa(lp3933
-S'Ficon Lease & Finance Ltd'
+aS'FAGBEARING'
+p3933
+aS'505790'
 p3934
-ag4
-aS'531902'
-p3935
-aa(lp3936
-S'FICS Consultancy Services Ltd'
+aa(lp3935
+S'Fairdeal Filaments Ltd'
+p3936
+ag56
+aS'514474'
 p3937
-ag4
-aS'508815'
-p3938
-aa(lp3939
-S'Fiem Industries Ltd'
+aa(lp3938
+S'Fairfield Atlas Ltd'
+p3939
+ag56
+aS'520145'
 p3940
-aS'FIEMIND'
-p3941
-aS'532768'
+aa(lp3941
+S'Falcon Tyres Ltd'
 p3942
-aa(lp3943
-S'Filatex Fashions Ltd'
+aS'FALCONTYRE'
+p3943
+aS'509527'
 p3944
-ag4
-aS'532022'
-p3945
-aa(lp3946
-S'Filatex India Ltd'
+aa(lp3945
+S'Fame India Ltd'
+p3946
+aS'FAME'
 p3947
-aS'FILATEX'
+aS'532631'
 p3948
-aS'526227'
-p3949
-aa(lp3950
-S'Filmcity Media Ltd'
+aa(lp3949
+S'Farmax India Ltd'
+p3950
+aS'FARMAXIND'
 p3951
-ag4
-aS'531486'
+aS'590094'
 p3952
 aa(lp3953
-S'Filtron Engineers Ltd'
+S'Farry Industries Ltd'
 p3954
-ag4
-aS'531191'
+ag56
+aS'531252'
 p3955
 aa(lp3956
-S'Finalysis Credit & Services Ltd'
+S'Fast Track Entertainment Ltd'
 p3957
-ag4
-aS'531820'
+ag56
+aS'532084'
 p3958
 aa(lp3959
-S'Financial Eyes India Ltd'
+S'Faze Three Ltd'
 p3960
-ag4
-aS'530863'
+aS'FAZETHREE'
 p3961
-aa(lp3962
-S'Financial Technologies India Ltd'
-p3963
-aS'FINANTECH'
+aS'530079'
+p3962
+aa(lp3963
+S'FCS Software Solutions Ltd'
 p3964
-aS'526881'
+aS'FCSSOFT'
 p3965
-aa(lp3966
-S'Fine Line Circuits Ltd'
-p3967
-ag4
-aS'517264'
+aS'532666'
+p3966
+aa(lp3967
+S'FDC Ltd'
 p3968
-aa(lp3969
-S'Fine Plast Polymers Ltd'
+aS'FDC'
+p3969
+aS'531599'
 p3970
-ag4
-aS'514336'
-p3971
-aa(lp3972
-S'Fineotex Chemical Limited'
+aa(lp3971
+S'Fedders Lloyd Corporation Ltd'
+p3972
+aS'FEDDERLOYD'
 p3973
-aS'FCL'
+aS'500139'
 p3974
-aS'533333'
-p3975
-aa(lp3976
-S'Finolex Cables Ltd'
+aa(lp3975
+S'Federal Bank Ltd'
+p3976
+aS'FEDERALBNK'
 p3977
-aS'FINCABLES'
+aS'500469'
 p3978
-aS'500144'
-p3979
-aa(lp3980
-S'Finolex Industries Ltd'
+aa(lp3979
+S'Federal-Mogul Goetze (India) Ltd'
+p3980
+aS'FMGOETZE'
 p3981
-aS'FINPIPE'
+aS'505744'
 p3982
-aS'500940'
-p3983
-aa(lp3984
-S'Fintech Communication Ltd'
+aa(lp3983
+S'Fem Care Pharma Ltd'
+p3984
+ag56
+aS'524608'
 p3985
-ag4
-aS'531754'
-p3986
-aa(lp3987
-S'First Custodian Fund India Ltd'
+aa(lp3986
+S'Fenoplast Ltd'
+p3987
+ag56
+aS'526689'
 p3988
-ag4
-aS'511122'
-p3989
-aa(lp3990
-S'First Financial Services Ltd'
+aa(lp3989
+S'Ferro Alloys Corporation Ltd'
+p3990
+aS'FERROALLOY'
 p3991
-ag4
-aS'511369'
+aS'500141'
 p3992
 aa(lp3993
-S'First Leasing Company of India Ltd'
+S'Fertilizers & Chemicals Travancore Ltd'
 p3994
-aS'FIRSTLEASE'
+aS'FACT'
 p3995
-aS'500145'
+aS'590024'
 p3996
 aa(lp3997
-S'First Winner Industries Ltd'
+S'FGP Ltd'
 p3998
-aS'FIRSTWIN'
+aS'FGPIND'
 p3999
-aS'532996'
+aS'500142'
 p4000
 aa(lp4001
-S'Firstsource Solutions Ltd'
+S'Fiberweb India Ltd'
 p4002
-aS'FSL '
+ag56
+aS'507910'
 p4003
-aS'532809'
-p4004
-aa(lp4005
-S'Fischer Chemic Ltd'
+aa(lp4004
+S'Ficon Lease & Finance Ltd'
+p4005
+ag56
+aS'531902'
 p4006
-ag4
-aS'524743'
-p4007
-aa(lp4008
-S'Flat Products Equipments India Ltd'
+aa(lp4007
+S'FICS Consultancy Services Ltd'
+p4008
+ag56
+aS'508815'
 p4009
-aS'FLATPROD'
-p4010
-aS'500147'
+aa(lp4010
+S'Fiem Industries Ltd'
 p4011
-aa(lp4012
-S'Flawless Diamond India Ltd'
+aS'FIEMIND'
+p4012
+aS'532768'
 p4013
-ag4
-aS'523576'
-p4014
-aa(lp4015
-S'Flex Foods Ltd'
+aa(lp4014
+S'Filatex Fashions Ltd'
+p4015
+ag56
+aS'532022'
 p4016
-ag4
-aS'523672'
-p4017
-aa(lp4018
-S'Flora Textiles Ltd'
+aa(lp4017
+S'Filatex India Ltd'
+p4018
+aS'FILATEX'
 p4019
-ag4
-aS'530705'
+aS'526227'
 p4020
 aa(lp4021
-S'Fluidomat Ltd'
+S'Filmcity Media Ltd'
 p4022
-ag4
-aS'522017'
+ag56
+aS'531486'
 p4023
 aa(lp4024
-S'Fomento Resorts & Hotels Ltd'
+S'Filtron Engineers Ltd'
 p4025
-ag4
-aS'503831'
+ag56
+aS'531191'
 p4026
 aa(lp4027
-S'Foods & Inns Ltd'
+S'Finalysis Credit & Services Ltd'
 p4028
-ag4
-aS'507552'
+ag56
+aS'531820'
 p4029
 aa(lp4030
-S'Forbes & Company Ltd'
+S'Financial Eyes India Ltd'
 p4031
-aS'FORBESGOK'
+ag56
+aS'530863'
 p4032
-aS'502865'
-p4033
-aa(lp4034
-S'Force Motors Ltd'
+aa(lp4033
+S'Financial Technologies India Ltd'
+p4034
+aS'FINANTECH'
 p4035
-aS'BAJAJTEMPO'
+aS'526881'
 p4036
-aS'500033'
-p4037
-aa(lp4038
-S'Fortis Healthcare Ltd'
+aa(lp4037
+S'Fine Line Circuits Ltd'
+p4038
+ag56
+aS'517264'
 p4039
-aS'FORTIS'
-p4040
-aS'532843'
+aa(lp4040
+S'Fine Plast Polymers Ltd'
 p4041
-aa(lp4042
-S'FORTISWARR'
-p4043
-ag4
-aS'961685'
+ag56
+aS'514336'
+p4042
+aa(lp4043
+S'Fineotex Chemical Limited'
 p4044
-aa(lp4045
-S'Fortune Financial Services India Ltd'
+aS'FCL'
+p4045
+aS'533333'
 p4046
-ag4
-aS'530023'
-p4047
-aa(lp4048
-S'Fortune International Ltd'
+aa(lp4047
+S'Finolex Cables Ltd'
+p4048
+aS'FINCABLES'
 p4049
-ag4
-aS'530213'
+aS'500144'
 p4050
 aa(lp4051
-S'Foseco India Ltd'
+S'Finolex Industries Ltd'
 p4052
-aS'FOSECOIND'
+aS'FINPIPE'
 p4053
-aS'500150'
+aS'500940'
 p4054
 aa(lp4055
-S'Foundry Fuel Products Ltd'
+S'Fintech Communication Ltd'
 p4056
-ag4
-aS'513579'
+ag56
+aS'531754'
 p4057
 aa(lp4058
-S'Four K Animation Ltd'
+S'First Custodian Fund India Ltd'
 p4059
-ag4
-aS'511421'
+ag56
+aS'511122'
 p4060
 aa(lp4061
-S'Four Soft Ltd'
+S'First Financial Services Ltd'
 p4062
-aS'FOURSOFT'
+ag56
+aS'511369'
 p4063
-aS'532521'
-p4064
-aa(lp4065
-S'Fourth Generation Information Systems Ltd'
+aa(lp4064
+S'First Leasing Company of India Ltd'
+p4065
+aS'FIRSTLEASE'
 p4066
-ag4
-aS'532403'
+aS'500145'
 p4067
 aa(lp4068
-S'Franklin Templeton Cap Prot Orie Fund'
+S'First Winner Industries Ltd'
 p4069
-aS'FTCPOF5YDV'
+aS'FIRSTWIN'
 p4070
-ag4
-aa(lp4071
-S'Franklin Templeton Capital Fund'
-p4072
-aS'FTCPOF5YGR'
+aS'532996'
+p4071
+aa(lp4072
+S'Firstsource Solutions Ltd'
 p4073
-ag4
-aa(lp4074
-S'Franklin Templeton Mutual Fund-Capital Safety Fund'
+aS'FSL'
+p4074
+aS'532809'
 p4075
-aS'FTCSF3YDIV'
-p4076
-ag4
-aa(lp4077
-S'Franklin Templeton Mutual Fund-Capital Safety Fund'
+aa(lp4076
+S'Fischer Chemic Ltd'
+p4077
+ag56
+aS'524743'
 p4078
-aS'FTCSF5YGRO'
-p4079
-ag4
-aa(lp4080
-S'Fresenius Kabi Oncology Ltd'
+aa(lp4079
+S'Flat Products Equipments India Ltd'
+p4080
+aS'FLATPROD'
 p4081
-aS'FKONCO'
+aS'500147'
 p4082
-aS'532545'
-p4083
-aa(lp4084
-S'Freshtrop Fruits Ltd'
+aa(lp4083
+S'Flawless Diamond India Ltd'
+p4084
+ag56
+aS'523576'
 p4085
-ag4
-aS'530077'
-p4086
-aa(lp4087
-S'Frontier Information Technologies Ltd'
+aa(lp4086
+S'Flex Foods Ltd'
+p4087
+ag56
+aS'523672'
 p4088
-ag4
-aS'531225'
-p4089
-aa(lp4090
-S'Frontier Leasing & Finance Ltd'
+aa(lp4089
+S'Flora Textiles Ltd'
+p4090
+ag56
+aS'530705'
 p4091
-ag4
-aS'508980'
-p4092
-aa(lp4093
-S'Frontier Springs Ltd'
+aa(lp4092
+S'Fluidomat Ltd'
+p4093
+ag56
+aS'522017'
 p4094
-ag4
-aS'522195'
-p4095
-aa(lp4096
-S'Frontline Corporation Ltd'
+aa(lp4095
+S'Fomento Resorts & Hotels Ltd'
+p4096
+ag56
+aS'503831'
 p4097
-ag4
-aS'532042'
-p4098
-aa(lp4099
-S'Frontline Securities Ltd'
+aa(lp4098
+S'Foods & Inns Ltd'
+p4099
+ag56
+aS'507552'
 p4100
-ag4
-aS'533213'
-p4101
-aa(lp4102
-S'FTCPOF3YDV'
+aa(lp4101
+S'Forbes & Company Ltd'
+p4102
+aS'FORBESGOK'
 p4103
-aS'FTCPOF3YDV'
+aS'502865'
 p4104
-ag4
 aa(lp4105
-S'FTCPOF3YGR'
+S'Force Motors Ltd'
 p4106
-aS'FTCPOF3YGR'
+aS'BAJAJTEMPO'
 p4107
-ag4
-aa(lp4108
-S'FTCSF3YGRO'
-p4109
-aS'FTCSF3YGRO'
+aS'500033'
+p4108
+aa(lp4109
+S'Fortis Healthcare Ltd'
 p4110
-ag4
-aa(lp4111
-S'FTCSF5YDIV'
+aS'FORTIS'
+p4111
+aS'532843'
 p4112
-aS'FTCSF5YDIV'
-p4113
-ag4
-aa(lp4114
-S'Fulford India Ltd'
+aa(lp4113
+S'FORTISWARR'
+p4114
+ag56
+aS'961685'
 p4115
-aS'FULFORD'
-p4116
-aS'506803'
+aa(lp4116
+S'Fortune Financial Services India Ltd'
 p4117
-aa(lp4118
-S'Funworld & Tourism Development Ltd'
-p4119
-ag4
-aS'531854'
+ag56
+aS'530023'
+p4118
+aa(lp4119
+S'Fortune International Ltd'
 p4120
-aa(lp4121
-S'Fusion Fittings India Ltd'
-p4122
-ag4
-aS'531760'
+ag56
+aS'530213'
+p4121
+aa(lp4122
+S'Foseco India Ltd'
 p4123
-aa(lp4124
-S'Futura Polyesters Ltd'
+aS'FOSECOIND'
+p4124
+aS'500150'
 p4125
-aS'INDIANORG'
-p4126
-aS'500720'
+aa(lp4126
+S'Foundry Fuel Products Ltd'
 p4127
-aa(lp4128
-S'Future Capital Holdings Ltd'
-p4129
-aS'FCH'
+ag56
+aS'513579'
+p4128
+aa(lp4129
+S'Four K Animation Ltd'
 p4130
-aS'532938'
+ag56
+aS'511421'
 p4131
 aa(lp4132
-S'Future Ventures India Limited'
+S'Four Soft Ltd'
 p4133
-aS'FUTUREVENT'
+aS'PALRED'
 p4134
-aS'533400'
+aS'532521'
 p4135
 aa(lp4136
-S'Futuristic Securities Ltd'
+S'Fourth Generation Information Systems Ltd'
 p4137
-ag4
-aS'523113'
+ag56
+aS'532403'
 p4138
 aa(lp4139
-S'GSCLCEMENT'
+S'Franklin Templeton Cap Prot Orie Fund'
 p4140
-aS'GSCLCEMENT'
+aS'FTCPOF5YDV'
 p4141
-ag4
+ag56
 aa(lp4142
-S'GREENFIRE'
+S'Franklin Templeton Capital Fund'
 p4143
-aS'GREENFIRE'
+aS'FTCPOF5YGR'
 p4144
-ag4
+ag56
 aa(lp4145
-S'GENUSPAPER'
+S'Franklin Templeton Mutual Fund-Capital Safety Fund'
 p4146
-aS'GENUSPAPER'
+aS'FTCSF3YDIV'
 p4147
-ag4
+ag56
 aa(lp4148
-S'GOODLUCK'
+S'Franklin Templeton Mutual Fund-Capital Safety Fund'
 p4149
-aS'GOODLUCK'
+aS'FTCSF5YGRO'
 p4150
-ag4
+ag56
 aa(lp4151
-S'GULFCORP'
+S'Fresenius Kabi Oncology Ltd'
 p4152
-aS'GULFCORP'
+aS'FKONCO'
 p4153
-ag4
-aa(lp4154
-S'GULFOILLUB'
-p4155
-aS'GULFOILLUB'
+aS'532545'
+p4154
+aa(lp4155
+S'Freshtrop Fruits Ltd'
 p4156
-ag4
-aa(lp4157
-S'GULPOLY'
-p4158
-aS'GULPOLY'
+ag56
+aS'530077'
+p4157
+aa(lp4158
+S'Frontier Information Technologies Ltd'
 p4159
-ag4
-aa(lp4160
-S'GANECOS'
-p4161
-aS'GANECOS'
+ag56
+aS'531225'
+p4160
+aa(lp4161
+S'Frontier Leasing & Finance Ltd'
 p4162
-ag4
-aa(lp4163
-S'GREENLAM'
-p4164
-aS'GREENLAM'
+ag56
+aS'508980'
+p4163
+aa(lp4164
+S'Frontier Springs Ltd'
 p4165
-ag4
-aa(lp4166
-S'GRPLTD'
-p4167
-aS'GRPLTD'
+ag56
+aS'522195'
+p4166
+aa(lp4167
+S'Frontline Corporation Ltd'
 p4168
-ag4
-aa(lp4169
-S'Benchmark GoldBees'
-p4170
-aS'GOLDBEES'
+ag56
+aS'532042'
+p4169
+aa(lp4170
+S'Frontline Securities Ltd'
 p4171
-aS'590095'
+ag56
+aS'533213'
 p4172
 aa(lp4173
-S'Disa India Ltd'
+S'FTCPOF3YDV'
 p4174
-aS'GEORGFISCH'
+aS'FTCPOF3YDV'
 p4175
-aS'500068'
-p4176
-aa(lp4177
-S'G-Tech Info-Training Ltd'
+ag56
+aa(lp4176
+S'FTCPOF3YGR'
+p4177
+aS'FTCPOF3YGR'
 p4178
-ag4
-aS'532139'
-p4179
-aa(lp4180
-S'Gabriel India Ltd'
+ag56
+aa(lp4179
+S'FTCSF3YGRO'
+p4180
+aS'FTCSF3YGRO'
 p4181
-aS'GABRIEL'
-p4182
-aS'505714'
+ag56
+aa(lp4182
+S'FTCSF5YDIV'
 p4183
-aa(lp4184
-S'Gaekwar Mills Ltd'
-p4185
-ag4
-aS'502850'
+aS'FTCSF5YDIV'
+p4184
+ag56
+aa(lp4185
+S'Fulford India Ltd'
 p4186
-aa(lp4187
-S'Gagan Gases Ltd'
+aS'FULFORD'
+p4187
+aS'506803'
 p4188
-ag4
-aS'524624'
-p4189
-aa(lp4190
-S'Gagan Polycot India Ltd'
+aa(lp4189
+S'Funworld & Tourism Development Ltd'
+p4190
+ag56
+aS'531854'
 p4191
-ag4
-aS'531196'
-p4192
-aa(lp4193
-S'Gail India Ltd'
+aa(lp4192
+S'Fusion Fittings India Ltd'
+p4193
+ag56
+aS'531760'
 p4194
-aS'GAIL'
-p4195
-aS'532155'
+aa(lp4195
+S'Futura Polyesters Ltd'
 p4196
-aa(lp4197
-S'Gajra Bevel Gears Ltd'
+aS'INDIANORG'
+p4197
+aS'500720'
 p4198
-ag4
-aS'505711'
-p4199
-aa(lp4200
-S'Galada Power & Telecommunication Ltd'
+aa(lp4199
+S'Future Capital Holdings Ltd'
+p4200
+aS'CAPF'
 p4201
-aS'GALPOWTEL'
+aS'532938'
 p4202
-aS'504697'
-p4203
-aa(lp4204
-S'Galaxy Agrico Exports Ltd'
+aa(lp4203
+S'Future Ventures India Limited'
+p4204
+aS'FCEL'
 p4205
-ag4
-aS'531911'
+aS'533400'
 p4206
 aa(lp4207
-S'Galaxy Bearings Ltd'
+S'Futuristic Securities Ltd'
 p4208
-ag4
-aS'526073'
+ag56
+aS'523113'
 p4209
 aa(lp4210
-S'Galaxy Consolidated Finance Ltd'
+S'GSCLCEMENT'
 p4211
-ag4
-aS'511128'
+aS'GSCLCEMENT'
 p4212
-aa(lp4213
-S'Galaxy Entertainment Corporation Ltd'
-p4214
-ag4
-aS'506186'
+aS'518029'
+p4213
+aa(lp4214
+S'GREENFIRE'
 p4215
-aa(lp4216
-S'Gallantt Ispat Ltd'
+aS'GREENFIRE'
+p4216
+aS'590057'
 p4217
-aS'GALLISPAT'
-p4218
-aS'533265'
+aa(lp4218
+S'GENUSPAPER'
 p4219
-aa(lp4220
-S'Gallantt Metal Ltd'
+aS'GENUSPAPER'
+p4220
+aS'538961'
 p4221
-aS'GALLANTT'
-p4222
-aS'532726'
+aa(lp4222
+S'GOODLUCK'
 p4223
-aa(lp4224
-S'Gamma Infoway Exalt Ltd'
+aS'GOODLUCK'
+p4224
+aS'530655'
 p4225
-ag4
-aS'517391'
-p4226
-aa(lp4227
-S'Gammon India Ltd'
+aa(lp4226
+S'GULFCORP'
+p4227
+aS'GULFCORP'
 p4228
-aS'GAMMONIND'
+aS'506480'
 p4229
-aS'509550'
-p4230
-aa(lp4231
-S'Gammon Infrastructure Projects Ltd'
+aa(lp4230
+S'GULFOILLUB'
+p4231
+aS'GULFOILLUB'
 p4232
-aS'GAMMNINFRA'
+aS'538567'
 p4233
-aS'532959'
-p4234
-aa(lp4235
-S'Gandhi Special Tubes Ltd'
+aa(lp4234
+S'GULPOLY'
+p4235
+aS'GULPOLY'
 p4236
-aS'GANDHITUBE'
+aS'532457'
 p4237
-aS'513108'
-p4238
-aa(lp4239
-S'Gandhimathi Appliances Ltd'
+aa(lp4238
+S'GANECOS'
+p4239
+aS'GANECOS'
 p4240
-ag4
-aS'517421'
+aS'514167'
 p4241
 aa(lp4242
-S'Gandhinagar Hotels Ltd'
+S'GREENLAM'
 p4243
-ag4
-aS'530237'
+aS'GREENLAM'
 p4244
-aa(lp4245
-S'Gandhinagar Leasing & Finance Ltd'
-p4246
-ag4
-aS'511489'
+aS'538979'
+p4245
+aa(lp4246
+S'GRPLTD'
 p4247
-aa(lp4248
-S'Ganesh Benzoplast Ltd'
+aS'GRPLTD'
+p4248
+aS'509152'
 p4249
-aS'GANESHBENZ'
-p4250
-aS'500153'
+aa(lp4250
+S'Benchmark GoldBees'
 p4251
-aa(lp4252
-S'Ganesh Housing Corporation Ltd'
+aS'GOLDBEES'
+p4252
+aS'590095'
 p4253
-aS'GANESHHOUC'
-p4254
-aS'526367'
+aa(lp4254
+S'Disa India Ltd'
 p4255
-aa(lp4256
-S'Ganesh Polytex Ltd'
+aS'GEORGFISCH'
+p4256
+aS'500068'
 p4257
-ag4
-aS'514167'
-p4258
-aa(lp4259
-S'Gangotri Iron & Steel Company Ltd'
+aa(lp4258
+S'G-Tech Info-Training Ltd'
+p4259
+ag56
+aS'532139'
 p4260
-ag4
-aS'530945'
-p4261
-aa(lp4262
-S'Gangotri Textiles Ltd'
+aa(lp4261
+S'Gabriel India Ltd'
+p4262
+aS'GABRIEL'
 p4263
-aS'GANGOTRI'
+aS'505714'
 p4264
-aS'521176'
-p4265
-aa(lp4266
-S'Ganon Trading & Finance Company Ltd'
+aa(lp4265
+S'Gaekwar Mills Ltd'
+p4266
+ag56
+aS'502850'
 p4267
-ag4
-aS'512443'
-p4268
-aa(lp4269
-S'Ganpati Infrastructure Ltd'
+aa(lp4268
+S'Gagan Gases Ltd'
+p4269
+ag56
+aS'524624'
 p4270
-ag4
-aS'531343'
-p4271
-aa(lp4272
-S'Garden Silk Mills Ltd'
+aa(lp4271
+S'Gagan Polycot India Ltd'
+p4272
+ag56
+aS'531196'
 p4273
-aS'GARDENSILK'
-p4274
-aS'500155'
+aa(lp4274
+S'Gail India Ltd'
 p4275
-aa(lp4276
-S'Garg Furnace Ltd'
+aS'GAIL'
+p4276
+aS'532155'
 p4277
-ag4
-aS'530615'
-p4278
-aa(lp4279
-S'Garnet Construction Ltd'
+aa(lp4278
+S'Gajra Bevel Gears Ltd'
+p4279
+ag56
+aS'505711'
 p4280
-ag4
-aS'526727'
-p4281
-aa(lp4282
-S'Garnet International Ltd'
+aa(lp4281
+S'Galada Power & Telecommunication Ltd'
+p4282
+aS'GALPOWTEL'
 p4283
-ag4
-aS'512493'
+aS'504697'
 p4284
 aa(lp4285
-S'Garodia Chemicals Ltd'
+S'Galaxy Agrico Exports Ltd'
 p4286
-ag4
-aS'530161'
+ag56
+aS'531911'
 p4287
 aa(lp4288
-S'Garware Marine Industries Ltd'
+S'Galaxy Bearings Ltd'
 p4289
-ag4
-aS'509563'
+ag56
+aS'526073'
 p4290
 aa(lp4291
-S'Garware Polyester Ltd'
+S'Galaxy Consolidated Finance Ltd'
 p4292
-aS'GARWARPOLY'
+ag56
+aS'511128'
 p4293
-aS'500655'
-p4294
-aa(lp4295
-S'Garware Synthetics Ltd'
+aa(lp4294
+S'Galaxy Entertainment Corporation Ltd'
+p4295
+ag56
+aS'506186'
 p4296
-ag4
-aS'514400'
-p4297
-aa(lp4298
-S'Garware Wall Ropes Ltd'
+aa(lp4297
+S'Gallantt Ispat Ltd'
+p4298
+aS'GALLISPAT'
 p4299
-aS'GARWALLROP'
+aS'533265'
 p4300
-aS'509557'
-p4301
-aa(lp4302
-S'Gateway Distriparks Ltd'
+aa(lp4301
+S'Gallantt Metal Ltd'
+p4302
+aS'GALLANTT'
 p4303
-aS'GDL'
+aS'532726'
 p4304
-aS'532622'
-p4305
-aa(lp4306
-S'Gati Ltd'
+aa(lp4305
+S'Gamma Infoway Exalt Ltd'
+p4306
+ag56
+aS'517391'
 p4307
-aS'GATI'
-p4308
-aS'532345'
+aa(lp4308
+S'Gammon India Ltd'
 p4309
-aa(lp4310
-S'Gayatri BioOrganics Ltd'
+aS'GAMMONIND'
+p4310
+aS'509550'
 p4311
-ag4
-aS'524564'
-p4312
-aa(lp4313
-S'Gayatri Projects Ltd'
+aa(lp4312
+S'Gammon Infrastructure Projects Ltd'
+p4313
+aS'GAMMNINFRA'
 p4314
-aS'GAYAPROJ'
+aS'532959'
 p4315
-aS'532767'
-p4316
-aa(lp4317
-S'Gayatri Sugars Ltd'
+aa(lp4316
+S'Gandhi Special Tubes Ltd'
+p4317
+aS'GANDHITUBE'
 p4318
-ag4
-aS'532183'
+aS'513108'
 p4319
 aa(lp4320
-S'Gayatri Tissue & Papers Ltd'
+S'Gandhimathi Appliances Ltd'
 p4321
-ag4
-aS'512479'
+aS'BUTTERFLY'
 p4322
-aa(lp4323
-S'GDL Leasing & Finance Ltd'
-p4324
-ag4
-aS'530855'
+aS'517421'
+p4323
+aa(lp4324
+S'Gandhinagar Hotels Ltd'
 p4325
-aa(lp4326
-S'Gee El Woollens Ltd'
-p4327
-ag4
-aS'514394'
+ag56
+aS'530237'
+p4326
+aa(lp4327
+S'Gandhinagar Leasing & Finance Ltd'
 p4328
-aa(lp4329
-S'Gee Gee Granites Ltd'
-p4330
-ag4
-aS'515097'
+ag56
+aS'511489'
+p4329
+aa(lp4330
+S'Ganesh Benzoplast Ltd'
 p4331
-aa(lp4332
-S'Gee Kay Finance & Leasing Company Ltd'
+aS'GANESHBENZ'
+p4332
+aS'500153'
 p4333
-ag4
-aS'531863'
-p4334
-aa(lp4335
-S'GEE Ltd'
+aa(lp4334
+S'Ganesh Housing Corporation Ltd'
+p4335
+aS'GANESHHOUC'
 p4336
-ag4
-aS'504028'
+aS'526367'
 p4337
 aa(lp4338
-S'Geecee Ventures Ltd'
+S'Ganesh Polytex Ltd'
 p4339
-aS'GEECEE'
+aS'GANECOS'
 p4340
-aS'532764'
+aS'514167'
 p4341
 aa(lp4342
-S'Geefcee Finance Ltd'
+S'Gangotri Iron & Steel Company Ltd'
 p4343
-ag4
-aS'530389'
+ag56
+aS'530945'
 p4344
 aa(lp4345
-S'GEI Industrial Systems Ltd'
+S'Gangotri Textiles Ltd'
 p4346
-aS'GEINDSYS'
+aS'GANGOTRI'
 p4347
-aS'530743'
+aS'521176'
 p4348
 aa(lp4349
-S'Gem Spinners India Ltd'
+S'Ganon Trading & Finance Company Ltd'
 p4350
-aS'GEMSPIN'
+ag56
+aS'512443'
 p4351
-aS'521133'
-p4352
-aa(lp4353
-S'Gemini Communication Ltd'
+aa(lp4352
+S'Ganpati Infrastructure Ltd'
+p4353
+ag56
+aS'531343'
 p4354
-aS'GEMINI'
-p4355
-aS'532318'
+aa(lp4355
+S'Garden Silk Mills Ltd'
 p4356
-aa(lp4357
-S'Gemstone Investments Ltd'
+aS'GARDENSILK'
+p4357
+aS'500155'
 p4358
-ag4
-aS'531137'
-p4359
-aa(lp4360
-S'Genesys International Corporation Ltd'
+aa(lp4359
+S'Garg Furnace Ltd'
+p4360
+ag56
+aS'530615'
 p4361
-aS'GENESYS'
-p4362
-aS'506109'
+aa(lp4362
+S'Garnet Construction Ltd'
 p4363
-aa(lp4364
-S'Gennex Laboratories Ltd'
-p4365
-ag4
-aS'531739'
+ag56
+aS'526727'
+p4364
+aa(lp4365
+S'Garnet International Ltd'
 p4366
-aa(lp4367
-S'Genus Commu Trade Ltd'
-p4368
-ag4
-aS'531939'
+ag56
+aS'512493'
+p4367
+aa(lp4368
+S'Garodia Chemicals Ltd'
 p4369
-aa(lp4370
-S'Genus Power Infrastructures Ltd'
-p4371
-aS'GENUSPOWER'
+ag56
+aS'530161'
+p4370
+aa(lp4371
+S'Garware Marine Industries Ltd'
 p4372
-aS'530343'
+ag56
+aS'509563'
 p4373
 aa(lp4374
-S'Geodesic Ltd'
+S'Garware Polyester Ltd'
 p4375
-aS'GEODESIC'
+aS'GARWARPOLY'
 p4376
-aS'503699'
+aS'500655'
 p4377
 aa(lp4378
-S'Geojit Financial Services Ltd'
+S'Garware Synthetics Ltd'
 p4379
-aS'GEOJITBNPP'
+ag56
+aS'514400'
 p4380
-aS'532285'
-p4381
-aa(lp4382
-S'Geometric Ltd'
+aa(lp4381
+S'Garware Wall Ropes Ltd'
+p4382
+aS'GARWALLROP'
 p4383
-aS'GEOMETRIC'
+aS'509557'
 p4384
-aS'532312'
-p4385
-aa(lp4386
-S'GG Dandekar Machine Works Ltd'
+aa(lp4385
+S'Gateway Distriparks Ltd'
+p4386
+aS'GDL'
 p4387
-ag4
-aS'505250'
+aS'532622'
 p4388
 aa(lp4389
-S'GHCL Ltd'
+S'Gati Ltd'
 p4390
-aS'GHCL'
+aS'GATI'
 p4391
-aS'500171'
+aS'532345'
 p4392
 aa(lp4393
-S'GI Engineering Solutions Ltd'
+S'Gayatri BioOrganics Ltd'
 p4394
-aS'GISOLUTION'
+ag56
+aS'524564'
 p4395
-aS'533048'
-p4396
-aa(lp4397
-S'GIC Housing Finance Ltd'
+aa(lp4396
+S'Gayatri Projects Ltd'
+p4397
+aS'GAYAPROJ'
 p4398
-aS'GICHSGFIN'
+aS'532767'
 p4399
-aS'511676'
-p4400
-aa(lp4401
-S'Gillanders Arbuthnot & Company Ltd'
+aa(lp4400
+S'Gayatri Sugars Ltd'
+p4401
+ag56
+aS'532183'
 p4402
-aS'GILLANDERS'
-p4403
-aS'532716'
+aa(lp4403
+S'Gayatri Tissue & Papers Ltd'
 p4404
-aa(lp4405
-S'Gillette India Ltd'
-p4406
-aS'GILLETTE'
+ag56
+aS'512479'
+p4405
+aa(lp4406
+S'GDL Leasing & Finance Ltd'
 p4407
-aS'507815'
+ag56
+aS'530855'
 p4408
 aa(lp4409
-S'Gini Silk Mills Ltd'
+S'Gee El Woollens Ltd'
 p4410
-ag4
-aS'531744'
+ag56
+aS'514394'
 p4411
 aa(lp4412
-S'Ginni Filaments Ltd'
+S'Gee Gee Granites Ltd'
 p4413
-aS'GINNIFILA'
+ag56
+aS'515097'
 p4414
-aS'590025'
-p4415
-aa(lp4416
-S'Girdharilal Sugar & Allied Industries Ltd'
+aa(lp4415
+S'Gee Kay Finance & Leasing Company Ltd'
+p4416
+ag56
+aS'531863'
 p4417
-aS'NARMADASUG'
-p4418
-aS'507506'
+aa(lp4418
+S'GEE Ltd'
 p4419
-aa(lp4420
-S'Gitanjali Gems Ltd'
-p4421
-aS'GITANJALI'
+ag56
+aS'504028'
+p4420
+aa(lp4421
+S'Geecee Ventures Ltd'
 p4422
-aS'532715'
+aS'GEECEE'
 p4423
-aa(lp4424
-S'GIVO Ltd'
-p4425
-ag4
-aS'531613'
+aS'532764'
+p4424
+aa(lp4425
+S'Geefcee Finance Ltd'
 p4426
-aa(lp4427
-S'GK Consultants Ltd'
-p4428
-ag4
-aS'531758'
+ag56
+aS'530389'
+p4427
+aa(lp4428
+S'GEI Industrial Systems Ltd'
 p4429
-aa(lp4430
-S'GKB Ophthalmics Ltd'
+aS'GEINDSYS'
+p4430
+aS'530743'
 p4431
-aS'GKB'
-p4432
-aS'533212'
+aa(lp4432
+S'Gem Spinners India Ltd'
 p4433
-aa(lp4434
-S'GKW Ltd'
+aS'GEMSPIN'
+p4434
+aS'521133'
 p4435
-aS'GKWLIMITED'
-p4436
-aS'504704'
+aa(lp4436
+S'Gemini Communication Ltd'
 p4437
-aa(lp4438
-S'Glance Finance Ltd'
+aS'GEMINI'
+p4438
+aS'532318'
 p4439
-ag4
-aS'531199'
-p4440
-aa(lp4441
-S'GlaxoSmithkline Consumer Healthcare Ltd'
+aa(lp4440
+S'Gemstone Investments Ltd'
+p4441
+ag56
+aS'531137'
 p4442
-aS'GSKCONS'
-p4443
-aS'500676'
+aa(lp4443
+S'Genesys International Corporation Ltd'
 p4444
-aa(lp4445
-S'GlaxoSmithKline Pharmaceuticals Ltd'
+aS'GENESYS'
+p4445
+aS'506109'
 p4446
-aS'GLAXO'
-p4447
-aS'500660'
+aa(lp4447
+S'Gennex Laboratories Ltd'
 p4448
-aa(lp4449
-S'Glenmark Pharmaceuticals Ltd'
-p4450
-aS'GLENMARK'
+ag56
+aS'531739'
+p4449
+aa(lp4450
+S'Genus Commu Trade Ltd'
 p4451
-aS'532296'
+ag56
+aS'531939'
 p4452
 aa(lp4453
-S'Glittek Granites Ltd'
+S'Genus Power Infrastructures Ltd'
 p4454
-ag4
-aS'513528'
+aS'GENUSPOWER'
 p4455
-aa(lp4456
-S'Global Boards Ltd'
-p4457
-aS'GLOBABOARD'
+aS'530343'
+p4456
+aa(lp4457
+S'Geodesic Ltd'
 p4458
-aS'500159'
+aS'GEODESIC'
 p4459
-aa(lp4460
-S'Global Capital Markets Ltd'
-p4461
-ag4
-aS'530263'
+aS'503699'
+p4460
+aa(lp4461
+S'Geojit Financial Services Ltd'
 p4462
-aa(lp4463
-S'Global Offshore Services Ltd'
+aS'GEOJITBNPP'
+p4463
+aS'532285'
 p4464
-aS'GLOBOFFS'
-p4465
-aS'501848'
+aa(lp4465
+S'Geometric Ltd'
 p4466
-aa(lp4467
-S'Global Securities Ltd'
+aS'GEOMETRIC'
+p4467
+aS'532312'
 p4468
-ag4
-aS'530657'
-p4469
-aa(lp4470
-S'Global Vectra Helicorp Ltd'
+aa(lp4469
+S'GG Dandekar Machine Works Ltd'
+p4470
+ag56
+aS'505250'
 p4471
-aS'GLOBALVECT'
-p4472
-aS'532773'
+aa(lp4472
+S'GHCL Ltd'
 p4473
-aa(lp4474
-S'Globus Spirits Ltd'
+aS'GHCL'
+p4474
+aS'500171'
 p4475
-aS'GLOBUSSPR'
-p4476
-aS'533104'
+aa(lp4476
+S'GI Engineering Solutions Ltd'
 p4477
-aa(lp4478
-S'Glodyne Technoserve Ltd'
+aS'GISOLUTION'
+p4478
+aS'533048'
 p4479
-aS'GLODYNE'
-p4480
-aS'532672'
+aa(lp4480
+S'GIC Housing Finance Ltd'
 p4481
-aa(lp4482
-S'Glory Polyfilms Ltd'
+aS'GICHSGFIN'
+p4482
+aS'511676'
 p4483
-aS'GLORY'
-p4484
-aS'532857'
+aa(lp4484
+S'Gillanders Arbuthnot & Company Ltd'
 p4485
-aa(lp4486
-S'Gloster Jute Mills Ltd'
+aS'GILLANDERS'
+p4486
+aS'532716'
 p4487
-ag4
-aS'590085'
-p4488
-aa(lp4489
-S'GM Breweries Ltd'
+aa(lp4488
+S'Gillette India Ltd'
+p4489
+aS'GILLETTE'
 p4490
-aS'GMBREW'
+aS'507815'
 p4491
-aS'507488'
-p4492
-aa(lp4493
-S'GMM Pfaudler Ltd'
+aa(lp4492
+S'Gini Silk Mills Ltd'
+p4493
+ag56
+aS'531744'
 p4494
-ag4
-aS'505255'
-p4495
-aa(lp4496
-S'GMR Infrastructure Ltd'
+aa(lp4495
+S'Ginni Filaments Ltd'
+p4496
+aS'GINNIFILA'
 p4497
-aS'GMRINFRA'
+aS'590025'
 p4498
-aS'532754'
-p4499
-aa(lp4500
-S'Goa Carbon Ltd'
+aa(lp4499
+S'Girdharilal Sugar & Allied Industries Ltd'
+p4500
+aS'NARMADASUG'
 p4501
-aS'GOACARBON'
+aS'507506'
 p4502
-aS'509567'
-p4503
-aa(lp4504
-S'Godavari Drugs Ltd'
+aa(lp4503
+S'Gitanjali Gems Ltd'
+p4504
+aS'GITANJALI'
 p4505
-ag4
-aS'530317'
+aS'532715'
 p4506
 aa(lp4507
-S'Godawari Power & Ispat Ltd'
+S'GIVO Ltd'
 p4508
-aS'GPIL'
+ag56
+aS'531613'
 p4509
-aS'532734'
-p4510
-aa(lp4511
-S'Godfrey Phillips India Ltd'
+aa(lp4510
+S'GK Consultants Ltd'
+p4511
+ag56
+aS'531758'
 p4512
-aS'GODFRYPHLP'
-p4513
-aS'500163'
+aa(lp4513
+S'GKB Ophthalmics Ltd'
 p4514
-aa(lp4515
-S'Godrej Consumer Products Ltd'
+aS'GKB'
+p4515
+aS'533212'
 p4516
-aS'GODREJCP'
-p4517
-aS'532424'
+aa(lp4517
+S'GKW Ltd'
 p4518
-aa(lp4519
-S'Godrej Industries Ltd'
+aS'GKWLIMITED'
+p4519
+aS'504704'
 p4520
-aS'GODREJIND'
-p4521
-aS'500164'
+aa(lp4521
+S'Glance Finance Ltd'
 p4522
-aa(lp4523
-S'Godrej Properties Ltd'
-p4524
-aS'GODREJPROP'
+ag56
+aS'531199'
+p4523
+aa(lp4524
+S'GlaxoSmithkline Consumer Healthcare Ltd'
 p4525
-aS'533150'
+aS'GSKCONS'
 p4526
-aa(lp4527
-S'Goenka Diamond & Jewels Ltd'
-p4528
-aS'GOENKA'
+aS'500676'
+p4527
+aa(lp4528
+S'GlaxoSmithKline Pharmaceuticals Ltd'
 p4529
-aS'533189'
+aS'GLAXO'
 p4530
-aa(lp4531
-S'Gogia International Securities Ltd'
-p4532
-ag4
-aS'531600'
+aS'500660'
+p4531
+aa(lp4532
+S'Glenmark Pharmaceuticals Ltd'
 p4533
-aa(lp4534
-S'Gokak Textiles Ltd'
+aS'GLENMARK'
+p4534
+aS'532296'
 p4535
-ag4
-aS'532957'
-p4536
-aa(lp4537
-S'Gokaldas Exports Ltd'
+aa(lp4536
+S'Glittek Granites Ltd'
+p4537
+ag56
+aS'513528'
 p4538
-aS'GOKEX'
-p4539
-aS'532630'
+aa(lp4539
+S'Global Boards Ltd'
 p4540
-aa(lp4541
-S'Gokul Refoils & Solvent Ltd'
+aS'GLOBABOARD'
+p4541
+aS'500159'
 p4542
-aS'GOKUL'
-p4543
-aS'532980'
+aa(lp4543
+S'Global Capital Markets Ltd'
 p4544
-aa(lp4545
-S'Gold Multifab Ltd'
-p4546
-ag4
-aS'531709'
+ag56
+aS'530263'
+p4545
+aa(lp4546
+S'Global Offshore Services Ltd'
 p4547
-aa(lp4548
-S'Gold Rock Investments Ltd'
+aS'GLOBOFFS'
+p4548
+aS'501848'
 p4549
-ag4
-aS'501111'
-p4550
-aa(lp4551
-S'Goldcrest Finance India Ltd'
+aa(lp4550
+S'Global Securities Ltd'
+p4551
+ag56
+aS'530657'
 p4552
-aS'GOLCRESFIN'
-p4553
-aS'505576'
+aa(lp4553
+S'Global Vectra Helicorp Ltd'
 p4554
-aa(lp4555
-S'Golden Carpets Ltd'
+aS'GLOBALVECT'
+p4555
+aS'532773'
 p4556
-ag4
-aS'531928'
-p4557
-aa(lp4558
-S'Golden Laminates Ltd'
+aa(lp4557
+S'Globus Spirits Ltd'
+p4558
+aS'GLOBUSSPR'
 p4559
-ag4
-aS'526951'
+aS'533104'
 p4560
 aa(lp4561
-S'Golden Legand Leasing & finance Ltd'
+S'Glodyne Technoserve Ltd'
 p4562
-ag4
-aS'509024'
+aS'GLODYNE'
 p4563
-aa(lp4564
-S'Golden Securities Ltd'
-p4565
-ag4
-aS'530579'
+aS'532672'
+p4564
+aa(lp4565
+S'Glory Polyfilms Ltd'
 p4566
-aa(lp4567
-S'Golden Tobacco Ltd'
+aS'GLORY'
+p4567
+aS'532857'
 p4568
-aS'GOLDENTOBC'
-p4569
-aS'500151'
+aa(lp4569
+S'Gloster Jute Mills Ltd'
 p4570
-aa(lp4571
-S'Goldiam International Ltd'
-p4572
-aS'GOLDIAM'
+ag56
+aS'590085'
+p4571
+aa(lp4572
+S'GM Breweries Ltd'
 p4573
-aS'526729'
+aS'GMBREW'
 p4574
-aa(lp4575
-S'Goldstone Infratech Ltd'
-p4576
-aS'GOLDINFRA'
+aS'507488'
+p4575
+aa(lp4576
+S'GMM Pfaudler Ltd'
 p4577
-aS'532439'
+ag56
+aS'505255'
 p4578
 aa(lp4579
-S'Goldstone Technologies Ltd'
+S'GMR Infrastructure Ltd'
 p4580
-aS'GOLDTECH'
+aS'GMRINFRA'
 p4581
-aS'531439'
+aS'532754'
 p4582
 aa(lp4583
-S'Golechha Global Finance Ltd'
+S'Goa Carbon Ltd'
 p4584
-ag4
-aS'531360'
+aS'GOACARBON'
 p4585
-aa(lp4586
-S'Golkunda Diamonds & Jewellery Ltd'
-p4587
-ag4
-aS'523676'
+aS'509567'
+p4586
+aa(lp4587
+S'Godavari Drugs Ltd'
 p4588
-aa(lp4589
-S'Gomti Finlease India Ltd'
-p4590
-ag4
-aS'530701'
+ag56
+aS'530317'
+p4589
+aa(lp4590
+S'Godawari Power & Ispat Ltd'
 p4591
-aa(lp4592
-S'Gontermann Peipers India Ltd'
+aS'GPIL'
+p4592
+aS'532734'
 p4593
-aS'GONTERPEIP'
-p4594
-aS'504701'
+aa(lp4594
+S'Godfrey Phillips India Ltd'
 p4595
-aa(lp4596
-S'Good Luck Steel Tubes Ltd'
+aS'GODFRYPHLP'
+p4596
+aS'500163'
 p4597
-ag4
-aS'530655'
-p4598
-aa(lp4599
-S'Goodricke Group Ltd'
+aa(lp4598
+S'Godrej Consumer Products Ltd'
+p4599
+aS'GODREJCP'
 p4600
-aS'GOODRICKE'
+aS'532424'
 p4601
-aS'500166'
-p4602
-aa(lp4603
-S'Goodyear India Ltd'
+aa(lp4602
+S'Godrej Industries Ltd'
+p4603
+aS'GODREJIND'
 p4604
-aS'GOODYEAR'
+aS'500164'
 p4605
-aS'500168'
-p4606
-aa(lp4607
-S'Gopal Iron & Steels Company Gujarat Ltd'
+aa(lp4606
+S'Godrej Properties Ltd'
+p4607
+aS'GODREJPROP'
 p4608
-ag4
-aS'531913'
+aS'533150'
 p4609
 aa(lp4610
-S'Gopala Polyplast Ltd'
+S'Goenka Diamond & Jewels Ltd'
 p4611
-ag4
-aS'526717'
+aS'GOENKA'
 p4612
-aa(lp4613
-S'Goplee Infotech Ltd'
-p4614
-ag4
-aS'531419'
+aS'533189'
+p4613
+aa(lp4614
+S'Gogia International Securities Ltd'
 p4615
-aa(lp4616
-S'Gorani Industries Ltd'
-p4617
-ag4
-aS'531608'
+ag56
+aS'531600'
+p4616
+aa(lp4617
+S'Gokak Textiles Ltd'
 p4618
-aa(lp4619
-S'Gothi Plascon India Ltd'
-p4620
-ag4
-aS'531111'
+ag56
+aS'532957'
+p4619
+aa(lp4620
+S'Gokaldas Exports Ltd'
 p4621
-aa(lp4622
-S'Govind Rubber Ltd'
+aS'GOKEX'
+p4622
+aS'532630'
 p4623
-aS'GOVINRUBER'
-p4624
-aS'509148'
+aa(lp4624
+S'Gokul Refoils & Solvent Ltd'
 p4625
-aa(lp4626
-S'Govindji Trikamdas Exports Ltd'
+aS'GOKUL'
+p4626
+aS'532980'
 p4627
-ag4
-aS'530251'
-p4628
-aa(lp4629
-S'Gowra Leasing & Finance Ltd'
+aa(lp4628
+S'Gold Multifab Ltd'
+p4629
+ag56
+aS'531709'
 p4630
-ag4
-aS'530709'
-p4631
-aa(lp4632
-S'Goyal Associates Ltd'
+aa(lp4631
+S'Gold Rock Investments Ltd'
+p4632
+ag56
+aS'501111'
 p4633
-ag4
-aS'530663'
-p4634
-aa(lp4635
-S'Goyal Financials India Ltd'
+aa(lp4634
+S'Goldcrest Finance India Ltd'
+p4635
+aS'GOLCRESFIN'
 p4636
-ag4
-aS'531055'
+aS'505576'
 p4637
 aa(lp4638
-S'GR Cables Ltd'
+S'Golden Carpets Ltd'
 p4639
-ag4
-aS'517564'
+ag56
+aS'531928'
 p4640
 aa(lp4641
-S'Grabal Alok Impex Ltd'
+S'Golden Laminates Ltd'
 p4642
-aS'GRABALALK'
+ag56
+aS'526951'
 p4643
-aS'532909'
-p4644
-aa(lp4645
-S'Grandma Trading & Agencies Ltd'
+aa(lp4644
+S'Golden Legand Leasing & finance Ltd'
+p4645
+ag56
+aS'509024'
 p4646
-ag4
-aS'504369'
-p4647
-aa(lp4648
-S'Granules India Ltd'
+aa(lp4647
+S'Golden Securities Ltd'
+p4648
+ag56
+aS'530579'
 p4649
-aS'GRANULES'
-p4650
-aS'532482'
+aa(lp4650
+S'Golden Tobacco Ltd'
 p4651
-aa(lp4652
-S'Graphite India Ltd'
+aS'GOLDENTOBC'
+p4652
+aS'500151'
 p4653
-aS'GRAPHITE'
-p4654
-aS'509488'
+aa(lp4654
+S'Goldiam International Ltd'
 p4655
-aa(lp4656
-S'Grasim Industries Ltd'
+aS'GOLDIAM'
+p4656
+aS'526729'
 p4657
-aS'GRASIM'
-p4658
-aS'500300'
+aa(lp4658
+S'Goldstone Infratech Ltd'
 p4659
-aa(lp4660
-S'GRASIMSL    '
+aS'GOLDINFRA'
+p4660
+aS'532439'
 p4661
-ag4
-aS'600300'
-p4662
-aa(lp4663
-S'Gratex Industries Ltd'
+aa(lp4662
+S'Goldstone Technologies Ltd'
+p4663
+aS'GOLDTECH'
 p4664
-ag4
-aS'526751'
+aS'531439'
 p4665
 aa(lp4666
-S'Grauer & Weil India Ltd'
+S'Golechha Global Finance Ltd'
 p4667
-ag4
-aS'505710'
+ag56
+aS'531360'
 p4668
 aa(lp4669
-S'Graviss Hospitality Ltd'
+S'Golkunda Diamonds & Jewellery Ltd'
 p4670
-ag4
-aS'509546'
+ag56
+aS'523676'
 p4671
 aa(lp4672
-S'Gravita India Ltd'
+S'Gomti Finlease India Ltd'
 p4673
-aS'GRAVITA'
+ag56
+aS'530701'
 p4674
-aS'533282'
-p4675
-aa(lp4676
-S'Gravity India Ltd'
+aa(lp4675
+S'Gontermann Peipers India Ltd'
+p4676
+aS'GONTERPEIP'
 p4677
-ag4
-aS'532015'
+aS'504701'
 p4678
 aa(lp4679
-S'Great Eastern Shipping Company Ltd'
+S'Good Luck Steel Tubes Ltd'
 p4680
-aS'GESHIP'
+aS'GOODLUCK'
 p4681
-aS'500620'
+aS'530655'
 p4682
 aa(lp4683
-S'Great Offshore Ltd'
+S'Goodricke Group Ltd'
 p4684
-aS'GTOFFSHORE'
+aS'GOODRICKE'
 p4685
-aS'532786'
+aS'500166'
 p4686
 aa(lp4687
-S'Greaves Cotton Ltd'
+S'Goodyear India Ltd'
 p4688
-aS'GREAVESCOT'
+aS'GOODYEAR'
 p4689
-aS'501455'
+aS'500168'
 p4690
 aa(lp4691
-S'Greenline Tea & Exports Ltd'
+S'Gopal Iron & Steels Company Gujarat Ltd'
 p4692
-ag4
-aS'530689'
+ag56
+aS'531913'
 p4693
 aa(lp4694
-S'Greenply Industries Ltd'
+S'Gopala Polyplast Ltd'
 p4695
-aS'GREENPLY'
+ag56
+aS'526717'
 p4696
-aS'526797'
-p4697
-aa(lp4698
-S'Gremach Infrastructure Equipments & Projects Ltd'
+aa(lp4697
+S'Goplee Infotech Ltd'
+p4698
+ag56
+aS'531419'
 p4699
-ag4
-aS'532836'
-p4700
-aa(lp4701
-S'Grenada Investment & Trading Company Ltd'
+aa(lp4700
+S'Gorani Industries Ltd'
+p4701
+ag56
+aS'531608'
 p4702
-ag4
-aS'511138'
-p4703
-aa(lp4704
-S'Greycells Education Ltd'
+aa(lp4703
+S'Gothi Plascon India Ltd'
+p4704
+ag56
+aS'531111'
 p4705
-ag4
-aS'508918'
-p4706
-aa(lp4707
-S'Griffin Chemicals Ltd'
+aa(lp4706
+S'Govind Rubber Ltd'
+p4707
+aS'GOVINRUBER'
 p4708
-ag4
-aS'524642'
+aS'509148'
 p4709
 aa(lp4710
-S'Grindwell Norton Ltd'
+S'Govindji Trikamdas Exports Ltd'
 p4711
-aS'GRINDWELL'
+ag56
+aS'530251'
 p4712
-aS'506076'
-p4713
-aa(lp4714
-S'GRM Overseas Ltd'
+aa(lp4713
+S'Gowra Leasing & Finance Ltd'
+p4714
+ag56
+aS'530709'
 p4715
-ag4
-aS'531449'
-p4716
-aa(lp4717
-S'Growel Investment Ltd'
+aa(lp4716
+S'Goyal Associates Ltd'
+p4717
+ag56
+aS'530663'
 p4718
-ag4
-aS'503641'
-p4719
-aa(lp4720
-S'Gruh Finance Ltd'
+aa(lp4719
+S'Goyal Financials India Ltd'
+p4720
+ag56
+aS'531055'
 p4721
-aS'GRUH'
-p4722
-aS'511288'
+aa(lp4722
+S'GR Cables Ltd'
 p4723
-aa(lp4724
-S'GS Auto International Ltd'
-p4725
-ag4
-aS'513059'
+ag56
+aS'517564'
+p4724
+aa(lp4725
+S'Grabal Alok Impex Ltd'
 p4726
-aa(lp4727
-S'GSB Finance Ltd'
+aS'GRABALALK'
+p4727
+aS'532909'
 p4728
-ag4
-aS'511543'
-p4729
-aa(lp4730
-S'GSL India Ltd'
+aa(lp4729
+S'Grandma Trading & Agencies Ltd'
+p4730
+ag56
+aS'504369'
 p4731
-aS'GSL'
-p4732
-aS'503738'
+aa(lp4732
+S'Granules India Ltd'
 p4733
-aa(lp4734
-S'GSL Nova Petrochemicals Ltd'
+aS'GRANULES'
+p4734
+aS'532482'
 p4735
-aS'GSLNOVA'
-p4736
-aS'530605'
+aa(lp4736
+S'Graphite India Ltd'
 p4737
-aa(lp4738
-S'GSL Securities Ltd'
+aS'GRAPHITE'
+p4738
+aS'509488'
 p4739
-ag4
-aS'530469'
-p4740
-aa(lp4741
-S'GSS Infotech Ltd'
+aa(lp4740
+S'Grasim Industries Ltd'
+p4741
+aS'GRASIM'
 p4742
-aS'GSS'
+aS'500300'
 p4743
-aS'532951'
-p4744
-aa(lp4745
-S'GTL Infrastructure Ltd'
+aa(lp4744
+S'GRASIMSL    '
+p4745
+ag56
+aS'600300'
 p4746
-aS'GTLINFRA'
-p4747
-aS'532775'
+aa(lp4747
+S'Gratex Industries Ltd'
 p4748
-aa(lp4749
-S'GTL Ltd'
-p4750
-aS'GTL'
+ag56
+aS'526751'
+p4749
+aa(lp4750
+S'Grauer & Weil India Ltd'
 p4751
-aS'500160'
+ag56
+aS'505710'
 p4752
 aa(lp4753
-S'GTN Industries Ltd'
+S'Graviss Hospitality Ltd'
 p4754
-aS'GTNIND'
+ag56
+aS'509546'
 p4755
-aS'500170'
-p4756
-aa(lp4757
-S'GTN Textiles Ltd'
+aa(lp4756
+S'Gravita India Ltd'
+p4757
+aS'GRAVITA'
 p4758
-aS'GTNTEX'
+aS'533282'
 p4759
-aS'532744'
-p4760
-aa(lp4761
-S'Gufic Biosciences Ltd'
+aa(lp4760
+S'Gravity India Ltd'
+p4761
+ag56
+aS'532015'
 p4762
-aS'GUFICBIO'
-p4763
-aS'509079'
+aa(lp4763
+S'Great Eastern Shipping Company Ltd'
 p4764
-aa(lp4765
-S'Gujarat Alkalies & Chemicals Ltd'
+aS'GESHIP'
+p4765
+aS'500620'
 p4766
-aS'GUJALKALI'
-p4767
-aS'530001'
+aa(lp4767
+S'Great Offshore Ltd'
 p4768
-aa(lp4769
-S'Gujarat Ambuja Exports Ltd'
+aS'GTOFFSHORE'
+p4769
+aS'532786'
 p4770
-aS'GAEL'
-p4771
-aS'524226'
+aa(lp4771
+S'Greaves Cotton Ltd'
 p4772
-aa(lp4773
-S'Gujarat Apollo Industries Ltd'
+aS'GREAVESCOT'
+p4773
+aS'501455'
 p4774
-aS'GUJAPOLLO'
-p4775
-aS'522217'
+aa(lp4775
+S'Greenline Tea & Exports Ltd'
 p4776
-aa(lp4777
-S'Gujarat Automotive Gears Ltd'
-p4778
-ag4
-aS'505712'
+ag56
+aS'530689'
+p4777
+aa(lp4778
+S'Greenply Industries Ltd'
 p4779
-aa(lp4780
-S'Gujarat Borosil Ltd'
+aS'GREENPLY'
+p4780
+aS'526797'
 p4781
-aS'GUJBOROSIL'
-p4782
-aS'523768'
+aa(lp4782
+S'Gremach Infrastructure Equipments & Projects Ltd'
 p4783
-aa(lp4784
-S'Gujarat Capital Ventures Ltd'
-p4785
-ag4
-aS'531601'
+ag56
+aS'532836'
+p4784
+aa(lp4785
+S'Grenada Investment & Trading Company Ltd'
 p4786
-aa(lp4787
-S'Gujarat Carbon & Industries Ltd'
-p4788
-ag4
-aS'506457'
+ag56
+aS'511138'
+p4787
+aa(lp4788
+S'Greycells Education Ltd'
 p4789
-aa(lp4790
-S'Gujarat Containers Ltd'
-p4791
-ag4
-aS'513507'
+ag56
+aS'508918'
+p4790
+aa(lp4791
+S'Griffin Chemicals Ltd'
 p4792
-aa(lp4793
-S'Gujarat Cotex Ltd'
-p4794
-aS'GUJCOTEX'
+ag56
+aS'524642'
+p4793
+aa(lp4794
+S'Grindwell Norton Ltd'
 p4795
-aS'514386'
+aS'GRINDWELL'
 p4796
-aa(lp4797
-S'Gujarat Craft Industries Ltd'
-p4798
-ag4
-aS'526965'
+aS'506076'
+p4797
+aa(lp4798
+S'GRM Overseas Ltd'
 p4799
-aa(lp4800
-S'Gujarat Credit Corporation Ltd'
-p4801
-ag4
-aS'511441'
+ag56
+aS'531449'
+p4800
+aa(lp4801
+S'Growel Investment Ltd'
 p4802
-aa(lp4803
-S'Gujarat Fluorochemicals Ltd'
-p4804
-aS'GUJFLUORO'
+ag56
+aS'503641'
+p4803
+aa(lp4804
+S'Gruh Finance Ltd'
 p4805
-aS'500173'
+aS'GRUH'
 p4806
-aa(lp4807
-S'Gujarat Foils Ltd'
-p4808
-ag4
-aS'531410'
+aS'511288'
+p4807
+aa(lp4808
+S'GS Auto International Ltd'
 p4809
-aa(lp4810
-S'Gujarat Gas Company Ltd'
-p4811
-aS'GUJRATGAS'
+ag56
+aS'513059'
+p4810
+aa(lp4811
+S'GSB Finance Ltd'
 p4812
-aS'523477'
+ag56
+aS'511543'
 p4813
 aa(lp4814
-S'Gujarat Hotels Ltd'
+S'GSL India Ltd'
 p4815
-ag4
-aS'507960'
+aS'GSL'
 p4816
-aa(lp4817
-S'Gujarat Industries Power Company Ltd'
-p4818
-aS'GIPCL'
+aS'503738'
+p4817
+aa(lp4818
+S'GSL Nova Petrochemicals Ltd'
 p4819
-aS'517300'
+aS'GSLNOVA'
 p4820
-aa(lp4821
-S'Gujarat Inject Kerala Ltd'
-p4822
-ag4
-aS'524238'
+aS'530605'
+p4821
+aa(lp4822
+S'GSL Securities Ltd'
 p4823
-aa(lp4824
-S'Gujarat Intrux Ltd'
-p4825
-ag4
-aS'517372'
+ag56
+aS'530469'
+p4824
+aa(lp4825
+S'GSS Infotech Ltd'
 p4826
-aa(lp4827
-S'Gujarat Investa Ltd'
+aS'GSS'
+p4827
+aS'532951'
 p4828
-ag4
-aS'531341'
-p4829
-aa(lp4830
-S'Gujarat JHM Hotels Ltd'
+aa(lp4829
+S'GTL Infrastructure Ltd'
+p4830
+aS'GTLINFRA'
 p4831
-ag4
-aS'523357'
+aS'532775'
 p4832
 aa(lp4833
-S'Gujarat Lease Financing Ltd'
+S'GTL Ltd'
 p4834
-aS'GLFL'
+aS'GTL'
 p4835
-aS'500174'
+aS'500160'
 p4836
 aa(lp4837
-S'Gujarat Meditech Ltd'
+S'GTN Industries Ltd'
 p4838
-ag4
-aS'524754'
+aS'GTNIND'
 p4839
-aa(lp4840
-S'Gujarat Mineral Development Corporation Ltd'
-p4841
-aS'GMDCLTD'
+aS'500170'
+p4840
+aa(lp4841
+S'GTN Textiles Ltd'
 p4842
-aS'532181'
+aS'GTNTEX'
 p4843
-aa(lp4844
-S'Gujarat Narmada Flyash Company Ltd'
-p4845
-ag4
-aS'526598'
+aS'532744'
+p4844
+aa(lp4845
+S'Gufic Biosciences Ltd'
 p4846
-aa(lp4847
-S'Gujarat Narmada Valley Fertilizers Company Ltd'
+aS'GUFICBIO'
+p4847
+aS'509079'
 p4848
-aS'GNFC'
-p4849
-aS'500670'
+aa(lp4849
+S'Gujarat Alkalies & Chemicals Ltd'
 p4850
-aa(lp4851
-S'Gujarat NRE Coke Ltd'
+aS'GUJALKALI'
+p4851
+aS'530001'
 p4852
-aS'GUJNRECOKE'
-p4853
-aS'512579'
+aa(lp4853
+S'Gujarat Ambuja Exports Ltd'
 p4854
-aa(lp4855
-S'Gujarat NRE Coke-DVR'
+aS'GAEL'
+p4855
+aS'524226'
 p4856
-aS'GUJNREDVR'
-p4857
-aS'570003'
+aa(lp4857
+S'Gujarat Apollo Industries Ltd'
 p4858
-aa(lp4859
-S'Gujarat Petrosynthese Ltd'
+aS'GUJAPOLLO'
+p4859
+aS'522217'
 p4860
-ag4
-aS'506858'
-p4861
-aa(lp4862
-S'Gujarat Pipavav Port Ltd'
+aa(lp4861
+S'Gujarat Automotive Gears Ltd'
+p4862
+ag56
+aS'505712'
 p4863
-aS'GPPL'
-p4864
-aS'533248'
+aa(lp4864
+S'Gujarat Borosil Ltd'
 p4865
-aa(lp4866
-S'Gujarat Poly Avx Electronics Ltd'
+aS'GUJBOROSIL'
+p4866
+aS'523768'
 p4867
-ag4
-aS'517288'
-p4868
-aa(lp4869
-S'Gujarat Raffia Industries Ltd'
+aa(lp4868
+S'Gujarat Capital Ventures Ltd'
+p4869
+ag56
+aS'531601'
 p4870
-aS'GUJRAFFIA'
-p4871
-aS'523836'
+aa(lp4871
+S'Gujarat Carbon & Industries Ltd'
 p4872
-aa(lp4873
-S'Gujarat Reclaim & Rubber Products Ltd'
-p4874
-ag4
-aS'509152'
+ag56
+aS'506457'
+p4873
+aa(lp4874
+S'Gujarat Containers Ltd'
 p4875
-aa(lp4876
-S'Gujarat Sidhee Cement Ltd'
-p4877
-aS'GUJSIDHCEM'
+ag56
+aS'513507'
+p4876
+aa(lp4877
+S'Gujarat Cotex Ltd'
 p4878
-aS'518029'
+aS'GUJCOTEX'
 p4879
-aa(lp4880
-S'Gujarat State Fertilizers & Chemicals Ltd'
-p4881
-aS'GSFC'
+aS'514386'
+p4880
+aa(lp4881
+S'Gujarat Craft Industries Ltd'
 p4882
-aS'500690'
+ag56
+aS'526965'
 p4883
 aa(lp4884
-S'Gujarat State Financial Corporation'
+S'Gujarat Credit Corporation Ltd'
 p4885
-aS'GUJSTATFIN'
+ag56
+aS'511441'
 p4886
-aS'532160'
-p4887
-aa(lp4888
-S'Gujarat State Petronet Ltd'
+aa(lp4887
+S'Gujarat Fluorochemicals Ltd'
+p4888
+aS'GUJFLUORO'
 p4889
-aS'GSPL'
+aS'500173'
 p4890
-aS'532702'
-p4891
-aa(lp4892
-S'Gujarat Terce Laboratories Ltd'
+aa(lp4891
+S'Gujarat Foils Ltd'
+p4892
+ag56
+aS'531410'
 p4893
-ag4
-aS'524314'
-p4894
-aa(lp4895
-S'Gujarat Themis Biosyn Ltd'
+aa(lp4894
+S'Gujarat Gas Company Ltd'
+p4895
+aS'GUJRATGAS'
 p4896
-aS'GUJTHEMIS'
+aS'523477'
 p4897
-aS'506879'
-p4898
-aa(lp4899
-S'Gujarat Toolroom Ltd'
+aa(lp4898
+S'Gujarat Hotels Ltd'
+p4899
+ag56
+aS'507960'
 p4900
-ag4
-aS'513337'
-p4901
-aa(lp4902
-S'Gujchem Distillers India Ltd'
+aa(lp4901
+S'Gujarat Industries Power Company Ltd'
+p4902
+aS'GIPCL'
 p4903
-ag4
-aS'506640'
+aS'517300'
 p4904
 aa(lp4905
-S'Gulf Oil Corporation Ltd'
+S'Gujarat Inject Kerala Ltd'
 p4906
-aS'GULFOILCOR'
+ag56
+aS'524238'
 p4907
-aS'506480'
-p4908
-aa(lp4909
-S'Gulshan Chemfill Ltd'
+aa(lp4908
+S'Gujarat Intrux Ltd'
+p4909
+ag56
+aS'517372'
 p4910
-ag4
-aS'532425'
-p4911
-aa(lp4912
-S'Gulshan Polyols Ltd'
+aa(lp4911
+S'Gujarat Investa Ltd'
+p4912
+ag56
+aS'531341'
 p4913
-ag4
-aS'532457'
-p4914
-aa(lp4915
-S'Gulshan Sugars & Chemicals Ltd'
+aa(lp4914
+S'Gujarat JHM Hotels Ltd'
+p4915
+ag56
+aS'523357'
 p4916
-ag4
-aS'524184'
-p4917
-aa(lp4918
-S'Gupta Carpets International Ltd'
+aa(lp4917
+S'Gujarat Lease Financing Ltd'
+p4918
+aS'GLFL'
 p4919
-ag4
-aS'514360'
+aS'500174'
 p4920
 aa(lp4921
-S'Gupta Fibres Ltd'
+S'Gujarat Meditech Ltd'
 p4922
-ag4
-aS'526025'
+ag56
+aS'524754'
 p4923
 aa(lp4924
-S'Gupta Synthetics Ltd'
+S'Gujarat Mineral Development Corporation Ltd'
 p4925
-ag4
-aS'514116'
+aS'GMDCLTD'
 p4926
-aa(lp4927
-S'GV Films Ltd'
-p4928
-ag4
-aS'523277'
+aS'532181'
+p4927
+aa(lp4928
+S'Gujarat Narmada Flyash Company Ltd'
 p4929
-aa(lp4930
-S'GVK Power & Infrastructure Ltd'
-p4931
-aS'GVKPIL'
+ag56
+aS'526598'
+p4930
+aa(lp4931
+S'Gujarat Narmada Valley Fertilizers Company Ltd'
 p4932
-aS'532708'
+aS'GNFC'
 p4933
-aa(lp4934
-S'Gyan Developers & Builders Ltd'
-p4935
-ag4
-aS'530141'
+aS'500670'
+p4934
+aa(lp4935
+S'Gujarat NRE Coke Ltd'
 p4936
-aa(lp4937
-S'Gyscoal Alloys Ltd'
+aS'GUJNRECOKE'
+p4937
+aS'512579'
 p4938
-aS'GAL'
-p4939
-aS'533275'
+aa(lp4939
+S'Gujarat NRE Coke-DVR'
 p4940
-aa(lp4941
-S'Orient Green Power Company Ltd'
+aS'GUJNREDVR'
+p4941
+aS'570003'
 p4942
-aS'GREENPOWER'
-p4943
-aS'533263'
+aa(lp4943
+S'Gujarat Petrosynthese Ltd'
 p4944
-aa(lp4945
-S'UTI Mutual Fund - UTI Gold Exchange Traded Fund'
-p4946
-aS'GOLDSHARE'
+ag56
+aS'506858'
+p4945
+aa(lp4946
+S'Gujarat Pipavav Port Ltd'
 p4947
-ag4
-aa(lp4948
-S'HIRAFERRO'
+aS'GPPL'
+p4948
+aS'533248'
 p4949
-aS'HIRAFERRO'
-p4950
-ag4
-aa(lp4951
-S'HIL'
+aa(lp4950
+S'Gujarat Poly Avx Electronics Ltd'
+p4951
+ag56
+aS'517288'
 p4952
-aS'HIL'
-p4953
-ag4
-aa(lp4954
-S'HEXATRADEX'
+aa(lp4953
+S'Gujarat Raffia Industries Ltd'
+p4954
+aS'GUJRAFFIA'
 p4955
-aS'HEXATRADEX'
+aS'523836'
 p4956
-ag4
 aa(lp4957
-S'HGS'
+S'Gujarat Reclaim & Rubber Products Ltd'
 p4958
-aS'HGS'
+aS'GRPLTD'
 p4959
-ag4
-aa(lp4960
-S'HUBTOWN'
-p4961
-aS'HUBTOWN'
+aS'509152'
+p4960
+aa(lp4961
+S'Gujarat Sidhee Cement Ltd'
 p4962
-ag4
-aa(lp4963
-S'HATSUN'
+aS'GSCLCEMENT'
+p4963
+aS'518029'
 p4964
-aS'HATSUN'
-p4965
-ag4
-aa(lp4966
-S'H S India Ltd'
+aa(lp4965
+S'Gujarat State Fertilizers & Chemicals Ltd'
+p4966
+aS'GSFC'
 p4967
-ag4
-aS'532145'
+aS'500690'
 p4968
 aa(lp4969
-S'Haldyn Glass Gujarat Ltd'
+S'Gujarat State Financial Corporation'
 p4970
-ag4
-aS'515147'
+aS'GUJSTATFIN'
 p4971
-aa(lp4972
-S'Halonix Ltd'
-p4973
-aS'HALONIX'
+aS'532160'
+p4972
+aa(lp4973
+S'Gujarat State Petronet Ltd'
 p4974
-aS'517296'
+aS'GSPL'
 p4975
-aa(lp4976
-S'Hang Seng Benchmark ETF'
-p4977
-aS'HNGSNGBEES'
+aS'532702'
+p4976
+aa(lp4977
+S'Gujarat Terce Laboratories Ltd'
 p4978
-aS'590113'
+ag56
+aS'524314'
 p4979
 aa(lp4980
-S'Hanil Era Textiles Ltd'
+S'Gujarat Themis Biosyn Ltd'
 p4981
-aS'HANILERA'
+aS'GUJTHEMIS'
 p4982
-aS'500177'
+aS'506879'
 p4983
 aa(lp4984
-S'Hanjer Fibres Ltd'
+S'Gujarat Toolroom Ltd'
 p4985
-ag4
-aS'514308'
+ag56
+aS'513337'
 p4986
 aa(lp4987
-S'Hanung Toys & Textiles Ltd'
+S'Gujchem Distillers India Ltd'
 p4988
-aS'HANUNG'
+ag56
+aS'506640'
 p4989
-aS'532770'
-p4990
-aa(lp4991
-S'Hardcastle & Waud Manufacturing Company Ltd'
+aa(lp4990
+S'Gulf Oil Corporation Ltd'
+p4991
+aS'GULFCORP'
 p4992
-ag4
-aS'509597'
+aS'506480'
 p4993
 aa(lp4994
-S'Haria Exports Ltd'
+S'Gulshan Chemfill Ltd'
 p4995
-aS'HARIAEXPO'
+ag56
+aS'532425'
 p4996
-aS'512604'
-p4997
-aa(lp4998
-S'Harig Crankshafts Ltd'
+aa(lp4997
+S'Gulshan Polyols Ltd'
+p4998
+aS'GULPOLY'
 p4999
-aS'HARIGCRANK'
+aS'532457'
 p5000
-aS'500178'
-p5001
-aa(lp5002
-S'Harita Seating Systems Ltd'
+aa(lp5001
+S'Gulshan Sugars & Chemicals Ltd'
+p5002
+ag56
+aS'524184'
 p5003
-aS'HARITASEAT'
-p5004
-aS'590043'
+aa(lp5004
+S'Gupta Carpets International Ltd'
 p5005
-aa(lp5006
-S'Hariyana Ship Breakers Ltd'
-p5007
-ag4
-aS'526931'
+ag56
+aS'514360'
+p5006
+aa(lp5007
+S'Gupta Fibres Ltd'
 p5008
-aa(lp5009
-S'Harleystreet Pharmaceuticals Ltd'
-p5010
-ag4
-aS'524082'
+ag56
+aS'526025'
+p5009
+aa(lp5010
+S'Gupta Synthetics Ltd'
 p5011
-aa(lp5012
-S'Harmony Capital Service Ltd'
-p5013
-ag4
-aS'530055'
+ag56
+aS'514116'
+p5012
+aa(lp5013
+S'GV Films Ltd'
 p5014
-aa(lp5015
-S'Harringtons Industries Ltd'
-p5016
-ag4
-aS'531134'
+ag56
+aS'523277'
+p5015
+aa(lp5016
+S'GVK Power & Infrastructure Ltd'
 p5017
-aa(lp5018
-S'Harrisons Malayalam Ltd'
+aS'GVKPIL'
+p5018
+aS'532708'
 p5019
-aS'HARRMALAYA'
-p5020
-aS'500467'
+aa(lp5020
+S'Gyan Developers & Builders Ltd'
 p5021
-aa(lp5022
-S'Haryana Capfin Ltd'
-p5023
-ag4
-aS'532855'
+ag56
+aS'530141'
+p5022
+aa(lp5023
+S'Gyscoal Alloys Ltd'
 p5024
-aa(lp5025
-S'Haryana Financial Corporation Ltd'
+aS'GAL'
+p5025
+aS'533275'
 p5026
-ag4
-aS'530927'
-p5027
-aa(lp5028
-S'Haryana Leather Chemicals Ltd'
+aa(lp5027
+S'Orient Green Power Company Ltd'
+p5028
+aS'GREENPOWER'
 p5029
-ag4
-aS'524080'
+aS'533263'
 p5030
 aa(lp5031
-S'Hasti Finance Ltd'
+S'UTI Mutual Fund - UTI Gold Exchange Traded Fund'
 p5032
-ag4
-aS'531387'
+aS'GOLDSHARE'
 p5033
-aa(lp5034
-S'Hathway Bhawani Cabletel & Datacom Ltd'
-p5035
-ag4
-aS'509073'
+aS'590101'
+p5034
+aa(lp5035
+S'HIRAFERRO'
 p5036
-aa(lp5037
-S'Hathway Cable & Datacom Ltd'
+aS'HIRAFERRO'
+p5037
+aS'533256'
 p5038
-aS'HATHWAY'
-p5039
-aS'533162'
+aa(lp5039
+S'HIL'
 p5040
-aa(lp5041
-S'Hatsun Agro Product Ltd'
+aS'HIL'
+p5041
+aS'509675'
 p5042
-ag4
-aS'531531'
-p5043
-aa(lp5044
-S'Havells India Ltd'
+aa(lp5043
+S'HEXATRADEX'
+p5044
+aS'HEXATRADEX'
 p5045
-aS'HAVELLS'
+aS'534328'
 p5046
-aS'517354'
-p5047
-aa(lp5048
-S'Hawkins Cookers Ltd'
+aa(lp5047
+S'HGS'
+p5048
+aS'HGS'
 p5049
-aS'HAWKINCOOK'
+aS'532859'
 p5050
-aS'508486'
-p5051
-aa(lp5052
-S'Hazoor Multi Projects Ltd'
+aa(lp5051
+S'HUBTOWN'
+p5052
+aS'HUBTOWN'
 p5053
-ag4
-aS'532467'
+aS'532799'
 p5054
 aa(lp5055
-S'HB Estate Developers Ltd'
+S'HATSUN'
 p5056
-ag4
-aS'532334'
+aS'HATSUN'
 p5057
-aa(lp5058
-S'HB Leasing & Finance Company Ltd'
-p5059
-ag4
-aS'508956'
+aS'531531'
+p5058
+aa(lp5059
+S'H S India Ltd'
 p5060
-aa(lp5061
-S'HB Portfolio Ltd'
-p5062
-ag4
-aS'532333'
+ag56
+aS'532145'
+p5061
+aa(lp5062
+S'Haldyn Glass Gujarat Ltd'
 p5063
-aa(lp5064
-S'HB Stockholdings Ltd'
-p5065
-aS'HBSTOCK'
+ag56
+aS'515147'
+p5064
+aa(lp5065
+S'Halonix Ltd'
 p5066
-aS'532216'
+aS'PHOENIXLL'
 p5067
-aa(lp5068
-S'HBL Power Systems Ltd'
-p5069
-aS'HBLPOWER'
+aS'517296'
+p5068
+aa(lp5069
+S'Hang Seng Benchmark ETF'
 p5070
-aS'517271'
+aS'HNGSNGBEES'
 p5071
-aa(lp5072
-S'HCL Infosystems Ltd'
-p5073
-aS'HCL-INSYS'
+aS'590113'
+p5072
+aa(lp5073
+S'Hanil Era Textiles Ltd'
 p5074
-aS'500179'
+aS'HANILERA'
 p5075
-aa(lp5076
-S'HCL Technologies Ltd'
-p5077
-aS'HCLTECH'
+aS'500177'
+p5076
+aa(lp5077
+S'Hanjer Fibres Ltd'
 p5078
-aS'532281'
+ag56
+aS'514308'
 p5079
 aa(lp5080
-S'HDFC Bank Ltd'
+S'Hanung Toys & Textiles Ltd'
 p5081
-aS'HDFCBANK'
+aS'HANUNG'
 p5082
-aS'500180'
+aS'532770'
 p5083
 aa(lp5084
-S'HDFC Gold ETF'
+S'Hardcastle & Waud Manufacturing Company Ltd'
 p5085
-aS'HDFCMFGETF'
+ag56
+aS'509597'
 p5086
-aS'533230'
-p5087
-aa(lp5088
-S'Healthy Investments Ltd'
+aa(lp5087
+S'Haria Exports Ltd'
+p5088
+aS'HARIAEXPO'
 p5089
-ag4
-aS'503689'
+aS'512604'
 p5090
 aa(lp5091
-S'Heera Ispat Ltd'
+S'Harig Crankshafts Ltd'
 p5092
-ag4
-aS'526967'
+aS'HARIGCRANK'
 p5093
-aa(lp5094
-S'HEG Ltd'
-p5095
-aS'HEG'
+aS'500178'
+p5094
+aa(lp5095
+S'Harita Seating Systems Ltd'
 p5096
-aS'509631'
+aS'HARITASEAT'
 p5097
-aa(lp5098
-S'HeidelbergCement India Ltd'
-p5099
-aS'HEIDELBERG'
+aS'590043'
+p5098
+aa(lp5099
+S'Hariyana Ship Breakers Ltd'
 p5100
-aS'500292'
+ag56
+aS'526931'
 p5101
 aa(lp5102
-S'Helios & Matheson Information Technology Ltd'
+S'Harleystreet Pharmaceuticals Ltd'
 p5103
-aS'HELIOSMATH'
+ag56
+aS'524082'
 p5104
-aS'532347'
-p5105
-aa(lp5106
-S'Hella India Lighting Ltd'
+aa(lp5105
+S'Harmony Capital Service Ltd'
+p5106
+ag56
+aS'530055'
 p5107
-ag4
-aS'520026'
-p5108
-aa(lp5109
-S'Hem Holdings & Trading Ltd'
+aa(lp5108
+S'Harringtons Industries Ltd'
+p5109
+ag56
+aS'531134'
 p5110
-ag4
-aS'505520'
-p5111
-aa(lp5112
-S'Henkel India Ltd'
+aa(lp5111
+S'Harrisons Malayalam Ltd'
+p5112
+aS'HARRMALAYA'
 p5113
-ag4
-aS'532671'
+aS'500467'
 p5114
 aa(lp5115
-S'Hercules Hoists Ltd'
+S'Haryana Capfin Ltd'
 p5116
-aS'HERCULES'
+ag56
+aS'532855'
 p5117
-aS'505720'
-p5118
-aa(lp5119
-S'Heritage Foods India Ltd'
+aa(lp5118
+S'Haryana Financial Corporation Ltd'
+p5119
+ag56
+aS'530927'
 p5120
-aS'HERITGFOOD'
-p5121
-aS'519552'
+aa(lp5121
+S'Haryana Leather Chemicals Ltd'
 p5122
-aa(lp5123
-S'Hero MotoCorp Limited'
-p5124
-aS'HEROMOTOCO'
+ag56
+aS'524080'
+p5123
+aa(lp5124
+S'Hasti Finance Ltd'
 p5125
-aS'500182'
+ag56
+aS'531387'
 p5126
 aa(lp5127
-S'Hester Biosciences Ltd'
+S'Hathway Bhawani Cabletel & Datacom Ltd'
 p5128
-ag4
-aS'524669'
+ag56
+aS'509073'
 p5129
 aa(lp5130
-S'Hexaware Technologies Ltd'
+S'Hathway Cable & Datacom Ltd'
 p5131
-aS'HEXAWARE'
+aS'HATHWAY'
 p5132
-aS'532129'
+aS'533162'
 p5133
 aa(lp5134
-S'HFCL Infotel Ltd'
+S'Hatsun Agro Product Ltd'
 p5135
-ag4
-aS'511116'
+aS'HATSUN'
 p5136
-aa(lp5137
-S'Hi-Tech Gears Ltd'
-p5138
-aS'HITECHGEAR'
+aS'531531'
+p5137
+aa(lp5138
+S'Havells India Ltd'
 p5139
-aS'522073'
+aS'HAVELLS'
 p5140
-aa(lp5141
-S'High Energy Batteries India Ltd'
-p5142
-ag4
-aS'504176'
+aS'517354'
+p5141
+aa(lp5142
+S'Hawkins Cookers Ltd'
 p5143
-aa(lp5144
-S'Hikal Ltd'
+aS'HAWKINCOOK'
+p5144
+aS'508486'
 p5145
-aS'HIKAL'
-p5146
-aS'524735'
+aa(lp5146
+S'Hazoor Multi Projects Ltd'
 p5147
-aa(lp5148
-S'Hillock Agro Foods India Ltd'
-p5149
-ag4
-aS'530053'
+ag56
+aS'532467'
+p5148
+aa(lp5149
+S'HB Estate Developers Ltd'
 p5150
-aa(lp5151
-S'Hilton Metal Forging Ltd'
-p5152
-aS'HILTON'
+ag56
+aS'532334'
+p5151
+aa(lp5152
+S'HB Leasing & Finance Company Ltd'
 p5153
-aS'532847'
+ag56
+aS'508956'
 p5154
 aa(lp5155
-S'Himachal Fibres Ltd'
+S'HB Portfolio Ltd'
 p5156
-ag4
-aS'514010'
+aS'HBPORT'
 p5157
-aa(lp5158
-S'Himachal Futuristic Communications Ltd'
-p5159
-aS'HFCL'
+aS'532333'
+p5158
+aa(lp5159
+S'HB Stockholdings Ltd'
 p5160
-aS'500183'
+aS'HBSTOCK'
 p5161
-aa(lp5162
-S'Himadri Chemicals & Industries Ltd'
-p5163
-aS'HCIL'
+aS'532216'
+p5162
+aa(lp5163
+S'HBL Power Systems Ltd'
 p5164
-aS'500184'
+aS'HBLPOWER'
 p5165
-aa(lp5166
-S'Himalaya Granites Ltd'
-p5167
-aS'HIMGRANITE'
+aS'517271'
+p5166
+aa(lp5167
+S'HCL Infosystems Ltd'
 p5168
-aS'513723'
+aS'HCL-INSYS'
 p5169
-aa(lp5170
-S'Himalchuli Food Products Ltd'
-p5171
-ag4
-aS'511169'
+aS'500179'
+p5170
+aa(lp5171
+S'HCL Technologies Ltd'
 p5172
-aa(lp5173
-S'Himalya International Ltd'
+aS'HCLTECH'
+p5173
+aS'532281'
 p5174
-ag4
-aS'526899'
-p5175
-aa(lp5176
-S'Himatsingka Seide Ltd'
+aa(lp5175
+S'HDFC Bank Ltd'
+p5176
+aS'HDFCBANK'
 p5177
-aS'HIMATSEIDE'
+aS'500180'
 p5178
-aS'514043'
-p5179
-aa(lp5180
-S'Hinafil India Ltd'
+aa(lp5179
+S'HDFC Gold ETF'
+p5180
+aS'HDFCMFGETF'
 p5181
-ag4
-aS'526779'
+aS'533230'
 p5182
 aa(lp5183
-S'Hind Aluminium Industries Ltd'
+S'Healthy Investments Ltd'
 p5184
-ag4
-aS'531979'
+ag56
+aS'503689'
 p5185
 aa(lp5186
-S'Hind Industries Ltd'
+S'Heera Ispat Ltd'
 p5187
-aS'HINDIND'
+ag56
+aS'526967'
 p5188
-aS'526307'
-p5189
-aa(lp5190
-S'Hind Rectifiers Ltd'
+aa(lp5189
+S'HEG Ltd'
+p5190
+aS'HEG'
 p5191
-aS'HIRECT'
+aS'509631'
 p5192
-aS'504036'
-p5193
-aa(lp5194
-S'Hind Syntex Ltd'
+aa(lp5193
+S'HeidelbergCement India Ltd'
+p5194
+aS'HEIDELBERG'
 p5195
-aS'HINDSYNTEX'
+aS'500292'
 p5196
-aS'503881'
-p5197
-aa(lp5198
-S'Hindalco Industries Ltd'
+aa(lp5197
+S'Helios & Matheson Information Technology Ltd'
+p5198
+aS'HELIOSMATH'
 p5199
-aS'HINDALCO'
+aS'532347'
 p5200
-aS'500440'
-p5201
-aa(lp5202
-S'Hindoostan Spinning Weaving Mills Ltd'
+aa(lp5201
+S'Hella India Lighting Ltd'
+p5202
+ag56
+aS'520026'
 p5203
-aS'HINDSPG'
-p5204
-aS'502880'
+aa(lp5204
+S'Hem Holdings & Trading Ltd'
 p5205
-aa(lp5206
-S'Hinduja Foundries Ltd'
-p5207
-aS'HINDUJAFO'
+ag56
+aS'505520'
+p5206
+aa(lp5207
+S'Henkel India Ltd'
 p5208
-aS'505982'
+ag56
+aS'532671'
 p5209
 aa(lp5210
-S'Hinduja Global Solutions Ltd'
+S'Hercules Hoists Ltd'
 p5211
-aS'HGSL'
+aS'HERCULES'
 p5212
-aS'532859'
+aS'505720'
 p5213
 aa(lp5214
-S'Hinduja Ventures Ltd'
+S'Heritage Foods India Ltd'
 p5215
-aS'HINDUJAVEN'
+aS'HERITGFOOD'
 p5216
-aS'500189'
+aS'519552'
 p5217
 aa(lp5218
-S'Hindustan Adhesives Ltd'
+S'Hero MotoCorp Limited'
 p5219
-ag4
-aS'514428'
+aS'HEROMOTOCO'
 p5220
-aa(lp5221
-S'Hindustan Appliances Ltd'
-p5222
-ag4
-aS'531918'
+aS'500182'
+p5221
+aa(lp5222
+S'Hester Biosciences Ltd'
 p5223
-aa(lp5224
-S'Hindustan Bio Sciences Ltd'
+aS'HESTERBIO'
+p5224
+aS'524669'
 p5225
-ag4
-aS'532041'
-p5226
-aa(lp5227
-S'Hindustan Composites Ltd'
+aa(lp5226
+S'Hexaware Technologies Ltd'
+p5227
+aS'HEXAWARE'
 p5228
-aS'HINDCOMPOS'
+aS'532129'
 p5229
-aS'509635'
-p5230
-aa(lp5231
-S'Hindustan Construction Company Ltd'
+aa(lp5230
+S'HFCL Infotel Ltd'
+p5231
+ag56
+aS'511116'
 p5232
-aS'HCC'
-p5233
-aS'500185'
+aa(lp5233
+S'Hi-Tech Gears Ltd'
 p5234
-aa(lp5235
-S'Hindustan Continental Ltd'
+aS'HITECHGEAR'
+p5235
+aS'522073'
 p5236
-ag4
-aS'531783'
-p5237
-aa(lp5238
-S'Hindustan Copper Ltd'
+aa(lp5237
+S'High Energy Batteries India Ltd'
+p5238
+ag56
+aS'504176'
 p5239
-aS'HINDCOPPER'
-p5240
-aS'513599'
+aa(lp5240
+S'Hikal Ltd'
 p5241
-aa(lp5242
-S'Hindustan Dorr Oliver Ltd'
+aS'HIKAL'
+p5242
+aS'524735'
 p5243
-aS'HINDDORROL'
-p5244
-aS'509627'
+aa(lp5244
+S'Hillock Agro Foods India Ltd'
 p5245
-aa(lp5246
-S'Hindustan Everest Tools Ltd'
-p5247
-ag4
-aS'505725'
+ag56
+aS'530053'
+p5246
+aa(lp5247
+S'Hilton Metal Forging Ltd'
 p5248
-aa(lp5249
-S'Hindustan Fluorocarbons Ltd'
+aS'HILTON'
+p5249
+aS'532847'
 p5250
-ag4
-aS'524013'
-p5251
-aa(lp5252
-S'Hindustan Foods Ltd'
+aa(lp5251
+S'Himachal Fibres Ltd'
+p5252
+ag56
+aS'514010'
 p5253
-ag4
-aS'519126'
-p5254
-aa(lp5255
-S'Hindustan Hardy Spicer Ltd'
+aa(lp5254
+S'Himachal Futuristic Communications Ltd'
+p5255
+aS'HFCL'
 p5256
-ag4
-aS'505893'
+aS'500183'
 p5257
 aa(lp5258
-S'Hindustan Media Ventures Ltd'
+S'Himadri Chemicals & Industries Ltd'
 p5259
-aS'HMVL'
+aS'HCIL'
 p5260
-aS'533217'
+aS'500184'
 p5261
 aa(lp5262
-S'Hindustan Motors Ltd'
+S'Himalaya Granites Ltd'
 p5263
-aS'HINDMOTORS'
+aS'HIMGRANITE'
 p5264
-aS'500500'
+aS'513723'
 p5265
 aa(lp5266
-S'Hindustan Oil Exploration Company Ltd'
+S'Himalchuli Food Products Ltd'
 p5267
-aS'HINDOILEXP'
+ag56
+aS'511169'
 p5268
-aS'500186'
-p5269
-aa(lp5270
-S'Hindustan Organic Chemicals Ltd'
+aa(lp5269
+S'Himalya International Ltd'
+p5270
+ag56
+aS'526899'
 p5271
-aS'HOCL'
-p5272
-aS'500449'
+aa(lp5272
+S'Himatsingka Seide Ltd'
 p5273
-aa(lp5274
-S'Hindustan Petroleum Corporation Ltd'
+aS'HIMATSEIDE'
+p5274
+aS'514043'
 p5275
-aS'HINDPETRO'
-p5276
-aS'500104'
+aa(lp5276
+S'Hinafil India Ltd'
 p5277
-aa(lp5278
-S'Hindustan Tin Works Ltd'
-p5279
-aS'HINDTINWRK'
+ag56
+aS'526779'
+p5278
+aa(lp5279
+S'Hind Aluminium Industries Ltd'
 p5280
-aS'530315'
+ag56
+aS'531979'
 p5281
 aa(lp5282
-S'Hindustan Unilever Ltd'
+S'Hind Industries Ltd'
 p5283
-aS'HINDUNILVR'
+aS'HINDIND'
 p5284
-aS'500696'
+aS'526307'
 p5285
 aa(lp5286
-S'Hindustan Zinc Ltd'
+S'Hind Rectifiers Ltd'
 p5287
-aS'HINDZINC'
+aS'HIRECT'
 p5288
-aS'500188'
+aS'504036'
 p5289
 aa(lp5290
-S'Hindusthan Development Corporation Ltd'
+S'Hind Syntex Ltd'
 p5291
-aS'HINDEVELOP'
+aS'HINDSYNTEX'
 p5292
-aS'500448'
+aS'503881'
 p5293
 aa(lp5294
-S'Hindusthan National Glass & Industries Ltd'
+S'Hindalco Industries Ltd'
 p5295
-aS'HINDNATGLS'
+aS'HINDALCO'
 p5296
-aS'515145'
+aS'500440'
 p5297
 aa(lp5298
-S'Hindusthan Udyog Ltd'
+S'Hindoostan Spinning Weaving Mills Ltd'
 p5299
-ag4
-aS'513039'
+aS'HINDSPG'
 p5300
-aa(lp5301
-S'Hingir Rampur Coal Company Ltd'
-p5302
-ag4
-aS'501945'
+aS'502880'
+p5301
+aa(lp5302
+S'Hinduja Foundries Ltd'
 p5303
-aa(lp5304
-S'Hipolin Ltd'
+aS'HINDUJAFO'
+p5304
+aS'505982'
 p5305
-ag4
-aS'530853'
-p5306
-aa(lp5307
-S'Hira Automobiles Ltd'
+aa(lp5306
+S'Hinduja Global Solutions Ltd'
+p5307
+aS'HGS'
 p5308
-ag4
-aS'531743'
+aS'532859'
 p5309
 aa(lp5310
-S'Hira Ferro Alloys Ltd'
+S'Hinduja Ventures Ltd'
 p5311
-ag4
-aS'533256'
+aS'HINDUJAVEN'
 p5312
-aa(lp5313
-S'Hiran Orgochem Ltd'
-p5314
-ag4
-aS'506170'
+aS'500189'
+p5313
+aa(lp5314
+S'Hindustan Adhesives Ltd'
 p5315
-aa(lp5316
-S'Hisar Metal Industries Ltd'
-p5317
-ag4
-aS'590018'
+ag56
+aS'514428'
+p5316
+aa(lp5317
+S'Hindustan Appliances Ltd'
 p5318
-aa(lp5319
-S'Hisar Spinning Mills Ltd'
-p5320
-ag4
-aS'521068'
+ag56
+aS'531918'
+p5319
+aa(lp5320
+S'Hindustan Bio Sciences Ltd'
 p5321
-aa(lp5322
-S'Hit Kit Global Solutions Ltd'
-p5323
-ag4
-aS'532359'
+ag56
+aS'532041'
+p5322
+aa(lp5323
+S'Hindustan Composites Ltd'
 p5324
-aa(lp5325
-S'Hitachi Home & Life Solutions India Ltd'
+aS'HINDCOMPOS'
+p5325
+aS'509635'
 p5326
-aS'HITACHIHOM'
-p5327
-aS'523398'
+aa(lp5327
+S'Hindustan Construction Company Ltd'
 p5328
-aa(lp5329
-S'Hitech Plast Ltd'
+aS'HCC'
+p5329
+aS'500185'
 p5330
-aS'HITECHPLAS'
-p5331
-aS'526217'
+aa(lp5331
+S'Hindustan Continental Ltd'
 p5332
-aa(lp5333
-S'Hitkari Fibres Ltd'
-p5334
-ag4
-aS'523222'
+ag56
+aS'531783'
+p5333
+aa(lp5334
+S'Hindustan Copper Ltd'
 p5335
-aa(lp5336
-S'Hittco Tools Ltd'
+aS'HINDCOPPER'
+p5336
+aS'513599'
 p5337
-ag4
-aS'531661'
-p5338
-aa(lp5339
-S'HK Finechem Ltd'
+aa(lp5338
+S'Hindustan Dorr Oliver Ltd'
+p5339
+aS'HINDDORROL'
 p5340
-ag4
-aS'530117'
+aS'509627'
 p5341
 aa(lp5342
-S'HMT Ltd'
+S'Hindustan Everest Tools Ltd'
 p5343
-aS'HMT'
+ag56
+aS'505725'
 p5344
-aS'500191'
-p5345
-aa(lp5346
-S'Honda Siel Power Products Ltd'
+aa(lp5345
+S'Hindustan Fluorocarbons Ltd'
+p5346
+ag56
+aS'524013'
 p5347
-aS'HONDAPOWER'
-p5348
-aS'522064'
+aa(lp5348
+S'Hindustan Foods Ltd'
 p5349
-aa(lp5350
-S'Honeywell Automation India Ltd'
-p5351
-aS'HONAUT'
+ag56
+aS'519126'
+p5350
+aa(lp5351
+S'Hindustan Hardy Spicer Ltd'
 p5352
-aS'517174'
+ag56
+aS'505893'
 p5353
 aa(lp5354
-S'Horizon Infrastructure Ltd'
+S'Hindustan Media Ventures Ltd'
 p5355
-aS'HORIZONINF'
+aS'HMVL'
 p5356
-aS'521336'
+aS'533217'
 p5357
 aa(lp5358
-S'Hotel Leelaventure Ltd'
+S'Hindustan Motors Ltd'
 p5359
-aS'HOTELEELA'
+aS'HINDMOTORS'
 p5360
-aS'500193'
+aS'500500'
 p5361
 aa(lp5362
-S'Hotel Rugby Ltd'
+S'Hindustan Oil Exploration Company Ltd'
 p5363
-aS'HOTELRUGBY'
+aS'HINDOILEXP'
 p5364
-aS'526683'
+aS'500186'
 p5365
 aa(lp5366
-S'Hotline Glass Ltd'
+S'Hindustan Organic Chemicals Ltd'
 p5367
-aS'HOTLINGLAS'
+aS'HOCL'
 p5368
-aS'500195'
+aS'500449'
 p5369
 aa(lp5370
-S'Hotline Teletube & Components Ltd'
+S'Hindustan Petroleum Corporation Ltd'
 p5371
-ag4
-aS'517208'
+aS'HINDPETRO'
 p5372
-aa(lp5373
-S'House of Pearl Fashions Ltd'
-p5374
-aS'HOPFL '
+aS'500104'
+p5373
+aa(lp5374
+S'Hindustan Tin Works Ltd'
 p5375
-aS'532808'
+aS'HINDTINWRK'
 p5376
-aa(lp5377
-S'Housing Development & Infrastructure Ltd'
-p5378
-aS'HDIL'
+aS'530315'
+p5377
+aa(lp5378
+S'Hindustan Unilever Ltd'
 p5379
-aS'532873'
+aS'HINDUNILVR'
 p5380
-aa(lp5381
-S'Housing Development Finance Corporation Ltd'
-p5382
-aS'HDFC'
+aS'500696'
+p5381
+aa(lp5382
+S'Hindustan Zinc Ltd'
 p5383
-aS'500010'
+aS'HINDZINC'
 p5384
-aa(lp5385
-S'HOV Services Ltd'
-p5386
-aS'HOVS'
+aS'500188'
+p5385
+aa(lp5386
+S'Hindusthan Development Corporation Ltd'
 p5387
-aS'532761'
+aS'HINDEVELOP'
 p5388
-aa(lp5389
-S'Howard Hotels Ltd'
-p5390
-ag4
-aS'526761'
+aS'500448'
+p5389
+aa(lp5390
+S'Hindusthan National Glass & Industries Ltd'
 p5391
-aa(lp5392
-S'HP Cotton Textile Mills Ltd'
+aS'HINDNATGLS'
+p5392
+aS'515145'
 p5393
-ag4
-aS'502873'
-p5394
-aa(lp5395
-S'HRB Floriculture Ltd'
+aa(lp5394
+S'Hindusthan Udyog Ltd'
+p5395
+ag56
+aS'513039'
 p5396
-ag4
-aS'531724'
-p5397
-aa(lp5398
-S'HSBC InvestDirect (India) Ltd'
+aa(lp5397
+S'Hingir Rampur Coal Company Ltd'
+p5398
+ag56
+aS'501945'
 p5399
-aS'HINVDIR'
-p5400
-aS'532653'
+aa(lp5400
+S'Hipolin Ltd'
 p5401
-aa(lp5402
-S'HSIL Ltd'
-p5403
-aS'HSIL'
+ag56
+aS'530853'
+p5402
+aa(lp5403
+S'Hira Automobiles Ltd'
 p5404
-aS'500187'
+ag56
+aS'531743'
 p5405
 aa(lp5406
-S'HT Media Ltd'
+S'Hira Ferro Alloys Ltd'
 p5407
-aS'HTMEDIA'
+aS'HIRAFERRO'
 p5408
-aS'532662'
+aS'533256'
 p5409
 aa(lp5410
-S'Hulta Pharmaceutical Export Ltd'
+S'Hiran Orgochem Ltd'
 p5411
-ag4
-aS'531155'
+ag56
+aS'506170'
 p5412
 aa(lp5413
-S'Hyderabad Flextech Ltd'
+S'Hisar Metal Industries Ltd'
 p5414
-ag4
-aS'522219'
+ag56
+aS'590018'
 p5415
 aa(lp5416
-S'Hyderabad Industries Ltd'
+S'Hisar Spinning Mills Ltd'
 p5417
-aS'HYDRBADIND'
+ag56
+aS'521068'
 p5418
-aS'509675'
-p5419
-aa(lp5420
-S'Hydro S&S; Industries Ltd'
+aa(lp5419
+S'Hit Kit Global Solutions Ltd'
+p5420
+ag56
+aS'532359'
 p5421
-aS'HYDROS&S;'
-p5422
-aS'524019'
+aa(lp5422
+S'Hitachi Home & Life Solutions India Ltd'
 p5423
-aa(lp5424
-S'Hytone Texstyles Ltd'
+aS'HITACHIHOM'
+p5424
+aS'523398'
 p5425
-ag4
-aS'514258'
-p5426
-aa(lp5427
-S'IIFL'
+aa(lp5426
+S'Hitech Plast Ltd'
+p5427
+aS'HITECHPLAS'
 p5428
-aS'IIFL'
+aS'526217'
 p5429
-ag4
 aa(lp5430
-S'IIFLNIFTY'
+S'Hitkari Fibres Ltd'
 p5431
-aS'IIFLNIFTY'
+ag56
+aS'523222'
 p5432
-ag4
 aa(lp5433
-S'IDBIGOLD'
+S'Hittco Tools Ltd'
 p5434
-aS'IDBIGOLD'
+ag56
+aS'531661'
 p5435
-ag4
 aa(lp5436
-S'IBULHSGFIN'
+S'HK Finechem Ltd'
 p5437
-aS'IBULHSGFIN'
+aS'ADI'
 p5438
-ag4
-aa(lp5439
-S'IBIPL'
-p5440
-aS'IBIPL'
+aS'530117'
+p5439
+aa(lp5440
+S'HMT Ltd'
 p5441
-ag4
-aa(lp5442
-S'INTEGRA'
+aS'HMT'
+p5442
+aS'500191'
 p5443
-aS'INTEGRA'
-p5444
-ag4
-aa(lp5445
-S'ICCNX100'
+aa(lp5444
+S'Honda Siel Power Products Ltd'
+p5445
+aS'HONDAPOWER'
 p5446
-aS'ICCNX100'
+aS'522064'
 p5447
-ag4
 aa(lp5448
-S'IPAPPM'
+S'Honeywell Automation India Ltd'
 p5449
-aS'IPAPPM'
+aS'HONAUT'
 p5450
-ag4
-aa(lp5451
-S'INTELLECT'
-p5452
-aS'INTELLECT'
+aS'517174'
+p5451
+aa(lp5452
+S'Horizon Infrastructure Ltd'
 p5453
-ag4
-aa(lp5454
-S'INDOTHAI'
-p5455
-aS'INDOTHAI'
+aS'HORIZONINF'
+p5454
+ag56
+aa(lp5455
+S'Hotel Leelaventure Ltd'
 p5456
-ag4
-aa(lp5457
-S'ICNX100'
+aS'HOTELEELA'
+p5457
+aS'500193'
 p5458
-aS'ICNX100'
-p5459
-ag4
-aa(lp5460
-S'INFRATEL'
+aa(lp5459
+S'Hotel Rugby Ltd'
+p5460
+aS'HOTELRUGBY'
 p5461
-aS'INFRATEL'
+aS'526683'
 p5462
-ag4
 aa(lp5463
-S'INIFTY'
+S'Hotline Glass Ltd'
 p5464
-aS'INIFTY'
+aS'HOTLINGLAS'
 p5465
-ag4
-aa(lp5466
-S'IGOLD'
-p5467
-aS'IGOLD'
+aS'500195'
+p5466
+aa(lp5467
+S'Hotline Teletube & Components Ltd'
 p5468
-ag4
-aa(lp5469
-S'Balasore Alloys Ltd'
-p5470
-aS'ISPATALLOY'
+ag56
+aS'517208'
+p5469
+aa(lp5470
+S'House of Pearl Fashions Ltd'
 p5471
-aS'513142'
+aS'PGIL'
 p5472
-aa(lp5473
-S'Futura Polyesters Ltd'
-p5474
-aS'INDIANORG'
+aS'532808'
+p5473
+aa(lp5474
+S'Housing Development & Infrastructure Ltd'
 p5475
-aS'500720'
+aS'HDIL'
 p5476
-aa(lp5477
-S'I S T Ltd'
-p5478
-ag4
-aS'508807'
+aS'532873'
+p5477
+aa(lp5478
+S'Housing Development Finance Corporation Ltd'
 p5479
-aa(lp5480
-S'I-Power Solutions India Ltd'
+aS'HDFC'
+p5480
+aS'500010'
 p5481
-ag4
-aS'512405'
-p5482
-aa(lp5483
-S'IAG Company Ltd'
+aa(lp5482
+S'HOV Services Ltd'
+p5483
+aS'HOVS'
 p5484
-aS'INDOASAHI'
+aS'532761'
 p5485
-aS'502241'
-p5486
-aa(lp5487
-S'IB Infotech Enterprises Ltd'
+aa(lp5486
+S'Howard Hotels Ltd'
+p5487
+ag56
+aS'526761'
 p5488
-ag4
-aS'519463'
-p5489
-aa(lp5490
-S'ICDS Ltd'
+aa(lp5489
+S'HP Cotton Textile Mills Ltd'
+p5490
+ag56
+aS'502873'
 p5491
-aS'ICDSLTD'
-p5492
-aS'511194'
+aa(lp5492
+S'HRB Floriculture Ltd'
 p5493
-aa(lp5494
-S'ICICI Bank Ltd'
-p5495
-aS'ICICIBANK'
+ag56
+aS'531724'
+p5494
+aa(lp5495
+S'HSBC InvestDirect (India) Ltd'
 p5496
-aS'532174'
+aS'HINVDIR'
 p5497
-aa(lp5498
-S'ICICI Prudential Fixed Maturity Plan Series 36 - Eighteen Months Plan A (Dividend option)'
-p5499
-ag4
-aS'532862'
+aS'532653'
+p5498
+aa(lp5499
+S'HSIL Ltd'
 p5500
-aa(lp5501
-S'ICICI Prudential Fixed Maturity Plan Series 36 - Eighteen Months Plan A (Growth option)'
+aS'HSIL'
+p5501
+aS'500187'
 p5502
-ag4
-aS'532861'
-p5503
-aa(lp5504
-S'ICICI Prudential Gold ETF'
+aa(lp5503
+S'HT Media Ltd'
+p5504
+aS'HTMEDIA'
 p5505
-aS'IPGETF'
+aS'532662'
 p5506
-aS'533244'
-p5507
-aa(lp5508
-S'ICRA Ltd'
+aa(lp5507
+S'Hulta Pharmaceutical Export Ltd'
+p5508
+ag56
+aS'531155'
 p5509
-aS'ICRA'
-p5510
-aS'532835'
+aa(lp5510
+S'Hyderabad Flextech Ltd'
 p5511
-aa(lp5512
-S'ICSA India Ltd'
-p5513
-aS'ICSA'
+ag56
+aS'522219'
+p5512
+aa(lp5513
+S'Hyderabad Industries Ltd'
 p5514
-aS'531524'
+aS'HIL'
 p5515
-aa(lp5516
-S'IDBI Bank Ltd'
-p5517
-aS'IDBI'
+aS'509675'
+p5516
+aa(lp5517
+S'Hydro S&S; Industries Ltd'
 p5518
-aS'500116'
+aS'HYDROS&S;'
 p5519
-aa(lp5520
-S'Idea Cellular Ltd'
-p5521
-aS'IDEA'
+aS'524019'
+p5520
+aa(lp5521
+S'Hytone Texstyles Ltd'
 p5522
-aS'532822'
+ag56
+aS'514258'
 p5523
 aa(lp5524
-S'Ideal Optics Ltd'
+S'IIFL'
 p5525
-ag4
-aS'531328'
+aS'IIFL'
 p5526
-aa(lp5527
-S'IEC Education Ltd'
-p5528
-ag4
-aS'531840'
+aS'532636'
+p5527
+aa(lp5528
+S'IIFLNIFTY'
 p5529
-aa(lp5530
-S'IFB Agro Industries Ltd'
-p5531
-aS'IFBAGRO'
+aS'IIFLNIFTY'
+p5530
+ag56
+aa(lp5531
+S'IDBIGOLD'
 p5532
-aS'507438'
+aS'IDBIGOLD'
 p5533
-aa(lp5534
-S'IFB Industries Ltd'
-p5535
-aS'IFBIND'
+aS'533719'
+p5534
+aa(lp5535
+S'IBULHSGFIN'
 p5536
-aS'505726'
+aS'IBULHSGFIN'
 p5537
-aa(lp5538
-S'IFCI Ltd'
-p5539
-aS'IFCI'
+aS'535789'
+p5538
+aa(lp5539
+S'IBIPL'
 p5540
-aS'500106'
+aS'IBIPL'
 p5541
+ag56
 aa(lp5542
-S'IFGL Refractories Ltd'
+S'INTEGRA'
 p5543
-aS'IFGLREFRAC'
+aS'INTEGRA'
 p5544
-aS'532133'
+aS'535958'
 p5545
 aa(lp5546
-S'IFL Promoters Ltd'
+S'ICCNX100'
 p5547
-ag4
-aS'511682'
+aS'ICCNX100'
 p5548
+ag56
 aa(lp5549
-S'IFM Impex Global Ltd'
+S'IPAPPM'
 p5550
-ag4
-aS'522289'
+aS'IPAPPM'
 p5551
-aa(lp5552
-S'IFSL Ltd'
-p5553
-ag4
-aS'531998'
+aS'502330'
+p5552
+aa(lp5553
+S'INTELLECT'
 p5554
-aa(lp5555
-S'IG Petrochemicals Ltd'
+aS'INTELLECT'
+p5555
+aS'538835'
 p5556
-aS'IGPL'
-p5557
-aS'500199'
+aa(lp5557
+S'INDOTHAI'
 p5558
-aa(lp5559
-S'Igarashi Motors India Ltd'
+aS'INDOTHAI'
+p5559
+aS'533676'
 p5560
-aS'IGARASHI'
-p5561
-aS'517380'
+aa(lp5561
+S'ICNX100'
 p5562
-aa(lp5563
-S'Ikab Securities & Investment Ltd'
+aS'ICNX100'
+p5563
+aS'537008'
 p5564
-ag4
-aS'514238'
-p5565
-aa(lp5566
-S'IKF Finance Ltd'
+aa(lp5565
+S'INFRATEL'
+p5566
+aS'INFRATEL'
 p5567
-ag4
-aS'530719'
+aS'534816'
 p5568
 aa(lp5569
-S'IKF Technologies Ltd'
+S'INIFTY'
 p5570
-ag4
-aS'532414'
+aS'INIFTY'
 p5571
-aa(lp5572
-S'IL&FS; Engineering and Construction Company Limited'
-p5573
-aS'IL&FSENGG;'
+aS'537007'
+p5572
+aa(lp5573
+S'IGOLD'
 p5574
-aS'532907'
+aS'IGOLD'
 p5575
-aa(lp5576
-S'IL&FS; Investment Managers Ltd'
-p5577
-aS'IVC'
+aS'533244'
+p5576
+aa(lp5577
+S'Balasore Alloys Ltd'
 p5578
-aS'511208'
+aS'ISPATALLOY'
 p5579
-aa(lp5580
-S'IL&FS; Transportation Networks Ltd'
-p5581
-aS'IL&FSTRANS;'
+aS'513142'
+p5580
+aa(lp5581
+S'Futura Polyesters Ltd'
 p5582
-aS'533177'
+aS'INDIANORG'
 p5583
-aa(lp5584
-S'IMP Powers Ltd'
-p5585
-aS'INDLMETER'
+aS'500720'
+p5584
+aa(lp5585
+S'I S T Ltd'
 p5586
-aS'517571'
+ag56
+aS'508807'
 p5587
 aa(lp5588
-S'Impex Ferro Tech Ltd'
+S'I-Power Solutions India Ltd'
 p5589
-aS'IMPEXFERRO'
+ag56
+aS'512405'
 p5590
-aS'532614'
-p5591
-aa(lp5592
-S'In House Productions Ltd'
+aa(lp5591
+S'IAG Company Ltd'
+p5592
+aS'INDOASAHI'
 p5593
-ag4
-aS'526610'
+aS'502241'
 p5594
 aa(lp5595
-S'Inani Marbles & Industries Ltd'
+S'IB Infotech Enterprises Ltd'
 p5596
-ag4
-aS'531129'
+ag56
+aS'519463'
 p5597
 aa(lp5598
-S'Inani Securities Ltd'
+S'ICDS Ltd'
 p5599
-ag4
-aS'531672'
+aS'ICDSLTD'
 p5600
-aa(lp5601
-S'Inca Finlease Ltd'
-p5602
-ag4
-aS'531025'
+aS'511194'
+p5601
+aa(lp5602
+S'ICICI Bank Ltd'
 p5603
-aa(lp5604
-S'Incap Financial Services Ltd'
+aS'ICICIBANK'
+p5604
+aS'532174'
 p5605
-ag4
-aS'530887'
-p5606
-aa(lp5607
-S'Incap Ltd'
+aa(lp5606
+S'ICICI Prudential Fixed Maturity Plan Series 36 - Eighteen Months Plan A (Dividend option)'
+p5607
+ag56
+aS'532862'
 p5608
-ag4
-aS'517370'
-p5609
-aa(lp5610
-S'Incon Engineers Ltd'
+aa(lp5609
+S'ICICI Prudential Fixed Maturity Plan Series 36 - Eighteen Months Plan A (Growth option)'
+p5610
+ag56
+aS'532861'
 p5611
-ag4
-aS'531594'
-p5612
-aa(lp5613
-S'Ind Agiv Commerce Ltd'
+aa(lp5612
+S'ICICI Prudential Gold ETF'
+p5613
+aS'IGOLD'
 p5614
-ag4
-aS'517077'
+aS'533244'
 p5615
 aa(lp5616
-S'Ind Bank Housing Ltd'
+S'ICRA Ltd'
 p5617
-ag4
-aS'523465'
+aS'ICRA'
 p5618
-aa(lp5619
-S'Ind Swift Laboratories Ltd'
-p5620
-aS'INDSWFTLAB'
+aS'532835'
+p5619
+aa(lp5620
+S'ICSA India Ltd'
 p5621
-aS'532305'
+aS'ICSA'
 p5622
-aa(lp5623
-S'Ind Swift Ltd'
-p5624
-aS'INDSWFTLTD'
+aS'531524'
+p5623
+aa(lp5624
+S'IDBI Bank Ltd'
 p5625
-aS'524652'
+aS'IDBI'
 p5626
-aa(lp5627
-S'Ind Tra Deco Ltd'
-p5628
-aS'INDTRADECO'
+aS'500116'
+p5627
+aa(lp5628
+S'Idea Cellular Ltd'
 p5629
-aS'504336'
+aS'IDEA'
 p5630
-aa(lp5631
-S'Indag Rubber Ltd'
-p5632
-ag4
-aS'509162'
+aS'532822'
+p5631
+aa(lp5632
+S'Ideal Optics Ltd'
 p5633
-aa(lp5634
-S'Indage Vintners Ltd'
-p5635
-ag4
-aS'522059'
+ag56
+aS'531328'
+p5634
+aa(lp5635
+S'IEC Education Ltd'
 p5636
-aa(lp5637
-S'Indbank Merchant Banking Services Ltd'
-p5638
-aS'INDBANK'
+ag56
+aS'531840'
+p5637
+aa(lp5638
+S'IFB Agro Industries Ltd'
 p5639
-aS'511473'
+aS'IFBAGRO'
 p5640
-aa(lp5641
-S'Indergiri Finance Ltd'
-p5642
-ag4
-aS'531505'
+aS'507438'
+p5641
+aa(lp5642
+S'IFB Industries Ltd'
 p5643
-aa(lp5644
-S'India Cements Capital Ltd'
+aS'IFBIND'
+p5644
+aS'505726'
 p5645
-ag4
-aS'511355'
-p5646
-aa(lp5647
-S'India Cements Ltd'
+aa(lp5646
+S'IFCI Ltd'
+p5647
+aS'IFCI'
 p5648
-aS'INDIACEM'
+aS'500106'
 p5649
-aS'530005'
-p5650
-aa(lp5651
-S'India Foils Ltd'
+aa(lp5650
+S'IFGL Refractories Ltd'
+p5651
+aS'IFGLREFRAC'
 p5652
-aS'IFL'
+aS'532133'
 p5653
-aS'509684'
-p5654
-aa(lp5655
-S'India Gelatine & Chemicals Ltd'
+aa(lp5654
+S'IFL Promoters Ltd'
+p5655
+ag56
+aS'511682'
 p5656
-ag4
-aS'531253'
-p5657
-aa(lp5658
-S'India Glycols Ltd'
+aa(lp5657
+S'IFM Impex Global Ltd'
+p5658
+ag56
+aS'522289'
 p5659
-aS'INDIAGLYCO'
-p5660
-aS'500201'
+aa(lp5660
+S'IFSL Ltd'
 p5661
-aa(lp5662
-S'India Infoline Ltd'
-p5663
-aS'INDIAINFO'
+ag56
+aS'531998'
+p5662
+aa(lp5663
+S'IG Petrochemicals Ltd'
 p5664
-aS'532636'
+aS'IGPL'
 p5665
-aa(lp5666
-S'India Lease Development Ltd'
-p5667
-aS'INDIALEASE'
+aS'500199'
+p5666
+aa(lp5667
+S'Igarashi Motors India Ltd'
 p5668
-aS'500202'
+aS'IGARASHI'
 p5669
-aa(lp5670
-S'India Motor Parts & Accessories Ltd'
-p5671
-aS'IMPAL'
+aS'517380'
+p5670
+aa(lp5671
+S'Ikab Securities & Investment Ltd'
 p5672
-aS'590065'
+ag56
+aS'514238'
 p5673
 aa(lp5674
-S'India Nippon Electricals Ltd'
+S'IKF Finance Ltd'
 p5675
-aS'INDNIPPON'
+ag56
+aS'530719'
 p5676
-aS'532240'
-p5677
-aa(lp5678
-S'India Securities Ltd'
+aa(lp5677
+S'IKF Technologies Ltd'
+p5678
+ag56
+aS'532414'
 p5679
-aS'INDIASEC'
-p5680
-aS'500204'
+aa(lp5680
+S'IL&FS; Engineering and Construction Company Limited'
 p5681
-aa(lp5682
-S'India Steel Works Ltd'
+aS'IL&FSENGG;'
+p5682
+aS'532907'
 p5683
-aS'ISIBARS'
-p5684
-aS'513361'
+aa(lp5684
+S'IL&FS; Investment Managers Ltd'
 p5685
-aa(lp5686
-S'India Sugars & Refineries Ltd'
+aS'IVC'
+p5686
+aS'511208'
 p5687
-ag4
-aS'507150'
-p5688
-aa(lp5689
-S'India Tourism Development Corporation Ltd'
+aa(lp5688
+S'IL&FS; Transportation Networks Ltd'
+p5689
+aS'IL&FSTRANS;'
 p5690
-ag4
-aS'532189'
+aS'533177'
 p5691
 aa(lp5692
-S'Indiabulls Financial Services Ltd'
+S'IMP Powers Ltd'
 p5693
-aS'INDIABULLS'
+aS'INDLMETER'
 p5694
-aS'532544'
+aS'517571'
 p5695
 aa(lp5696
-S'Indiabulls Power Ltd'
+S'Impex Ferro Tech Ltd'
 p5697
-aS'IBPOW'
+aS'IMPEXFERRO'
 p5698
-aS'533122'
+aS'532614'
 p5699
 aa(lp5700
-S'Indiabulls Real Estate Ltd'
+S'In House Productions Ltd'
 p5701
-aS'IBREALEST'
+ag56
+aS'526610'
 p5702
-aS'532832'
-p5703
-aa(lp5704
-S'Indiabulls Securities Ltd'
+aa(lp5703
+S'Inani Marbles & Industries Ltd'
+p5704
+ag56
+aS'531129'
 p5705
-aS'IBSEC'
-p5706
-aS'532960'
+aa(lp5706
+S'Inani Securities Ltd'
 p5707
-aa(lp5708
-S'Indiabulls Wholesale Services Limited'
-p5709
-aS'IBWSL'
+ag56
+aS'531672'
+p5708
+aa(lp5709
+S'Inca Finlease Ltd'
 p5710
-aS'533520'
+ag56
+aS'531025'
 p5711
 aa(lp5712
-S'Indiaco Ventures Ltd'
+S'Incap Financial Services Ltd'
 p5713
-ag4
-aS'506131'
+ag56
+aS'530887'
 p5714
 aa(lp5715
-S'Indian Acrylics Ltd'
+S'Incap Ltd'
 p5716
-aS'INDIANACRY'
+ag56
+aS'517370'
 p5717
-aS'514165'
-p5718
-aa(lp5719
-S'Indian Bank'
+aa(lp5718
+S'Incon Engineers Ltd'
+p5719
+ag56
+aS'531594'
 p5720
-aS'INDIANB '
-p5721
-aS'532814'
+aa(lp5721
+S'Ind Agiv Commerce Ltd'
 p5722
-aa(lp5723
-S'Indian Bright Steel Company Ltd'
-p5724
-ag4
-aS'504731'
+ag56
+aS'517077'
+p5723
+aa(lp5724
+S'Ind Bank Housing Ltd'
 p5725
-aa(lp5726
-S'Indian Card Clothing Company Ltd'
-p5727
-aS'INDIANCARD'
+ag56
+aS'523465'
+p5726
+aa(lp5727
+S'Ind Swift Laboratories Ltd'
 p5728
-aS'509692'
+aS'INDSWFTLAB'
 p5729
-aa(lp5730
-S'Indian Extractions Ltd'
-p5731
-ag4
-aS'524614'
+aS'532305'
+p5730
+aa(lp5731
+S'Ind Swift Ltd'
 p5732
-aa(lp5733
-S'Indian Hotels Company Ltd'
+aS'INDSWFTLTD'
+p5733
+aS'524652'
 p5734
-aS'INDHOTEL'
-p5735
-aS'500850'
+aa(lp5735
+S'Ind Tra Deco Ltd'
 p5736
-aa(lp5737
-S'Indian Hume Pipe Company Ltd'
+aS'INDTRADECO'
+p5737
+aS'504336'
 p5738
-aS'INDIANHUME'
-p5739
-aS'504741'
+aa(lp5739
+S'Indag Rubber Ltd'
 p5740
-aa(lp5741
-S'Indian Infotech & Software Ltd'
-p5742
-ag4
-aS'509051'
+ag56
+aS'509162'
+p5741
+aa(lp5742
+S'Indage Vintners Ltd'
 p5743
-aa(lp5744
-S'Indian Link Chain Manufacturers Ltd'
-p5745
-ag4
-aS'504746'
+ag56
+aS'522059'
+p5744
+aa(lp5745
+S'Indbank Merchant Banking Services Ltd'
 p5746
-aa(lp5747
-S'Indian Metals & Ferro Alloys Ltd'
+aS'INDBANK'
+p5747
+aS'511473'
 p5748
-aS'IMFA'
-p5749
-aS'533047'
+aa(lp5749
+S'Indergiri Finance Ltd'
 p5750
-aa(lp5751
-S'Indian Oil Corporation Ltd'
-p5752
-aS'IOC'
+ag56
+aS'531505'
+p5751
+aa(lp5752
+S'India Cements Capital Ltd'
 p5753
-aS'530965'
+ag56
+aS'511355'
 p5754
 aa(lp5755
-S'Indian Overseas Bank'
+S'India Cements Ltd'
 p5756
-aS'IOB'
+aS'INDIACEM'
 p5757
-aS'532388'
+aS'530005'
 p5758
 aa(lp5759
-S'Indian Sucrose Ltd'
+S'India Foils Ltd'
 p5760
-aS'OSWALSUG'
+aS'IFL'
 p5761
-aS'500319'
+aS'509684'
 p5762
 aa(lp5763
-S'Indian Terrain Fashions Limited'
+S'India Gelatine & Chemicals Ltd'
 p5764
-aS'INDTERRAIN'
+ag56
+aS'531253'
 p5765
-aS'533329'
-p5766
-aa(lp5767
-S'Indian Toners & Developers Ltd'
+aa(lp5766
+S'India Glycols Ltd'
+p5767
+aS'INDIAGLYCO'
 p5768
-ag4
-aS'523586'
+aS'500201'
 p5769
 aa(lp5770
-S'IndiaNivesh Ltd'
+S'India Infoline Ltd'
 p5771
-ag4
-aS'501700'
+aS'IIFL'
 p5772
-aa(lp5773
-S'Indo American Advanced Pharmaceuticals Ltd'
-p5774
-ag4
-aS'531689'
+aS'532636'
+p5773
+aa(lp5774
+S'India Lease Development Ltd'
 p5775
-aa(lp5776
-S'Indo Amines Ltd'
+aS'INDIALEASE'
+p5776
+aS'500202'
 p5777
-ag4
-aS'524648'
-p5778
-aa(lp5779
-S'Indo Asian Finance Ltd'
+aa(lp5778
+S'India Motor Parts & Accessories Ltd'
+p5779
+aS'IMPAL'
 p5780
-ag4
-aS'530747'
+aS'590065'
 p5781
 aa(lp5782
-S'Indo Asian Housing Corporation Ltd'
+S'India Nippon Electricals Ltd'
 p5783
-ag4
-aS'531674'
+aS'INDNIPPON'
 p5784
-aa(lp5785
-S'Indo Borax & Chemicals Ltd'
-p5786
-ag4
-aS'524342'
+aS'532240'
+p5785
+aa(lp5786
+S'India Securities Ltd'
 p5787
-aa(lp5788
-S'Indo Castle Multimedia Ltd'
+aS'INDIASEC'
+p5788
+aS'500204'
 p5789
-ag4
-aS'531084'
-p5790
-aa(lp5791
-S'Indo City Infotech Ltd'
+aa(lp5790
+S'India Steel Works Ltd'
+p5791
+aS'ISIBARS'
 p5792
-ag4
-aS'532100'
+aS'513361'
 p5793
 aa(lp5794
-S'Indo Count Industries Ltd'
+S'India Sugars & Refineries Ltd'
 p5795
-aS'ICIL'
+ag56
+aS'507150'
 p5796
-aS'521016'
-p5797
-aa(lp5798
-S'Indo Credit Capital Ltd'
+aa(lp5797
+S'India Tourism Development Corporation Ltd'
+p5798
+ag56
+aS'532189'
 p5799
-ag4
-aS'526887'
-p5800
-aa(lp5801
-S'Indo Green Projects Ltd'
+aa(lp5800
+S'Indiabulls Financial Services Ltd'
+p5801
+aS'INDIABULLS'
 p5802
-ag4
-aS'531968'
+aS'532544'
 p5803
 aa(lp5804
-S'Indo Pacific Software & Entertainment Ltd'
+S'Indiabulls Power Ltd'
 p5805
-ag4
-aS'531565'
+aS'RTNPOWER'
 p5806
-aa(lp5807
-S'Indo Rama Synthetics India Ltd'
-p5808
-aS'INDORAMA'
+aS'533122'
+p5807
+aa(lp5808
+S'Indiabulls Real Estate Ltd'
 p5809
-aS'500207'
+aS'IBREALEST'
 p5810
-aa(lp5811
-S'Indo Tech Transformers Ltd'
-p5812
-aS'INDOTECH'
+aS'532832'
+p5811
+aa(lp5812
+S'Indiabulls Securities Ltd'
 p5813
-aS'532717'
+aS'IBVENTURES'
 p5814
-aa(lp5815
-S'Indo Texprints Overseas Ltd'
-p5816
-ag4
-aS'514296'
+aS'532960'
+p5815
+aa(lp5816
+S'Indiabulls Wholesale Services Limited'
 p5817
-aa(lp5818
-S'Indo Zinc Ltd'
+aS'IBWSL'
+p5818
+aS'533520'
 p5819
-aS'INDOZINC'
-p5820
-aS'513428'
+aa(lp5820
+S'Indiaco Ventures Ltd'
 p5821
-aa(lp5822
-S'Indoco Remedies Ltd'
-p5823
-aS'INDOCO'
+ag56
+aS'506131'
+p5822
+aa(lp5823
+S'Indian Acrylics Ltd'
 p5824
-aS'532612'
+aS'INDIANACRY'
 p5825
-aa(lp5826
-S'Indocount Finance Ltd'
-p5827
-ag4
-aS'500206'
+aS'514165'
+p5826
+aa(lp5827
+S'Indian Bank'
 p5828
-aa(lp5829
-S'Indokem Ltd'
+aS'INDIANB'
+p5829
+aS'532814'
 p5830
-ag4
-aS'504092'
-p5831
-aa(lp5832
-S'Indosolar Ltd'
+aa(lp5831
+S'Indian Bright Steel Company Ltd'
+p5832
+ag56
+aS'504731'
 p5833
-aS'INDOSOLAR'
-p5834
-aS'533257'
+aa(lp5834
+S'Indian Card Clothing Company Ltd'
 p5835
-aa(lp5836
-S'Indowind Energy Ltd'
+aS'INDIANCARD'
+p5836
+aS'509692'
 p5837
-aS'INDOWIND'
-p5838
-aS'532894'
+aa(lp5838
+S'Indian Extractions Ltd'
 p5839
-aa(lp5840
-S'Indraprastha Gas Ltd'
-p5841
-aS'IGL'
+ag56
+aS'524614'
+p5840
+aa(lp5841
+S'Indian Hotels Company Ltd'
 p5842
-aS'532514'
+aS'INDHOTEL'
 p5843
-aa(lp5844
-S'Indraprastha Medical Corporation Ltd'
-p5845
-aS'INDRAMEDCO'
+aS'500850'
+p5844
+aa(lp5845
+S'Indian Hume Pipe Company Ltd'
 p5846
-aS'532150'
+aS'INDIANHUME'
 p5847
-aa(lp5848
-S'Indrayani Biotech Ltd'
-p5849
-ag4
-aS'526445'
+aS'504741'
+p5848
+aa(lp5849
+S'Indian Infotech & Software Ltd'
 p5850
-aa(lp5851
-S'Indsil Hydro Power & Manganese Ltd'
-p5852
-ag4
-aS'522165'
+ag56
+aS'509051'
+p5851
+aa(lp5852
+S'Indian Link Chain Manufacturers Ltd'
 p5853
-aa(lp5854
-S'Inducto Steel Ltd'
-p5855
-ag4
-aS'532001'
+ag56
+aS'504746'
+p5854
+aa(lp5855
+S'Indian Metals & Ferro Alloys Ltd'
 p5856
-aa(lp5857
-S'Indus Fila Ltd'
+aS'IMFA'
+p5857
+aS'533047'
 p5858
-aS'INDUSFILA'
-p5859
-aS'532821'
+aa(lp5859
+S'Indian Oil Corporation Ltd'
 p5860
-aa(lp5861
-S'Indus Networks Ltd'
+aS'IOC'
+p5861
+aS'530965'
 p5862
-ag4
-aS'532381'
-p5863
-aa(lp5864
-S'Indusind Bank Ltd'
+aa(lp5863
+S'Indian Overseas Bank'
+p5864
+aS'IOB'
 p5865
-aS'INDUSINDBK'
+aS'532388'
 p5866
-aS'532187'
-p5867
-aa(lp5868
-S'Industrial & Prudential Investment Company Ltd'
+aa(lp5867
+S'Indian Sucrose Ltd'
+p5868
+aS'OSWALSUG'
 p5869
-ag4
-aS'501298'
+aS'500319'
 p5870
 aa(lp5871
-S'Industrial Investment Trust Ltd'
+S'Indian Terrain Fashions Limited'
 p5872
-aS'IITL'
+aS'INDTERRAIN'
 p5873
-aS'501295'
+aS'533329'
 p5874
 aa(lp5875
-S'Indusvista Ventures Ltd'
+S'Indian Toners & Developers Ltd'
 p5876
-ag4
-aS'512219'
+ag56
+aS'523586'
 p5877
 aa(lp5878
-S'INEOS ABS (India) Ltd'
+S'IndiaNivesh Ltd'
 p5879
-aS'INEABS'
+ag56
+aS'501700'
 p5880
-aS'506222'
-p5881
-aa(lp5882
-S'Infinite Computer Solutions India Ltd'
+aa(lp5881
+S'Indo American Advanced Pharmaceuticals Ltd'
+p5882
+ag56
+aS'531689'
 p5883
-aS'INFINITE'
-p5884
-aS'533154'
+aa(lp5884
+S'Indo Amines Ltd'
 p5885
-aa(lp5886
-S'Info Drive Software Ltd'
-p5887
-aS'INFODRIVE'
+ag56
+aS'524648'
+p5886
+aa(lp5887
+S'Indo Asian Finance Ltd'
 p5888
-aS'530703'
+ag56
+aS'530747'
 p5889
 aa(lp5890
-S'Info Edge India Ltd'
+S'Indo Asian Housing Corporation Ltd'
 p5891
-aS'NAUKRI'
+ag56
+aS'531674'
 p5892
-aS'532777'
-p5893
-aa(lp5894
-S'Infomedia 18 Ltd'
+aa(lp5893
+S'Indo Borax & Chemicals Ltd'
+p5894
+ag56
+aS'524342'
 p5895
-aS'INFOMEDIA'
-p5896
-aS'509069'
+aa(lp5896
+S'Indo Castle Multimedia Ltd'
 p5897
-aa(lp5898
-S'Infoquest Software Exports Ltd'
-p5899
-ag4
-aS'531793'
+ag56
+aS'531084'
+p5898
+aa(lp5899
+S'Indo City Infotech Ltd'
 p5900
-aa(lp5901
-S'Informed Technologies India Ltd'
-p5902
-ag4
-aS'504810'
+ag56
+aS'532100'
+p5901
+aa(lp5902
+S'Indo Count Industries Ltd'
 p5903
-aa(lp5904
-S'Infosys Technologies Ltd'
+aS'ICIL'
+p5904
+aS'521016'
 p5905
-aS'INFY'
-p5906
-aS'500209'
+aa(lp5906
+S'Indo Credit Capital Ltd'
 p5907
-aa(lp5908
-S'Infotech Enterprises Ltd'
-p5909
-aS'INFOTECENT'
+ag56
+aS'526887'
+p5908
+aa(lp5909
+S'Indo Green Projects Ltd'
 p5910
-aS'532175'
+ag56
+aS'531968'
 p5911
 aa(lp5912
-S'Infotrek Syscom Ltd'
+S'Indo Pacific Software & Entertainment Ltd'
 p5913
-ag4
-aS'530643'
+ag56
+aS'531565'
 p5914
 aa(lp5915
-S'Infra Industries Ltd'
+S'Indo Rama Synthetics India Ltd'
 p5916
-ag4
-aS'530777'
+aS'INDORAMA'
 p5917
-aa(lp5918
-S'Infrastructure Benchmark ETS'
-p5919
-aS'INFRABEES'
+aS'500207'
+p5918
+aa(lp5919
+S'Indo Tech Transformers Ltd'
 p5920
-aS'531016'
+aS'INDOTECH'
 p5921
-aa(lp5922
-S'Infrastructure Development Finance Company Ltd'
-p5923
-aS'IDFC'
+aS'532717'
+p5922
+aa(lp5923
+S'Indo Texprints Overseas Ltd'
 p5924
-aS'532659'
+ag56
+aS'514296'
 p5925
 aa(lp5926
-S'Infronics Systems Ltd'
+S'Indo Zinc Ltd'
 p5927
-aS'INFRONICS'
+aS'INDOZINC'
 p5928
-aS'590118'
+aS'513428'
 p5929
 aa(lp5930
-S'ING Vysya Bank Ltd'
+S'Indoco Remedies Ltd'
 p5931
-aS'INGVYSYABK'
+aS'INDOCO'
 p5932
-aS'531807'
+aS'532612'
 p5933
 aa(lp5934
-S'Ingersoll-Rand (India) Ltd'
+S'Indocount Finance Ltd'
 p5935
-aS'INGERRAND'
+ag56
+aS'500206'
 p5936
-aS'500210'
-p5937
-aa(lp5938
-S'Inland Printers Ltd'
+aa(lp5937
+S'Indokem Ltd'
+p5938
+aS'INDOKEM'
 p5939
-ag4
-aS'530787'
+aS'504092'
 p5940
 aa(lp5941
-S'Innocorp Ltd'
+S'Indosolar Ltd'
 p5942
-ag4
-aS'531929'
+aS'INDOSOLAR'
 p5943
-aa(lp5944
-S'Innovassynth Investments Ltd'
-p5945
-aS'INOVSYNTH'
+aS'533257'
+p5944
+aa(lp5945
+S'Indowind Energy Ltd'
 p5946
-aS'533315'
+aS'INDOWIND'
 p5947
-aa(lp5948
-S'Innovation Securities Ltd'
-p5949
-ag4
-aS'511609'
+aS'532894'
+p5948
+aa(lp5949
+S'Indraprastha Gas Ltd'
 p5950
-aa(lp5951
-S'Innovation Software Exports Ltd'
+aS'IGL'
+p5951
+aS'532514'
 p5952
-ag4
-aS'517433'
-p5953
-aa(lp5954
-S'Innovative Foods Ltd'
+aa(lp5953
+S'Indraprastha Medical Corporation Ltd'
+p5954
+aS'INDRAMEDCO'
 p5955
-aS'INOVATMARN'
+aS'532150'
 p5956
-aS'519210'
-p5957
-aa(lp5958
-S'Innovative Tech Pack Ltd'
+aa(lp5957
+S'Indrayani Biotech Ltd'
+p5958
+ag56
+aS'526445'
 p5959
-ag4
-aS'523840'
-p5960
-aa(lp5961
-S'Innoventive Industries Limited'
+aa(lp5960
+S'Indsil Hydro Power & Manganese Ltd'
+p5961
+ag56
+aS'522165'
 p5962
-aS'INNOIND'
-p5963
-aS'533402'
+aa(lp5963
+S'Inducto Steel Ltd'
 p5964
-aa(lp5965
-S'INOX Leisure Ltd'
-p5966
-aS'INOXLEISUR'
+ag56
+aS'532001'
+p5965
+aa(lp5966
+S'Indus Fila Ltd'
 p5967
-aS'532706'
+aS'INDUSFILA'
 p5968
-aa(lp5969
-S'Insecticides India Ltd'
-p5970
-aS'INSECTICID'
+aS'532821'
+p5969
+aa(lp5970
+S'Indus Networks Ltd'
 p5971
-aS'532851'
+ag56
+aS'532381'
 p5972
 aa(lp5973
-S'Insilco Ltd'
+S'Indusind Bank Ltd'
 p5974
-aS'INSILCO'
+aS'INDUSINDBK'
 p5975
-aS'500211'
+aS'532187'
 p5976
 aa(lp5977
-S'Insutech India Ltd'
+S'Industrial & Prudential Investment Company Ltd'
 p5978
-ag4
-aS'531447'
+ag56
+aS'501298'
 p5979
 aa(lp5980
-S'Intec capital Ltd'
+S'Industrial Investment Trust Ltd'
 p5981
-ag4
-aS'526871'
+aS'IITL'
 p5982
-aa(lp5983
-S'Integra Capital Management Ltd'
-p5984
-ag4
-aS'531314'
+aS'501295'
+p5983
+aa(lp5984
+S'Indusvista Ventures Ltd'
 p5985
-aa(lp5986
-S'Integra Hindustan Control Ltd'
-p5987
-ag4
-aS'517250'
+ag56
+aS'512219'
+p5986
+aa(lp5987
+S'INEOS ABS (India) Ltd'
 p5988
-aa(lp5989
-S'Integra Switchgear Ltd'
+aS'STYABS'
+p5989
+aS'506222'
 p5990
-ag4
-aS'517423'
-p5991
-aa(lp5992
-S'Integral Knit Co. Ltd'
+aa(lp5991
+S'Infinite Computer Solutions India Ltd'
+p5992
+aS'INFINITE'
 p5993
-ag4
-aS'514298'
+aS'533154'
 p5994
 aa(lp5995
-S'Integrated Amusement Ltd'
+S'Info Drive Software Ltd'
 p5996
-ag4
-aS'531163'
+aS'INFODRIVE'
 p5997
-aa(lp5998
-S'Integrated Finance Company Ltd'
-p5999
-ag4
-aS'511031'
+aS'530703'
+p5998
+aa(lp5999
+S'Info Edge India Ltd'
 p6000
-aa(lp6001
-S'Integrated Financial Services Ltd'
+aS'NAUKRI'
+p6001
+aS'532777'
 p6002
-ag4
-aS'500212'
-p6003
-aa(lp6004
-S'Integrated Hitech Ltd'
+aa(lp6003
+S'Infomedia 18 Ltd'
+p6004
+aS'INFOMEDIA'
 p6005
-ag4
-aS'532303'
+aS'509069'
 p6006
 aa(lp6007
-S'Integrated Proteins Ltd'
+S'Infoquest Software Exports Ltd'
 p6008
-ag4
-aS'519606'
+ag56
+aS'531793'
 p6009
 aa(lp6010
-S'Integrated Technologies Ltd'
+S'Informed Technologies India Ltd'
 p6011
-ag4
-aS'531889'
+ag56
+aS'504810'
 p6012
 aa(lp6013
-S'Integrated Thermoplastics Ltd'
+S'Infosys Technologies Ltd'
 p6014
-ag4
-aS'530921'
+aS'INFY'
 p6015
-aa(lp6016
-S'Intellvisions Software Ltd'
-p6017
-ag4
-aS'531777'
+aS'500209'
+p6016
+aa(lp6017
+S'Infotech Enterprises Ltd'
 p6018
-aa(lp6019
-S'Intense Technologies Ltd'
+aS'CYIENT'
+p6019
+aS'532175'
 p6020
-ag4
-aS'532326'
-p6021
-aa(lp6022
-S'Intensive Air Systems Ltd'
+aa(lp6021
+S'Infotrek Syscom Ltd'
+p6022
+ag56
+aS'530643'
 p6023
-ag4
-aS'531663'
-p6024
-aa(lp6025
-S'Inter Globe Finance Ltd'
+aa(lp6024
+S'Infra Industries Ltd'
+p6025
+ag56
+aS'530777'
 p6026
-ag4
-aS'511391'
-p6027
-aa(lp6028
-S'Inter State Finance Ltd'
+aa(lp6027
+S'Infrastructure Benchmark ETS'
+p6028
+aS'INFRABEES'
 p6029
-ag4
-aS'526859'
-p6030
-aa(lp6031
-S'Inter State Oil Carrier Ltd'
+ag56
+aa(lp6030
+S'Infrastructure Development Finance Company Ltd'
+p6031
+aS'IDFC'
 p6032
-ag4
-aS'530259'
+aS'532659'
 p6033
 aa(lp6034
-S'Intercorp Industries Ltd'
+S'Infronics Systems Ltd'
 p6035
-ag4
-aS'531551'
+ag56
+aS'537985'
 p6036
 aa(lp6037
-S'Interface Financial Services Ltd'
+S'ING Vysya Bank Ltd'
 p6038
-ag4
-aS'530519'
+aS'INGVYSYABK'
 p6039
-aa(lp6040
-S'Interfit Techno Products Ltd'
-p6041
-ag4
-aS'531289'
+aS'531807'
+p6040
+aa(lp6041
+S'Ingersoll-Rand (India) Ltd'
 p6042
-aa(lp6043
-S'Intergrated Digital Info Services Ltd'
+aS'INGERRAND'
+p6043
+aS'500210'
 p6044
-ag4
-aS'523770'
-p6045
-aa(lp6046
-S'Interlink Petroleum Ltd'
+aa(lp6045
+S'Inland Printers Ltd'
+p6046
+ag56
+aS'530787'
 p6047
-ag4
-aS'526512'
-p6048
-aa(lp6049
-S'International Combustion India Ltd'
+aa(lp6048
+S'Innocorp Ltd'
+p6049
+ag56
+aS'531929'
 p6050
-ag4
-aS'505737'
-p6051
-aa(lp6052
-S'International Conveyors Ltd'
+aa(lp6051
+S'Innovassynth Investments Ltd'
+p6052
+ag56
+aS'533315'
 p6053
-ag4
-aS'509709'
-p6054
-aa(lp6055
-S'International Data Management Ltd'
+aa(lp6054
+S'Innovation Securities Ltd'
+p6055
+ag56
+aS'511609'
 p6056
-ag4
-aS'517044'
-p6057
-aa(lp6058
-S'International Hometex Ltd'
+aa(lp6057
+S'Innovation Software Exports Ltd'
+p6058
+ag56
+aS'517433'
 p6059
-ag4
-aS'526185'
-p6060
-aa(lp6061
-S'International Housing Finance Corporation Ltd'
+aa(lp6060
+S'Innovative Foods Ltd'
+p6061
+aS'INOVATMARN'
 p6062
-ag4
-aS'530781'
+aS'519210'
 p6063
 aa(lp6064
-S'International Travel House Ltd'
+S'Innovative Tech Pack Ltd'
 p6065
-aS'INTLTRAVHS'
+ag56
+aS'523840'
 p6066
-aS'500213'
-p6067
-aa(lp6068
-S'Interworld Digital Ltd'
+aa(lp6067
+S'Innoventive Industries Limited'
+p6068
+aS'INNOIND'
 p6069
-ag4
-aS'532072'
+aS'533402'
 p6070
 aa(lp6071
-S'Intra Infotech Ltd'
+S'INOX Leisure Ltd'
 p6072
-ag4
-aS'531959'
+aS'INOXLEISUR'
 p6073
-aa(lp6074
-S'Intrasoft Technologies Ltd'
-p6075
-aS'ISFT'
+aS'532706'
+p6074
+aa(lp6075
+S'Insecticides India Ltd'
 p6076
-aS'533181'
+aS'INSECTICID'
 p6077
-aa(lp6078
-S'Inventure Growth & Securities Limited'
-p6079
-aS'INVENTURE'
+aS'532851'
+p6078
+aa(lp6079
+S'Insilco Ltd'
 p6080
-aS'533506'
+aS'INSILCO'
 p6081
-aa(lp6082
-S'Investment & Precision Castings Ltd'
-p6083
-ag4
-aS'504786'
+aS'500211'
+p6082
+aa(lp6083
+S'Insutech India Ltd'
 p6084
-aa(lp6085
-S'Invicta Meditek Ltd'
-p6086
-ag4
-aS'523844'
+ag56
+aS'531447'
+p6085
+aa(lp6086
+S'Intec capital Ltd'
 p6087
-aa(lp6088
-S'Inwinex Pharmaceuticals Ltd'
-p6089
-ag4
-aS'531398'
+ag56
+aS'526871'
+p6088
+aa(lp6089
+S'Integra Capital Management Ltd'
 p6090
-aa(lp6091
-S'IO System Ltd'
-p6092
-ag4
-aS'523752'
+ag56
+aS'531314'
+p6091
+aa(lp6092
+S'Integra Hindustan Control Ltd'
 p6093
-aa(lp6094
-S'IOL Chemicals & Pharmaceuticals Ltd'
-p6095
-aS'IOLCP'
+ag56
+aS'517250'
+p6094
+aa(lp6095
+S'Integra Switchgear Ltd'
 p6096
-aS'524164'
+ag56
+aS'517423'
 p6097
 aa(lp6098
-S'IOL Netcom Ltd'
+S'Integral Knit Co. Ltd'
 p6099
-aS'IOLN'
+ag56
+aS'514298'
 p6100
-aS'512185'
-p6101
-aa(lp6102
-S'Ion Exchange India Ltd'
+aa(lp6101
+S'Integrated Amusement Ltd'
+p6102
+ag56
+aS'531163'
 p6103
-aS'IONEXCHANG'
-p6104
-aS'500214'
+aa(lp6104
+S'Integrated Finance Company Ltd'
 p6105
-aa(lp6106
-S'IP Rings Ltd'
+aS'INTEGRFIN'
+p6106
+aS'511031'
 p6107
-aS'IPRINGLTD'
-p6108
-aS'523638'
+aa(lp6108
+S'Integrated Financial Services Ltd'
 p6109
-aa(lp6110
-S'Ipca Laboratories Ltd'
-p6111
-aS'IPCALAB'
+ag56
+aS'500212'
+p6110
+aa(lp6111
+S'Integrated Hitech Ltd'
 p6112
-aS'524494'
+ag56
+aS'532303'
 p6113
 aa(lp6114
-S'IQ Infotech Ltd'
+S'Integrated Proteins Ltd'
 p6115
-ag4
-aS'532421'
+ag56
+aS'519606'
 p6116
 aa(lp6117
-S'IQMS Software Ltd'
+S'Integrated Technologies Ltd'
 p6118
-ag4
-aS'532379'
+ag56
+aS'531889'
 p6119
 aa(lp6120
-S'IRB Infrastructure Developers Ltd'
+S'Integrated Thermoplastics Ltd'
 p6121
-aS'IRB'
+ag56
+aS'530921'
 p6122
-aS'532947'
-p6123
-aa(lp6124
-S'Ircon International Ltd'
+aa(lp6123
+S'Intellvisions Software Ltd'
+p6124
+ag56
+aS'531777'
 p6125
-ag4
-aS'523596'
-p6126
-aa(lp6127
-S'Ishan Dyes & Chemicals Ltd'
+aa(lp6126
+S'Intense Technologies Ltd'
+p6127
+ag56
+aS'532326'
 p6128
-ag4
-aS'531109'
-p6129
-aa(lp6130
-S'Ishita Drugs & Industries Ltd'
+aa(lp6129
+S'Intensive Air Systems Ltd'
+p6130
+ag56
+aS'531663'
 p6131
-ag4
-aS'524400'
-p6132
-aa(lp6133
-S'Ishwar Bhuvan Hotels Ltd'
+aa(lp6132
+S'Inter Globe Finance Ltd'
+p6133
+ag56
+aS'511391'
 p6134
-ag4
-aS'530065'
-p6135
-aa(lp6136
-S'ISMT Ltd'
+aa(lp6135
+S'Inter State Finance Ltd'
+p6136
+ag56
+aS'526859'
 p6137
-aS'ISMTLTD'
-p6138
-aS'532479'
+aa(lp6138
+S'Inter State Oil Carrier Ltd'
 p6139
-aa(lp6140
-S'ISPAT PR SH '
-p6141
-ag4
-aS'700109'
+ag56
+aS'530259'
+p6140
+aa(lp6141
+S'Intercorp Industries Ltd'
 p6142
-aa(lp6143
-S'IT People India Ltd'
-p6144
-ag4
-aS'532342'
+ag56
+aS'531551'
+p6143
+aa(lp6144
+S'Interface Financial Services Ltd'
 p6145
-aa(lp6146
-S'ITC Ltd'
-p6147
-aS'ITC'
+ag56
+aS'530519'
+p6146
+aa(lp6147
+S'Interfit Techno Products Ltd'
 p6148
-aS'500875'
+ag56
+aS'531289'
 p6149
 aa(lp6150
-S'ITD Cementation India Ltd'
+S'Intergrated Digital Info Services Ltd'
 p6151
-aS'ITDCEM'
+ag56
+aS'523770'
 p6152
-aS'509496'
-p6153
-aa(lp6154
-S'ITI Ltd'
+aa(lp6153
+S'Interlink Petroleum Ltd'
+p6154
+ag56
+aS'526512'
 p6155
-aS'ITI'
-p6156
-aS'523610'
+aa(lp6156
+S'International Combustion India Ltd'
 p6157
-aa(lp6158
-S'ITL Industries Ltd'
-p6159
-ag4
-aS'522183'
+ag56
+aS'505737'
+p6158
+aa(lp6159
+S'International Conveyors Ltd'
 p6160
-aa(lp6161
-S'Ivee Injectaa Ltd'
-p6162
-ag4
-aS'530057'
+ag56
+aS'509709'
+p6161
+aa(lp6162
+S'International Data Management Ltd'
 p6163
-aa(lp6164
-S'IVP Ltd'
-p6165
-aS'IVP'
+ag56
+aS'517044'
+p6164
+aa(lp6165
+S'International Hometex Ltd'
 p6166
-aS'507580'
+ag56
+aS'526185'
 p6167
 aa(lp6168
-S'IVRCL Assets & Holdings Ltd'
+S'International Housing Finance Corporation Ltd'
 p6169
-aS'IVRCLAH'
+ag56
+aS'530781'
 p6170
-aS'532881'
-p6171
-aa(lp6172
-S'IVRCL Infrastructures & Projects Ltd'
+aa(lp6171
+S'International Travel House Ltd'
+p6172
+aS'INTLTRAVHS'
 p6173
-aS'IVRCLINFRA'
+aS'500213'
 p6174
-aS'530773'
-p6175
-aa(lp6176
-S'Iykot Hitech Toolroom Ltd'
+aa(lp6175
+S'Interworld Digital Ltd'
+p6176
+ag56
+aS'532072'
 p6177
-ag4
-aS'522245'
-p6178
-aa(lp6179
-S'Millennium Beer Industries Ltd'
+aa(lp6178
+S'Intra Infotech Ltd'
+p6179
+ag56
+aS'531959'
 p6180
-aS'INERTIAIND'
-p6181
-aS'521147'
+aa(lp6181
+S'Intrasoft Technologies Ltd'
 p6182
-aa(lp6183
-S'JISLDVREQS'
+aS'ISFT'
+p6183
+aS'533181'
 p6184
-aS'JISLDVREQS'
-p6185
-ag4
-aa(lp6186
-S'JPOLYINVST'
+aa(lp6185
+S'Inventure Growth & Securities Limited'
+p6186
+aS'INVENTURE'
 p6187
-aS'JPOLYINVST'
+aS'533506'
 p6188
-ag4
 aa(lp6189
-S'JAIHINDPRO'
+S'Investment & Precision Castings Ltd'
 p6190
-aS'JAIHINDPRO'
+ag56
+aS'504786'
 p6191
-ag4
 aa(lp6192
-S'JUSTDIAL'
+S'Invicta Meditek Ltd'
 p6193
-aS'JUSTDIAL'
+ag56
+aS'523844'
 p6194
-ag4
 aa(lp6195
-S'JSWHL'
+S'Inwinex Pharmaceuticals Ltd'
 p6196
-aS'JSWHL'
+ag56
+aS'531398'
 p6197
-ag4
 aa(lp6198
-S'Benchmark Mutual Fund-Nifty Junior Benchmark ETF'
+S'IO System Ltd'
 p6199
-aS'JUNIORBEES'
+ag56
+aS'523752'
 p6200
-ag4
 aa(lp6201
-S'J K Paper Ltd'
+S'IOL Chemicals & Pharmaceuticals Ltd'
 p6202
-aS'JKPAPER'
+aS'IOLCP'
 p6203
-aS'532162'
+aS'524164'
 p6204
 aa(lp6205
-S'J Kumar Infraprojects Ltd'
+S'IOL Netcom Ltd'
 p6206
-aS'JKIL'
+aS'IOLN'
 p6207
-aS'532940'
+aS'512185'
 p6208
 aa(lp6209
-S'Jagan Lamps Ltd'
+S'Ion Exchange India Ltd'
 p6210
-ag4
-aS'530711'
+aS'IONEXCHANG'
 p6211
-aa(lp6212
-S'Jagatjit Industries Ltd'
-p6213
-aS'JAGAJITIND'
+aS'500214'
+p6212
+aa(lp6213
+S'IP Rings Ltd'
 p6214
-aS'507155'
+aS'IPRINGLTD'
 p6215
-aa(lp6216
-S'Jagjanani Textiles Ltd'
-p6217
-ag4
-aS'532825'
+aS'523638'
+p6216
+aa(lp6217
+S'Ipca Laboratories Ltd'
 p6218
-aa(lp6219
-S'Jagran Prakashan Ltd'
+aS'IPCALAB'
+p6219
+aS'524494'
 p6220
-aS'JAGRAN'
-p6221
-aS'532705'
+aa(lp6221
+S'IQ Infotech Ltd'
 p6222
-aa(lp6223
-S'Jagson Airlines Ltd'
-p6224
-ag4
-aS'520139'
+ag56
+aS'532421'
+p6223
+aa(lp6224
+S'IQMS Software Ltd'
 p6225
-aa(lp6226
-S'Jagsonpal Finance & Leasing Ltd'
-p6227
-ag4
-aS'530601'
+ag56
+aS'532379'
+p6226
+aa(lp6227
+S'IRB Infrastructure Developers Ltd'
 p6228
-aa(lp6229
-S'Jagsonpal Pharmaceuticals Ltd'
+aS'IRB'
+p6229
+aS'532947'
 p6230
-aS'JAGSNPHARM'
-p6231
-aS'507789'
+aa(lp6231
+S'Ircon International Ltd'
 p6232
-aa(lp6233
-S'Jai Balaji Industries Ltd'
-p6234
-aS'JAIBALAJI'
+ag56
+aS'523596'
+p6233
+aa(lp6234
+S'Ishan Dyes & Chemicals Ltd'
 p6235
-aS'590064'
+ag56
+aS'531109'
 p6236
 aa(lp6237
-S'Jai Balaji Industries Ltd'
+S'Ishita Drugs & Industries Ltd'
 p6238
-ag4
-aS'532976'
+ag56
+aS'524400'
 p6239
 aa(lp6240
-S'Jai Corp Ltd'
+S'Ishwar Bhuvan Hotels Ltd'
 p6241
-aS'JAICORPLTD'
+ag56
+aS'530065'
 p6242
-aS'512237'
-p6243
-aa(lp6244
-S'Jai Mata Glass Ltd'
+aa(lp6243
+S'ISMT Ltd'
+p6244
+aS'ISMTLTD'
 p6245
-ag4
-aS'523467'
+aS'532479'
 p6246
 aa(lp6247
-S'Jaihind Projects Ltd'
+S'ISPAT PR SH '
 p6248
-ag4
-aS'531339'
+ag56
+aS'700109'
 p6249
 aa(lp6250
-S'Jaihind Synthetics Ltd'
+S'IT People India Ltd'
 p6251
-ag4
-aS'514312'
+ag56
+aS'532342'
 p6252
 aa(lp6253
-S'Jain Irrigation Systems Ltd'
+S'ITC Ltd'
 p6254
-aS'JISLJALEQS'
+aS'ITC'
 p6255
-aS'500219'
+aS'500875'
 p6256
 aa(lp6257
-S'Jain Marble Udhyog Ltd'
+S'ITD Cementation India Ltd'
 p6258
-ag4
-aS'531886'
+aS'ITDCEM'
 p6259
-aa(lp6260
-S'Jain Studios Ltd'
-p6261
-aS'JAINSTUDIO'
+aS'509496'
+p6260
+aa(lp6261
+S'ITI Ltd'
 p6262
-aS'532033'
+aS'ITI'
 p6263
-aa(lp6264
-S'Jainco Projects India Ltd'
-p6265
-ag4
-aS'526865'
+aS'523610'
+p6264
+aa(lp6265
+S'ITL Industries Ltd'
 p6266
-aa(lp6267
-S'Jainex Aamcol Ltd'
-p6268
-ag4
-aS'505212'
+ag56
+aS'522183'
+p6267
+aa(lp6268
+S'Ivee Injectaa Ltd'
 p6269
-aa(lp6270
-S'Jaipan Industries Ltd'
-p6271
-ag4
-aS'505840'
+ag56
+aS'530057'
+p6270
+aa(lp6271
+S'IVP Ltd'
 p6272
-aa(lp6273
-S'Jaiprakash Associates Ltd'
+aS'IVP'
+p6273
+aS'507580'
 p6274
-aS'JPASSOCIAT'
-p6275
-aS'532532'
+aa(lp6275
+S'IVRCL Assets & Holdings Ltd'
 p6276
-aa(lp6277
-S'Jaiprakash Hydro Power Ltd'
+aS'IVRCLAH'
+p6277
+aS'532881'
 p6278
-aS'JPPOWER'
-p6279
-aS'532627'
+aa(lp6279
+S'IVRCL Infrastructures & Projects Ltd'
 p6280
-aa(lp6281
-S'Jaisal Securities Ltd'
+aS'IVRCLINFRA'
+p6281
+aS'530773'
 p6282
-ag4
-aS'530885'
-p6283
-aa(lp6284
-S'Jal Hai Power Petro'
+aa(lp6283
+S'Iykot Hitech Toolroom Ltd'
+p6284
+ag56
+aS'522245'
 p6285
-ag4
-aS'524444'
-p6286
-aa(lp6287
-S'Jalan Metallurgical Ltd'
+aa(lp6286
+S'Millennium Beer Industries Ltd'
+p6287
+aS'INERTIAIND'
 p6288
-ag4
-aS'513613'
+aS'521147'
 p6289
 aa(lp6290
-S'Jalgaon Re-rolling Industries Ltd'
+S'JISLDVREQS'
 p6291
-ag4
-aS'506016'
+aS'JISLDVREQS'
 p6292
-aa(lp6293
-S'Jalpac India Ltd'
-p6294
-ag4
-aS'523230'
+aS'570004'
+p6293
+aa(lp6294
+S'JPOLYINVST'
 p6295
-aa(lp6296
-S'James Hotels Ltd'
+aS'JPOLYINVST'
+p6296
+aS'536773'
 p6297
-ag4
-aS'526558'
-p6298
-aa(lp6299
-S'Jammu & Kashmir Bank Ltd'
+aa(lp6298
+S'JAIHINDPRO'
+p6299
+aS'JAIHINDPRO'
 p6300
-aS'J&KBANK;'
+aS'531339'
 p6301
-aS'532209'
-p6302
-aa(lp6303
-S'Jamna Auto Industries Ltd'
+aa(lp6302
+S'JUSTDIAL'
+p6303
+aS'JUSTDIAL'
 p6304
-aS'JAMNAAUTO'
+aS'535648'
 p6305
-aS'520051'
-p6306
-aa(lp6307
-S'Jamshri Ranjitsinghji Spinning & Weaving Mills Company Ltd'
+aa(lp6306
+S'JSWHL'
+p6307
+aS'JSWHL'
 p6308
-ag4
-aS'502901'
+aS'532642'
 p6309
 aa(lp6310
-S'Janice Textiles Ltd'
+S'Benchmark Mutual Fund-Nifty Junior Benchmark ETF'
 p6311
-ag4
-aS'531988'
+aS'JUNIORBEES'
 p6312
-aa(lp6313
-S'Jarigold Textiles Ltd'
-p6314
-ag4
-aS'512329'
+aS'590104'
+p6313
+aa(lp6314
+S'J K Paper Ltd'
 p6315
-aa(lp6316
-S'Jasch Industries Ltd'
+aS'JKPAPER'
+p6316
+aS'532162'
 p6317
-aS'JASCHIND'
-p6318
-aS'500220'
+aa(lp6318
+S'J Kumar Infraprojects Ltd'
 p6319
-aa(lp6320
-S'Jatia Finance Ltd'
+aS'JKIL'
+p6320
+aS'532940'
 p6321
-ag4
-aS'531616'
-p6322
-aa(lp6323
-S'Jauss Polymers Ltd'
+aa(lp6322
+S'Jagan Lamps Ltd'
+p6323
+ag56
+aS'530711'
 p6324
-ag4
-aS'526001'
-p6325
-aa(lp6326
-S'Jay Bharat Maruti Ltd'
+aa(lp6325
+S'Jagatjit Industries Ltd'
+p6326
+aS'JAGAJITIND'
 p6327
-aS'JAYBARMARU'
+aS'507155'
 p6328
-aS'520066'
-p6329
-aa(lp6330
-S'Jay Energy & S Energies Ltd'
+aa(lp6329
+S'Jagjanani Textiles Ltd'
+p6330
+ag56
+aS'532825'
 p6331
-ag4
-aS'526523'
-p6332
-aa(lp6333
-S'Jay Shree Tea & Industries Ltd'
+aa(lp6332
+S'Jagran Prakashan Ltd'
+p6333
+aS'JAGRAN'
 p6334
-aS'JAYSREETEA'
+aS'532705'
 p6335
-aS'509715'
-p6336
-aa(lp6337
-S'Jay Ushin Ltd'
+aa(lp6336
+S'Jagson Airlines Ltd'
+p6337
+ag56
+aS'520139'
 p6338
-ag4
-aS'513252'
-p6339
-aa(lp6340
-S'Jayabharat Credit Ltd'
+aa(lp6339
+S'Jagsonpal Finance & Leasing Ltd'
+p6340
+ag56
+aS'530601'
 p6341
-ag4
-aS'501311'
-p6342
-aa(lp6343
-S'Jayant Agro Organics Ltd'
+aa(lp6342
+S'Jagsonpal Pharmaceuticals Ltd'
+p6343
+aS'JAGSNPHARM'
 p6344
-aS'JAYAGROGN'
+aS'507789'
 p6345
-aS'524330'
-p6346
-aa(lp6347
-S'Jayant Mercantile Company Ltd'
+aa(lp6346
+S'Jai Balaji Industries Ltd'
+p6347
+aS'JAIBALAJI'
 p6348
-ag4
-aS'512129'
+aS'532976'
 p6349
 aa(lp6350
-S'Jayaswal Neco Industries Ltd'
+S'Jai Balaji Industries Ltd'
 p6351
-aS'JAYNECOIND'
+aS'JAIBALAJI'
 p6352
-aS'522285'
+aS'532976'
 p6353
 aa(lp6354
-S'Jayavant Products Ltd'
+S'Jai Corp Ltd'
 p6355
-ag4
-aS'531382'
+aS'JAICORPLTD'
 p6356
-aa(lp6357
-S'Jaybharat Textiles & Real Estate Ltd'
-p6358
-ag4
-aS'512233'
+aS'512237'
+p6357
+aa(lp6358
+S'Jai Mata Glass Ltd'
 p6359
-aa(lp6360
-S'Jaypee Hotels Ltd'
-p6361
-aS'JAYPEEHOT'
+ag56
+aS'523467'
+p6360
+aa(lp6361
+S'Jaihind Projects Ltd'
 p6362
-aS'590027'
+aS'JAIHINDPRO'
 p6363
-aa(lp6364
-S'Jaypee Infratech Ltd'
-p6365
-aS'JPINFRATEC'
+aS'531339'
+p6364
+aa(lp6365
+S'Jaihind Synthetics Ltd'
 p6366
-aS'533207'
+ag56
+aS'514312'
 p6367
 aa(lp6368
-S'Jayshree Chemicals Ltd'
+S'Jain Irrigation Systems Ltd'
 p6369
-ag4
-aS'506520'
+aS'JISLJALEQS'
 p6370
-aa(lp6371
-S'Jaysynth Dyestuff India Ltd'
-p6372
-ag4
-aS'506910'
+aS'500219'
+p6371
+aa(lp6372
+S'Jain Marble Udhyog Ltd'
 p6373
-aa(lp6374
-S'JB Chemicals & Pharmaceuticals Ltd'
-p6375
-aS'JBCHEPHARM'
+ag56
+aS'531886'
+p6374
+aa(lp6375
+S'Jain Studios Ltd'
 p6376
-aS'506943'
+aS'JAINSTUDIO'
 p6377
-aa(lp6378
-S'JBF Industries Ltd'
-p6379
-aS'JBFIND'
+aS'532033'
+p6378
+aa(lp6379
+S'Jainco Projects India Ltd'
 p6380
-aS'514034'
+ag56
+aS'526865'
 p6381
 aa(lp6382
-S'JBM Auto Ltd'
+S'Jainex Aamcol Ltd'
 p6383
-aS'JBMA'
+ag56
+aS'505212'
 p6384
-aS'532605'
-p6385
-aa(lp6386
-S'JCT Electronics Ltd'
+aa(lp6385
+S'Jaipan Industries Ltd'
+p6386
+ag56
+aS'505840'
 p6387
-aS'JCTEL'
-p6388
-aS'500222'
+aa(lp6388
+S'Jaiprakash Associates Ltd'
 p6389
-aa(lp6390
-S'JCT Ltd'
+aS'JPASSOCIAT'
+p6390
+aS'532532'
 p6391
-aS'JCT'
-p6392
-aS'500223'
+aa(lp6392
+S'Jaiprakash Hydro Power Ltd'
 p6393
-aa(lp6394
-S'JD Orgochem Ltd'
+aS'JPPOWER'
+p6394
+aS'532627'
 p6395
-aS'JDORGOCHEM'
-p6396
-aS'524592'
+aa(lp6396
+S'Jaisal Securities Ltd'
 p6397
-aa(lp6398
-S'Jenburkt Pharmaceuticals Ltd'
-p6399
-ag4
-aS'524731'
+ag56
+aS'530885'
+p6398
+aa(lp6399
+S'Jal Hai Power Petro'
 p6400
-aa(lp6401
-S'Jenson & Nicholson India Ltd'
-p6402
-aS'JENSONICOL'
+ag56
+aS'524444'
+p6401
+aa(lp6402
+S'Jalan Metallurgical Ltd'
 p6403
-aS'523592'
+ag56
+aS'513613'
 p6404
 aa(lp6405
-S'Jet Airways India Ltd'
+S'Jalgaon Re-rolling Industries Ltd'
 p6406
-aS'JETAIRWAYS'
+ag56
+aS'506016'
 p6407
-aS'532617'
-p6408
-aa(lp6409
-S'Jetking Infotrain Ltd'
+aa(lp6408
+S'Jalpac India Ltd'
+p6409
+ag56
+aS'523230'
 p6410
-ag4
-aS'517063'
-p6411
-aa(lp6412
-S'Jeypore Sugar Company Ltd'
+aa(lp6411
+S'James Hotels Ltd'
+p6412
+ag56
+aS'526558'
 p6413
-aS'JEYPORE'
-p6414
-aS'590054'
+aa(lp6414
+S'Jammu & Kashmir Bank Ltd'
 p6415
-aa(lp6416
-S'Jhagadia Copper Ltd'
+aS'J&KBANK;'
+p6416
+aS'532209'
 p6417
-aS'SWIL'
-p6418
-aS'504920'
+aa(lp6418
+S'Jamna Auto Industries Ltd'
 p6419
-aa(lp6420
-S'Jhaveri Credits & Capital Ltd'
+aS'JAMNAAUTO'
+p6420
+aS'520051'
 p6421
-ag4
-aS'531550'
-p6422
-aa(lp6423
-S'Jhaveri Flexo India Ltd'
+aa(lp6422
+S'Jamshri Ranjitsinghji Spinning & Weaving Mills Company Ltd'
+p6423
+ag56
+aS'502901'
 p6424
-ag4
-aS'507796'
-p6425
-aa(lp6426
-S'Jhaveri Weldflux Ltd'
+aa(lp6425
+S'Janice Textiles Ltd'
+p6426
+ag56
+aS'531988'
 p6427
-ag4
-aS'522233'
-p6428
-aa(lp6429
-S'JHS Svendgaard Laboratories Ltd'
+aa(lp6428
+S'Jarigold Textiles Ltd'
+p6429
+ag56
+aS'512329'
 p6430
-aS'JHS'
-p6431
-aS'532771'
+aa(lp6431
+S'Jasch Industries Ltd'
 p6432
-aa(lp6433
-S'JIK Industries Ltd'
+aS'JASCHIND'
+p6433
+aS'500220'
 p6434
-aS'JIKIND'
-p6435
-aS'511618'
+aa(lp6435
+S'Jatia Finance Ltd'
 p6436
-aa(lp6437
-S'Jindal Capital Ltd'
-p6438
-ag4
-aS'530405'
+ag56
+aS'531616'
+p6437
+aa(lp6438
+S'Jauss Polymers Ltd'
 p6439
-aa(lp6440
-S'Jindal Cotex Ltd'
-p6441
-aS'JINDCOT'
+ag56
+aS'526001'
+p6440
+aa(lp6441
+S'Jay Bharat Maruti Ltd'
 p6442
-aS'533103'
+aS'JAYBARMARU'
 p6443
-aa(lp6444
-S'Jindal Drilling & Industries Ltd'
-p6445
-aS'JINDRILL'
+aS'520066'
+p6444
+aa(lp6445
+S'Jay Energy & S Energies Ltd'
 p6446
-aS'511034'
+ag56
+aS'526523'
 p6447
 aa(lp6448
-S'Jindal Hotels Ltd'
+S'Jay Shree Tea & Industries Ltd'
 p6449
-ag4
-aS'507981'
+aS'JAYSREETEA'
 p6450
-aa(lp6451
-S'Jindal Online.Com Ltd'
-p6452
-ag4
-aS'531960'
+aS'509715'
+p6451
+aa(lp6452
+S'Jay Ushin Ltd'
 p6453
-aa(lp6454
-S'Jindal Photo Ltd'
-p6455
-aS'JINDALPHOT'
+ag56
+aS'513252'
+p6454
+aa(lp6455
+S'Jayabharat Credit Ltd'
 p6456
-aS'532624'
+ag56
+aS'501311'
 p6457
 aa(lp6458
-S'Jindal Poly Films Ltd'
+S'Jayant Agro Organics Ltd'
 p6459
-aS'JINDALPOLY'
+aS'JAYAGROGN'
 p6460
-aS'500227'
+aS'524330'
 p6461
 aa(lp6462
-S'Jindal Saw Ltd'
+S'Jayant Mercantile Company Ltd'
 p6463
-aS'JINDALSAW'
+ag56
+aS'512129'
 p6464
-aS'500378'
-p6465
-aa(lp6466
-S'Jindal South West Holdings Ltd'
+aa(lp6465
+S'Jayaswal Neco Industries Ltd'
+p6466
+aS'JAYNECOIND'
 p6467
-aS'JINDALSWHL'
+aS'522285'
 p6468
-aS'532642'
-p6469
-aa(lp6470
-S'Jindal Steel & Power Ltd'
+aa(lp6469
+S'Jayavant Products Ltd'
+p6470
+ag56
+aS'531382'
 p6471
-aS'JINDALSTEL'
-p6472
-aS'532286'
+aa(lp6472
+S'Jaybharat Textiles & Real Estate Ltd'
 p6473
-aa(lp6474
-S'Jindal Worldwide Ltd'
-p6475
-aS'JINDWORLD'
+ag56
+aS'512233'
+p6474
+aa(lp6475
+S'Jaypee Hotels Ltd'
 p6476
-aS'531543'
+aS'JAYPEEHOT'
 p6477
-aa(lp6478
-S'JJ Exporters Ltd'
-p6479
-ag4
-aS'530049'
+aS'590027'
+p6478
+aa(lp6479
+S'Jaypee Infratech Ltd'
 p6480
-aa(lp6481
-S'JJ Finance Corporation Ltd'
+aS'JPINFRATEC'
+p6481
+aS'533207'
 p6482
-ag4
-aS'523062'
-p6483
-aa(lp6484
-S'JK Agri Genetics Ltd'
+aa(lp6483
+S'Jayshree Chemicals Ltd'
+p6484
+ag56
+aS'506520'
 p6485
-ag4
-aS'532518'
-p6486
-aa(lp6487
-S'JK Cement Ltd'
+aa(lp6486
+S'Jaysynth Dyestuff India Ltd'
+p6487
+aS'JAYDYSTUF'
 p6488
-aS'JKCEMENT'
+aS'506910'
 p6489
-aS'532644'
-p6490
-aa(lp6491
-S'JK Lakshmi Cement Ltd'
+aa(lp6490
+S'JB Chemicals & Pharmaceuticals Ltd'
+p6491
+aS'JBCHEPHARM'
 p6492
-aS'JKLAKSHMI'
+aS'506943'
 p6493
-aS'500380'
-p6494
-aa(lp6495
-S'JK Sugar Ltd'
+aa(lp6494
+S'JBF Industries Ltd'
+p6495
+aS'JBFIND'
 p6496
-ag4
-aS'532519'
+aS'514034'
 p6497
 aa(lp6498
-S'JK Synthetics Ltd'
+S'JBM Auto Ltd'
 p6499
-aS'JKSYNTHETC'
+aS'JBMA'
 p6500
-aS'500306'
+aS'532605'
 p6501
 aa(lp6502
-S'JK Tyre & Industries Ltd'
+S'JCT Electronics Ltd'
 p6503
-aS'JKTYRE'
+aS'JCTEL'
 p6504
-aS'530007'
+aS'500222'
 p6505
 aa(lp6506
-S'JK Udaipur Udyog Ltd'
+S'JCT Ltd'
 p6507
-aS'JKUDYOG'
+aS'JCT'
 p6508
-aS'530131'
+aS'500223'
 p6509
 aa(lp6510
-S'JL Morison India Ltd'
+S'JD Orgochem Ltd'
 p6511
-ag4
-aS'506522'
+aS'JDORGOCHEM'
 p6512
-aa(lp6513
-S'JM Financial Ltd'
-p6514
-aS'JMFINANCIL'
+aS'524592'
+p6513
+aa(lp6514
+S'Jenburkt Pharmaceuticals Ltd'
 p6515
-aS'523405'
+ag56
+aS'524731'
 p6516
 aa(lp6517
-S'JMC Projects India Ltd'
+S'Jenson & Nicholson India Ltd'
 p6518
-aS'JMCPROJECT'
+aS'JENSONICOL'
 p6519
-aS'522263'
+aS'523592'
 p6520
 aa(lp6521
-S'JMD Telefilms Industries Ltd'
+S'Jet Airways India Ltd'
 p6522
-ag4
-aS'511092'
+aS'JETAIRWAYS'
 p6523
-aa(lp6524
-S'JMDE Packaging & Realties Ltd'
-p6525
-ag4
-aS'524378'
+aS'532617'
+p6524
+aa(lp6525
+S'Jetking Infotrain Ltd'
 p6526
-aa(lp6527
-S'JMG Corporation Ltd'
-p6528
-ag4
-aS'523712'
+ag56
+aS'517063'
+p6527
+aa(lp6528
+S'Jeypore Sugar Company Ltd'
 p6529
-aa(lp6530
-S'JMT Auto Ltd'
+aS'JEYPORE'
+p6530
+aS'590054'
 p6531
-aS'JMTAUTOLTD'
-p6532
-aS'513691'
+aa(lp6532
+S'Jhagadia Copper Ltd'
 p6533
-aa(lp6534
-S'Jocil Ltd'
+aS'SWIL'
+p6534
+aS'504920'
 p6535
-aS'JOCIL'
-p6536
-aS'500561'
+aa(lp6536
+S'Jhaveri Credits & Capital Ltd'
 p6537
-aa(lp6538
-S'Jog Engineering Ltd'
-p6539
-aS'VMJOGENGG'
+ag56
+aS'531550'
+p6538
+aa(lp6539
+S'Jhaveri Flexo India Ltd'
 p6540
-aS'507942'
+ag56
+aS'507796'
 p6541
 aa(lp6542
-S'Joindre Capital Services Ltd'
+S'Jhaveri Weldflux Ltd'
 p6543
-ag4
-aS'531861'
+ag56
+aS'522233'
 p6544
 aa(lp6545
-S'Jolly Board Ltd'
+S'JHS Svendgaard Laboratories Ltd'
 p6546
-ag4
-aS'502335'
+aS'JHS'
 p6547
-aa(lp6548
-S'Jolly Leasing & Finstock Ltd'
-p6549
-ag4
-aS'511463'
+aS'532771'
+p6548
+aa(lp6549
+S'JIK Industries Ltd'
 p6550
-aa(lp6551
-S'Jolly Plastic Industries Ltd'
+aS'JIKIND'
+p6551
+aS'511618'
 p6552
-ag4
-aS'507968'
-p6553
-aa(lp6554
-S'Joonktolle Tea & Industries Ltd'
+aa(lp6553
+S'Jindal Capital Ltd'
+p6554
+ag56
+aS'530405'
 p6555
-ag4
-aS'590079'
-p6556
-aa(lp6557
-S'Josts Engineering Company Ltd'
+aa(lp6556
+S'Jindal Cotex Ltd'
+p6557
+aS'JINDCOT'
 p6558
-ag4
-aS'505750'
+aS'533103'
 p6559
 aa(lp6560
-S'Joy Reality Ltd'
+S'Jindal Drilling & Industries Ltd'
 p6561
-ag4
-aS'508929'
+aS'JINDRILL'
 p6562
-aa(lp6563
-S'JPT Securities Ltd'
-p6564
-ag4
-aS'530985'
+aS'511034'
+p6563
+aa(lp6564
+S'Jindal Hotels Ltd'
 p6565
-aa(lp6566
-S'JR Foods Ltd'
-p6567
-ag4
-aS'530915'
+ag56
+aS'507981'
+p6566
+aa(lp6567
+S'Jindal Online.Com Ltd'
 p6568
-aa(lp6569
-S'JRG Securities Ltd'
-p6570
-ag4
-aS'532745'
+ag56
+aS'531960'
+p6569
+aa(lp6570
+S'Jindal Photo Ltd'
 p6571
-aa(lp6572
-S'JSL Industries Ltd'
+aS'JINDALPHOT'
+p6572
+aS'532624'
 p6573
-ag4
-aS'504080'
-p6574
-aa(lp6575
-S'JSL Ltd'
+aa(lp6574
+S'Jindal Poly Films Ltd'
+p6575
+aS'JINDALPOLY'
 p6576
-aS'JSL'
+aS'500227'
 p6577
-aS'532508'
-p6578
-aa(lp6579
-S'JSW Energy Ltd'
+aa(lp6578
+S'Jindal Saw Ltd'
+p6579
+aS'JINDALSAW'
 p6580
-aS'JSWENERGY'
+aS'500378'
 p6581
-aS'533148'
-p6582
-aa(lp6583
-S'JSW ISPAT Steel Limited'
+aa(lp6582
+S'Jindal South West Holdings Ltd'
+p6583
+aS'JSWHL'
 p6584
-aS'JSWISPAT'
+aS'532642'
 p6585
-aS'500305'
-p6586
-aa(lp6587
-S'JSW Steel Ltd'
+aa(lp6586
+S'Jindal Steel & Power Ltd'
+p6587
+aS'JINDALSTEL'
 p6588
-aS'JSWSTEEL'
+aS'532286'
 p6589
-aS'500228'
-p6590
-aa(lp6591
-S'Jubilant Foodworks Ltd'
+aa(lp6590
+S'Jindal Worldwide Ltd'
+p6591
+aS'JINDWORLD'
 p6592
-aS'JUBLFOOD'
+aS'531543'
 p6593
-aS'533155'
-p6594
-aa(lp6595
-S'Jubilant Industries Ltd'
+aa(lp6594
+S'JJ Exporters Ltd'
+p6595
+ag56
+aS'530049'
 p6596
-aS'JUBLINDS'
-p6597
-aS'533320'
+aa(lp6597
+S'JJ Finance Corporation Ltd'
 p6598
-aa(lp6599
-S'Jubilant Organosys Ltd'
-p6600
-aS'JUBILANT'
+ag56
+aS'523062'
+p6599
+aa(lp6600
+S'JK Agri Genetics Ltd'
 p6601
-aS'530019'
+ag56
+aS'532518'
 p6602
 aa(lp6603
-S'Jumbo Bag Ltd'
+S'JK Cement Ltd'
 p6604
-aS'JUMBO'
+aS'JKCEMENT'
 p6605
-aS'516078'
+aS'532644'
 p6606
 aa(lp6607
-S'Jupiter Bioscience Ltd'
+S'JK Lakshmi Cement Ltd'
 p6608
-aS'JUPITER'
+aS'JKLAKSHMI'
 p6609
-aS'524826'
+aS'500380'
 p6610
 aa(lp6611
-S'Jupiter Industries & Leasing Ltd'
+S'JK Sugar Ltd'
 p6612
-ag4
-aS'507987'
+ag56
+aS'532519'
 p6613
 aa(lp6614
-S'JVL Agro Industries Ltd'
+S'JK Synthetics Ltd'
 p6615
-aS'JVLAGRO'
+aS'JKSYNTHETC'
 p6616
-aS'519248'
+aS'500306'
 p6617
 aa(lp6618
-S'Jyothy Laboratories Ltd'
+S'JK Tyre & Industries Ltd'
 p6619
-aS'JYOTHYLAB'
+aS'JKTYRE'
 p6620
-aS'532926'
+aS'530007'
 p6621
 aa(lp6622
-S'Jyoti Cosmetics Exim Ltd'
+S'JK Udaipur Udyog Ltd'
 p6623
-ag4
-aS'531115'
+aS'JKUDYOG'
 p6624
-aa(lp6625
-S'Jyoti Ltd'
-p6626
-ag4
-aS'504076'
+aS'530131'
+p6625
+aa(lp6626
+S'JL Morison India Ltd'
 p6627
-aa(lp6628
-S'Jyoti Overseas Ltd'
-p6629
-ag4
-aS'523876'
+ag56
+aS'506522'
+p6628
+aa(lp6629
+S'JM Financial Ltd'
 p6630
-aa(lp6631
-S'Jyoti Resins & Adhesives Ltd'
+aS'JMFINANCIL'
+p6631
+aS'523405'
 p6632
-ag4
-aS'514448'
-p6633
-aa(lp6634
-S'Jyoti Structures Ltd'
+aa(lp6633
+S'JMC Projects India Ltd'
+p6634
+aS'JMCPROJECT'
 p6635
-aS'JYOTISTRUC'
+aS'522263'
 p6636
-aS'513250'
-p6637
-aa(lp6638
-S'Umang Dairies Ltd'
+aa(lp6637
+S'JMD Telefilms Industries Ltd'
+p6638
+ag56
+aS'511092'
 p6639
-aS'JKDAIRY'
-p6640
-aS'500231'
+aa(lp6640
+S'JMDE Packaging & Realties Ltd'
 p6641
-aa(lp6642
-S'KRITIIND'
-p6643
-aS'KRITIIND'
+ag56
+aS'524378'
+p6642
+aa(lp6643
+S'JMG Corporation Ltd'
 p6644
-ag4
-aa(lp6645
-S'KOKUYOCMLN'
-p6646
-aS'KOKUYOCMLN'
+ag56
+aS'523712'
+p6645
+aa(lp6646
+S'JMT Auto Ltd'
 p6647
-ag4
-aa(lp6648
-S'KANANIIND'
+aS'JMTAUTOLTD'
+p6648
+aS'513691'
 p6649
-aS'KANANIIND'
-p6650
-ag4
-aa(lp6651
-S'KITEX'
+aa(lp6650
+S'Jocil Ltd'
+p6651
+aS'JOCIL'
 p6652
-aS'KITEX'
-p6653
-ag4
-aa(lp6654
-S'KOTAKBKETF'
+ag56
+aa(lp6653
+S'Jog Engineering Ltd'
+p6654
+aS'VMJOGENGG'
 p6655
-aS'KOTAKBKETF'
+aS'507942'
 p6656
-ag4
 aa(lp6657
-S'Envair Electrodyne Ltd'
+S'Joindre Capital Services Ltd'
 p6658
-aS'KIRLOSELEC'
+ag56
+aS'531861'
 p6659
-aS'500246'
-p6660
-aa(lp6661
-S'K Dhandapani & Company Ltd'
+aa(lp6660
+S'Jolly Board Ltd'
+p6661
+ag56
+aS'502335'
 p6662
-ag4
-aS'530395'
-p6663
-aa(lp6664
-S'K M Sugar Mills Ltd'
+aa(lp6663
+S'Jolly Leasing & Finstock Ltd'
+p6664
+ag56
+aS'511463'
 p6665
-aS'KMSUGAR'
-p6666
-aS'532673'
+aa(lp6666
+S'Jolly Plastic Industries Ltd'
 p6667
-aa(lp6668
-S'K Sera Sera Productions Ltd'
-p6669
-aS'KSERASERA'
+ag56
+aS'507968'
+p6668
+aa(lp6669
+S'Joonktolle Tea & Industries Ltd'
 p6670
-aS'532081'
+ag56
+aS'590079'
 p6671
 aa(lp6672
-S'Kaashyap Technologies Ltd'
+S'Josts Engineering Company Ltd'
 p6673
-ag4
-aS'532283'
+ag56
+aS'505750'
 p6674
 aa(lp6675
-S'Kabra Drugs Ltd'
+S'Joy Reality Ltd'
 p6676
-ag4
-aS'524322'
+ag56
+aS'508929'
 p6677
 aa(lp6678
-S'Kabra Extrusiontechnik Ltd'
+S'JPT Securities Ltd'
 p6679
-aS'KABRAEXTRU'
+ag56
+aS'530985'
 p6680
-aS'524109'
-p6681
-aa(lp6682
-S'Kachchh Minerals Ltd'
+aa(lp6681
+S'JR Foods Ltd'
+p6682
+ag56
+aS'530915'
 p6683
-ag4
-aS'531778'
-p6684
-aa(lp6685
-S'Kadamb Constructions Ltd'
+aa(lp6684
+S'JRG Securities Ltd'
+p6685
+ag56
+aS'532745'
 p6686
-ag4
-aS'531784'
-p6687
-aa(lp6688
-S'Kadvani Securities Ltd'
+aa(lp6687
+S'JSL Industries Ltd'
+p6688
+ag56
+aS'504080'
 p6689
-ag4
-aS'530479'
-p6690
-aa(lp6691
-S'Kailash Auto Finance Ltd'
+aa(lp6690
+S'JSL Ltd'
+p6691
+aS'JSL'
 p6692
-ag4
-aS'511357'
+aS'532508'
 p6693
 aa(lp6694
-S'Kailash Ficom Ltd'
+S'JSW Energy Ltd'
 p6695
-ag4
-aS'530955'
+aS'JSWENERGY'
 p6696
-aa(lp6697
-S'Kaira Can Company Ltd'
-p6698
-ag4
-aS'504840'
+aS'533148'
+p6697
+aa(lp6698
+S'JSW ISPAT Steel Limited'
 p6699
-aa(lp6700
-S'Kaiser Press Ltd'
+aS'JSWISPAT'
+p6700
+aS'500305'
 p6701
-ag4
-aS'531780'
-p6702
-aa(lp6703
-S'Kajaria Ceramics Ltd'
+aa(lp6702
+S'JSW Steel Ltd'
+p6703
+aS'JSWSTEEL'
 p6704
-aS'KAJARIACER'
+aS'500228'
 p6705
-aS'500233'
-p6706
-aa(lp6707
-S'Kakatiya Cement Sugar & Industries Ltd'
+aa(lp6706
+S'Jubilant Foodworks Ltd'
+p6707
+aS'JUBLFOOD'
 p6708
-aS'KAKATCEM'
+aS'533155'
 p6709
-aS'500234'
-p6710
-aa(lp6711
-S'Kakatiya Textiles Ltd'
+aa(lp6710
+S'Jubilant Industries Ltd'
+p6711
+aS'JUBLINDS'
 p6712
-ag4
-aS'521054'
+aS'533320'
 p6713
 aa(lp6714
-S'Kale Consultants Ltd'
+S'Jubilant Organosys Ltd'
 p6715
-aS'KALECONSUL'
+aS'JUBILANT'
 p6716
-aS'532268'
+aS'530019'
 p6717
 aa(lp6718
-S'Kaleidoscope Films Ltd'
+S'Jumbo Bag Ltd'
 p6719
-ag4
-aS'523810'
+aS'JUMBO'
 p6720
-aa(lp6721
-S'Kalindee Rail Nirman Engineers Ltd'
-p6722
-aS'KALINDEE'
+aS'516078'
+p6721
+aa(lp6722
+S'Jupiter Bioscience Ltd'
 p6723
-aS'522259'
+aS'JUPITER'
 p6724
-aa(lp6725
-S'Kallam Spinning Mills Ltd'
-p6726
-ag4
-aS'530201'
+aS'524826'
+p6725
+aa(lp6726
+S'Jupiter Industries & Leasing Ltd'
 p6727
-aa(lp6728
-S'Kalpataru Power Transmission Ltd'
-p6729
-aS'KALPATPOWR'
+ag56
+aS'507987'
+p6728
+aa(lp6729
+S'JVL Agro Industries Ltd'
 p6730
-aS'522287'
+aS'JVLAGRO'
 p6731
-aa(lp6732
-S'Kalpena Industries Ltd'
-p6733
-ag4
-aS'526409'
+aS'519248'
+p6732
+aa(lp6733
+S'Jyothy Laboratories Ltd'
 p6734
-aa(lp6735
-S'Kalptaru Papers Ltd'
+aS'JYOTHYLAB'
+p6735
+aS'532926'
 p6736
-ag4
-aS'590036'
-p6737
-aa(lp6738
-S'Kalyani Forge Ltd'
+aa(lp6737
+S'Jyoti Cosmetics Exim Ltd'
+p6738
+ag56
+aS'531115'
 p6739
-aS'KALYANIFRG'
-p6740
-aS'513509'
+aa(lp6740
+S'Jyoti Ltd'
 p6741
-aa(lp6742
-S'Kalyani Investment Company'
-p6743
-aS'KICL'
+ag56
+aS'504076'
+p6742
+aa(lp6743
+S'Jyoti Overseas Ltd'
 p6744
-aS'533302'
+ag56
+aS'523876'
 p6745
 aa(lp6746
-S'Kalyani Steels Ltd'
+S'Jyoti Resins & Adhesives Ltd'
 p6747
-aS'KSL'
+ag56
+aS'514448'
 p6748
-aS'500235'
-p6749
-aa(lp6750
-S'Kalyanpur Cements Ltd'
+aa(lp6749
+S'Jyoti Structures Ltd'
+p6750
+aS'JYOTISTRUC'
 p6751
-ag4
-aS'502150'
+aS'513250'
 p6752
 aa(lp6753
-S'Kamadgiri Synthetics Ltd'
+S'Umang Dairies Ltd'
 p6754
-ag4
-aS'514322'
+aS'JKDAIRY'
 p6755
-aa(lp6756
-S'Kamalakshi Finance Corpn Ltd'
-p6757
-ag4
-aS'501314'
+aS'500231'
+p6756
+aa(lp6757
+S'KRITIIND'
 p6758
-aa(lp6759
-S'Kamanwala Housing Construction Ltd'
+aS'KRITIIND'
+p6759
+aS'526423'
 p6760
-ag4
-aS'511131'
-p6761
-aa(lp6762
-S'Kamat Hotels India Ltd'
+aa(lp6761
+S'KOKUYOCMLN'
+p6762
+aS'KOKUYOCMLN'
 p6763
-aS'KAMATHOTEL'
+aS'523207'
 p6764
-aS'526668'
-p6765
-aa(lp6766
-S'Kamdhenu Ispat Ltd'
+aa(lp6765
+S'KANANIIND'
+p6766
+aS'KANANIIND'
 p6767
-aS'KIL'
+aS'506184'
 p6768
-aS'532741'
-p6769
-aa(lp6770
-S'Kampani Consultants Ltd'
+aa(lp6769
+S'KITEX'
+p6770
+aS'KITEX'
 p6771
-ag4
-aS'508853'
+aS'521248'
 p6772
 aa(lp6773
-S'Kanani Industries Ltd'
+S'KOTAKBKETF'
 p6774
-ag4
-aS'506184'
+aS'KOTAKBKETF'
 p6775
+ag56
 aa(lp6776
-S'Kanchan International Ltd'
+S'Envair Electrodyne Ltd'
 p6777
-ag4
-aS'530165'
+aS'KIRLOSELEC'
 p6778
-aa(lp6779
-S'Kanco Enterprises Ltd'
-p6780
-ag4
-aS'590084'
+aS'500246'
+p6779
+aa(lp6780
+S'K Dhandapani & Company Ltd'
 p6781
-aa(lp6782
-S'Kandagiri Spinning Mills Ltd'
-p6783
-aS'KANDAGIRI'
+ag56
+aS'530395'
+p6782
+aa(lp6783
+S'K M Sugar Mills Ltd'
 p6784
-aS'521242'
+aS'KMSUGAR'
 p6785
-aa(lp6786
-S'Kanel Oil & Export Industries Ltd'
-p6787
-aS'KANELOIL'
+aS'532673'
+p6786
+aa(lp6787
+S'K Sera Sera Productions Ltd'
 p6788
-aS'500236'
+aS'KSERASERA'
 p6789
-aa(lp6790
-S'Kanika Infotech Ltd'
-p6791
-ag4
-aS'532367'
+aS'532081'
+p6790
+aa(lp6791
+S'Kaashyap Technologies Ltd'
 p6792
-aa(lp6793
-S'Kanishk Steel Industries Ltd'
-p6794
-ag4
-aS'513456'
+ag56
+aS'532283'
+p6793
+aa(lp6794
+S'Kabra Drugs Ltd'
 p6795
-aa(lp6796
-S'Kanoria Chemicals & Industries Ltd'
-p6797
-aS'KANORICHEM'
+ag56
+aS'524322'
+p6796
+aa(lp6797
+S'Kabra Extrusiontechnik Ltd'
 p6798
-aS'506525'
+aS'KABRAEXTRU'
 p6799
-aa(lp6800
-S'Kanpur Plastipack Ltd'
-p6801
-ag4
-aS'507779'
+aS'524109'
+p6800
+aa(lp6801
+S'Kachchh Minerals Ltd'
 p6802
-aa(lp6803
-S'Kansai Nerolac Paints Ltd'
-p6804
-aS'KANSAINER'
+ag56
+aS'531778'
+p6803
+aa(lp6804
+S'Kadamb Constructions Ltd'
 p6805
-aS'500165'
+ag56
+aS'531784'
 p6806
 aa(lp6807
-S'Kansal Fibres Ltd'
+S'Kadvani Securities Ltd'
 p6808
-ag4
-aS'531205'
+ag56
+aS'530479'
 p6809
 aa(lp6810
-S'Kapashi Commercial Ltd'
+S'Kailash Auto Finance Ltd'
 p6811
-ag4
-aS'512399'
+ag56
+aS'511357'
 p6812
 aa(lp6813
-S'Kapil Cotex Ltd'
+S'Kailash Ficom Ltd'
 p6814
-ag4
-aS'512036'
+ag56
+aS'530955'
 p6815
 aa(lp6816
-S'Kappac Pharma Ltd'
+S'Kaira Can Company Ltd'
 p6817
-ag4
-aS'506938'
+ag56
+aS'504840'
 p6818
 aa(lp6819
-S'Kar Mobiles Ltd'
+S'Kaiser Press Ltd'
 p6820
-ag4
-aS'590053'
+ag56
+aS'531780'
 p6821
 aa(lp6822
-S'Karan Woo Sin Ltd'
+S'Kajaria Ceramics Ltd'
 p6823
-ag4
-aS'526115'
+aS'KAJARIACER'
 p6824
-aa(lp6825
-S'Karma Energy Limited'
-p6826
-aS'KARMAENG'
+aS'500233'
+p6825
+aa(lp6826
+S'Kakatiya Cement Sugar & Industries Ltd'
 p6827
-aS'533451'
+aS'KAKATCEM'
 p6828
-aa(lp6829
-S'Karma Ispat Ltd'
-p6830
-ag4
-aS'512585'
+aS'500234'
+p6829
+aa(lp6830
+S'Kakatiya Textiles Ltd'
 p6831
-aa(lp6832
-S'Karnataka Bank Ltd'
-p6833
-aS'KTKBANK'
+ag56
+aS'521054'
+p6832
+aa(lp6833
+S'Kale Consultants Ltd'
 p6834
-aS'532652'
+aS'ACCELYA'
 p6835
-aa(lp6836
-S'Kartik Investments Trust Ltd'
-p6837
-ag4
-aS'501151'
+aS'532268'
+p6836
+aa(lp6837
+S'Kaleidoscope Films Ltd'
 p6838
-aa(lp6839
-S'Karuna Cables Ltd'
-p6840
-aS'KARUNACAB'
+ag56
+aS'523810'
+p6839
+aa(lp6840
+S'Kalindee Rail Nirman Engineers Ltd'
 p6841
-aS'531904'
+aS'KALINDEE'
 p6842
-aa(lp6843
-S'Karur KCP Packkagings Ltd'
-p6844
-aS'KARURKCP'
+aS'522259'
+p6843
+aa(lp6844
+S'Kallam Spinning Mills Ltd'
 p6845
-aS'531363'
+ag56
+aS'530201'
 p6846
 aa(lp6847
-S'Karur Vysya Bank Ltd'
+S'Kalpataru Power Transmission Ltd'
 p6848
-aS'KARURVYSYA'
+aS'KALPATPOWR'
 p6849
-aS'590003'
+aS'522287'
 p6850
 aa(lp6851
-S'Karuturi Global Ltd'
+S'Kalpena Industries Ltd'
 p6852
-aS'KGL'
+ag56
+aS'526409'
 p6853
-aS'531687'
-p6854
-aa(lp6855
-S'Katare Spinning Mills Ltd'
+aa(lp6854
+S'Kalptaru Papers Ltd'
+p6855
+ag56
+aS'590036'
 p6856
-ag4
-aS'502933'
-p6857
-aa(lp6858
-S'Katwa Udyog Ltd'
+aa(lp6857
+S'Kalyani Forge Ltd'
+p6858
+aS'KALYANIFRG'
 p6859
-ag4
-aS'530977'
+aS'513509'
 p6860
 aa(lp6861
-S'Kaushalya Infrastructure Development Corporation Ltd'
+S'Kalyani Investment Company'
 p6862
-aS'KAUSHALYA'
+aS'KICL'
 p6863
-aS'532925'
+aS'533302'
 p6864
 aa(lp6865
-S'Kaveri Seed Company Ltd'
+S'Kalyani Steels Ltd'
 p6866
-aS'KSCL'
+aS'KSL'
 p6867
-aS'532899'
+aS'500235'
 p6868
 aa(lp6869
-S'Kavveri Telecom Products Ltd'
+S'Kalyanpur Cements Ltd'
 p6870
-aS'KAVVERITEL'
+ag56
+aS'502150'
 p6871
-aS'590041'
-p6872
-aa(lp6873
-S'Kay Power and Paper Ltd'
+aa(lp6872
+S'Kamadgiri Synthetics Ltd'
+p6873
+ag56
+aS'514322'
 p6874
-ag4
-aS'530255'
-p6875
-aa(lp6876
-S'Kaycee Industries Ltd'
+aa(lp6875
+S'Kamalakshi Finance Corpn Ltd'
+p6876
+ag56
+aS'501314'
 p6877
-ag4
-aS'504084'
-p6878
-aa(lp6879
-S'Kayton Trade & Finance Ltd'
+aa(lp6878
+S'Kamanwala Housing Construction Ltd'
+p6879
+ag56
+aS'511131'
 p6880
-ag4
-aS'512375'
-p6881
-aa(lp6882
-S'KB Steel Ltd'
+aa(lp6881
+S'Kamat Hotels India Ltd'
+p6882
+aS'KAMATHOTEL'
 p6883
-ag4
-aS'506134'
+aS'526668'
 p6884
 aa(lp6885
-S'KBS Capital Management Ltd'
+S'Kamdhenu Ispat Ltd'
 p6886
-ag4
-aS'530357'
+aS'KIL'
 p6887
-aa(lp6888
-S'KCP Ltd'
-p6889
-aS'KCP'
+aS'532741'
+p6888
+aa(lp6889
+S'Kampani Consultants Ltd'
 p6890
-aS'590066'
+ag56
+aS'508853'
 p6891
 aa(lp6892
-S'KCP Sugar & Industries Corporation Ltd'
+S'Kanani Industries Ltd'
 p6893
-aS'KCPSUGIND'
+aS'KANANIIND'
 p6894
-aS'533192'
+aS'506184'
 p6895
 aa(lp6896
-S'KDDL Ltd'
+S'Kanchan International Ltd'
 p6897
-ag4
-aS'532054'
+ag56
+aS'530165'
 p6898
 aa(lp6899
-S'Kdl Biotech Ltd'
+S'Kanco Enterprises Ltd'
 p6900
-aS'KOPDRUGS'
+ag56
+aS'590084'
 p6901
-aS'532291'
-p6902
-aa(lp6903
-S'KEC International Ltd'
+aa(lp6902
+S'Kandagiri Spinning Mills Ltd'
+p6903
+aS'KANDAGIRI'
 p6904
-aS'KEC'
+aS'521242'
 p6905
-aS'532714'
-p6906
-aa(lp6907
-S'Kedia Chemical Industries Ltd'
+aa(lp6906
+S'Kanel Oil & Export Industries Ltd'
+p6907
+aS'KANELOIL'
 p6908
-ag4
-aS'524701'
+aS'500236'
 p6909
 aa(lp6910
-S'Kedia Construction Company Ltd'
+S'Kanika Infotech Ltd'
 p6911
-ag4
-aS'508993'
+ag56
+aS'532367'
 p6912
 aa(lp6913
-S'Keerthi Industries Ltd'
+S'Kanishk Steel Industries Ltd'
 p6914
-ag4
-aS'518011'
+ag56
+aS'513456'
 p6915
 aa(lp6916
-S'KEI Industries Ltd'
+S'Kanoria Chemicals & Industries Ltd'
 p6917
-aS'KEI'
+aS'KANORICHEM'
 p6918
-aS'517569'
+aS'506525'
 p6919
 aa(lp6920
-S'KELTECH Energies Ltd'
+S'Kanpur Plastipack Ltd'
 p6921
-ag4
-aS'506528'
+ag56
+aS'507779'
 p6922
 aa(lp6923
-S'Kemp & Company Ltd'
+S'Kansai Nerolac Paints Ltd'
 p6924
-ag4
-aS'506530'
+aS'KANSAINER'
 p6925
-aa(lp6926
-S'Kemrock Industries & Exports Ltd'
-p6927
-aS'KEMROCK'
+aS'500165'
+p6926
+aa(lp6927
+S'Kansal Fibres Ltd'
 p6928
-aS'526015'
+ag56
+aS'531205'
 p6929
 aa(lp6930
-S'Ken Financial Services Ltd'
+S'Kapashi Commercial Ltd'
 p6931
-ag4
-aS'530547'
+ag56
+aS'512399'
 p6932
 aa(lp6933
-S'Kennametal India Ltd'
+S'Kapil Cotex Ltd'
 p6934
-aS'WIDIA'
+ag56
+aS'512036'
 p6935
-aS'505890'
-p6936
-aa(lp6937
-S'Kerala Ayurveda Ltd'
+aa(lp6936
+S'Kappac Pharma Ltd'
+p6937
+ag56
+aS'506938'
 p6938
-ag4
-aS'530163'
-p6939
-aa(lp6940
-S'Kernex Microsystems India Ltd'
+aa(lp6939
+S'Kar Mobiles Ltd'
+p6940
+ag56
+aS'590053'
 p6941
-aS'KERNEX'
-p6942
-aS'532686'
+aa(lp6942
+S'Karan Woo Sin Ltd'
 p6943
-aa(lp6944
-S'Kerry Jost Engineering Ltd'
-p6945
-ag4
-aS'505285'
+ag56
+aS'526115'
+p6944
+aa(lp6945
+S'Karma Energy Limited'
 p6946
-aa(lp6947
-S'Kesar Enterprises Ltd'
+aS'KARMAENG'
+p6947
+aS'533451'
 p6948
-aS'KESARENT'
-p6949
-aS'507180'
+aa(lp6949
+S'Karma Ispat Ltd'
 p6950
-aa(lp6951
-S'Kesar Petroproducts Ltd'
-p6952
-ag4
-aS'524174'
+ag56
+aS'512585'
+p6951
+aa(lp6952
+S'Karnataka Bank Ltd'
 p6953
-aa(lp6954
-S'Kesar Terminals and Infrastructure Limited'
+aS'KTKBANK'
+p6954
+aS'532652'
 p6955
-aS'KTIL'
-p6956
-aS'533289'
+aa(lp6956
+S'Kartik Investments Trust Ltd'
 p6957
-aa(lp6958
-S'Kesoram Industries Ltd'
-p6959
-aS'KESORAMIND'
+ag56
+aS'501151'
+p6958
+aa(lp6959
+S'Karuna Cables Ltd'
 p6960
-aS'502937'
+aS'KARUNACAB'
 p6961
-aa(lp6962
-S'Kew Industries Ltd'
-p6963
-ag4
-aS'532758'
+aS'531904'
+p6962
+aa(lp6963
+S'Karur KCP Packkagings Ltd'
 p6964
-aa(lp6965
-S'Kewal Kiran Clothing Ltd'
+aS'KARURKCP'
+p6965
+aS'531363'
 p6966
-aS'KKCL'
-p6967
-aS'532732'
+aa(lp6967
+S'Karur Vysya Bank Ltd'
 p6968
-aa(lp6969
-S'Key Corporation Ltd'
+aS'KARURVYSYA'
+p6969
+aS'590003'
 p6970
-ag4
-aS'507948'
-p6971
-aa(lp6972
-S'Keynote Corporate Services Ltd'
+aa(lp6971
+S'Karuturi Global Ltd'
+p6972
+aS'KGL'
 p6973
-aS'KEYCORPSER'
+aS'531687'
 p6974
-aS'512597'
-p6975
-aa(lp6976
-S'KG Denim Ltd'
+aa(lp6975
+S'Katare Spinning Mills Ltd'
+p6976
+ag56
+aS'502933'
 p6977
-aS'KGDENIM'
-p6978
-aS'500239'
+aa(lp6978
+S'Katwa Udyog Ltd'
 p6979
-aa(lp6980
-S'KG Petrochem Ltd'
-p6981
-ag4
-aS'531609'
+ag56
+aS'530977'
+p6980
+aa(lp6981
+S'Kaushalya Infrastructure Development Corporation Ltd'
 p6982
-aa(lp6983
-S'KGN Industries Ltd'
+aS'KAUSHALYA'
+p6983
+aS'532925'
 p6984
-ag4
-aS'531612'
-p6985
-aa(lp6986
-S'Khaitan Chemicals & Fertilizers Ltd'
+aa(lp6985
+S'Kaveri Seed Company Ltd'
+p6986
+aS'KSCL'
 p6987
-ag4
-aS'507794'
+aS'532899'
 p6988
 aa(lp6989
-S'Khaitan Electricals Ltd'
+S'Kavveri Telecom Products Ltd'
 p6990
-aS'KHAITANELE'
+aS'KAVVERITEL'
 p6991
-aS'504269'
+aS'590041'
 p6992
 aa(lp6993
-S'Khaitan India Ltd'
+S'Kay Power and Paper Ltd'
 p6994
-aS'KHAITANLTD'
+ag56
+aS'530255'
 p6995
-aS'590068'
-p6996
-aa(lp6997
-S'Khandwala Securities Ltd'
+aa(lp6996
+S'Kaycee Industries Ltd'
+p6997
+ag56
+aS'504084'
 p6998
-aS'KHANDSE'
-p6999
-aS'531892'
+aa(lp6999
+S'Kayton Trade & Finance Ltd'
 p7000
-aa(lp7001
-S'Khatau Exim Ltd'
-p7002
-ag4
-aS'506178'
+ag56
+aS'512375'
+p7001
+aa(lp7002
+S'KB Steel Ltd'
 p7003
-aa(lp7004
-S'Khator Fibre & Fabrics Ltd'
-p7005
-ag4
-aS'521127'
+ag56
+aS'506134'
+p7004
+aa(lp7005
+S'KBS Capital Management Ltd'
 p7006
-aa(lp7007
-S'Khoday India Ltd'
-p7008
-ag4
-aS'507435'
+ag56
+aS'530357'
+p7007
+aa(lp7008
+S'KCP Ltd'
 p7009
-aa(lp7010
-S'Khodiyar Industries Ltd'
+aS'KCP'
+p7010
+aS'590066'
 p7011
-ag4
-aS'531401'
-p7012
-aa(lp7013
-S'Khyati Multimedia Entertainment Ltd'
+aa(lp7012
+S'KCP Sugar & Industries Corporation Ltd'
+p7013
+aS'KCPSUGIND'
 p7014
-ag4
-aS'531692'
+aS'533192'
 p7015
 aa(lp7016
-S'KIC Metaliks Ltd'
+S'KDDL Ltd'
 p7017
-ag4
-aS'513693'
+ag56
+aS'532054'
 p7018
 aa(lp7019
-S'Kiduja India Ltd'
+S'Kdl Biotech Ltd'
 p7020
-ag4
-aS'507946'
+aS'KOPDRUGS'
 p7021
-aa(lp7022
-S'Kilburn Chemicals Ltd'
-p7023
-ag4
-aS'524699'
+aS'532291'
+p7022
+aa(lp7023
+S'KEC International Ltd'
 p7024
-aa(lp7025
-S'Kilburn Engineering Ltd'
+aS'KEC'
+p7025
+aS'532714'
 p7026
-aS'KILBUNENGG'
-p7027
-aS'522101'
+aa(lp7027
+S'Kedia Chemical Industries Ltd'
 p7028
-aa(lp7029
-S'Kilburn Office Automation Ltd'
-p7030
-ag4
-aS'523218'
+ag56
+aS'524701'
+p7029
+aa(lp7030
+S'Kedia Construction Company Ltd'
 p7031
-aa(lp7032
-S'Kilitch Drugs India Ltd'
-p7033
-aS'KILITCH'
+ag56
+aS'508993'
+p7032
+aa(lp7033
+S'Keerthi Industries Ltd'
 p7034
-aS'524500'
+ag56
+aS'518011'
 p7035
 aa(lp7036
-S'Kilpest India Ltd'
+S'KEI Industries Ltd'
 p7037
-ag4
-aS'532067'
+aS'KEI'
 p7038
-aa(lp7039
-S'Kinetic Engineering Ltd'
-p7040
-aS'KINETICENG'
+aS'517569'
+p7039
+aa(lp7040
+S'KELTECH Energies Ltd'
 p7041
-aS'500240'
+ag56
+aS'506528'
 p7042
 aa(lp7043
-S'Kinetic Motor Company Ltd'
+S'Kemp & Company Ltd'
 p7044
-aS'KINETICMOT'
+ag56
+aS'506530'
 p7045
-aS'505190'
-p7046
-aa(lp7047
-S'Kinetic Trust Ltd'
+aa(lp7046
+S'Kemrock Industries & Exports Ltd'
+p7047
+aS'KEMROCK'
 p7048
-ag4
-aS'531274'
+aS'526015'
 p7049
 aa(lp7050
-S'Kingfisher Airlines Ltd'
+S'Ken Financial Services Ltd'
 p7051
-aS'KFA'
+ag56
+aS'530547'
 p7052
-aS'532747'
-p7053
-aa(lp7054
-S'Kiran Print Pack Ltd'
+aa(lp7053
+S'Kennametal India Ltd'
+p7054
+aS'WIDIA'
 p7055
-ag4
-aS'531413'
+aS'505890'
 p7056
 aa(lp7057
-S'Kiran Syntex Ltd'
+S'Kerala Ayurveda Ltd'
 p7058
-ag4
-aS'530443'
+ag56
+aS'530163'
 p7059
 aa(lp7060
-S'KIRFERROWAR '
+S'Kernex Microsystems India Ltd'
 p7061
-ag4
-aS'961664'
+aS'KERNEX'
 p7062
-aa(lp7063
-S'Kiri Dyes and Chemicals Ltd'
-p7064
-aS'KIRIINDUS'
+aS'532686'
+p7063
+aa(lp7064
+S'Kerry Jost Engineering Ltd'
 p7065
-aS'532967'
+ag56
+aS'505285'
 p7066
 aa(lp7067
-S'Kirloskar Brothers Investments Limited'
+S'Kesar Enterprises Ltd'
 p7068
-aS'KBIL'
+aS'KESARENT'
 p7069
-aS'533297'
+aS'507180'
 p7070
 aa(lp7071
-S'Kirloskar Brothers Ltd'
+S'Kesar Petroproducts Ltd'
 p7072
-aS'KIRLOSBROS'
+ag56
+aS'524174'
 p7073
-aS'500241'
-p7074
-aa(lp7075
-S'Kirloskar Electric Company Ltd'
+aa(lp7074
+S'Kesar Terminals and Infrastructure Limited'
+p7075
+aS'KTIL'
 p7076
-aS'KECL'
+aS'533289'
 p7077
-aS'533193'
-p7078
-aa(lp7079
-S'Kirloskar Ferrous Industries Ltd'
+aa(lp7078
+S'Kesoram Industries Ltd'
+p7079
+aS'KESORAMIND'
 p7080
-aS'KIRLOSFERR'
+aS'502937'
 p7081
-aS'500245'
-p7082
-aa(lp7083
-S'Kirloskar Oil Engines Limited'
+aa(lp7082
+S'Kew Industries Ltd'
+p7083
+ag56
+aS'532758'
 p7084
-aS'KIRLOSENG'
-p7085
-aS'533293'
+aa(lp7085
+S'Kewal Kiran Clothing Ltd'
 p7086
-aa(lp7087
-S'Kirloskar Oil Engines Ltd'
+aS'KKCL'
+p7087
+aS'532732'
 p7088
-aS'KIRLOSIND'
-p7089
-aS'500243'
+aa(lp7089
+S'Key Corporation Ltd'
 p7090
-aa(lp7091
-S'Kirloskar Pneumatic Company Ltd'
-p7092
-aS'KGKHOSLA'
+ag56
+aS'507948'
+p7091
+aa(lp7092
+S'Keynote Corporate Services Ltd'
 p7093
-aS'505283'
+aS'KEYCORPSER'
 p7094
-aa(lp7095
-S'Kirti Finvest Ltd'
-p7096
-ag4
-aS'532092'
+aS'512597'
+p7095
+aa(lp7096
+S'KG Denim Ltd'
 p7097
-aa(lp7098
-S'Kisan Mouldings Ltd'
+aS'KGDENIM'
+p7098
+aS'500239'
 p7099
-ag4
-aS'530145'
-p7100
-aa(lp7101
-S'Kitex Garments Ltd'
+aa(lp7100
+S'KG Petrochem Ltd'
+p7101
+ag56
+aS'531609'
 p7102
-ag4
-aS'521248'
-p7103
-aa(lp7104
-S'Kitply Industries Ltd'
+aa(lp7103
+S'KGN Industries Ltd'
+p7104
+ag56
+aS'531612'
 p7105
-aS'KITPLYIND'
-p7106
-aS'502595'
+aa(lp7106
+S'Khaitan Chemicals & Fertilizers Ltd'
 p7107
-aa(lp7108
-S'KJMC Financial Services Ltd'
-p7109
-aS'KJMCFIN'
+ag56
+aS'507794'
+p7108
+aa(lp7109
+S'Khaitan Electricals Ltd'
 p7110
-aS'530235'
+aS'KHAITANELE'
 p7111
-aa(lp7112
-S'KJMC Global Market India Ltd'
-p7113
-ag4
-aS'532304'
+aS'504269'
+p7112
+aa(lp7113
+S'Khaitan India Ltd'
 p7114
-aa(lp7115
-S'KLG Capital Services Ltd'
+aS'KHAITANLTD'
+p7115
+aS'590068'
 p7116
-ag4
-aS'530771'
-p7117
-aa(lp7118
-S'KLG Systel Ltd'
+aa(lp7117
+S'Khandwala Securities Ltd'
+p7118
+aS'KHANDSE'
 p7119
-aS'KLGSYSTEL'
+aS'531892'
 p7120
-aS'531269'
-p7121
-aa(lp7122
-S'KLK Electrical Industries Ltd'
+aa(lp7121
+S'Khatau Exim Ltd'
+p7122
+ag56
+aS'506178'
 p7123
-ag4
-aS'517170'
-p7124
-aa(lp7125
-S'KLRF Ltd'
+aa(lp7124
+S'Khator Fibre & Fabrics Ltd'
+p7125
+ag56
+aS'521127'
 p7126
-aS'KLRF'
-p7127
-aS'507598'
+aa(lp7127
+S'Khoday India Ltd'
 p7128
-aa(lp7129
-S'KMF Builders & Developers Ltd'
-p7130
-ag4
-aS'531578'
+ag56
+aS'507435'
+p7129
+aa(lp7130
+S'Khodiyar Industries Ltd'
 p7131
-aa(lp7132
-S'KNR Constructions Ltd'
-p7133
-aS'KNRCON'
+ag56
+aS'531401'
+p7132
+aa(lp7133
+S'Khyati Multimedia Entertainment Ltd'
 p7134
-aS'532942'
+ag56
+aS'531692'
 p7135
 aa(lp7136
-S'Koa Tools India Ltd'
+S'KIC Metaliks Ltd'
 p7137
-ag4
-aS'517471'
+ag56
+aS'513693'
 p7138
 aa(lp7139
-S'Koffee Break Pictures Ltd'
+S'Kiduja India Ltd'
 p7140
-ag4
-aS'531602'
+ag56
+aS'507946'
 p7141
 aa(lp7142
-S'Kohinoor Broadcasting Corporation Ltd'
+S'Kilburn Chemicals Ltd'
 p7143
-ag4
-aS'531366'
+ag56
+aS'524699'
 p7144
 aa(lp7145
-S'Kohinoor Foods Ltd'
+S'Kilburn Engineering Ltd'
 p7146
-aS'KOHINOOR'
+aS'KILBUNENGG'
 p7147
-aS'512559'
+aS'522101'
 p7148
 aa(lp7149
-S'Kolte Patil Developers Ltd'
+S'Kilburn Office Automation Ltd'
 p7150
-aS'KOLTEPATIL'
+ag56
+aS'523218'
 p7151
-aS'532924'
-p7152
-aa(lp7153
-S'Konark Synthetic Ltd'
+aa(lp7152
+S'Kilitch Drugs India Ltd'
+p7153
+aS'KILITCH'
 p7154
-ag4
-aS'514128'
+aS'524500'
 p7155
 aa(lp7156
-S'Konkan Tyres Ltd'
+S'Kilpest India Ltd'
 p7157
-ag4
-aS'526379'
+ag56
+aS'532067'
 p7158
 aa(lp7159
-S'Kopran Ltd'
+S'Kinetic Engineering Ltd'
 p7160
-aS'KOPRAN'
+aS'KINETICENG'
 p7161
-aS'524280'
+aS'500240'
 p7162
 aa(lp7163
-S'Kosha Cubidor Containers Ltd'
+S'Kinetic Motor Company Ltd'
 p7164
-ag4
-aS'526067'
+aS'KINETICMOT'
 p7165
-aa(lp7166
-S'Kosian Industries Ltd'
-p7167
-ag4
-aS'511760'
+aS'505190'
+p7166
+aa(lp7167
+S'Kinetic Trust Ltd'
 p7168
-aa(lp7169
-S'Kotak Gold ETF'
-p7170
-aS'KOTAKGOLD'
+ag56
+aS'531274'
+p7169
+aa(lp7170
+S'Kingfisher Airlines Ltd'
 p7171
-aS'590097'
+aS'KFA'
 p7172
-aa(lp7173
-S'Kotak Mahindra Bank Ltd'
-p7174
-aS'KOTAKBANK'
+aS'532747'
+p7173
+aa(lp7174
+S'Kiran Print Pack Ltd'
 p7175
-aS'500247'
+ag56
+aS'531413'
 p7176
 aa(lp7177
-S'Kotak Mahindra Mutual Fund'
+S'Kiran Syntex Ltd'
 p7178
-aS'KOTAKPSUBK'
+ag56
+aS'530443'
 p7179
-ag4
 aa(lp7180
-S'Kotak Nifty ETF'
+S'KIRFERROWAR '
 p7181
-aS'KOTAKNIFTY'
+ag56
+aS'961664'
 p7182
-aS'531858'
-p7183
-aa(lp7184
-S'Kotak PSU Bank'
+aa(lp7183
+S'Kiri Dyes and Chemicals Ltd'
+p7184
+aS'KIRIINDUS'
 p7185
-ag4
-aS'590107'
+aS'532967'
 p7186
 aa(lp7187
-S'Kotak Sensex ETF'
+S'Kirloskar Brothers Investments Limited'
 p7188
-ag4
-aS'532985'
+aS'KBIL'
 p7189
-aa(lp7190
-S'Kothari Engineers Ltd'
-p7191
-aS'KOTHARIPET'
+aS'533297'
+p7190
+aa(lp7191
+S'Kirloskar Brothers Ltd'
 p7192
-aS'532096'
+aS'KIRLOSBROS'
 p7193
-aa(lp7194
-S'Kothari Fermentation & Biochem Ltd'
-p7195
-ag4
-aS'507474'
+aS'500241'
+p7194
+aa(lp7195
+S'Kirloskar Electric Company Ltd'
 p7196
-aa(lp7197
-S'Kothari Products Ltd'
+aS'KECL'
+p7197
+aS'533193'
 p7198
-aS'KOTHARIPRO'
-p7199
-aS'530299'
+aa(lp7199
+S'Kirloskar Ferrous Industries Ltd'
 p7200
-aa(lp7201
-S'Kothari Sugars & Chemicals Ltd'
+aS'KIRLOSFERR'
+p7201
+aS'500245'
 p7202
-aS'KOTARISUG'
-p7203
-aS'507190'
+aa(lp7203
+S'Kirloskar Oil Engines Limited'
 p7204
-aa(lp7205
-S'Koutons Retail India Ltd'
+aS'KIRLOSENG'
+p7205
+aS'533293'
 p7206
-aS'KOUTONS'
-p7207
-aS'532901'
+aa(lp7207
+S'Kirloskar Oil Engines Ltd'
 p7208
-aa(lp7209
-S'Kovai Medical Center & Hospital Ltd'
+aS'KIRLOSIND'
+p7209
+aS'500243'
 p7210
-aS'KOVAI'
-p7211
-aS'523323'
+aa(lp7211
+S'Kirloskar Pneumatic Company Ltd'
 p7212
-aa(lp7213
-S'Kovalam Investment & Trading Company Ltd'
+aS'KGKHOSLA'
+p7213
+aS'505283'
 p7214
-ag4
-aS'505585'
-p7215
-aa(lp7216
-S'Kpit Cummins Infosystems Ltd'
+aa(lp7215
+S'Kirti Finvest Ltd'
+p7216
+ag56
+aS'532092'
 p7217
-aS'KPIT'
-p7218
-aS'532400'
+aa(lp7218
+S'Kisan Mouldings Ltd'
 p7219
-aa(lp7220
-S'KPR Mill Ltd'
-p7221
-aS'KPRMILL'
+ag56
+aS'530145'
+p7220
+aa(lp7221
+S'Kitex Garments Ltd'
 p7222
-aS'532889'
+aS'KITEX'
 p7223
-aa(lp7224
-S'KRBL Ltd'
-p7225
-aS'KRBL'
+aS'521248'
+p7224
+aa(lp7225
+S'Kitply Industries Ltd'
 p7226
-aS'530813'
+aS'KITPLYIND'
 p7227
-aa(lp7228
-S'Krebs Biochemicals & Industries Ltd'
-p7229
-aS'KREBSBIO'
+aS'502595'
+p7228
+aa(lp7229
+S'KJMC Financial Services Ltd'
 p7230
-aS'524518'
+aS'KJMCFIN'
 p7231
-aa(lp7232
-S'Krishna Deep Trade & Investments Ltd'
-p7233
-ag4
-aS'506128'
+aS'530235'
+p7232
+aa(lp7233
+S'KJMC Global Market India Ltd'
 p7234
-aa(lp7235
-S'Krishna Engineering Works Ltd'
-p7236
-aS'KRISHNAENG'
+ag56
+aS'532304'
+p7235
+aa(lp7236
+S'KLG Capital Services Ltd'
 p7237
-aS'522173'
+ag56
+aS'530771'
 p7238
 aa(lp7239
-S'Krishna Ferro Products Ltd'
+S'KLG Systel Ltd'
 p7240
-ag4
-aS'513627'
+aS'KLGSYSTEL'
 p7241
-aa(lp7242
-S'Krishna Filaments Ltd'
-p7243
-aS'KRISNAFILA'
+aS'531269'
+p7242
+aa(lp7243
+S'KLK Electrical Industries Ltd'
 p7244
-aS'500248'
+ag56
+aS'517170'
 p7245
 aa(lp7246
-S'Krishna Lifestyle Technologies Ltd'
+S'KLRF Ltd'
 p7247
-aS'SHREEKRPOL'
+aS'KLRF'
 p7248
-aS'514221'
+aS'507598'
 p7249
 aa(lp7250
-S'Kriti Industries India Ltd'
+S'KMF Builders & Developers Ltd'
 p7251
-ag4
-aS'526423'
+ag56
+aS'531578'
 p7252
 aa(lp7253
-S'Kriti Nutrients Ltd'
+S'KNR Constructions Ltd'
 p7254
-ag4
-aS'533210'
+aS'KNRCON'
 p7255
-aa(lp7256
-S'KRONE Communications Ltd'
-p7257
-aS'KRONECOMM'
+aS'532942'
+p7256
+aa(lp7257
+S'Koa Tools India Ltd'
 p7258
-aS'523411'
+ag56
+aS'517471'
 p7259
 aa(lp7260
-S'Krypton Industries Ltd'
+S'Koffee Break Pictures Ltd'
 p7261
-ag4
-aS'523550'
+ag56
+aS'531602'
 p7262
 aa(lp7263
-S'KS Oils Ltd'
+S'Kohinoor Broadcasting Corporation Ltd'
 p7264
-aS'KSOILS'
+ag56
+aS'531366'
 p7265
-aS'526209'
-p7266
-aa(lp7267
-S'KSB Pumps Ltd'
+aa(lp7266
+S'Kohinoor Foods Ltd'
+p7267
+aS'KOHINOOR'
 p7268
-aS'KSBPUMPS'
+aS'512559'
 p7269
-aS'500249'
-p7270
-aa(lp7271
-S'KSE Ltd'
+aa(lp7270
+S'Kolte Patil Developers Ltd'
+p7271
+aS'KOLTEPATIL'
 p7272
-aS'KSE'
+aS'532924'
 p7273
-aS'519421'
-p7274
-aa(lp7275
-S'KSK Energy Ventures Ltd'
+aa(lp7274
+S'Konark Synthetic Ltd'
+p7275
+ag56
+aS'514128'
 p7276
-aS'KSK'
-p7277
-aS'532997'
+aa(lp7277
+S'Konkan Tyres Ltd'
 p7278
-aa(lp7279
-S'KSL & Industries Ltd'
-p7280
-ag4
-aS'530149'
+ag56
+aS'526379'
+p7279
+aa(lp7280
+S'Kopran Ltd'
 p7281
-aa(lp7282
-S'Kuberkamal Industrial Investments Ltd'
+aS'KOPRAN'
+p7282
+aS'524280'
 p7283
-ag4
-aS'503669'
-p7284
-aa(lp7285
-S'Kulkarni Power Tools Ltd'
+aa(lp7284
+S'Kosha Cubidor Containers Ltd'
+p7285
+ag56
+aS'526067'
 p7286
-ag4
-aS'505299'
-p7287
-aa(lp7288
-S'Kumar Wire Cloth Manufacturing Company Ltd'
+aa(lp7287
+S'Kosian Industries Ltd'
+p7288
+ag56
+aS'511760'
 p7289
-ag4
-aS'513703'
-p7290
-aa(lp7291
-S'Kumbhat Financial Services Ltd'
+aa(lp7290
+S'Kotak Gold ETF'
+p7291
+aS'KOTAKGOLD'
 p7292
-ag4
-aS'526869'
+aS'590097'
 p7293
 aa(lp7294
-S'Kunal Overseas Ltd'
+S'Kotak Mahindra Bank Ltd'
 p7295
-ag4
-aS'530279'
+aS'KOTAKBANK'
 p7296
-aa(lp7297
-S'Kunststoffe Industries Ltd'
-p7298
-ag4
-aS'523594'
+aS'500247'
+p7297
+aa(lp7298
+S'Kotak Mahindra Mutual Fund'
 p7299
-aa(lp7300
-S'Kushagra Software Ltd'
+aS'KOTAKPSUBK'
+p7300
+aS'590107'
 p7301
-ag4
-aS'531261'
-p7302
-aa(lp7303
-S'Kutch Salt & Allied Industries Ltd'
+aa(lp7302
+S'Kotak Nifty ETF'
+p7303
+aS'KOTAKNIFTY'
 p7304
-ag4
-aS'506540'
+aS'537708'
 p7305
 aa(lp7306
-S'Kuvam International Fashions Ltd'
+S'Kotak PSU Bank'
 p7307
-ag4
-aS'531731'
+aS'KOTAKPSUBK'
 p7308
-aa(lp7309
-S'Kuwer Industries Ltd'
-p7310
-ag4
-aS'530421'
+aS'590107'
+p7309
+aa(lp7310
+S'Kotak Sensex ETF'
 p7311
-aa(lp7312
-S'Kwality Credit & Leasing Ltd'
-p7313
-ag4
-aS'531206'
+ag56
+aS'532985'
+p7312
+aa(lp7313
+S'Kothari Engineers Ltd'
 p7314
-aa(lp7315
-S'Kwality Dairy India Ltd'
+aS'KOTHARIPET'
+p7315
+aS'532096'
 p7316
-aS'KWALITY'
-p7317
-aS'531882'
+aa(lp7317
+S'Kothari Fermentation & Biochem Ltd'
 p7318
-aa(lp7319
-S'KZ Leasing & Finance Ltd'
-p7320
-ag4
-aS'511728'
+ag56
+aS'507474'
+p7319
+aa(lp7320
+S'Kothari Products Ltd'
 p7321
-aa(lp7322
-S'Nitta Gelatin India Ltd'
+aS'KOTHARIPRO'
+p7322
+aS'530299'
 p7323
-aS'KERALACHEM'
-p7324
-aS'506532'
+aa(lp7324
+S'Kothari Sugars & Chemicals Ltd'
 p7325
-aa(lp7326
-S'Sharp India Ltd'
+aS'KOTARISUG'
+p7326
+aS'507190'
 p7327
-aS'KALYANISHP'
-p7328
-aS'523449'
+aa(lp7328
+S'Koutons Retail India Ltd'
 p7329
-aa(lp7330
-S'LYPSAGEMS'
+aS'KOUTONS'
+p7330
+aS'532901'
 p7331
-aS'LYPSAGEMS'
-p7332
-ag4
-aa(lp7333
-S'LINDEINDIA'
+aa(lp7332
+S'Kovai Medical Center & Hospital Ltd'
+p7333
+aS'KOVAI'
 p7334
-aS'LINDEINDIA'
+aS'523323'
 p7335
-ag4
 aa(lp7336
-S'LAMBODHARA'
+S'Kovalam Investment & Trading Company Ltd'
 p7337
-aS'LAMBODHARA'
+ag56
+aS'505585'
 p7338
-ag4
 aa(lp7339
-S'LICNMFET'
+S'Kpit Cummins Infosystems Ltd'
 p7340
-aS'LICNMFET'
+aS'KPIT'
 p7341
-ag4
-aa(lp7342
-S'LINCPEN'
-p7343
-aS'LINCPEN'
+aS'532400'
+p7342
+aa(lp7343
+S'KPR Mill Ltd'
 p7344
-ag4
-aa(lp7345
-S'Benchmark Asset Management Company Private Limited'
+aS'KPRMILL'
+p7345
+aS'532889'
 p7346
-aS'LIQUIDBEES'
-p7347
-ag4
-aa(lp7348
-S'L&T; Finance Holdings Limited'
+aa(lp7347
+S'KRBL Ltd'
+p7348
+aS'KRBL'
 p7349
-aS'L&TFH;'
+aS'530813'
 p7350
-aS'533519'
-p7351
-aa(lp7352
-S'La Mansion Granites Ltd'
+aa(lp7351
+S'Krebs Biochemicals & Industries Ltd'
+p7352
+aS'KREBSBIO'
 p7353
-ag4
-aS'515099'
+aS'524518'
 p7354
 aa(lp7355
-S'La Opala RG Ltd'
+S'Krishna Deep Trade & Investments Ltd'
 p7356
-aS'LAOPALA'
+ag56
+aS'506128'
 p7357
-aS'526947'
-p7358
-aa(lp7359
-S'La-Mere Apparels Ltd'
+aa(lp7358
+S'Krishna Engineering Works Ltd'
+p7359
+aS'KRISHNAENG'
 p7360
-ag4
-aS'521222'
+aS'522173'
 p7361
 aa(lp7362
-S'Lactose India Ltd'
+S'Krishna Ferro Products Ltd'
 p7363
-ag4
-aS'524202'
+ag56
+aS'513627'
 p7364
 aa(lp7365
-S'Ladderup Finance Ltd'
+S'Krishna Filaments Ltd'
 p7366
-ag4
-aS'530577'
+aS'KRISNAFILA'
 p7367
-aa(lp7368
-S'Laffans Petrochemicals Ltd'
-p7369
-ag4
-aS'524522'
+aS'500248'
+p7368
+aa(lp7369
+S'Krishna Lifestyle Technologies Ltd'
 p7370
-aa(lp7371
-S'Lahoti Overseas Ltd'
+aS'SHREEKRPOL'
+p7371
+aS'514221'
 p7372
-ag4
-aS'531842'
-p7373
-aa(lp7374
-S'Lakshmi Automatic Loom Works Ltd'
+aa(lp7373
+S'Kriti Industries India Ltd'
+p7374
+aS'KRITIIND'
 p7375
-ag4
-aS'505302'
+aS'526423'
 p7376
 aa(lp7377
-S'Lakshmi Electrical Control Systems Ltd'
+S'Kriti Nutrients Ltd'
 p7378
-aS'LAKSELECON'
+ag56
+aS'533210'
 p7379
-aS'504258'
-p7380
-aa(lp7381
-S'Lakshmi Energy and Foods Ltd.'
+aa(lp7380
+S'KRONE Communications Ltd'
+p7381
+aS'KRONECOMM'
 p7382
-aS'LAKSHMIEFL'
+aS'523411'
 p7383
-aS'519570'
-p7384
-aa(lp7385
-S'Lakshmi Finance & Industrial Corporation Ltd'
+aa(lp7384
+S'Krypton Industries Ltd'
+p7385
+ag56
+aS'523550'
 p7386
-aS'LAKSHMIFIN'
-p7387
-aS'531040'
+aa(lp7387
+S'KS Oils Ltd'
 p7388
-aa(lp7389
-S'Lakshmi Machine Works Ltd'
+aS'KSOILS'
+p7389
+aS'526209'
 p7390
-aS'LAXMIMACH'
-p7391
-aS'500252'
+aa(lp7391
+S'KSB Pumps Ltd'
 p7392
-aa(lp7393
-S'Lakshmi Mills Company Ltd'
+aS'KSBPUMPS'
+p7393
+aS'500249'
 p7394
-aS'LAKSHMIMIL'
-p7395
-aS'502958'
+aa(lp7395
+S'KSE Ltd'
 p7396
-aa(lp7397
-S'Lakshmi Precision Screws Ltd'
+aS'KSE'
+p7397
+aS'519421'
 p7398
-aS'LAKPRE'
-p7399
-aS'506079'
+aa(lp7399
+S'KSK Energy Ventures Ltd'
 p7400
-aa(lp7401
-S'Lakshmi Vilas Bank Ltd'
+aS'KSK'
+p7401
+aS'532997'
 p7402
-aS'LAKSHVILAS'
-p7403
-aS'590069'
+aa(lp7403
+S'KSL & Industries Ltd'
 p7404
-aa(lp7405
-S'Lalphul Investments Ltd'
-p7406
-ag4
-aS'503659'
+ag56
+aS'530149'
+p7405
+aa(lp7406
+S'Kuberkamal Industrial Investments Ltd'
 p7407
-aa(lp7408
-S'Lambodhara Textile Ltd'
-p7409
-ag4
-aS'590075'
+ag56
+aS'503669'
+p7408
+aa(lp7409
+S'Kulkarni Power Tools Ltd'
 p7410
-aa(lp7411
-S'Lanco Global Systems Ltd'
-p7412
-ag4
-aS'532368'
+ag56
+aS'505299'
+p7411
+aa(lp7412
+S'Kumar Wire Cloth Manufacturing Company Ltd'
 p7413
-aa(lp7414
-S'Lanco Industries Ltd'
-p7415
-aS'LANCOIN'
+ag56
+aS'513703'
+p7414
+aa(lp7415
+S'Kumbhat Financial Services Ltd'
 p7416
-aS'513605'
+ag56
+aS'526869'
 p7417
 aa(lp7418
-S'Lanco Infratech Ltd'
+S'Kunal Overseas Ltd'
 p7419
-aS'LITL'
+ag56
+aS'530279'
 p7420
-aS'532778'
-p7421
-aa(lp7422
-S'Lancor Holdings Ltd'
+aa(lp7421
+S'Kunststoffe Industries Ltd'
+p7422
+ag56
+aS'523594'
 p7423
-ag4
-aS'509048'
-p7424
-aa(lp7425
-S'Landmarc Leisure Corporation Ltd'
+aa(lp7424
+S'Kushagra Software Ltd'
+p7425
+ag56
+aS'531261'
 p7426
-ag4
-aS'532275'
-p7427
-aa(lp7428
-S'Landmark Property Development Company Ltd'
+aa(lp7427
+S'Kutch Salt & Allied Industries Ltd'
+p7428
+ag56
+aS'506540'
 p7429
-aS'LPDC'
-p7430
-aS'533012'
+aa(lp7430
+S'Kuvam International Fashions Ltd'
 p7431
-aa(lp7432
-S'Larsen & Toubro Ltd'
-p7433
-aS'LT'
+ag56
+aS'531731'
+p7432
+aa(lp7433
+S'Kuwer Industries Ltd'
 p7434
-aS'500510'
+ag56
+aS'530421'
 p7435
 aa(lp7436
-S'Laser Diamonds Ltd'
+S'Kwality Credit & Leasing Ltd'
 p7437
-ag4
-aS'531164'
+ag56
+aS'531206'
 p7438
 aa(lp7439
-S'Laser Dot Ltd'
+S'Kwality Dairy India Ltd'
 p7440
-ag4
-aS'531259'
+aS'KWALITY'
 p7441
-aa(lp7442
-S'Laser Eye Care Ltd'
-p7443
-ag4
-aS'531458'
+aS'531882'
+p7442
+aa(lp7443
+S'KZ Leasing & Finance Ltd'
 p7444
-aa(lp7445
-S'Lawreshwar Polymers Ltd'
-p7446
-ag4
-aS'532829'
+ag56
+aS'511728'
+p7445
+aa(lp7446
+S'Nitta Gelatin India Ltd'
 p7447
-aa(lp7448
-S'LCC Infotech Ltd'
+aS'KERALACHEM'
+p7448
+aS'506532'
 p7449
-aS'LCCINFOTEC'
-p7450
-aS'532019'
+aa(lp7450
+S'Sharp India Ltd'
 p7451
-aa(lp7452
-S'Lead Financial Services Ltd'
+aS'KALYANISHP'
+p7452
+aS'523449'
 p7453
-ag4
-aS'531288'
-p7454
-aa(lp7455
-S'Ledo Tea Company Ltd'
+aa(lp7454
+S'LYPSAGEMS'
+p7455
+aS'LYPSAGEMS'
 p7456
-ag4
-aS'508306'
+aS'534532'
 p7457
 aa(lp7458
-S'Lee & Nee Softwares Exports Ltd'
+S'LINDEINDIA'
 p7459
-ag4
-aS'517415'
+aS'LINDEINDIA'
 p7460
-aa(lp7461
-S'Leena Consultancy Ltd'
-p7462
-ag4
-aS'509046'
+aS'523457'
+p7461
+aa(lp7462
+S'LAMBODHARA'
 p7463
-aa(lp7464
-S'Lesha Energy Resources Ltd'
+aS'LAMBODHARA'
+p7464
+aS'590075'
 p7465
-ag4
-aS'513536'
-p7466
-aa(lp7467
-S'LG Balakrishnan & Bros Ltd'
+aa(lp7466
+S'LICNMFET'
+p7467
+aS'LICNMFET'
 p7468
-aS'LGBBROSLTD'
-p7469
-aS'500250'
+ag56
+aa(lp7469
+S'LINCPEN'
 p7470
-aa(lp7471
-S'LGB Forge Ltd'
+aS'LINCPEN'
+p7471
+aS'531241'
 p7472
-aS'LGBFORGE'
-p7473
-aS'533007'
+aa(lp7473
+S'Benchmark Asset Management Company Private Limited'
 p7474
-aa(lp7475
-S'Liberty Phosphate Ltd'
+aS'LIQUIDBEES'
+p7475
+aS'590096'
 p7476
-ag4
-aS'530273'
-p7477
-aa(lp7478
-S'Liberty Shoes Ltd'
+aa(lp7477
+S'L&T; Finance Holdings Limited'
+p7478
+aS'L&TFH;'
 p7479
-aS'LIBERTSHOE'
+aS'533519'
 p7480
-aS'526596'
-p7481
-aa(lp7482
-S'Libord Infotech Ltd'
+aa(lp7481
+S'La Mansion Granites Ltd'
+p7482
+ag56
+aS'515099'
 p7483
-ag4
-aS'511593'
-p7484
-aa(lp7485
-S'Libord Securities Ltd'
+aa(lp7484
+S'La Opala RG Ltd'
+p7485
+aS'LAOPALA'
 p7486
-ag4
-aS'531027'
+aS'526947'
 p7487
 aa(lp7488
-S'LIC Housing Finance Ltd'
+S'La-Mere Apparels Ltd'
 p7489
-aS'LICHSGFIN'
+ag56
+aS'521222'
 p7490
-aS'500253'
-p7491
-aa(lp7492
-S'Lifeline Drugs & Pharma Ltd'
+aa(lp7491
+S'Lactose India Ltd'
+p7492
+ag56
+aS'524202'
 p7493
-ag4
-aS'506113'
-p7494
-aa(lp7495
-S'Lifestyle Fabrics Ltd'
+aa(lp7494
+S'Ladderup Finance Ltd'
+p7495
+ag56
+aS'530577'
 p7496
-ag4
-aS'514446'
-p7497
-aa(lp7498
-S'Lime Chemicals Ltd'
+aa(lp7497
+S'Laffans Petrochemicals Ltd'
+p7498
+ag56
+aS'524522'
 p7499
-ag4
-aS'507759'
-p7500
-aa(lp7501
-S'Linaks Microelectronics Ltd'
+aa(lp7500
+S'Lahoti Overseas Ltd'
+p7501
+ag56
+aS'531842'
 p7502
-ag4
-aS'517463'
-p7503
-aa(lp7504
-S'Linc Pen & Plastics Ltd'
+aa(lp7503
+S'Lakshmi Automatic Loom Works Ltd'
+p7504
+ag56
+aS'505302'
 p7505
-ag4
-aS'531241'
-p7506
-aa(lp7507
-S'Lincoln Pharmaceuticals Ltd'
+aa(lp7506
+S'Lakshmi Electrical Control Systems Ltd'
+p7507
+aS'LAKSELECON'
 p7508
-ag4
-aS'531633'
+aS'504258'
 p7509
 aa(lp7510
-S'Linear Polymers Ltd'
+S'Lakshmi Energy and Foods Ltd.'
 p7511
-ag4
-aS'524103'
+aS'LAKSHMIEFL'
 p7512
-aa(lp7513
-S'Link Pharma Chem Ltd'
-p7514
-ag4
-aS'524748'
+aS'519570'
+p7513
+aa(lp7514
+S'Lakshmi Finance & Industrial Corporation Ltd'
 p7515
-aa(lp7516
-S'Linkhouse Industries Ltd'
-p7517
-ag4
-aS'512349'
+aS'LFIC'
+p7516
+ag56
+aa(lp7517
+S'Lakshmi Machine Works Ltd'
 p7518
-aa(lp7519
-S'Linkson Leasing Ltd'
+aS'LAXMIMACH'
+p7519
+aS'500252'
 p7520
-ag4
-aS'508982'
-p7521
-aa(lp7522
-S'Lippi Systems Ltd'
+aa(lp7521
+S'Lakshmi Mills Company Ltd'
+p7522
+aS'LAKSHMIMIL'
 p7523
-ag4
-aS'526604'
+aS'502958'
 p7524
 aa(lp7525
-S'Liquid Benchmark ETS'
+S'Lakshmi Precision Screws Ltd'
 p7526
-ag4
-aS'590096'
+aS'LAKPRE'
 p7527
-aa(lp7528
-S'Living Room Lifestyle Ltd'
-p7529
-ag4
-aS'509011'
+aS'506079'
+p7528
+aa(lp7529
+S'Lakshmi Vilas Bank Ltd'
 p7530
-aa(lp7531
-S'LKP Finance Ltd'
+aS'LAKSHVILAS'
+p7531
+aS'534690'
 p7532
-aS'LKPMERFIN'
-p7533
-aS'507912'
+aa(lp7533
+S'Lalphul Investments Ltd'
 p7534
-aa(lp7535
-S'Lloyd Electric & Engineering Ltd'
-p7536
-aS'LLOYDELENG'
+ag56
+aS'503659'
+p7535
+aa(lp7536
+S'Lambodhara Textile Ltd'
 p7537
-aS'517518'
+aS'LAMBODHARA'
 p7538
-aa(lp7539
-S'Lloyds Finance Ltd'
-p7540
-aS'LLOYDFIN'
+aS'590075'
+p7539
+aa(lp7540
+S'Lanco Global Systems Ltd'
 p7541
-aS'507870'
+aS'LYCOS'
 p7542
-aa(lp7543
-S'Lloyds Metals & Engineers Ltd'
-p7544
-aS'LLOYDMETAL'
+aS'532368'
+p7543
+aa(lp7544
+S'Lanco Industries Ltd'
 p7545
-aS'512455'
+aS'SRIPIPES'
 p7546
-aa(lp7547
-S'Lloyds Steel Industries Ltd'
-p7548
-aS'LLOYDSTEEL'
+aS'513605'
+p7547
+aa(lp7548
+S'Lanco Infratech Ltd'
 p7549
-aS'500254'
+aS'LITL'
 p7550
-aa(lp7551
-S'LML Ltd'
-p7552
-aS'LML'
+aS'532778'
+p7551
+aa(lp7552
+S'Lancor Holdings Ltd'
 p7553
-aS'500255'
+ag56
+aS'509048'
 p7554
 aa(lp7555
-S'LN Polyesters Ltd'
+S'Landmarc Leisure Corporation Ltd'
 p7556
-ag4
-aS'530745'
+ag56
+aS'532275'
 p7557
 aa(lp7558
-S'Logix Microsystems Ltd'
+S'Landmark Property Development Company Ltd'
 p7559
-aS'LOGIXMICRO'
+aS'LPDC'
 p7560
-aS'532341'
+aS'533012'
 p7561
 aa(lp7562
-S'Lohia Securities Ltd'
+S'Larsen & Toubro Ltd'
 p7563
-ag4
-aS'590082'
+aS'LT'
 p7564
-aa(lp7565
-S'Lok Housing & Constructions Ltd'
-p7566
-aS'LOKHSG'
+aS'500510'
+p7565
+aa(lp7566
+S'Laser Diamonds Ltd'
 p7567
-aS'500256'
+ag56
+aS'531164'
 p7568
 aa(lp7569
-S'Lokesh Machines Ltd'
+S'Laser Dot Ltd'
 p7570
-aS'LOKESHMACH'
+ag56
+aS'531259'
 p7571
-aS'532740'
-p7572
-aa(lp7573
-S'Longview Tea Company Ltd'
+aa(lp7572
+S'Laser Eye Care Ltd'
+p7573
+ag56
+aS'531458'
 p7574
-ag4
-aS'526568'
-p7575
-aa(lp7576
-S'Lords Chemicals Ltd'
+aa(lp7575
+S'Lawreshwar Polymers Ltd'
+p7576
+ag56
+aS'532829'
 p7577
-ag4
-aS'530039'
-p7578
-aa(lp7579
-S'Lords Chloro Alkali Ltd'
+aa(lp7578
+S'LCC Infotech Ltd'
+p7579
+aS'LCCINFOTEC'
 p7580
-aS'MODIALKALI'
+aS'532019'
 p7581
-aS'500284'
-p7582
-aa(lp7583
-S'Lotte India Corporation Ltd'
+aa(lp7582
+S'Lead Financial Services Ltd'
+p7583
+ag56
+aS'531288'
 p7584
-aS'LOTTEINDIA'
-p7585
-aS'590004'
+aa(lp7585
+S'Ledo Tea Company Ltd'
 p7586
-aa(lp7587
-S'Lotus Chocolate Company Ltd'
-p7588
-ag4
-aS'523475'
+ag56
+aS'508306'
+p7587
+aa(lp7588
+S'Lee & Nee Softwares Exports Ltd'
 p7589
-aa(lp7590
-S'Lotus Eye Care Hospital Ltd'
-p7591
-aS'LOTUSEYE'
+ag56
+aS'517415'
+p7590
+aa(lp7591
+S'Leena Consultancy Ltd'
 p7592
-aS'532998'
+ag56
+aS'509046'
 p7593
 aa(lp7594
-S'Lovable Lingerie Limited'
+S'Lesha Energy Resources Ltd'
 p7595
-aS'LOVABLE'
+ag56
+aS'513536'
 p7596
-aS'533343'
-p7597
-aa(lp7598
-S'Loyal Textile Mills Ltd'
+aa(lp7597
+S'LG Balakrishnan & Bros Ltd'
+p7598
+aS'LGBBROSLTD'
 p7599
-ag4
-aS'514036'
+aS'500250'
 p7600
 aa(lp7601
-S'LT Overseas Ltd'
+S'LGB Forge Ltd'
 p7602
-aS'DAAWAT'
+aS'LGBFORGE'
 p7603
-aS'532783'
+aS'533007'
 p7604
 aa(lp7605
-S'Ludlow Jute & Specialities Ltd'
+S'Liberty Phosphate Ltd'
 p7606
-ag4
-aS'526179'
+ag56
+aS'530273'
 p7607
 aa(lp7608
-S'Lumax Auto Technologies Ltd'
+S'Liberty Shoes Ltd'
 p7609
-aS'LUMAXTECH'
+aS'LIBERTSHOE'
 p7610
-aS'532796'
+aS'526596'
 p7611
 aa(lp7612
-S'Lumax Automotive Systems Ltd'
+S'Libord Infotech Ltd'
 p7613
-aS'LUMAXAUTO'
+ag56
+aS'511593'
 p7614
-aS'532537'
-p7615
-aa(lp7616
-S'Lumax Industries Ltd'
+aa(lp7615
+S'Libord Securities Ltd'
+p7616
+ag56
+aS'531027'
 p7617
-aS'LUMAXIND'
-p7618
-aS'517206'
+aa(lp7618
+S'LIC Housing Finance Ltd'
 p7619
-aa(lp7620
-S'Luminaire Technologies Ltd'
+aS'LICHSGFIN'
+p7620
+aS'500253'
 p7621
-aS'STRAUSIND'
-p7622
-aS'526045'
+aa(lp7622
+S'Lifeline Drugs & Pharma Ltd'
 p7623
-aa(lp7624
-S'Lupin Ltd'
-p7625
-aS'LUPIN'
+ag56
+aS'506113'
+p7624
+aa(lp7625
+S'Lifestyle Fabrics Ltd'
 p7626
-aS'500257'
+ag56
+aS'514446'
 p7627
 aa(lp7628
-S'LWS Knitwear Ltd'
+S'Lime Chemicals Ltd'
 p7629
-ag4
-aS'531402'
+ag56
+aS'507759'
 p7630
 aa(lp7631
-S'Lyka Labs Ltd'
+S'Linaks Microelectronics Ltd'
 p7632
-aS'LYKALABS'
+ag56
+aS'517463'
 p7633
-aS'500259'
-p7634
-aa(lp7635
-S'Lynx Machinery & Commercials Ltd'
+aa(lp7634
+S'Linc Pen & Plastics Ltd'
+p7635
+aS'LINCPEN'
 p7636
-ag4
-aS'505320'
+aS'531241'
 p7637
 aa(lp7638
-S'Panasonic Battery India Company Ltd'
+S'Lincoln Pharmaceuticals Ltd'
 p7639
-aS'LAKHNNATNL'
+ag56
+aS'531633'
 p7640
-aS'504093'
-p7641
-aa(lp7642
-S'MERCATOR'
+aa(lp7641
+S'Linear Polymers Ltd'
+p7642
+ag56
+aS'524103'
 p7643
-aS'MERCATOR'
-p7644
-ag4
-aa(lp7645
-S'MBSWITCH'
+aa(lp7644
+S'Link Pharma Chem Ltd'
+p7645
+ag56
+aS'524748'
 p7646
-aS'MBSWITCH'
-p7647
-ag4
-aa(lp7648
-S'MCX'
+aa(lp7647
+S'Linkhouse Industries Ltd'
+p7648
+ag56
+aS'512349'
 p7649
-aS'MCX'
-p7650
-ag4
-aa(lp7651
-S'MINDACORP'
+aa(lp7650
+S'Linkson Leasing Ltd'
+p7651
+ag56
+aS'508982'
 p7652
-aS'MINDACORP'
-p7653
-ag4
-aa(lp7654
-S'MENONBE'
+aa(lp7653
+S'Lippi Systems Ltd'
+p7654
+ag56
+aS'526604'
 p7655
-aS'MENONBE'
-p7656
-ag4
-aa(lp7657
-S'MGOLD'
+aa(lp7656
+S'Liquid Benchmark ETS'
+p7657
+aS'LIQUIDBEES'
 p7658
-aS'MGOLD'
+aS'590096'
 p7659
-ag4
 aa(lp7660
-S'METKORE'
+S'Living Room Lifestyle Ltd'
 p7661
-aS'METKORE'
+ag56
+aS'509011'
 p7662
-ag4
 aa(lp7663
-S'MTEDUCARE'
+S'LKP Finance Ltd'
 p7664
-aS'MTEDUCARE'
+aS'LKPMERFIN'
 p7665
-ag4
-aa(lp7666
-S'MORARJEE'
-p7667
-aS'MORARJEE'
+aS'507912'
+p7666
+aa(lp7667
+S'Lloyd Electric & Engineering Ltd'
 p7668
-ag4
-aa(lp7669
-S'MAYURUNIQ'
+aS'LLOYDELENG'
+p7669
+aS'517518'
 p7670
-aS'MAYURUNIQ'
-p7671
-ag4
-aa(lp7672
-S'MONTECARLO'
+aa(lp7671
+S'Lloyds Finance Ltd'
+p7672
+aS'LLOYDFIN'
 p7673
-aS'MONTECARLO'
+aS'507870'
 p7674
-ag4
 aa(lp7675
-S'MOLDTKPAC'
+S'Lloyds Metals & Engineers Ltd'
 p7676
-aS'MOLDTKPAC'
+aS'LLOYDMETAL'
 p7677
-ag4
-aa(lp7678
-S'MAKE'
-p7679
-aS'MAKE'
+aS'512455'
+p7678
+aa(lp7679
+S'Lloyds Steel Industries Ltd'
 p7680
-ag4
-aa(lp7681
-S'MAHINDCIE'
+aS'UTTAMVALUE'
+p7681
+aS'500254'
 p7682
-aS'MAHINDCIE'
-p7683
-ag4
-aa(lp7684
-S'MOHITIND'
+aa(lp7683
+S'LML Ltd'
+p7684
+aS'LML'
 p7685
-aS'MOHITIND'
+aS'500255'
 p7686
-ag4
 aa(lp7687
-S'Bank of Maharashtra'
+S'LN Polyesters Ltd'
 p7688
-aS'MAHABANK'
+ag56
+aS'530745'
 p7689
-aS'532525'
-p7690
-aa(lp7691
-S'BDH Industries Ltd'
+aa(lp7690
+S'Logix Microsystems Ltd'
+p7691
+aS'IZMO'
 p7692
-aS'MBIND'
+aS'532341'
 p7693
-aS'524828'
-p7694
-aa(lp7695
-S'Lords Chloro Alkali Ltd'
+aa(lp7694
+S'Lohia Securities Ltd'
+p7695
+ag56
+aS'590082'
 p7696
-aS'MODIALKALI'
-p7697
-aS'500284'
+aa(lp7697
+S'Lok Housing & Constructions Ltd'
 p7698
-aa(lp7699
-S'Maars Software International Ltd'
+aS'LOKHSG'
+p7699
+aS'500256'
 p7700
-aS'MAARSOFTW'
-p7701
-aS'531528'
+aa(lp7701
+S'Lokesh Machines Ltd'
 p7702
-aa(lp7703
-S'Mac Charles India Ltd'
+aS'LOKESHMACH'
+p7703
+aS'532740'
 p7704
-ag4
-aS'507836'
-p7705
-aa(lp7706
-S'Machino Plastics Ltd'
+aa(lp7705
+S'Longview Tea Company Ltd'
+p7706
+ag56
+aS'526568'
 p7707
-ag4
-aS'523248'
-p7708
-aa(lp7709
-S'Mack Trading Company Ltd'
+aa(lp7708
+S'Lords Chemicals Ltd'
+p7709
+ag56
+aS'530039'
 p7710
-ag4
-aS'501471'
-p7711
-aa(lp7712
-S'Macro International Exports Ltd'
+aa(lp7711
+S'Lords Chloro Alkali Ltd'
+p7712
+aS'MODIALKALI'
 p7713
-ag4
-aS'512600'
+aS'500284'
 p7714
 aa(lp7715
-S'Madhav Marbles & Granites Ltd'
+S'Lotte India Corporation Ltd'
 p7716
-aS'MADHAV'
+aS'LOTTEINDIA'
 p7717
-aS'515093'
+aS'590004'
 p7718
 aa(lp7719
-S'Madhucon Projects Ltd'
+S'Lotus Chocolate Company Ltd'
 p7720
-aS'MADHUCON'
+ag56
+aS'523475'
 p7721
-aS'531497'
-p7722
-aa(lp7723
-S'Madhur Capital & Finance Ltd'
+aa(lp7722
+S'Lotus Eye Care Hospital Ltd'
+p7723
+aS'LOTUSEYE'
 p7724
-ag4
-aS'511638'
+aS'532998'
 p7725
 aa(lp7726
-S'Madhur Industries Ltd'
+S'Lovable Lingerie Limited'
 p7727
-aS'MADHURFOOD'
+aS'LOVABLE'
 p7728
-aS'519279'
+aS'533343'
 p7729
 aa(lp7730
-S'Madhusudan Industries Ltd'
+S'Loyal Textile Mills Ltd'
 p7731
-aS'MADSUDIND'
+ag56
+aS'514036'
 p7732
-aS'515059'
-p7733
-aa(lp7734
-S'Madhusudan Securities Ltd'
+aa(lp7733
+S'LT Overseas Ltd'
+p7734
+aS'DAAWAT'
 p7735
-ag4
-aS'511000'
+aS'532783'
 p7736
 aa(lp7737
-S'Madhya Desh Papers Ltd'
+S'Ludlow Jute & Specialities Ltd'
 p7738
-ag4
-aS'531436'
+ag56
+aS'526179'
 p7739
 aa(lp7740
-S'Madras Aluminium Company Ltd'
+S'Lumax Auto Technologies Ltd'
 p7741
-aS'MALCO'
+aS'LUMAXTECH'
 p7742
-aS'504580'
+aS'532796'
 p7743
 aa(lp7744
-S'Madras Cements Ltd'
+S'Lumax Automotive Systems Ltd'
 p7745
-aS'MADRASCEM'
+aS'LUMAXAUTO'
 p7746
-aS'500260'
+aS'532537'
 p7747
 aa(lp7748
-S'Madras Fertilizers Ltd'
+S'Lumax Industries Ltd'
 p7749
-aS'MADRASFERT'
+aS'LUMAXIND'
 p7750
-aS'532168'
+aS'517206'
 p7751
 aa(lp7752
-S'Maestros Mediline Systems Ltd'
+S'Luminaire Technologies Ltd'
 p7753
-ag4
-aS'501209'
+aS'STRAUSIND'
 p7754
-aa(lp7755
-S'Mafatlal Industries Ltd'
-p7756
-aS'MAFATLAIND'
+aS'526045'
+p7755
+aa(lp7756
+S'Lupin Ltd'
 p7757
-aS'500264'
+aS'LUPIN'
 p7758
-aa(lp7759
-S'Mafatlal Lubricants Ltd'
-p7760
-ag4
-aS'520149'
+aS'500257'
+p7759
+aa(lp7760
+S'LWS Knitwear Ltd'
 p7761
-aa(lp7762
-S'Magico Exports & Consultants Ltd'
-p7763
-ag4
-aS'512351'
+ag56
+aS'531402'
+p7762
+aa(lp7763
+S'Lyka Labs Ltd'
 p7764
-aa(lp7765
-S'Magicut Tools Ltd'
+aS'LYKALABS'
+p7765
+aS'500259'
 p7766
-ag4
-aS'531972'
-p7767
-aa(lp7768
-S'Magma Fincorp Ltd'
+aa(lp7767
+S'Lynx Machinery & Commercials Ltd'
+p7768
+ag56
+aS'505320'
 p7769
-aS'MAGMA'
-p7770
-aS'524000'
+aa(lp7770
+S'Panasonic Battery India Company Ltd'
 p7771
-aa(lp7772
-S'Magna Electro Castings Ltd'
+aS'LAKHNNATNL'
+p7772
+aS'504093'
 p7773
-ag4
-aS'517449'
-p7774
-aa(lp7775
-S'Magna Industries & Exports Ltd'
+aa(lp7774
+S'MERCATOR'
+p7775
+aS'MERCATOR'
 p7776
-ag4
-aS'523872'
+aS'526235'
 p7777
 aa(lp7778
-S'Magnanimous Trade & finance Ltd'
+S'MBSWITCH'
 p7779
-ag4
-aS'512377'
+aS'MBSWITCH'
 p7780
+ag56
 aa(lp7781
-S'Magnum Ltd'
+S'MCX'
 p7782
-ag4
-aS'530347'
+aS'MCX'
 p7783
-aa(lp7784
-S'Magnum Ventures Ltd'
-p7785
-aS'MAGNUM'
+aS'534091'
+p7784
+aa(lp7785
+S'MINDACORP'
 p7786
-aS'532896'
+aS'MINDACORP'
 p7787
-aa(lp7788
-S'Maha Rashtra Apex Corporation Ltd'
-p7789
-aS'MAHAPEXLTD'
+aS'538962'
+p7788
+aa(lp7789
+S'MENONBE'
 p7790
-aS'523384'
+aS'MENONBE'
 p7791
-aa(lp7792
-S'Mahaan Foods Ltd'
-p7793
-ag4
-aS'519612'
+aS'523828'
+p7792
+aa(lp7793
+S'MGOLD'
 p7794
-aa(lp7795
-S'Mahalaxmi Rubtech Ltd'
+aS'MGOLD'
+p7795
+aS'534185'
 p7796
-ag4
-aS'514450'
-p7797
-aa(lp7798
-S'Mahalaxmi Seamless Ltd'
+aa(lp7797
+S'METKORE'
+p7798
+aS'METKORE'
 p7799
-ag4
-aS'513460'
+aS'532990'
 p7800
 aa(lp7801
-S'Mahamaya Investments Ltd'
+S'MTEDUCARE'
 p7802
-ag4
-aS'511187'
+aS'MTEDUCARE'
 p7803
-aa(lp7804
-S'Mahan Industries Ltd'
-p7805
-ag4
-aS'531515'
+aS'534312'
+p7804
+aa(lp7805
+S'MORARJEE'
 p7806
-aa(lp7807
-S'Mahanagar Telephone Nigam Ltd'
+aS'MORARJEE'
+p7807
+aS'532621'
 p7808
-aS'MTNL'
-p7809
-aS'500108'
+aa(lp7809
+S'MAYURUNIQ'
 p7810
-aa(lp7811
-S'Mahanivesh India Ltd'
+aS'MAYURUNIQ'
+p7811
+aS'522249'
 p7812
-ag4
-aS'530441'
-p7813
-aa(lp7814
-S'Maharaja Shree Umaid Mills Ltd'
+aa(lp7813
+S'MONTECARLO'
+p7814
+aS'MONTECARLO'
 p7815
-ag4
-aS'530059'
+aS'538836'
 p7816
 aa(lp7817
-S'Maharashtra Elektrosmelt Ltd'
+S'MOLDTKPAC'
 p7818
-ag4
-aS'504824'
+aS'MOLDTKPAC'
 p7819
-aa(lp7820
-S'Maharashtra Industrial Leasing & Investments Ltd'
-p7821
-ag4
-aS'505523'
+aS'533080'
+p7820
+aa(lp7821
+S'MAKE'
 p7822
-aa(lp7823
-S'Maharashtra Polybutenes Ltd'
+aS'MAKE'
+p7823
+aS'538503'
 p7824
-ag4
-aS'524232'
-p7825
-aa(lp7826
-S'Maharashtra Scooters Ltd'
+aa(lp7825
+S'MAHINDCIE'
+p7826
+aS'MAHINDCIE'
 p7827
-aS'MAHSCOOTER'
+aS'532756'
 p7828
-aS'500266'
-p7829
-aa(lp7830
-S'Maharashtra Seamless Ltd'
+aa(lp7829
+S'MOHITIND'
+p7830
+aS'MOHITIND'
 p7831
-aS'MAHSEAMLES'
+aS'531453'
 p7832
-aS'500265'
-p7833
-aa(lp7834
-S'Mahasagar Travels Ltd'
+aa(lp7833
+S'Bank of Maharashtra'
+p7834
+aS'MAHABANK'
 p7835
-ag4
-aS'526795'
+aS'532525'
 p7836
 aa(lp7837
-S'Mahaveer Infoway Ltd'
+S'BDH Industries Ltd'
 p7838
-ag4
-aS'590117'
+ag56
+aS'524828'
 p7839
 aa(lp7840
-S'Mahavir Impex Ltd'
+S'Lords Chloro Alkali Ltd'
 p7841
-ag4
-aS'531664'
+aS'MODIALKALI'
 p7842
-aa(lp7843
-S'Mahesh Agri Impl & Ste For Ltd'
-p7844
-ag4
-aS'506041'
+aS'500284'
+p7843
+aa(lp7844
+S'Maars Software International Ltd'
 p7845
-aa(lp7846
-S'Mahindra & Mahindra Financial Services Ltd'
+aS'MAARSOFTW'
+p7846
+aS'531528'
 p7847
-aS'M&MFIN;'
-p7848
-aS'532720'
+aa(lp7848
+S'Mac Charles India Ltd'
 p7849
-aa(lp7850
-S'Mahindra & Mahindra Ltd'
-p7851
-aS'M&M;'
+ag56
+aS'507836'
+p7850
+aa(lp7851
+S'Machino Plastics Ltd'
 p7852
-aS'500520'
+ag56
+aS'523248'
 p7853
 aa(lp7854
-S'Mahindra Composites Ltd'
+S'Mack Trading Company Ltd'
 p7855
-ag4
-aS'524138'
+ag56
+aS'501471'
 p7856
 aa(lp7857
-S'Mahindra Forgings Ltd'
+S'Macro International Exports Ltd'
 p7858
-aS'MAHINDFORG'
+ag56
+aS'512600'
 p7859
-aS'532756'
-p7860
-aa(lp7861
-S'Mahindra Holidays & Resorts India Ltd'
+aa(lp7860
+S'Madhav Marbles & Granites Ltd'
+p7861
+aS'MADHAV'
 p7862
-aS'MHRIL'
+aS'515093'
 p7863
-aS'533088'
-p7864
-aa(lp7865
-S'Mahindra Lifespace Developers Ltd'
+aa(lp7864
+S'Madhucon Projects Ltd'
+p7865
+aS'MADHUCON'
 p7866
-aS'MAHLIFE'
+aS'531497'
 p7867
-aS'532313'
-p7868
-aa(lp7869
-S'Mahindra Ugine Steel Company Ltd'
+aa(lp7868
+S'Madhur Capital & Finance Ltd'
+p7869
+ag56
+aS'511638'
 p7870
-aS'MAHINDUGIN'
-p7871
-aS'504823'
+aa(lp7871
+S'Madhur Industries Ltd'
 p7872
-aa(lp7873
-S'Maithan Alloys Ltd'
+aS'MADHURFOOD'
+p7873
+aS'519279'
 p7874
-aS'MAITHANALL'
-p7875
-aS'590078'
+aa(lp7875
+S'Madhusudan Industries Ltd'
 p7876
-aa(lp7877
-S'Majestic Auto Ltd'
+aS'MADSUDIND'
+p7877
+aS'515059'
 p7878
-aS'MAJESAUTO'
-p7879
-aS'500267'
+aa(lp7879
+S'Madhusudan Securities Ltd'
 p7880
-aa(lp7881
-S'Majestic Securities Ltd'
-p7882
-ag4
-aS'531479'
+ag56
+aS'511000'
+p7881
+aa(lp7882
+S'Madhya Desh Papers Ltd'
 p7883
-aa(lp7884
-S'Makers Laboratories Ltd'
-p7885
-ag4
-aS'506919'
+ag56
+aS'531436'
+p7884
+aa(lp7885
+S'Madras Aluminium Company Ltd'
 p7886
-aa(lp7887
-S'Malabar Trading Company Ltd'
+aS'MALCO'
+p7887
+aS'504580'
 p7888
-ag4
-aS'501473'
-p7889
-aa(lp7890
-S'Malar Hospitals Ltd'
+aa(lp7889
+S'Madras Cements Ltd'
+p7890
+aS'RAMCOCEM'
 p7891
-ag4
-aS'523696'
+aS'500260'
 p7892
 aa(lp7893
-S'Malti Textile Mills Ltd'
+S'Madras Fertilizers Ltd'
 p7894
-ag4
-aS'512207'
+aS'MADRASFERT'
 p7895
-aa(lp7896
-S'Malu Paper Mills Ltd'
-p7897
-aS'MALUPAPER'
+aS'590134'
+p7896
+aa(lp7897
+S'Maestros Mediline Systems Ltd'
 p7898
-aS'532728'
+ag56
+aS'501209'
 p7899
 aa(lp7900
-S'Malwa Cotton Spinning Mills Ltd'
+S'Mafatlal Industries Ltd'
 p7901
-aS'MALWACOTT'
+aS'MAFATLAIND'
 p7902
-aS'502995'
+aS'500264'
 p7903
 aa(lp7904
-S'Man Aluminium Ltd'
+S'Mafatlal Lubricants Ltd'
 p7905
-aS'MAANALU'
+ag56
+aS'520149'
 p7906
-aS'532906'
-p7907
-aa(lp7908
-S'Man Industries India Ltd'
+aa(lp7907
+S'Magico Exports & Consultants Ltd'
+p7908
+ag56
+aS'512351'
 p7909
-aS'MANINDS'
-p7910
-aS'513269'
+aa(lp7910
+S'Magicut Tools Ltd'
 p7911
-aa(lp7912
-S'Man Infraconstruction Ltd'
-p7913
-aS'MANINFRA'
+ag56
+aS'531972'
+p7912
+aa(lp7913
+S'Magma Fincorp Ltd'
 p7914
-aS'533169'
+aS'MAGMA'
 p7915
-aa(lp7916
-S'Manaksia Ltd'
-p7917
-aS'MANAKSIA'
+aS'524000'
+p7916
+aa(lp7917
+S'Magna Electro Castings Ltd'
 p7918
-aS'532932'
+ag56
+aS'517449'
 p7919
 aa(lp7920
-S'Manali Petrochemical Ltd'
+S'Magna Industries & Exports Ltd'
 p7921
-aS'MANALIPETC'
+ag56
+aS'523872'
 p7922
-aS'500268'
-p7923
-aa(lp7924
-S'Manappuram General Finance & Leasing Ltd'
+aa(lp7923
+S'Magnanimous Trade & finance Ltd'
+p7924
+ag56
+aS'512377'
 p7925
-aS'MANAPPURAM'
-p7926
-aS'531213'
+aa(lp7926
+S'Magnum Ltd'
 p7927
-aa(lp7928
-S'Mandhana Industries Ltd'
-p7929
-aS'MANDHANA'
+ag56
+aS'530347'
+p7928
+aa(lp7929
+S'Magnum Ventures Ltd'
 p7930
-aS'533204'
+aS'MAGNUM'
 p7931
-aa(lp7932
-S'Mandsaur Ferro Alloys Ltd'
-p7933
-ag4
-aS'513359'
+aS'532896'
+p7932
+aa(lp7933
+S'Maha Rashtra Apex Corporation Ltd'
 p7934
-aa(lp7935
-S'Mangalam Cement Ltd'
+aS'MAHAPEXLTD'
+p7935
+aS'523384'
 p7936
-aS'MANGLMCEM'
-p7937
-aS'502157'
+aa(lp7937
+S'Mahaan Foods Ltd'
 p7938
-aa(lp7939
-S'Mangalam Drugs & Organics Ltd'
-p7940
-aS'MANGALAM'
+ag56
+aS'519612'
+p7939
+aa(lp7940
+S'Mahalaxmi Rubtech Ltd'
 p7941
-aS'532637'
+ag56
+aS'514450'
 p7942
 aa(lp7943
-S'Mangalam Timber Products Ltd'
+S'Mahalaxmi Seamless Ltd'
 p7944
-aS'MANGTIMBER'
+ag56
+aS'513460'
 p7945
-aS'516007'
-p7946
-aa(lp7947
-S'Mangalam Ventures Ltd'
+aa(lp7946
+S'Mahamaya Investments Ltd'
+p7947
+ag56
+aS'511187'
 p7948
-ag4
-aS'514492'
-p7949
-aa(lp7950
-S'Mangalore Chemicals & Fertilizers Ltd'
+aa(lp7949
+S'Mahan Industries Ltd'
+p7950
+ag56
+aS'531515'
 p7951
-aS'MANGCHEFER'
-p7952
-aS'530011'
+aa(lp7952
+S'Mahanagar Telephone Nigam Ltd'
 p7953
-aa(lp7954
-S'Mangalore Refinery & Petrochemicals Ltd'
+aS'MTNL'
+p7954
+aS'500108'
 p7955
-aS'MRPL'
-p7956
-aS'500109'
+aa(lp7956
+S'Mahanivesh India Ltd'
 p7957
-aa(lp7958
-S'Mangalya Soft Tech Ltd'
-p7959
-ag4
-aS'530243'
+ag56
+aS'530441'
+p7958
+aa(lp7959
+S'Maharaja Shree Umaid Mills Ltd'
 p7960
-aa(lp7961
-S'Manipal Finance Corporation Ltd'
-p7962
-ag4
-aS'507938'
+ag56
+aS'530059'
+p7961
+aa(lp7962
+S'Maharashtra Elektrosmelt Ltd'
 p7963
-aa(lp7964
-S'Manjeera Constructions Ltd'
-p7965
-aS'MANJEERA'
+ag56
+aS'504824'
+p7964
+aa(lp7965
+S'Maharashtra Industrial Leasing & Investments Ltd'
 p7966
-aS'533078'
+ag56
+aS'505523'
 p7967
 aa(lp7968
-S'Manjushree Technopack Ltd'
+S'Maharashtra Polybutenes Ltd'
 p7969
-aS'MANJUSHREE'
+ag56
+aS'524232'
 p7970
-aS'532950'
-p7971
-aa(lp7972
-S'Manoj Housing Finance Company Ltd'
+aa(lp7971
+S'Maharashtra Scooters Ltd'
+p7972
+aS'MAHSCOOTER'
 p7973
-ag4
-aS'530979'
+aS'500266'
 p7974
 aa(lp7975
-S'Manoj Surgical Industries Ltd'
+S'Maharashtra Seamless Ltd'
 p7976
-ag4
-aS'524502'
+aS'MAHSEAMLES'
 p7977
-aa(lp7978
-S'Manraj Housing Finance Ltd'
-p7979
-ag4
-aS'530537'
+aS'500265'
+p7978
+aa(lp7979
+S'Mahasagar Travels Ltd'
 p7980
-aa(lp7981
-S'Mansi Finance (Chennai) Ltd'
-p7982
-ag4
-aS'511758'
+ag56
+aS'526795'
+p7981
+aa(lp7982
+S'Mahaveer Infoway Ltd'
 p7983
-aa(lp7984
-S'Manugraph India Ltd'
-p7985
-aS'MANUGRAPH'
+ag56
+aS'590117'
+p7984
+aa(lp7985
+S'Mahavir Impex Ltd'
 p7986
-aS'505324'
+ag56
+aS'531664'
 p7987
 aa(lp7988
-S'Mapro Industries Ltd'
+S'Mahesh Agri Impl & Ste For Ltd'
 p7989
-ag4
-aS'509762'
+ag56
+aS'506041'
 p7990
 aa(lp7991
-S'Maral Overseas Ltd'
+S'Mahindra & Mahindra Financial Services Ltd'
 p7992
-aS'MARALOVER'
+aS'M&MFIN;'
 p7993
-aS'521018'
+aS'532720'
 p7994
 aa(lp7995
-S'Marathon Nextgen Realty Ltd'
+S'Mahindra & Mahindra Ltd'
 p7996
-ag4
-aS'503101'
+aS'M&M;'
 p7997
-aa(lp7998
-S'Marathwada Refractories Ltd'
-p7999
-ag4
-aS'502250'
+aS'500520'
+p7998
+aa(lp7999
+S'Mahindra Composites Ltd'
 p8000
-aa(lp8001
-S'Mardia Samyoung Capillary Tubes Company Ltd'
-p8002
-ag4
-aS'513544'
+ag56
+aS'524138'
+p8001
+aa(lp8002
+S'Mahindra Forgings Ltd'
 p8003
-aa(lp8004
-S'Marg Holdings & Financial Services Ltd'
+aS'MAHINDCIE'
+p8004
+aS'532756'
 p8005
-ag4
-aS'513648'
-p8006
-aa(lp8007
-S'Marg Ltd'
+aa(lp8006
+S'Mahindra Holidays & Resorts India Ltd'
+p8007
+aS'MHRIL'
 p8008
-aS'MARG'
+aS'533088'
 p8009
-aS'530543'
-p8010
-aa(lp8011
-S'Marico Ltd'
+aa(lp8010
+S'Mahindra Lifespace Developers Ltd'
+p8011
+aS'MAHLIFE'
 p8012
-aS'MARICO'
+aS'532313'
 p8013
-aS'531642'
-p8014
-aa(lp8015
-S'Marigold Glass Industries Ltd'
+aa(lp8014
+S'Mahindra Ugine Steel Company Ltd'
+p8015
+aS'MAHINDUGIN'
 p8016
-ag4
-aS'531737'
+aS'504823'
 p8017
 aa(lp8018
-S'Market Creators Ltd'
+S'Maithan Alloys Ltd'
 p8019
-ag4
-aS'526891'
+aS'MAITHANALL'
 p8020
-aa(lp8021
-S'Marksans Pharma Ltd'
-p8022
-aS'MARKSANS'
+aS'590078'
+p8021
+aa(lp8022
+S'Majestic Auto Ltd'
 p8023
-aS'524404'
+aS'MAJESAUTO'
 p8024
-aa(lp8025
-S'Marmagoa Steel Ltd'
-p8026
-ag4
-aS'513355'
+aS'500267'
+p8025
+aa(lp8026
+S'Majestic Securities Ltd'
 p8027
-aa(lp8028
-S'Marsons Ltd'
-p8029
-ag4
-aS'517467'
+ag56
+aS'531479'
+p8028
+aa(lp8029
+S'Makers Laboratories Ltd'
 p8030
-aa(lp8031
-S'Marsons Power & Infrastructure Development Ltd'
-p8032
-ag4
-aS'531047'
+ag56
+aS'506919'
+p8031
+aa(lp8032
+S'Malabar Trading Company Ltd'
 p8033
-aa(lp8034
-S'Martin Burn Ltd'
-p8035
-ag4
-aS'523566'
+ag56
+aS'501473'
+p8034
+aa(lp8035
+S'Malar Hospitals Ltd'
 p8036
-aa(lp8037
-S'Maruti Infrastructure Ltd'
-p8038
-ag4
-aS'531540'
+ag56
+aS'523696'
+p8037
+aa(lp8038
+S'Malti Textile Mills Ltd'
 p8039
-aa(lp8040
-S'Maruti Securities Ltd'
-p8041
-ag4
-aS'531319'
+ag56
+aS'512207'
+p8040
+aa(lp8041
+S'Malu Paper Mills Ltd'
 p8042
-aa(lp8043
-S'Maruti Suzuki India Ltd'
+aS'MALUPAPER'
+p8043
+aS'532728'
 p8044
-aS'MARUTI'
-p8045
-aS'532500'
+aa(lp8045
+S'Malwa Cotton Spinning Mills Ltd'
 p8046
-aa(lp8047
-S'Marvel Capital & Finance India Ltd'
+aS'MALWACOTT'
+p8047
+aS'502995'
 p8048
-ag4
-aS'530497'
-p8049
-aa(lp8050
-S'Mascon Global Ltd'
+aa(lp8049
+S'Man Aluminium Ltd'
+p8050
+aS'MAANALU'
 p8051
-ag4
-aS'531131'
+aS'532906'
 p8052
 aa(lp8053
-S'Mastek Ltd'
+S'Man Industries India Ltd'
 p8054
-aS'MASTEK'
+aS'MANINDS'
 p8055
-aS'523704'
+aS'513269'
 p8056
 aa(lp8057
-S'Master Chemicals Ltd'
+S'Man Infraconstruction Ltd'
 p8058
-ag4
-aS'506867'
+aS'MANINFRA'
 p8059
-aa(lp8060
-S'Master Multi-Tech Ltd'
-p8061
-ag4
-aS'590111'
+aS'533169'
+p8060
+aa(lp8061
+S'Manaksia Ltd'
 p8062
-aa(lp8063
-S'Master Trust Ltd'
+aS'MANAKSIA'
+p8063
+aS'532932'
 p8064
-ag4
-aS'511768'
-p8065
-aa(lp8066
-S'Mather & Platt Fire Systems Ltd'
+aa(lp8065
+S'Manali Petrochemical Ltd'
+p8066
+aS'MANALIPETC'
 p8067
-ag4
-aS'532470'
+aS'500268'
 p8068
 aa(lp8069
-S'Mather & Platt Pumps Ltd'
+S'Manappuram General Finance & Leasing Ltd'
 p8070
-ag4
-aS'532469'
+aS'MANAPPURAM'
 p8071
-aa(lp8072
-S'Mathew Easow Research Securities Ltd'
-p8073
-ag4
-aS'511688'
+aS'531213'
+p8072
+aa(lp8073
+S'Mandhana Industries Ltd'
 p8074
-aa(lp8075
-S'Matrix Laboratories Ltd'
+aS'MANDHANA'
+p8075
+aS'533204'
 p8076
-aS'MATRIXLABS'
-p8077
-aS'524794'
+aa(lp8077
+S'Mandsaur Ferro Alloys Ltd'
 p8078
-aa(lp8079
-S'Mavens Biotech Ltd'
-p8080
-ag4
-aS'590083'
+ag56
+aS'513359'
+p8079
+aa(lp8080
+S'Mangalam Cement Ltd'
 p8081
-aa(lp8082
-S'Mawana Sugars Ltd'
+aS'MANGLMCEM'
+p8082
+aS'502157'
 p8083
-aS'MAWANASUG'
-p8084
-aS'523371'
+aa(lp8084
+S'Mangalam Drugs & Organics Ltd'
 p8085
-aa(lp8086
-S'Max India Ltd'
+aS'MANGALAM'
+p8086
+aS'532637'
 p8087
-aS'MAX'
-p8088
-aS'500271'
+aa(lp8088
+S'Mangalam Timber Products Ltd'
 p8089
-aa(lp8090
-S'Maximaa Systems Ltd'
+aS'MANGTIMBER'
+p8090
+aS'516007'
 p8091
-ag4
-aS'526538'
-p8092
-aa(lp8093
-S'Maxwell Industries Ltd'
+aa(lp8092
+S'Mangalam Ventures Ltd'
+p8093
+ag56
+aS'514492'
 p8094
-aS'MAXWELL'
-p8095
-aS'532613'
+aa(lp8095
+S'Mangalore Chemicals & Fertilizers Ltd'
 p8096
-aa(lp8097
-S'Mayur Floorings Ltd'
+aS'MANGCHEFER'
+p8097
+aS'530011'
 p8098
-ag4
-aS'531221'
-p8099
-aa(lp8100
-S'Mayur Leather Products Ltd'
+aa(lp8099
+S'Mangalore Refinery & Petrochemicals Ltd'
+p8100
+aS'MRPL'
 p8101
-ag4
-aS'531680'
+aS'500109'
 p8102
 aa(lp8103
-S'Mayur Uniquoters Ltd'
+S'Mangalya Soft Tech Ltd'
 p8104
-ag4
-aS'522249'
+ag56
+aS'530243'
 p8105
 aa(lp8106
-S'Mazda Ltd'
+S'Manipal Finance Corporation Ltd'
 p8107
-ag4
-aS'523792'
+ag56
+aS'507938'
 p8108
 aa(lp8109
-S'MB Parikh Finstocks Ltd'
+S'Manjeera Constructions Ltd'
 p8110
-ag4
-aS'526935'
+aS'MANJEERA'
 p8111
-aa(lp8112
-S'MBL Infrastructures Ltd'
-p8113
-aS'MBLINFRA'
+aS'533078'
+p8112
+aa(lp8113
+S'Manjushree Technopack Ltd'
 p8114
-aS'533152'
+aS'MANJUSHREE'
 p8115
-aa(lp8116
-S'McDowell Holdings Ltd'
-p8117
-aS'MCDHOLDING'
+aS'532950'
+p8116
+aa(lp8117
+S'Manoj Housing Finance Company Ltd'
 p8118
-aS'532852'
+ag56
+aS'530979'
 p8119
 aa(lp8120
-S'Mcleod Russel India Ltd'
+S'Manoj Surgical Industries Ltd'
 p8121
-aS'MCLEODRUSS'
+ag56
+aS'524502'
 p8122
-aS'532654'
-p8123
-aa(lp8124
-S'McNally Bharat Engineering Company Ltd'
+aa(lp8123
+S'Manraj Housing Finance Ltd'
+p8124
+ag56
+aS'530537'
 p8125
-aS'MBECL'
-p8126
-aS'532629'
+aa(lp8126
+S'Mansi Finance (Chennai) Ltd'
 p8127
-aa(lp8128
-S'MCS Ltd'
-p8129
-ag4
-aS'523221'
+ag56
+aS'511758'
+p8128
+aa(lp8129
+S'Manugraph India Ltd'
 p8130
-aa(lp8131
-S'McSure Capital Market Ltd'
+aS'MANUGRAPH'
+p8131
+aS'505324'
 p8132
-ag4
-aS'530025'
-p8133
-aa(lp8134
-S'Medi Caps Ltd'
+aa(lp8133
+S'Mapro Industries Ltd'
+p8134
+ag56
+aS'509762'
 p8135
-aS'MEDICAPS'
-p8136
-aS'523144'
+aa(lp8136
+S'Maral Overseas Ltd'
 p8137
-aa(lp8138
-S'Media Matrix Worldwide Ltd'
+aS'MARALOVER'
+p8138
+aS'521018'
 p8139
-ag4
-aS'512267'
-p8140
-aa(lp8141
-S'Media Video Ltd'
+aa(lp8140
+S'Marathon Nextgen Realty Ltd'
+p8141
+ag56
+aS'503101'
 p8142
-aS'MVLIND'
-p8143
-aS'530435'
+aa(lp8143
+S'Marathwada Refractories Ltd'
 p8144
-aa(lp8145
-S'Mediaone Global Entertainment Ltd'
-p8146
-ag4
-aS'503685'
+ag56
+aS'502250'
+p8145
+aa(lp8146
+S'Mardia Samyoung Capillary Tubes Company Ltd'
 p8147
-aa(lp8148
-S'Medicamen Biotech Ltd'
-p8149
-ag4
-aS'531146'
+ag56
+aS'513544'
+p8148
+aa(lp8149
+S'Marg Holdings & Financial Services Ltd'
 p8150
-aa(lp8151
-S'Medinova Diagnostic Services Ltd'
-p8152
-ag4
-aS'526301'
+ag56
+aS'513648'
+p8151
+aa(lp8152
+S'Marg Ltd'
 p8153
-aa(lp8154
-S'Meenakshi Steel Industries Ltd'
+aS'MARG'
+p8154
+aS'530543'
 p8155
-ag4
-aS'512505'
-p8156
-aa(lp8157
-S'Mefcom Agro Industries Ltd'
+aa(lp8156
+S'Marico Ltd'
+p8157
+aS'MARICO'
 p8158
-ag4
-aS'511276'
+aS'531642'
 p8159
 aa(lp8160
-S'Mefcom Capital Markets Ltd'
+S'Marigold Glass Industries Ltd'
 p8161
-ag4
-aS'531176'
+ag56
+aS'531737'
 p8162
 aa(lp8163
-S'Mega Corporation Ltd'
+S'Market Creators Ltd'
 p8164
-ag4
-aS'531417'
+ag56
+aS'526891'
 p8165
 aa(lp8166
-S'Mega Fin India Ltd'
+S'Marksans Pharma Ltd'
 p8167
-ag4
-aS'532105'
+aS'MARKSANS'
 p8168
-aa(lp8169
-S'Megasoft Ltd'
-p8170
-aS'MEGASOFT'
+aS'524404'
+p8169
+aa(lp8170
+S'Marmagoa Steel Ltd'
 p8171
-aS'532408'
+ag56
+aS'513355'
 p8172
 aa(lp8173
-S'Meghmani Organics Ltd'
+S'Marsons Ltd'
 p8174
-aS'MEGH'
+ag56
+aS'517467'
 p8175
-aS'532865'
-p8176
-aa(lp8177
-S'Mehta Housing Finance Ltd'
+aa(lp8176
+S'Marsons Power & Infrastructure Development Ltd'
+p8177
+ag56
+aS'531047'
 p8178
-ag4
-aS'511740'
-p8179
-aa(lp8180
-S'Mehta Integrated Finance Ltd'
+aa(lp8179
+S'Martin Burn Ltd'
+p8180
+ag56
+aS'523566'
 p8181
-ag4
-aS'511377'
-p8182
-aa(lp8183
-S'Mehta Securities Ltd'
+aa(lp8182
+S'Maruti Infrastructure Ltd'
+p8183
+ag56
+aS'531540'
 p8184
-ag4
-aS'511738'
-p8185
-aa(lp8186
-S'Melstar Information Technologies Ltd'
+aa(lp8185
+S'Maruti Securities Ltd'
+p8186
+ag56
+aS'531319'
 p8187
-aS'MELSTAR'
-p8188
-aS'532307'
+aa(lp8188
+S'Maruti Suzuki India Ltd'
 p8189
-aa(lp8190
-S'Memory Polymers Ltd'
+aS'MARUTI'
+p8190
+aS'532500'
 p8191
-ag4
-aS'531909'
-p8192
-aa(lp8193
-S'Menon Bearings Ltd'
+aa(lp8192
+S'Marvel Capital & Finance India Ltd'
+p8193
+ag56
+aS'530497'
 p8194
-ag4
-aS'523828'
-p8195
-aa(lp8196
-S'Menon Pistons Ltd'
+aa(lp8195
+S'Mascon Global Ltd'
+p8196
+ag56
+aS'531131'
 p8197
-ag4
-aS'531727'
-p8198
-aa(lp8199
-S'Mercator Lines Ltd'
+aa(lp8198
+S'Mastek Ltd'
+p8199
+aS'MASTEK'
 p8200
-aS'MLL'
+aS'523704'
 p8201
-aS'526235'
-p8202
-aa(lp8203
-S'Merck Ltd'
+aa(lp8202
+S'Master Chemicals Ltd'
+p8203
+ag56
+aS'506867'
 p8204
-aS'MERCK'
-p8205
-aS'500126'
+aa(lp8205
+S'Master Multi-Tech Ltd'
 p8206
-aa(lp8207
-S'Mercury Metals Ltd'
-p8208
-ag4
-aS'531357'
+ag56
+aS'590111'
+p8207
+aa(lp8208
+S'Master Trust Ltd'
 p8209
-aa(lp8210
-S'Metal Coatings India Ltd'
-p8211
-ag4
-aS'531810'
+ag56
+aS'511768'
+p8210
+aa(lp8211
+S'Mather & Platt Fire Systems Ltd'
 p8212
-aa(lp8213
-S'Metalman Industries Ltd'
-p8214
-aS'METALPIPE'
+ag56
+aS'532470'
+p8213
+aa(lp8214
+S'Mather & Platt Pumps Ltd'
 p8215
-aS'513131'
+ag56
+aS'532469'
 p8216
 aa(lp8217
-S'Metrochem Industries Ltd'
+S'Mathew Easow Research Securities Ltd'
 p8218
-aS'METROCHEM'
+ag56
+aS'511688'
 p8219
-aS'524683'
-p8220
-aa(lp8221
-S'Mewar Industries Ltd'
+aa(lp8220
+S'Matrix Laboratories Ltd'
+p8221
+aS'MATRIXLABS'
 p8222
-ag4
-aS'531194'
+aS'524794'
 p8223
 aa(lp8224
-S'Mewar Polytex Ltd'
+S'Mavens Biotech Ltd'
 p8225
-ag4
-aS'531236'
+ag56
+aS'590083'
 p8226
 aa(lp8227
-S'MH Mills & Industries Ltd'
+S'Mawana Sugars Ltd'
 p8228
-ag4
-aS'514242'
+aS'MAWANASUG'
 p8229
-aa(lp8230
-S'MIC Electronics Ltd'
-p8231
-aS'MIC'
+aS'523371'
+p8230
+aa(lp8231
+S'Max India Ltd'
 p8232
-aS'532850'
+aS'MAX'
 p8233
-aa(lp8234
-S'Micro Forge India Ltd'
-p8235
-ag4
-aS'522298'
+aS'500271'
+p8234
+aa(lp8235
+S'Maximaa Systems Ltd'
 p8236
-aa(lp8237
-S'Micro Inks Ltd'
-p8238
-aS'MICRO'
+ag56
+aS'526538'
+p8237
+aa(lp8238
+S'Maxwell Industries Ltd'
 p8239
-aS'523886'
+aS'MAXWELL'
 p8240
-aa(lp8241
-S'Micro Technologies India Ltd'
-p8242
-aS'MICROTECH'
+aS'532613'
+p8241
+aa(lp8242
+S'Mayur Floorings Ltd'
 p8243
-aS'532494'
+ag56
+aS'531221'
 p8244
 aa(lp8245
-S'Microse India Ltd'
+S'Mayur Leather Products Ltd'
 p8246
-ag4
-aS'523343'
+ag56
+aS'531680'
 p8247
 aa(lp8248
-S'Microsec Financial Services Ltd'
+S'Mayur Uniquoters Ltd'
 p8249
-aS'MICROSEC'
+aS'MAYURUNIQ'
 p8250
-aS'533259'
+aS'522249'
 p8251
 aa(lp8252
-S'Mid East Portfolio Management Ltd'
+S'Mazda Ltd'
 p8253
-ag4
-aS'526251'
+ag56
+aS'523792'
 p8254
 aa(lp8255
-S'Mid India Industries Ltd'
+S'MB Parikh Finstocks Ltd'
 p8256
-aS'MIDINDIA'
+ag56
+aS'526935'
 p8257
-aS'500277'
-p8258
-aa(lp8259
-S'Midas Pharmasec Ltd'
+aa(lp8258
+S'MBL Infrastructures Ltd'
+p8259
+aS'MBLINFRA'
 p8260
-ag4
-aS'530257'
+aS'533152'
 p8261
 aa(lp8262
-S'Midfield Industries Ltd'
+S'McDowell Holdings Ltd'
 p8263
-ag4
-aS'533220'
+aS'MCDHOLDING'
 p8264
-aa(lp8265
-S'Midland Polymers Ltd'
-p8266
-ag4
-aS'531597'
+aS'532852'
+p8265
+aa(lp8266
+S'Mcleod Russel India Ltd'
 p8267
-aa(lp8268
-S'Midpoint Software & Electro Systems Ltd'
+aS'MCLEODRUSS'
+p8268
+aS'532654'
 p8269
-ag4
-aS'517554'
-p8270
-aa(lp8271
-S'Midvalley Entertainment Limited'
+aa(lp8270
+S'McNally Bharat Engineering Company Ltd'
+p8271
+aS'MBECL'
 p8272
-aS'MIDVAL '
+aS'532629'
 p8273
-aS'533310'
-p8274
-aa(lp8275
-S'Milestone Global Ltd'
+aa(lp8274
+S'MCS Ltd'
+p8275
+ag56
+aS'523221'
 p8276
-ag4
-aS'531338'
-p8277
-aa(lp8278
-S'Milkfood Ltd'
+aa(lp8277
+S'McSure Capital Market Ltd'
+p8278
+ag56
+aS'530025'
 p8279
-ag4
-aS'507621'
-p8280
-aa(lp8281
-S'Millennium Beer Industries Ltd'
+aa(lp8280
+S'Medi Caps Ltd'
+p8281
+aS'MEDICAPS'
 p8282
-aS'INERTIAIND'
+aS'523144'
 p8283
-aS'521147'
-p8284
-aa(lp8285
-S'Millennium Cybertech Ltd'
+aa(lp8284
+S'Media Matrix Worldwide Ltd'
+p8285
+aS'MMWL'
 p8286
-ag4
-aS'531942'
+aS'512267'
 p8287
 aa(lp8288
-S'Milton Plastics Ltd'
+S'Media Video Ltd'
 p8289
-aS'MILTONPLAS'
+aS'NOESISIND'
 p8290
-aS'526143'
+aS'530435'
 p8291
 aa(lp8292
-S'Minal Engineering Ltd'
+S'Mediaone Global Entertainment Ltd'
 p8293
-ag4
-aS'522235'
+ag56
+aS'503685'
 p8294
 aa(lp8295
-S'Minaxi Textiles Ltd'
+S'Medicamen Biotech Ltd'
 p8296
-ag4
-aS'531456'
+ag56
+aS'531146'
 p8297
 aa(lp8298
-S'Minda Industries Ltd'
+S'Medinova Diagnostic Services Ltd'
 p8299
-aS'MINDAIND'
+ag56
+aS'526301'
 p8300
-aS'532539'
-p8301
-aa(lp8302
-S'Mindteck India Ltd'
+aa(lp8301
+S'Meenakshi Steel Industries Ltd'
+p8302
+ag56
+aS'512505'
 p8303
-ag4
-aS'517344'
-p8304
-aa(lp8305
-S'MindTree Ltd'
+aa(lp8304
+S'Mefcom Agro Industries Ltd'
+p8305
+ag56
+aS'511276'
 p8306
-aS'MINDTREE'
-p8307
-aS'532819'
+aa(lp8307
+S'Mefcom Capital Markets Ltd'
 p8308
-aa(lp8309
-S'Mini Diamonds India Ltd'
-p8310
-ag4
-aS'523373'
+ag56
+aS'531176'
+p8309
+aa(lp8310
+S'Mega Corporation Ltd'
 p8311
-aa(lp8312
-S'Minolta Finance Ltd'
-p8313
-ag4
-aS'532164'
+ag56
+aS'531417'
+p8312
+aa(lp8313
+S'Mega Fin India Ltd'
 p8314
-aa(lp8315
-S'Mipco Seamless Rings Gujarat Ltd'
-p8316
-ag4
-aS'505797'
+ag56
+aS'532105'
+p8315
+aa(lp8316
+S'Megasoft Ltd'
 p8317
-aa(lp8318
-S'Mirc Electronics Ltd'
+aS'MEGASOFT'
+p8318
+aS'532408'
 p8319
-aS'MIRCELECTR'
-p8320
-aS'500279'
+aa(lp8320
+S'Meghmani Organics Ltd'
 p8321
-aa(lp8322
-S'Mirch Technologies Ltd'
+aS'MEGH'
+p8322
+aS'532865'
 p8323
-ag4
-aS'505336'
-p8324
-aa(lp8325
-S'Mirza International Ltd'
+aa(lp8324
+S'Mehta Housing Finance Ltd'
+p8325
+ag56
+aS'511740'
 p8326
-aS'MIRZAINT'
-p8327
-aS'526642'
+aa(lp8327
+S'Mehta Integrated Finance Ltd'
 p8328
-aa(lp8329
-S'Miven Machine Tools Ltd'
-p8330
-ag4
-aS'522036'
+ag56
+aS'511377'
+p8329
+aa(lp8330
+S'Mehta Securities Ltd'
 p8331
-aa(lp8332
-S'MK Exim India Ltd'
-p8333
-ag4
-aS'590060'
+ag56
+aS'511738'
+p8332
+aa(lp8333
+S'Melstar Information Technologies Ltd'
 p8334
-aa(lp8335
-S'MM Forgings Ltd'
+aS'MELSTAR'
+p8335
+aS'532307'
 p8336
-aS'MMFL'
-p8337
-aS'522241'
+aa(lp8337
+S'Memory Polymers Ltd'
 p8338
-aa(lp8339
-S'MM Rubber Company Ltd'
-p8340
-ag4
-aS'509196'
+ag56
+aS'531909'
+p8339
+aa(lp8340
+S'Menon Bearings Ltd'
 p8341
-aa(lp8342
-S'MMTC Ltd'
+aS'MENONBE'
+p8342
+aS'523828'
 p8343
-aS'MMTC'
-p8344
-aS'513377'
+aa(lp8344
+S'Menon Pistons Ltd'
 p8345
-aa(lp8346
-S'Mobile Tele Communications Ltd'
-p8347
-ag4
-aS'532127'
+ag56
+aS'531727'
+p8346
+aa(lp8347
+S'Mercator Lines Ltd'
 p8348
-aa(lp8349
-S'Modella Woollens Ltd'
+aS'MERCATOR'
+p8349
+aS'526235'
 p8350
-ag4
-aS'503772'
-p8351
-aa(lp8352
-S'Modern Dairies Ltd'
+aa(lp8351
+S'Merck Ltd'
+p8352
+aS'MERCK'
 p8353
-ag4
-aS'519287'
+aS'500126'
 p8354
 aa(lp8355
-S'Modern India Ltd'
+S'Mercury Metals Ltd'
 p8356
-ag4
-aS'503015'
+ag56
+aS'531357'
 p8357
 aa(lp8358
-S'Modern Shares & Stockbrokers Ltd'
+S'Metal Coatings India Ltd'
 p8359
-ag4
-aS'509760'
+ag56
+aS'531810'
 p8360
 aa(lp8361
-S'Modern Steels Ltd'
+S'Metalman Industries Ltd'
 p8362
-ag4
-aS'513303'
+aS'METALPIPE'
 p8363
-aa(lp8364
-S'Modi Hoover International Ltd'
-p8365
-ag4
-aS'531130'
+aS'513131'
+p8364
+aa(lp8365
+S'Metrochem Industries Ltd'
 p8366
-aa(lp8367
-S'Modi Rubber Ltd'
+aS'METROCHEM'
+p8367
+aS'524683'
 p8368
-aS'MODIRUBBER'
-p8369
-aS'500890'
+aa(lp8369
+S'Mewar Industries Ltd'
 p8370
-aa(lp8371
-S'Modipon Ltd'
-p8372
-aS'MODIPON'
+ag56
+aS'531194'
+p8371
+aa(lp8372
+S'Mewar Polytex Ltd'
 p8373
-aS'503776'
+ag56
+aS'531236'
 p8374
 aa(lp8375
-S'Modison Metals Ltd'
+S'MH Mills & Industries Ltd'
 p8376
-ag4
-aS'506261'
+ag56
+aS'514242'
 p8377
 aa(lp8378
-S'Mohit Industries Ltd'
+S'MIC Electronics Ltd'
 p8379
-ag4
-aS'531453'
+aS'MIC'
 p8380
-aa(lp8381
-S'Mohit Paper Mills Ltd'
-p8382
-ag4
-aS'530169'
+aS'532850'
+p8381
+aa(lp8382
+S'Micro Forge India Ltd'
 p8383
-aa(lp8384
-S'MOIL LTD'
-p8385
-aS'MOIL'
+ag56
+aS'522298'
+p8384
+aa(lp8385
+S'Micro Inks Ltd'
 p8386
-aS'533286'
+aS'MICRO'
 p8387
-aa(lp8388
-S'Mold Tek Technologies Ltd'
-p8389
-aS'MOLDPLAST'
+aS'523886'
+p8388
+aa(lp8389
+S'Micro Technologies India Ltd'
 p8390
-aS'526263'
+aS'MICROTECH'
 p8391
-aa(lp8392
-S'Moldtek Plastics Ltd'
-p8393
-ag4
-aS'533080'
+aS'532494'
+p8392
+aa(lp8393
+S'Microse India Ltd'
 p8394
-aa(lp8395
-S'Money Matters Financial Services Limited'
-p8396
-aS'MMFSL'
+ag56
+aS'523343'
+p8395
+aa(lp8396
+S'Microsec Financial Services Ltd'
 p8397
-ag4
-aa(lp8398
-S'Money Matters Financial Services Ltd'
+aS'MICROSEC'
+p8398
+aS'533259'
 p8399
-ag4
-aS'531595'
-p8400
-aa(lp8401
-S'Monnet Industries Ltd'
+aa(lp8400
+S'Mid East Portfolio Management Ltd'
+p8401
+ag56
+aS'526251'
 p8402
-ag4
-aS'532078'
-p8403
-aa(lp8404
-S'Monnet Ispat Ltd'
+aa(lp8403
+S'Mid India Industries Ltd'
+p8404
+aS'MIDINDIA'
 p8405
-aS'MONNETISPA'
+aS'500277'
 p8406
-aS'513446'
-p8407
-aa(lp8408
-S'Monnet Sugar Ltd'
+aa(lp8407
+S'Midas Pharmasec Ltd'
+p8408
+ag56
+aS'530257'
 p8409
-ag4
-aS'532723'
-p8410
-aa(lp8411
-S'Monotona Securities Ltd'
+aa(lp8410
+S'Midfield Industries Ltd'
+p8411
+ag56
+aS'533220'
 p8412
-ag4
-aS'504367'
-p8413
-aa(lp8414
-S'Monotype India Ltd'
+aa(lp8413
+S'Midland Polymers Ltd'
+p8414
+ag56
+aS'531597'
 p8415
-ag4
-aS'505343'
-p8416
-aa(lp8417
-S'Monozyme India Ltd'
+aa(lp8416
+S'Midpoint Software & Electro Systems Ltd'
+p8417
+ag56
+aS'517554'
 p8418
-ag4
-aS'522199'
-p8419
-aa(lp8420
-S'Monsanto India Ltd'
+aa(lp8419
+S'Midvalley Entertainment Limited'
+p8420
+ag56
+aS'533310'
 p8421
-aS'MONSANTO'
-p8422
-aS'524084'
+aa(lp8422
+S'Milestone Global Ltd'
 p8423
-aa(lp8424
-S'Moonbeam Industries Ltd'
-p8425
-ag4
-aS'530033'
+ag56
+aS'531338'
+p8424
+aa(lp8425
+S'Milkfood Ltd'
 p8426
-aa(lp8427
-S'Moongipa Capital Finance Ltd'
-p8428
-ag4
-aS'530167'
+ag56
+aS'507621'
+p8427
+aa(lp8428
+S'Millennium Beer Industries Ltd'
 p8429
-aa(lp8430
-S'Morarjee Textiles Ltd'
+aS'INERTIAIND'
+p8430
+aS'521147'
 p8431
-aS'MORARJETEX'
-p8432
-aS'532621'
+aa(lp8432
+S'Millennium Cybertech Ltd'
 p8433
-aa(lp8434
-S'Morarka Finance Ltd'
-p8435
-ag4
-aS'511549'
+ag56
+aS'531942'
+p8434
+aa(lp8435
+S'Milton Plastics Ltd'
 p8436
-aa(lp8437
-S'Morepen Laboratories Ltd'
-p8438
-aS'MOREPENLAB'
+ag56
+aS'526143'
+p8437
+aa(lp8438
+S'Minal Engineering Ltd'
 p8439
-aS'500288'
+ag56
+aS'522235'
 p8440
 aa(lp8441
-S'Morgan Industries Ltd'
+S'Minaxi Textiles Ltd'
 p8442
-ag4
-aS'523564'
+ag56
+aS'531456'
 p8443
 aa(lp8444
-S'Morgan Stanley Mutual Fund'
+S'Minda Industries Ltd'
 p8445
-aS'MORGANSTAN'
+aS'MINDAIND'
 p8446
-aS'500289'
+aS'532539'
 p8447
 aa(lp8448
-S'Morgan Ventures Ltd'
+S'Mindteck India Ltd'
 p8449
-ag4
-aS'526237'
+ag56
+aS'517344'
 p8450
 aa(lp8451
-S'Morganite Crucible India Ltd'
+S'MindTree Ltd'
 p8452
-ag4
-aS'523160'
+aS'MINDTREE'
 p8453
-aa(lp8454
-S'Moschip Semiconductor Technology Ltd'
-p8455
-ag4
-aS'532407'
+aS'532819'
+p8454
+aa(lp8455
+S'Mini Diamonds India Ltd'
 p8456
-aa(lp8457
-S'Moser Baer India Ltd'
-p8458
-aS'MOSERBAER'
+ag56
+aS'523373'
+p8457
+aa(lp8458
+S'Minolta Finance Ltd'
 p8459
-aS'517140'
+ag56
+aS'532164'
 p8460
 aa(lp8461
-S'Motherson Sumi Systems Ltd'
+S'Mipco Seamless Rings Gujarat Ltd'
 p8462
-aS'MOTHERSUMI'
+ag56
+aS'505797'
 p8463
-aS'517334'
-p8464
-aa(lp8465
-S'Motilal Oswal Financial Services Ltd'
+aa(lp8464
+S'Mirc Electronics Ltd'
+p8465
+aS'MIRCELECTR'
 p8466
-aS'MOTILALOFS'
+aS'500279'
 p8467
-aS'532892'
-p8468
-aa(lp8469
-S'Motilal Oswal MOSt Shares M50 ETF'
+aa(lp8468
+S'Mirch Technologies Ltd'
+p8469
+ag56
+aS'505336'
 p8470
-aS'M50'
-p8471
-aS'590115'
+aa(lp8471
+S'Mirza International Ltd'
 p8472
-aa(lp8473
-S'Motilal Oswal MOSt Shares NASDAQ - 100 ETF - Growth'
+aS'MIRZAINT'
+p8473
+aS'526642'
 p8474
-aS'N100'
-p8475
-aS'533385'
+aa(lp8475
+S'Miven Machine Tools Ltd'
 p8476
-aa(lp8477
-S'Motilal Oswal Mutual Fund - Motilal Oswal MOSt Shares M100 ETF GO'
-p8478
-aS'M100'
+ag56
+aS'522036'
+p8477
+aa(lp8478
+S'MK Exim India Ltd'
 p8479
-ag4
-aa(lp8480
-S'Motor & General Finance Ltd'
-p8481
-aS'MOTOGENFIN'
+ag56
+aS'590060'
+p8480
+aa(lp8481
+S'MM Forgings Ltd'
 p8482
-aS'501343'
+aS'MMFL'
 p8483
-aa(lp8484
-S'Mount Everest Mineral Water Ltd'
-p8485
-ag4
-aS'531096'
+aS'522241'
+p8484
+aa(lp8485
+S'MM Rubber Company Ltd'
 p8486
-aa(lp8487
-S'Mount Shivalik Industries Ltd'
-p8488
-ag4
-aS'507522'
+ag56
+aS'509196'
+p8487
+aa(lp8488
+S'MMTC Ltd'
 p8489
-aa(lp8490
-S'Mounteverest Trading & Investment Ltd'
+aS'MMTC'
+p8490
+aS'513377'
 p8491
-ag4
-aS'532724'
-p8492
-aa(lp8493
-S'Moving Picture Company India Ltd'
+aa(lp8492
+S'Mobile Tele Communications Ltd'
+p8493
+ag56
+aS'532127'
 p8494
-ag4
-aS'590011'
-p8495
-aa(lp8496
-S'MP Agro Industries Ltd'
+aa(lp8495
+S'Modella Woollens Ltd'
+p8496
+ag56
+aS'503772'
 p8497
-ag4
-aS'506543'
-p8498
-aa(lp8499
-S'MP Polypropylene Ltd'
+aa(lp8498
+S'Modern Dairies Ltd'
+p8499
+ag56
+aS'519287'
 p8500
-ag4
-aS'506822'
-p8501
-aa(lp8502
-S'Mphasis Ltd'
+aa(lp8501
+S'Modern India Ltd'
+p8502
+ag56
+aS'503015'
 p8503
-aS'MPHASIS'
-p8504
-aS'526299'
+aa(lp8504
+S'Modern Shares & Stockbrokers Ltd'
 p8505
-aa(lp8506
-S'MPIL Corporation Ltd'
-p8507
-aS'MATHPLATT'
+ag56
+aS'509760'
+p8506
+aa(lp8507
+S'Modern Steels Ltd'
 p8508
-aS'500450'
+ag56
+aS'513303'
 p8509
 aa(lp8510
-S'MPS Ltd'
+S'Modi Hoover International Ltd'
 p8511
-aS'MPSLTD'
+ag56
+aS'531130'
 p8512
-aS'532440'
-p8513
-aa(lp8514
-S'MRF Ltd'
+aa(lp8513
+S'Modi Rubber Ltd'
+p8514
+aS'MODIRUBBER'
 p8515
-aS'MRF'
+aS'500890'
 p8516
-aS'500290'
-p8517
-aa(lp8518
-S'MRO TEK Ltd'
+aa(lp8517
+S'Modipon Ltd'
+p8518
+aS'MODIPON'
 p8519
-aS'MRO-TEK'
+aS'503776'
 p8520
-aS'532376'
-p8521
-aa(lp8522
-S'Mrugesh Trading Ltd'
+aa(lp8521
+S'Modison Metals Ltd'
+p8522
+ag56
+aS'506261'
 p8523
-ag4
-aS'512065'
-p8524
-aa(lp8525
-S'MSP Steel & Power Ltd'
+aa(lp8524
+S'Mohit Industries Ltd'
+p8525
+aS'MOHITIND'
 p8526
-aS'MSPL'
+aS'531453'
 p8527
-aS'532650'
-p8528
-aa(lp8529
-S'MTZ Polyfilms Ltd'
+aa(lp8528
+S'Mohit Paper Mills Ltd'
+p8529
+ag56
+aS'530169'
 p8530
-ag4
-aS'512424'
-p8531
-aa(lp8532
-S'Mudit Finlease Ltd'
+aa(lp8531
+S'MOIL LTD'
+p8532
+aS'MOIL'
 p8533
-ag4
-aS'531919'
+aS'533286'
 p8534
 aa(lp8535
-S'Mudra Lifestyle Ltd'
+S'Mold Tek Technologies Ltd'
 p8536
-aS'MUDRA'
+aS'MOLDPLAST'
 p8537
-aS'532820'
+aS'526263'
 p8538
 aa(lp8539
-S'Mukand Engineers Ltd'
+S'Moldtek Plastics Ltd'
 p8540
-aS'MUKANDENGG'
+aS'MOLDTKPAC'
 p8541
-aS'532097'
+aS'533080'
 p8542
 aa(lp8543
-S'Mukand Ltd'
+S'Money Matters Financial Services Limited'
 p8544
-aS'MUKANDLTD'
+aS'MMFSL'
 p8545
-aS'500460'
-p8546
-aa(lp8547
-S'Mukat Pipes Ltd'
+ag56
+aa(lp8546
+S'Money Matters Financial Services Ltd'
+p8547
+aS'CGCL'
 p8548
-aS'MUKATPIPE'
+aS'531595'
 p8549
-aS'523832'
-p8550
-aa(lp8551
-S'Mukesh Babu Financial Services Ltd'
+aa(lp8550
+S'Monnet Industries Ltd'
+p8551
+ag56
+aS'532078'
 p8552
-ag4
-aS'530341'
-p8553
-aa(lp8554
-S'Mukesh Steels Ltd'
+aa(lp8553
+S'Monnet Ispat Ltd'
+p8554
+aS'MONNETISPA'
 p8555
-ag4
-aS'513265'
+aS'513446'
 p8556
 aa(lp8557
-S'Mukesh Strips Ltd'
+S'Monnet Sugar Ltd'
 p8558
-ag4
-aS'517374'
+ag56
+aS'532723'
 p8559
 aa(lp8560
-S'Mukta Arts Ltd'
+S'Monotona Securities Ltd'
 p8561
-aS'MUKTAARTS'
+ag56
+aS'504367'
 p8562
-aS'532357'
-p8563
-aa(lp8564
-S'MUKUND CRPS '
+aa(lp8563
+S'Monotype India Ltd'
+p8564
+ag56
+aS'505343'
 p8565
-ag4
-aS'700087'
-p8566
-aa(lp8567
-S'Mukunda Industrial Finance Ltd'
+aa(lp8566
+S'Monozyme India Ltd'
+p8567
+ag56
+aS'522199'
 p8568
-ag4
-aS'530329'
-p8569
-aa(lp8570
-S'Muller & Phipps India Ltd'
+aa(lp8569
+S'Monsanto India Ltd'
+p8570
+aS'MONSANTO'
 p8571
-ag4
-aS'501477'
+aS'524084'
 p8572
 aa(lp8573
-S'Multi Arc India Ltd'
+S'Moonbeam Industries Ltd'
 p8574
-aS'MULTIARC'
+ag56
+aS'530033'
 p8575
-aS'513685'
-p8576
-aa(lp8577
-S'Multibase India Ltd'
+aa(lp8576
+S'Moongipa Capital Finance Ltd'
+p8577
+ag56
+aS'530167'
 p8578
-ag4
-aS'526169'
-p8579
-aa(lp8580
-S'Multifarious Trading & Agencies Ltd'
+aa(lp8579
+S'Morarjee Textiles Ltd'
+p8580
+aS'MORARJEE'
 p8581
-ag4
-aS'504392'
+aS'532621'
 p8582
 aa(lp8583
-S'Mundra Port and Special Economic Zone Ltd'
+S'Morarka Finance Ltd'
 p8584
-aS'MUNDRAPORT'
+ag56
+aS'511549'
 p8585
-aS'532921'
-p8586
-aa(lp8587
-S'Munjal Auto Industries Ltd'
+aa(lp8586
+S'Morepen Laboratories Ltd'
+p8587
+aS'MOREPENLAB'
 p8588
-aS'MUNJALAU'
+aS'500288'
 p8589
-aS'520059'
-p8590
-aa(lp8591
-S'Munjal Showa Ltd'
+aa(lp8590
+S'Morgan Industries Ltd'
+p8591
+ag56
+aS'523564'
 p8592
-aS'MUNJALSHOW'
-p8593
-aS'520043'
+aa(lp8593
+S'Morgan Stanley Mutual Fund'
 p8594
-aa(lp8595
-S'Munoth Capital Markets Ltd'
+aS'MORGANSTAN'
+p8595
+aS'500289'
 p8596
-ag4
-aS'511200'
-p8597
-aa(lp8598
-S'Munoth Financial Services Ltd'
+aa(lp8597
+S'Morgan Ventures Ltd'
+p8598
+ag56
+aS'526237'
 p8599
-ag4
-aS'531821'
-p8600
-aa(lp8601
-S'Munoth Investments Ltd'
+aa(lp8600
+S'Morganite Crucible India Ltd'
+p8601
+ag56
+aS'523160'
 p8602
-ag4
-aS'511401'
-p8603
-aa(lp8604
-S'Murli Industries Ltd'
+aa(lp8603
+S'Moschip Semiconductor Technology Ltd'
+p8604
+ag56
+aS'532407'
 p8605
-aS'MURLIIND'
-p8606
-aS'519323'
+aa(lp8606
+S'Moser Baer India Ltd'
 p8607
-aa(lp8608
-S'Murudeshwar Ceramics Ltd'
+aS'MOSERBAER'
+p8608
+aS'517140'
 p8609
-aS'MURUDCERA'
-p8610
-aS'515037'
+aa(lp8610
+S'Motherson Sumi Systems Ltd'
 p8611
-aa(lp8612
-S'Muskan Ferro Silicons Ltd'
+aS'MOTHERSUMI'
+p8612
+aS'517334'
 p8613
-ag4
-aS'513721'
-p8614
-aa(lp8615
-S'Muthoot Capital Services Ltd'
+aa(lp8614
+S'Motilal Oswal Financial Services Ltd'
+p8615
+aS'MOTILALOFS'
 p8616
-ag4
-aS'511766'
+aS'532892'
 p8617
 aa(lp8618
-S'Muthoot Finance Ltd '
+S'Motilal Oswal MOSt Shares M50 ETF'
 p8619
-aS'MUTHOOTFIN'
+aS'M50'
 p8620
-aS'533398'
+aS'590115'
 p8621
 aa(lp8622
-S'MVL Ltd'
+S'Motilal Oswal MOSt Shares NASDAQ - 100 ETF - Growth'
 p8623
-aS'MVL'
+aS'N100'
 p8624
-aS'532991'
+aS'533385'
 p8625
 aa(lp8626
-S'My Fair Lady Ltd'
+S'Motilal Oswal Mutual Fund - Motilal Oswal MOSt Shares M100 ETF GO'
 p8627
-ag4
-aS'526622'
+aS'M100'
 p8628
-aa(lp8629
-S'MYM Technologies Ltd'
-p8630
-ag4
-aS'531843'
+aS'536960'
+p8629
+aa(lp8630
+S'Motor & General Finance Ltd'
 p8631
-aa(lp8632
-S'Mysore Paper Mills Ltd'
+aS'MOTOGENFIN'
+p8632
+aS'501343'
 p8633
-ag4
-aS'502405'
-p8634
-aa(lp8635
-S'Mysore Petro Chemicals Ltd'
+aa(lp8634
+S'Mount Everest Mineral Water Ltd'
+p8635
+ag56
+aS'531096'
 p8636
-aS'MYSORPETRO'
-p8637
-aS'506734'
+aa(lp8637
+S'Mount Shivalik Industries Ltd'
 p8638
-aa(lp8639
-S'Spicejet Ltd'
-p8640
-aS'MODILUFT'
+ag56
+aS'507522'
+p8639
+aa(lp8640
+S'Mounteverest Trading & Investment Ltd'
 p8641
-aS'500285'
+ag56
+aS'532724'
 p8642
 aa(lp8643
-S'State Bank of Mysore'
+S'Moving Picture Company India Ltd'
 p8644
-aS'MYSOREBANK'
+ag56
+aS'590011'
 p8645
-aS'532200'
-p8646
-aa(lp8647
-S'United Spirits Ltd'
+aa(lp8646
+S'MP Agro Industries Ltd'
+p8647
+ag56
+aS'506543'
 p8648
-aS'MCDOWELL-N'
-p8649
-aS'532432'
+aa(lp8649
+S'MP Polypropylene Ltd'
 p8650
-aa(lp8651
-S'NAGAROIL'
-p8652
-aS'NAGAROIL'
+ag56
+aS'506822'
+p8651
+aa(lp8652
+S'Mphasis Ltd'
 p8653
-ag4
-aa(lp8654
-S'NCOPPER'
+aS'MPHASIS'
+p8654
+aS'526299'
 p8655
-aS'NCOPPER'
-p8656
-ag4
-aa(lp8657
-S'NEOCORP'
+aa(lp8656
+S'MPIL Corporation Ltd'
+p8657
+aS'MATHPLATT'
 p8658
-aS'NEOCORP'
+aS'500450'
 p8659
-ag4
 aa(lp8660
-S'NANDANEXIM'
+S'MPS Ltd'
 p8661
-aS'NANDANEXIM'
+aS'MPSLTD'
 p8662
-ag4
-aa(lp8663
-S'NOESISIND'
-p8664
-aS'NOESISIND'
+aS'532440'
+p8663
+aa(lp8664
+S'MRF Ltd'
 p8665
-ag4
-aa(lp8666
-S'NBCC'
+aS'MRF'
+p8666
+aS'500290'
 p8667
-aS'NBCC'
-p8668
-ag4
-aa(lp8669
-S'NAKODA'
+aa(lp8668
+S'MRO TEK Ltd'
+p8669
+aS'MRO-TEK'
 p8670
-aS'NAKODA'
+aS'532376'
 p8671
-ag4
 aa(lp8672
-S'NIFETF'
+S'Mrugesh Trading Ltd'
 p8673
-aS'NIFETF'
+ag56
+aS'512065'
 p8674
-ag4
 aa(lp8675
-S'NIBL'
+S'MSP Steel & Power Ltd'
 p8676
-aS'NIBL'
+aS'MSPL'
 p8677
-ag4
-aa(lp8678
-S'NIVINFRA'
-p8679
-aS'NIVINFRA'
+aS'532650'
+p8678
+aa(lp8679
+S'MTZ Polyfilms Ltd'
 p8680
-ag4
-aa(lp8681
-S'NAVNETEDUL'
-p8682
-aS'NAVNETEDUL'
+ag56
+aS'512424'
+p8681
+aa(lp8682
+S'Mudit Finlease Ltd'
 p8683
-ag4
-aa(lp8684
-S'NGCT'
-p8685
-aS'NGCT'
+ag56
+aS'531919'
+p8684
+aa(lp8685
+S'Mudra Lifestyle Ltd'
 p8686
-ag4
-aa(lp8687
-S'NDL'
+aS'ELAND'
+p8687
+aS'532820'
 p8688
-aS'NDL'
-p8689
-ag4
-aa(lp8690
-S'NATHBIOGEN'
+aa(lp8689
+S'Mukand Engineers Ltd'
+p8690
+aS'MUKANDENGG'
 p8691
-aS'NATHBIOGEN'
+aS'532097'
 p8692
-ag4
 aa(lp8693
-S'Benchmark Mutual Fund'
+S'Mukand Ltd'
 p8694
-aS'NIFTYBEES'
+aS'MUKANDLTD'
 p8695
-ag4
-aa(lp8696
-S'Country Condos Ltd'
-p8697
-aS'NEOCURTHER'
+aS'500460'
+p8696
+aa(lp8697
+S'Mukat Pipes Ltd'
 p8698
-aS'531624'
+aS'MUKATPIPE'
 p8699
-aa(lp8700
-S'Girdharilal Sugar & Allied Industries Ltd'
-p8701
-aS'NARMADASUG'
+aS'523832'
+p8700
+aa(lp8701
+S'Mukesh Babu Financial Services Ltd'
 p8702
-aS'507506'
+ag56
+aS'530341'
 p8703
 aa(lp8704
-S'Info Edge India Ltd'
+S'Mukesh Steels Ltd'
 p8705
-aS'NAUKRI'
+ag56
+aS'513265'
 p8706
-aS'532777'
-p8707
-aa(lp8708
-S'Motilal Oswal MOSt Shares NASDAQ - 100 ETF - Growth'
+aa(lp8707
+S'Mukesh Strips Ltd'
+p8708
+ag56
+aS'517374'
 p8709
-aS'N100'
-p8710
-aS'533385'
+aa(lp8710
+S'Mukta Arts Ltd'
 p8711
-aa(lp8712
-S'Nachmo Knitex Ltd'
+aS'MUKTAARTS'
+p8712
+aS'532357'
 p8713
-ag4
-aS'514328'
-p8714
-aa(lp8715
-S'Nagarjuna Agri Tech Ltd'
+aa(lp8714
+S'MUKUND CRPS '
+p8715
+ag56
+aS'700087'
 p8716
-ag4
-aS'531832'
-p8717
-aa(lp8718
-S'Nagarjuna Agrichem Ltd'
+aa(lp8717
+S'Mukunda Industrial Finance Ltd'
+p8718
+ag56
+aS'530329'
 p8719
-ag4
-aS'524709'
-p8720
-aa(lp8721
-S'Nagarjuna Construction Company Ltd'
+aa(lp8720
+S'Muller & Phipps India Ltd'
+p8721
+ag56
+aS'501477'
 p8722
-aS'NCC'
-p8723
-aS'500294'
+aa(lp8723
+S'Multi Arc India Ltd'
 p8724
-aa(lp8725
-S'Nagarjuna Fertilizers & Chemicals Ltd'
+aS'MULTIARC'
+p8725
+aS'513685'
 p8726
-aS'NAGARFERT'
-p8727
-aS'500075'
+aa(lp8727
+S'Multibase India Ltd'
 p8728
-aa(lp8729
-S'Nagpur Power & Industries Ltd'
-p8730
-ag4
-aS'532362'
+ag56
+aS'526169'
+p8729
+aa(lp8730
+S'Multifarious Trading & Agencies Ltd'
 p8731
-aa(lp8732
-S'Nagreeka Capital & Infrastructure Ltd'
-p8733
-aS'NAGREEKCAP'
+ag56
+aS'504392'
+p8732
+aa(lp8733
+S'Mundra Port and Special Economic Zone Ltd'
 p8734
-aS'532895'
+aS'ADANIPORTS'
 p8735
-aa(lp8736
-S'Nagreeka Exports Ltd'
-p8737
-aS'NAGREEKEXP'
+aS'532921'
+p8736
+aa(lp8737
+S'Munjal Auto Industries Ltd'
 p8738
-aS'521109'
+aS'MUNJALAU'
 p8739
-aa(lp8740
-S'Nahar Capital & Financial Services Ltd'
-p8741
-aS'NAHARCAP'
+aS'520059'
+p8740
+aa(lp8741
+S'Munjal Showa Ltd'
 p8742
-aS'532952'
+aS'MUNJALSHOW'
 p8743
-aa(lp8744
-S'Nahar Industrial Enterprises Ltd'
-p8745
-aS'NAHARINDUS'
+aS'520043'
+p8744
+aa(lp8745
+S'Munoth Capital Markets Ltd'
 p8746
-aS'519136'
+ag56
+aS'511200'
 p8747
 aa(lp8748
-S'Nahar Poly Films Limited'
+S'Munoth Financial Services Ltd'
 p8749
-aS'NAHARPOLY'
+ag56
+aS'531821'
 p8750
-aS'523391'
-p8751
-aa(lp8752
-S'Nahar Spinning Mills Ltd'
+aa(lp8751
+S'Munoth Investments Ltd'
+p8752
+ag56
+aS'511401'
 p8753
-aS'NAHARSPING'
-p8754
-aS'500296'
+aa(lp8754
+S'Murli Industries Ltd'
 p8755
-aa(lp8756
-S'Naisargik Agritech India Ltd'
+aS'MURLIIND'
+p8756
+aS'519323'
 p8757
-ag4
-aS'531365'
-p8758
-aa(lp8759
-S'Nakoda Ltd'
+aa(lp8758
+S'Murudeshwar Ceramics Ltd'
+p8759
+aS'MURUDCERA'
 p8760
-aS'NAKODATEX'
+aS'515037'
 p8761
-aS'521030'
-p8762
-aa(lp8763
-S'Nalin Lease Finance Ltd'
+aa(lp8762
+S'Muskan Ferro Silicons Ltd'
+p8763
+ag56
+aS'513721'
 p8764
-ag4
-aS'531212'
-p8765
-aa(lp8766
-S'Nalwa Sons Investments Ltd'
+aa(lp8765
+S'Muthoot Capital Services Ltd'
+p8766
+aS'MUTHOOTCAP'
 p8767
-aS'NSIL'
+aS'511766'
 p8768
-aS'532256'
-p8769
-aa(lp8770
-S'Nandan Exim Ltd'
+aa(lp8769
+S'Muthoot Finance Ltd '
+p8770
+aS'MUTHOOTFIN'
 p8771
-aS'NANDAN'
+aS'533398'
 p8772
-aS'532641'
-p8773
-aa(lp8774
-S'Narendra Properties Ltd'
+aa(lp8773
+S'MVL Ltd'
+p8774
+aS'MVL'
 p8775
-ag4
-aS'531416'
+aS'532991'
 p8776
 aa(lp8777
-S'Narmada Agro Industries Ltd'
+S'My Fair Lady Ltd'
 p8778
-ag4
-aS'507652'
+ag56
+aS'526622'
 p8779
 aa(lp8780
-S'Narmada Gelatines Ltd'
+S'MYM Technologies Ltd'
 p8781
-aS'SHAWGELTIN'
+ag56
+aS'531843'
 p8782
-aS'526739'
-p8783
-aa(lp8784
-S'NASDAQ'
+aa(lp8783
+S'Mysore Paper Mills Ltd'
+p8784
+ag56
+aS'502405'
 p8785
-aS'^IXIC'
-p8786
-ag4
-aa(lp8787
-S'Natco Pharma Ltd'
+aa(lp8786
+S'Mysore Petro Chemicals Ltd'
+p8787
+aS'MYSORPETRO'
 p8788
-aS'NATCOPHARM'
+aS'506734'
 p8789
-aS'524816'
-p8790
-aa(lp8791
-S'Nath Pulp & Paper Mills Ltd'
+aa(lp8790
+S'Spicejet Ltd'
+p8791
+aS'MODILUFT'
 p8792
-aS'NATHPULP'
+aS'500285'
 p8793
-aS'502407'
-p8794
-aa(lp8795
-S'Nath Seeds Ltd'
+aa(lp8794
+S'State Bank of Mysore'
+p8795
+aS'MYSOREBANK'
 p8796
-aS'NATHSEED'
+aS'532200'
 p8797
-aS'526576'
-p8798
-aa(lp8799
-S'National Aluminium Company Ltd'
+aa(lp8798
+S'United Spirits Ltd'
+p8799
+aS'MCDOWELL-N'
 p8800
-aS'NATIONALUM'
+aS'532432'
 p8801
-aS'532234'
-p8802
-aa(lp8803
-S'National Fertilizers Ltd'
+aa(lp8802
+S'NAGAROIL'
+p8803
+aS'NAGAROIL'
 p8804
-aS'NFL'
+aS'534184'
 p8805
-aS'523630'
-p8806
-aa(lp8807
-S'National General Industries Ltd'
+aa(lp8806
+S'NCOPPER'
+p8807
+aS'NCOPPER'
 p8808
-ag4
-aS'531651'
+aS'532789'
 p8809
 aa(lp8810
-S'National Oxygen Ltd'
+S'NEOCORP'
 p8811
-aS'NOL'
+aS'NEOCORP'
 p8812
-aS'507813'
+aS'523820'
 p8813
 aa(lp8814
-S'National Peroxide Ltd'
+S'NANDANEXIM'
 p8815
-aS'NATPEROXID'
+aS'NANDANEXIM'
 p8816
-aS'500298'
-p8817
-aa(lp8818
-S'National Plastic Industries Ltd'
+ag56
+aa(lp8817
+S'NOESISIND'
+p8818
+aS'NOESISIND'
 p8819
-ag4
-aS'526616'
+aS'530435'
 p8820
 aa(lp8821
-S'National Plastic Technologies Ltd'
+S'NBCC'
 p8822
-ag4
-aS'531287'
+aS'NBCC'
 p8823
-aa(lp8824
-S'National Steel & Agro Industries Ltd'
-p8825
-aS'NATNLSTEEL'
+aS'534309'
+p8824
+aa(lp8825
+S'NAKODA'
 p8826
-aS'513179'
+aS'NAKODA'
 p8827
-aa(lp8828
-S'National Thermal Power Corporation Ltd'
-p8829
-aS'NTPC'
+aS'521030'
+p8828
+aa(lp8829
+S'NIFETF'
 p8830
-aS'532555'
+aS'NIFETF'
 p8831
+ag56
 aa(lp8832
-S'Natraj Financial & Services Ltd'
+S'NIBL'
 p8833
-ag4
-aS'512047'
+aS'NIBL'
 p8834
-aa(lp8835
-S'Natraj Proteins Ltd'
-p8836
-ag4
-aS'530119'
+aS'535458'
+p8835
+aa(lp8836
+S'NIVINFRA'
 p8837
-aa(lp8838
-S'Natura Hue Chem Ltd'
+aS'NIVINFRA'
+p8838
+aS'517534'
 p8839
-ag4
-aS'531834'
-p8840
-aa(lp8841
-S'Natural Capsules Ltd'
+aa(lp8840
+S'NAVNETEDUL'
+p8841
+aS'NAVNETEDUL'
 p8842
-ag4
-aS'524654'
+aS'508989'
 p8843
 aa(lp8844
-S'Nava Bharat Ventures Ltd'
+S'NGCT'
 p8845
-aS'NBVENTURES'
+aS'NGCT'
 p8846
-aS'513023'
-p8847
-aa(lp8848
-S'Navcom Industries Ltd'
+ag56
+aa(lp8847
+S'NDL'
+p8848
+aS'NDL'
 p8849
-ag4
-aS'519200'
+aS'532641'
 p8850
 aa(lp8851
-S'Navin Fluorine International Ltd'
+S'NATHBIOGEN'
 p8852
-aS'NAVINFLUOR'
+aS'NATHBIOGEN'
 p8853
-aS'532504'
+aS'537291'
 p8854
 aa(lp8855
-S'Navkar Builders Ltd'
+S'Benchmark Mutual Fund'
 p8856
-ag4
-aS'531494'
+aS'NIFTYBEES'
 p8857
-aa(lp8858
-S'Navneet Publications India Ltd'
-p8859
-aS'NAVNETPUBL'
+aS'590103'
+p8858
+aa(lp8859
+S'Country Condos Ltd'
 p8860
-aS'508989'
+aS'COUNCODOS'
 p8861
-aa(lp8862
-S'NB Footwear Ltd'
-p8863
-ag4
-aS'523242'
+aS'531624'
+p8862
+aa(lp8863
+S'Girdharilal Sugar & Allied Industries Ltd'
 p8864
-aa(lp8865
-S'NCC Finance Ltd'
+aS'NARMADASUG'
+p8865
+aS'507506'
 p8866
-ag4
-aS'531452'
-p8867
-aa(lp8868
-S'NCJ International Ltd'
+aa(lp8867
+S'Info Edge India Ltd'
+p8868
+aS'NAUKRI'
 p8869
-ag4
-aS'511714'
+aS'532777'
 p8870
 aa(lp8871
-S'NCL Industries Ltd'
+S'Motilal Oswal MOSt Shares NASDAQ - 100 ETF - Growth'
 p8872
-aS'NCLIND'
+aS'N100'
 p8873
-aS'502168'
+aS'533385'
 p8874
 aa(lp8875
-S'NCL Research & Financial Services Ltd'
+S'Nachmo Knitex Ltd'
 p8876
-ag4
-aS'530557'
+ag56
+aS'514328'
 p8877
 aa(lp8878
-S'ND Metal Industries Ltd'
+S'Nagarjuna Agri Tech Ltd'
 p8879
-ag4
-aS'512024'
+ag56
+aS'531832'
 p8880
 aa(lp8881
-S'NDA Securities Ltd'
+S'Nagarjuna Agrichem Ltd'
 p8882
-ag4
-aS'511535'
+ag56
+aS'524709'
 p8883
 aa(lp8884
-S'Nectar Lifesciences Ltd'
+S'Nagarjuna Construction Company Ltd'
 p8885
-aS'NECLIFE'
+aS'NCC'
 p8886
-aS'532649'
+aS'500294'
 p8887
 aa(lp8888
-S'Neelamalai Agro Industries Ltd'
+S'Nagarjuna Fertilizers & Chemicals Ltd'
 p8889
-ag4
-aS'508670'
+aS'NAGARFERT'
 p8890
-aa(lp8891
-S'Neelkanth Rockminerals Ltd'
-p8892
-ag4
-aS'531049'
+aS'500075'
+p8891
+aa(lp8892
+S'Nagpur Power & Industries Ltd'
 p8893
-aa(lp8894
-S'Neelkanth Technologies Ltd'
-p8895
-ag4
-aS'530697'
+ag56
+aS'532362'
+p8894
+aa(lp8895
+S'Nagreeka Capital & Infrastructure Ltd'
 p8896
-aa(lp8897
-S'Neemtek Organic Products Ltd'
+aS'NAGREEKCAP'
+p8897
+aS'532895'
 p8898
-ag4
-aS'502893'
-p8899
-aa(lp8900
-S'Neena Consultants Ltd'
+aa(lp8899
+S'Nagreeka Exports Ltd'
+p8900
+aS'NAGREEKEXP'
 p8901
-ag4
-aS'508867'
+aS'521109'
 p8902
 aa(lp8903
-S'Neha International Ltd'
+S'Nahar Capital & Financial Services Ltd'
 p8904
-aS'NEHAINT'
+aS'NAHARCAP'
 p8905
-aS'519560'
+aS'532952'
 p8906
 aa(lp8907
-S'Nelcast Ltd'
+S'Nahar Industrial Enterprises Ltd'
 p8908
-aS'NELCAST'
+aS'NAHARINDUS'
 p8909
-aS'532864'
+aS'519136'
 p8910
 aa(lp8911
-S'Nelco Ltd'
+S'Nahar Poly Films Limited'
 p8912
-aS'NELCO'
+aS'NAHARPOLY'
 p8913
-aS'504112'
+aS'523391'
 p8914
 aa(lp8915
-S'Neo Corp International Ltd'
+S'Nahar Spinning Mills Ltd'
 p8916
-aS'NEOSACK'
+aS'NAHARSPING'
 p8917
-aS'523820'
+aS'500296'
 p8918
 aa(lp8919
-S'Neocure Therapeutics Ltd'
+S'Naisargik Agritech India Ltd'
 p8920
-aS'NEOCURE'
+ag56
+aS'531365'
 p8921
-ag4
 aa(lp8922
-S'Neogem India Ltd'
+S'Nakoda Ltd'
 p8923
-ag4
-aS'526195'
+aS'NAKODA'
 p8924
-aa(lp8925
-S'NEPC India Ltd'
-p8926
-aS'NEPCMICON'
+aS'521030'
+p8925
+aa(lp8926
+S'Nalin Lease Finance Ltd'
 p8927
-aS'500301'
+ag56
+aS'531212'
 p8928
 aa(lp8929
-S'NESCO Ltd'
+S'Nalwa Sons Investments Ltd'
 p8930
-aS'NESCO'
+aS'NSIL'
 p8931
-aS'505355'
+aS'532256'
 p8932
 aa(lp8933
-S'Nestle India Ltd'
+S'Nandan Exim Ltd'
 p8934
-aS'NESTLEIND'
+aS'NDL'
 p8935
-aS'500790'
+aS'532641'
 p8936
 aa(lp8937
-S'Net 4 India Ltd'
+S'Narendra Properties Ltd'
 p8938
-aS'NET4'
+ag56
+aS'531416'
 p8939
-aS'532912'
-p8940
-aa(lp8941
-S'Netflier Finco Ltd'
+aa(lp8940
+S'Narmada Agro Industries Ltd'
+p8941
+ag56
+aS'507652'
 p8942
-aS'NETFINCO'
-p8943
-aS'532860'
+aa(lp8943
+S'Narmada Gelatines Ltd'
 p8944
-aa(lp8945
-S'Netlink Solutions India Ltd'
+aS'SHAWGELTIN'
+p8945
+aS'526739'
 p8946
-ag4
-aS'509040'
-p8947
-aa(lp8948
-S'Nettlinx Ltd'
+aa(lp8947
+S'NASDAQ'
+p8948
+aS'^IXIC'
 p8949
-ag4
-aS'511658'
-p8950
-aa(lp8951
-S'NetVision Web Technologies Ltd'
+ag56
+aa(lp8950
+S'Natco Pharma Ltd'
+p8951
+aS'NATCOPHARM'
 p8952
-ag4
-aS'532010'
+aS'524816'
 p8953
 aa(lp8954
-S'Netvista Information Technology Ltd'
+S'Nath Pulp & Paper Mills Ltd'
 p8955
-aS'NETVISTAIT'
+aS'NATHPULP'
 p8956
-aS'530811'
+aS'502407'
 p8957
 aa(lp8958
-S'Network 18 Media & Investments Ltd'
+S'Nath Seeds Ltd'
 p8959
-aS'NETWORK18'
+aS'TECHIN'
 p8960
-aS'532798'
+aS'526576'
 p8961
 aa(lp8962
-S'Network Ltd'
+S'National Aluminium Company Ltd'
 p8963
-aS'NETWORK'
+aS'NATIONALUM'
 p8964
-aS'523558'
+aS'532234'
 p8965
 aa(lp8966
-S'Networth Stock Broking Ltd'
+S'National Fertilizers Ltd'
 p8967
-ag4
-aS'511551'
+aS'NFL'
 p8968
-aa(lp8969
-S'Neuland Laboratories Ltd'
-p8970
-aS'NEULANDLAB'
+aS'523630'
+p8969
+aa(lp8970
+S'National General Industries Ltd'
 p8971
-aS'524558'
+ag56
+aS'531651'
 p8972
 aa(lp8973
-S'New Bombay Printing & Dyeing Mills Ltd'
+S'National Oxygen Ltd'
 p8974
-ag4
-aS'521062'
+aS'NOL'
 p8975
-aa(lp8976
-S'New Delhi Television Ltd'
-p8977
-aS'NDTV'
+aS'507813'
+p8976
+aa(lp8977
+S'National Peroxide Ltd'
 p8978
-aS'532529'
+aS'NATPEROXID'
 p8979
-aa(lp8980
-S'New Horizon Leasing & Finance Ltd'
-p8981
-ag4
-aS'507918'
+aS'500298'
+p8980
+aa(lp8981
+S'National Plastic Industries Ltd'
 p8982
-aa(lp8983
-S'New Sagar Trading Company Ltd'
-p8984
-ag4
-aS'501479'
+ag56
+aS'526616'
+p8983
+aa(lp8984
+S'National Plastic Technologies Ltd'
 p8985
-aa(lp8986
-S'Next Mediaworks Limited'
-p8987
-aS'NEXTMEDIA'
+ag56
+aS'531287'
+p8986
+aa(lp8987
+S'National Steel & Agro Industries Ltd'
 p8988
-aS'532416'
+aS'NATNLSTEEL'
 p8989
-aa(lp8990
-S'Nexxoft Infotel Ltd'
-p8991
-ag4
-aS'532045'
+aS'513179'
+p8990
+aa(lp8991
+S'National Thermal Power Corporation Ltd'
 p8992
-aa(lp8993
-S'Neyveli Lignite Corporation Ltd'
+aS'NTPC'
+p8993
+aS'532555'
 p8994
-aS'NEYVELILIG'
-p8995
-aS'513683'
+aa(lp8995
+S'Natraj Financial & Services Ltd'
 p8996
-aa(lp8997
-S'NG Industries Ltd'
-p8998
-ag4
-aS'530897'
+ag56
+aS'512047'
+p8997
+aa(lp8998
+S'Natraj Proteins Ltd'
 p8999
-aa(lp9000
-S'NGL Fine Chem Ltd'
-p9001
-ag4
-aS'524774'
+ag56
+aS'530119'
+p9000
+aa(lp9001
+S'Natura Hue Chem Ltd'
 p9002
-aa(lp9003
-S'NHN Corporation Ltd'
-p9004
-ag4
-aS'532320'
+ag56
+aS'531834'
+p9003
+aa(lp9004
+S'Natural Capsules Ltd'
 p9005
-aa(lp9006
-S'NHPC Limited'
-p9007
-aS'NHPC'
+ag56
+aS'524654'
+p9006
+aa(lp9007
+S'Nava Bharat Ventures Ltd'
 p9008
-aS'533098'
+aS'NBVENTURES'
 p9009
-aa(lp9010
-S'Nicco Corporation Ltd'
-p9011
-aS'NICCO'
+aS'513023'
+p9010
+aa(lp9011
+S'Navcom Industries Ltd'
 p9012
-aS'590028'
+ag56
+aS'519200'
 p9013
 aa(lp9014
-S'Nicco Parks & Resorts Ltd'
+S'Navin Fluorine International Ltd'
 p9015
-ag4
-aS'526721'
+aS'NAVINFLUOR'
 p9016
-aa(lp9017
-S'Nicco Uco Alliance Credit Ltd'
-p9018
-ag4
-aS'523209'
+aS'532504'
+p9017
+aa(lp9018
+S'Navkar Builders Ltd'
 p9019
-aa(lp9020
-S'Nidhi Granites Ltd'
-p9021
-ag4
-aS'512103'
+ag56
+aS'531494'
+p9020
+aa(lp9021
+S'Navneet Publications India Ltd'
 p9022
-aa(lp9023
-S'Nifty Junior Benchmark ETF'
+aS'NAVNETEDUL'
+p9023
+aS'508989'
 p9024
-ag4
-aS'590104'
-p9025
-aa(lp9026
-S'Nihar Info Global Ltd'
+aa(lp9025
+S'NB Footwear Ltd'
+p9026
+ag56
+aS'523242'
 p9027
-ag4
-aS'531083'
-p9028
-aa(lp9029
-S'NIIT Ltd'
+aa(lp9028
+S'NCC Finance Ltd'
+p9029
+ag56
+aS'531452'
 p9030
-aS'NIITLTD'
-p9031
-aS'500304'
+aa(lp9031
+S'NCJ International Ltd'
 p9032
-aa(lp9033
-S'NIIT Technologies Ltd'
-p9034
-aS'NIITTECH'
+ag56
+aS'511714'
+p9033
+aa(lp9034
+S'NCL Industries Ltd'
 p9035
-aS'532541'
+aS'NCLIND'
 p9036
-aa(lp9037
-S'Nikhil Adhesives Ltd'
-p9038
-ag4
-aS'526159'
+aS'502168'
+p9037
+aa(lp9038
+S'NCL Research & Financial Services Ltd'
 p9039
-aa(lp9040
-S'Nikki Global Finance Ltd'
-p9041
-ag4
-aS'531272'
+ag56
+aS'530557'
+p9040
+aa(lp9041
+S'ND Metal Industries Ltd'
 p9042
-aa(lp9043
-S'Nila Infrastructures Ltd'
-p9044
-ag4
-aS'530377'
+ag56
+aS'512024'
+p9043
+aa(lp9044
+S'NDA Securities Ltd'
 p9045
-aa(lp9046
-S'Nilachal Refractories Ltd'
-p9047
-ag4
-aS'502294'
+ag56
+aS'511535'
+p9046
+aa(lp9047
+S'Nectar Lifesciences Ltd'
 p9048
-aa(lp9049
-S'Nilchem Capital Ltd'
+aS'NECLIFE'
+p9049
+aS'532649'
 p9050
-ag4
-aS'531470'
-p9051
-aa(lp9052
-S'Nilchem Industries Ltd'
+aa(lp9051
+S'Neelamalai Agro Industries Ltd'
+p9052
+ag56
+aS'508670'
 p9053
-ag4
-aS'526905'
-p9054
-aa(lp9055
-S'Nile Ltd'
+aa(lp9054
+S'Neelkanth Rockminerals Ltd'
+p9055
+ag56
+aS'531049'
 p9056
-ag4
-aS'530129'
-p9057
-aa(lp9058
-S'Nilkamal Ltd'
+aa(lp9057
+S'Neelkanth Technologies Ltd'
+p9058
+ag56
+aS'530697'
 p9059
-aS'NILKAMAL'
-p9060
-aS'523385'
+aa(lp9060
+S'Neemtek Organic Products Ltd'
 p9061
-aa(lp9062
-S'Nimbus Industries Ltd'
-p9063
-ag4
-aS'530971'
+ag56
+aS'502893'
+p9062
+aa(lp9063
+S'Neena Consultants Ltd'
 p9064
-aa(lp9065
-S'Nippo Batteries Company Ltd'
-p9066
-aS'NIPPOBATRY'
+ag56
+aS'508867'
+p9065
+aa(lp9066
+S'Neha International Ltd'
 p9067
-aS'504058'
+aS'NEHAINT'
 p9068
-aa(lp9069
-S'Niraj Cement Structurals Ltd'
-p9070
-ag4
-aS'532986'
+aS'519560'
+p9069
+aa(lp9070
+S'Nelcast Ltd'
 p9071
-aa(lp9072
-S'Nirav Commercials Ltd'
+aS'NELCAST'
+p9072
+aS'532864'
 p9073
-ag4
-aS'512425'
-p9074
-aa(lp9075
-S'Nirlon Ltd'
+aa(lp9074
+S'Nelco Ltd'
+p9075
+aS'NELCO'
 p9076
-aS'NIRLON'
+aS'504112'
 p9077
-aS'500307'
-p9078
-aa(lp9079
-S'Nirma Ltd'
+aa(lp9078
+S'Neo Corp International Ltd'
+p9079
+aS'NEOCORP'
 p9080
-aS'NIRMA'
+aS'523820'
 p9081
-aS'500308'
-p9082
-aa(lp9083
-S'Nirmal Metal Fabricators Ltd'
+aa(lp9082
+S'Neocure Therapeutics Ltd'
+p9083
+aS'COUNCODOS'
 p9084
-ag4
-aS'513153'
+aS'531624'
 p9085
 aa(lp9086
-S'Nissan Copper Ltd'
+S'Neogem India Ltd'
 p9087
-aS'NISSAN'
+ag56
+aS'526195'
 p9088
-aS'532789'
-p9089
-aa(lp9090
-S'Nitco Ltd'
+aa(lp9089
+S'NEPC India Ltd'
+p9090
+aS'NEPCMICON'
 p9091
-aS'NITCO'
+aS'500301'
 p9092
-aS'532722'
-p9093
-aa(lp9094
-S'Nitesh Estates Ltd'
+aa(lp9093
+S'NESCO Ltd'
+p9094
+aS'NESCO'
 p9095
-aS'NITESHEST'
+aS'505355'
 p9096
-aS'533202'
-p9097
-aa(lp9098
-S'Nitin Alloys Global Ltd'
+aa(lp9097
+S'Nestle India Ltd'
+p9098
+aS'NESTLEIND'
 p9099
-ag4
-aS'508875'
+aS'500790'
 p9100
 aa(lp9101
-S'Nitin Fire Protection Industries Ltd'
+S'Net 4 India Ltd'
 p9102
-aS'NITINFIRE'
+aS'NET4'
 p9103
-aS'532854'
+aS'532912'
 p9104
 aa(lp9105
-S'Nitin Spinners Ltd'
+S'Netflier Finco Ltd'
 p9106
-aS'NITINSPIN'
+aS'NETFINCO'
 p9107
-aS'532698'
+aS'532860'
 p9108
 aa(lp9109
-S'Nitta Gelatin India Ltd'
+S'Netlink Solutions India Ltd'
 p9110
-aS'KERALACHEM'
+ag56
+aS'509040'
 p9111
-aS'506532'
-p9112
-aa(lp9113
-S'Nivedita Mercantile & Financing Ltd'
+aa(lp9112
+S'Nettlinx Ltd'
+p9113
+ag56
+aS'511658'
 p9114
-ag4
-aS'512381'
-p9115
-aa(lp9116
-S'Nivi Trading Ltd'
+aa(lp9115
+S'NetVision Web Technologies Ltd'
+p9116
+ag56
+aS'532010'
 p9117
-ag4
-aS'512245'
-p9118
-aa(lp9119
-S'Niyati Industries Ltd'
+aa(lp9118
+S'Netvista Information Technology Ltd'
+p9119
+aS'NETVISTAIT'
 p9120
-aS'NIYATILEAS'
+aS'530811'
 p9121
-aS'511523'
-p9122
-aa(lp9123
-S'NK Industries Ltd'
+aa(lp9122
+S'Network 18 Media & Investments Ltd'
+p9123
+aS'NETWORK18'
 p9124
-aS'NKIND'
+aS'532798'
 p9125
-aS'519494'
-p9126
-aa(lp9127
-S'NMDC Ltd'
+aa(lp9126
+S'Network Ltd'
+p9127
+aS'NETWORK'
 p9128
-aS'NMDC'
+aS'523558'
 p9129
-aS'526371'
-p9130
-aa(lp9131
-S'Noble Explochem Ltd'
+aa(lp9130
+S'Networth Stock Broking Ltd'
+p9131
+ag56
+aS'511551'
 p9132
-ag4
-aS'506991'
-p9133
-aa(lp9134
-S'NOCIL Ltd'
+aa(lp9133
+S'Neuland Laboratories Ltd'
+p9134
+aS'NEULANDLAB'
 p9135
-aS'NOCIL'
+aS'524558'
 p9136
-aS'500730'
-p9137
-aa(lp9138
-S'Noida Medicare Centre Ltd'
+aa(lp9137
+S'New Bombay Printing & Dyeing Mills Ltd'
+p9138
+ag56
+aS'521062'
 p9139
-ag4
-aS'523670'
-p9140
-aa(lp9141
-S'Noida Toll Bridge Company Ltd'
+aa(lp9140
+S'New Delhi Television Ltd'
+p9141
+aS'NDTV'
 p9142
-aS'NOIDATOLL'
+aS'532529'
 p9143
-aS'532481'
-p9144
-aa(lp9145
-S'Norben Tea & Exports Ltd'
+aa(lp9144
+S'New Horizon Leasing & Finance Ltd'
+p9145
+ag56
+aS'507918'
 p9146
-aS'NORBTEAEXP'
-p9147
-aS'519528'
+aa(lp9147
+S'New Sagar Trading Company Ltd'
 p9148
-aa(lp9149
-S'Northgate Technologies Ltd'
-p9150
-aS'NORTHGATE'
+ag56
+aS'501479'
+p9149
+aa(lp9150
+S'Next Mediaworks Limited'
 p9151
-aS'590057'
+aS'NEXTMEDIA'
 p9152
-aa(lp9153
-S'Nouveau Multimedia Ltd'
-p9154
-ag4
-aS'531465'
+aS'532416'
+p9153
+aa(lp9154
+S'Nexxoft Infotel Ltd'
 p9155
-aa(lp9156
-S'Nova Granites India Ltd'
-p9157
-ag4
-aS'526570'
+ag56
+aS'532045'
+p9156
+aa(lp9157
+S'Neyveli Lignite Corporation Ltd'
 p9158
-aa(lp9159
-S'Nova Iron & Steel Ltd'
+aS'NEYVELILIG'
+p9159
+aS'513683'
 p9160
-aS'NOVAIRNSTL'
-p9161
-aS'513566'
+aa(lp9161
+S'NG Industries Ltd'
 p9162
-aa(lp9163
-S'NovaGold Petro Resources Ltd'
-p9164
-ag4
-aS'531791'
+ag56
+aS'530897'
+p9163
+aa(lp9164
+S'NGL Fine Chem Ltd'
 p9165
-aa(lp9166
-S'Novartis India Ltd'
-p9167
-aS'NOVARTIND'
+ag56
+aS'524774'
+p9166
+aa(lp9167
+S'NHN Corporation Ltd'
 p9168
-aS'500672'
+ag56
+aS'532320'
 p9169
 aa(lp9170
-S'Novopan Industries Ltd'
+S'NHPC Limited'
 p9171
-aS'NOVOPANIND'
+aS'NHPC'
 p9172
-aS'500310'
+aS'533098'
 p9173
 aa(lp9174
-S'NPR Finance Ltd'
+S'Nicco Corporation Ltd'
 p9175
-ag4
-aS'530127'
+aS'NICCO'
 p9176
-aa(lp9177
-S'NR Agarwal Industries Ltd'
-p9178
-ag4
-aS'516082'
+aS'590028'
+p9177
+aa(lp9178
+S'Nicco Parks & Resorts Ltd'
 p9179
-aa(lp9180
-S'NR International Ltd'
-p9181
-ag4
-aS'532623'
+ag56
+aS'526721'
+p9180
+aa(lp9181
+S'Nicco Uco Alliance Credit Ltd'
 p9182
-aa(lp9183
-S'NRB Bearings Ltd'
-p9184
-aS'NRBBEARING'
+ag56
+aS'523209'
+p9183
+aa(lp9184
+S'Nidhi Granites Ltd'
 p9185
-aS'530367'
+ag56
+aS'512103'
 p9186
 aa(lp9187
-S'NRC Ltd'
+S'Nifty Junior Benchmark ETF'
 p9188
-aS'NRC'
+aS'JUNIORBEES'
 p9189
-aS'503780'
+aS'590104'
 p9190
 aa(lp9191
-S'NSE'
+S'Nihar Info Global Ltd'
 p9192
-aS'^NSEI'
+ag56
+aS'531083'
 p9193
-ag4
 aa(lp9194
-S'Nu Tech Corporate Services Ltd'
+S'NIIT Ltd'
 p9195
-ag4
-aS'526313'
+aS'NIITLTD'
 p9196
-aa(lp9197
-S'Nu Tek India Ltd'
-p9198
-aS'NUTEK'
+aS'500304'
+p9197
+aa(lp9198
+S'NIIT Technologies Ltd'
 p9199
-aS'533015'
+aS'NIITTECH'
 p9200
-aa(lp9201
-S'Nucent Finance Ltd'
-p9202
-aS'NUCENT'
+aS'532541'
+p9201
+aa(lp9202
+S'Nikhil Adhesives Ltd'
 p9203
-aS'509077'
+ag56
+aS'526159'
 p9204
 aa(lp9205
-S'Nuchem Ltd'
+S'Nikki Global Finance Ltd'
 p9206
-aS'NUCHEM'
+ag56
+aS'531272'
 p9207
-aS'500311'
-p9208
-aa(lp9209
-S'Nucleus Software Exports Ltd'
+aa(lp9208
+S'Nila Infrastructures Ltd'
+p9209
+aS'NILAINFRA'
 p9210
-aS'NUCLEUS'
+aS'530377'
 p9211
-aS'531209'
-p9212
-aa(lp9213
-S'Numeric Power Systems Ltd'
+aa(lp9212
+S'Nilachal Refractories Ltd'
+p9213
+ag56
+aS'502294'
 p9214
-aS'NUMERICPW'
-p9215
-aS'532051'
+aa(lp9215
+S'Nilchem Capital Ltd'
 p9216
-aa(lp9217
-S'Nutech Global Ltd'
-p9218
-ag4
-aS'531304'
+ag56
+aS'531470'
+p9217
+aa(lp9218
+S'Nilchem Industries Ltd'
 p9219
-aa(lp9220
-S'Nutraplus Products India Ltd'
-p9221
-ag4
-aS'524764'
+ag56
+aS'526905'
+p9220
+aa(lp9221
+S'Nile Ltd'
 p9222
-aa(lp9223
-S'Nuway Organic Naturals India Ltd'
-p9224
-ag4
-aS'531819'
+ag56
+aS'530129'
+p9223
+aa(lp9224
+S'Nilkamal Ltd'
 p9225
-aa(lp9226
-S'Nylofils India Ltd'
+aS'NILKAMAL'
+p9226
+aS'523385'
 p9227
-ag4
-aS'526488'
-p9228
-aa(lp9229
-S'ONELIFECAP'
+aa(lp9228
+S'Nimbus Industries Ltd'
+p9229
+ag56
+aS'530971'
 p9230
-aS'ONELIFECAP'
-p9231
-ag4
-aa(lp9232
-S'ORBTEXP'
+aa(lp9231
+S'Nippo Batteries Company Ltd'
+p9232
+aS'NIPPOBATRY'
 p9233
-aS'ORBTEXP'
+aS'504058'
 p9234
-ag4
 aa(lp9235
-S'ORIENTREF'
+S'Niraj Cement Structurals Ltd'
 p9236
-aS'ORIENTREF'
+ag56
+aS'532986'
 p9237
-ag4
 aa(lp9238
-S'ORIENTBELL'
+S'Nirav Commercials Ltd'
 p9239
-aS'ORIENTBELL'
+ag56
+aS'512425'
 p9240
-ag4
 aa(lp9241
-S'ORIENTCEM'
+S'Nirlon Ltd'
 p9242
-aS'ORIENTCEM'
+aS'NIRLON'
 p9243
-ag4
-aa(lp9244
-S'Indian Sucrose Ltd'
-p9245
-aS'OSWALSUG'
+aS'500307'
+p9244
+aa(lp9245
+S'Nirma Ltd'
 p9246
-aS'500319'
+aS'NIRMA'
 p9247
-aa(lp9248
-S'Oasis Securities Ltd'
-p9249
-ag4
-aS'512489'
+aS'500308'
+p9248
+aa(lp9249
+S'Nirmal Metal Fabricators Ltd'
 p9250
-aa(lp9251
-S'Oberoi Realty Ltd'
-p9252
-aS'OBEROIRLTY'
+ag56
+aS'513153'
+p9251
+aa(lp9252
+S'Nissan Copper Ltd'
 p9253
-aS'533273'
+aS'NCOPPER'
 p9254
-aa(lp9255
-S'Ocean Agro India Ltd'
-p9256
-ag4
-aS'519491'
+aS'532789'
+p9255
+aa(lp9256
+S'Nitco Ltd'
 p9257
-aa(lp9258
-S'Ocean Infrastructure Ltd'
+aS'NITCO'
+p9258
+aS'532722'
 p9259
-ag4
-aS'532086'
-p9260
-aa(lp9261
-S'OCL India Ltd'
+aa(lp9260
+S'Nitesh Estates Ltd'
+p9261
+aS'NITESHEST'
 p9262
-aS'OCL'
+aS'533202'
 p9263
-aS'502165'
-p9264
-aa(lp9265
-S'OCL Iron and Steel Ltd'
+aa(lp9264
+S'Nitin Alloys Global Ltd'
+p9265
+ag56
+aS'508875'
 p9266
-aS'OISL'
-p9267
-aS'533008'
+aa(lp9267
+S'Nitin Fire Protection Industries Ltd'
 p9268
-aa(lp9269
-S'Octant Interactive Technologies Ltd'
+aS'NITINFIRE'
+p9269
+aS'532854'
 p9270
-ag4
-aS'590090'
-p9271
-aa(lp9272
-S'Octav Investments Ltd'
+aa(lp9271
+S'Nitin Spinners Ltd'
+p9272
+aS'NITINSPIN'
 p9273
-aS'OCTAV'
+aS'532698'
 p9274
-aS'533010'
-p9275
-aa(lp9276
-S'Odyssey Corporation Ltd'
+aa(lp9275
+S'Nitta Gelatin India Ltd'
+p9276
+aS'KERALACHEM'
 p9277
-ag4
-aS'531996'
+aS'506532'
 p9278
 aa(lp9279
-S'Odyssey Technologies Ltd'
+S'Nivedita Mercantile & Financing Ltd'
 p9280
-ag4
-aS'530175'
+ag56
+aS'512381'
 p9281
 aa(lp9282
-S'Oil & Natural Gas Corporation Ltd'
+S'Nivi Trading Ltd'
 p9283
-aS'ONGC'
+ag56
+aS'512245'
 p9284
-aS'500312'
-p9285
-aa(lp9286
-S'Oil Country Tubular Ltd'
+aa(lp9285
+S'Niyati Industries Ltd'
+p9286
+aS'NIYATILEAS'
 p9287
-aS'OILCOUNTUB'
+aS'511523'
 p9288
-aS'500313'
-p9289
-aa(lp9290
-S'Oil India Ltd'
+aa(lp9289
+S'NK Industries Ltd'
+p9290
+aS'NKIND'
 p9291
-aS'OIL'
+aS'519494'
 p9292
-aS'533106'
-p9293
-aa(lp9294
-S'OK Play India Ltd'
+aa(lp9293
+S'NMDC Ltd'
+p9294
+aS'NMDC'
 p9295
-ag4
-aS'526415'
+aS'526371'
 p9296
 aa(lp9297
-S'Olympia Industries Ltd'
+S'Noble Explochem Ltd'
 p9298
-ag4
-aS'521105'
+ag56
+aS'506991'
 p9299
 aa(lp9300
-S'Olympic Oil Industries Ltd'
+S'NOCIL Ltd'
 p9301
-ag4
-aS'507609'
+aS'NOCIL'
 p9302
-aa(lp9303
-S'OM Metals Infraprojects Ltd'
-p9304
-aS'OMMETALS'
+aS'500730'
+p9303
+aa(lp9304
+S'Noida Medicare Centre Ltd'
 p9305
-aS'531092'
+ag56
+aS'523670'
 p9306
 aa(lp9307
-S'Omax Autos Ltd'
+S'Noida Toll Bridge Company Ltd'
 p9308
-aS'OMAXAUTO'
+aS'NOIDATOLL'
 p9309
-aS'520021'
+aS'532481'
 p9310
 aa(lp9311
-S'Omaxe Ltd'
+S'Norben Tea & Exports Ltd'
 p9312
-aS'OMAXE'
+aS'NORBTEAEXP'
 p9313
-aS'532880'
+aS'519528'
 p9314
 aa(lp9315
-S'Omega Ag-Seeds Punjab Ltd'
+S'Northgate Technologies Ltd'
 p9316
-ag4
-aS'519479'
+aS'GREENFIRE'
 p9317
-aa(lp9318
-S'Omega Interactive Technologies Ltd'
-p9319
-ag4
-aS'511644'
+aS'590057'
+p9318
+aa(lp9319
+S'Nouveau Multimedia Ltd'
 p9320
-aa(lp9321
-S'Omkar Overseas Ltd'
-p9322
-ag4
-aS'531496'
+ag56
+aS'531465'
+p9321
+aa(lp9322
+S'Nova Granites India Ltd'
 p9323
-aa(lp9324
-S'Omkar Pharmachem Ltd'
-p9325
-ag4
-aS'532167'
+ag56
+aS'526570'
+p9324
+aa(lp9325
+S'Nova Iron & Steel Ltd'
 p9326
-aa(lp9327
-S'Omkar Speciality Chemicals Limited'
-p9328
-aS'OMKARCHEM'
+ag56
+aS'513566'
+p9327
+aa(lp9328
+S'NovaGold Petro Resources Ltd'
 p9329
-aS'533317'
+ag56
+aS'531791'
 p9330
 aa(lp9331
-S'Omni AXs Software Ltd'
+S'Novartis India Ltd'
 p9332
-ag4
-aS'532340'
+aS'NOVARTIND'
 p9333
-aa(lp9334
-S'Omnitech InfoSolutions Ltd'
-p9335
-aS'OMNITECH'
+aS'500672'
+p9334
+aa(lp9335
+S'Novopan Industries Ltd'
 p9336
-aS'532882'
+aS'NOVOPANIND'
 p9337
-aa(lp9338
-S'Omnitex Industries India Ltd'
-p9339
-ag4
-aS'514324'
+aS'500310'
+p9338
+aa(lp9339
+S'NPR Finance Ltd'
 p9340
-aa(lp9341
-S'Online Media Solutions Ltd'
-p9342
-ag4
-aS'532354'
+ag56
+aS'530127'
+p9341
+aa(lp9342
+S'NR Agarwal Industries Ltd'
 p9343
-aa(lp9344
-S'OnMobile Global Ltd'
-p9345
-aS'ONMOBILE'
+ag56
+aS'516082'
+p9344
+aa(lp9345
+S'NR International Ltd'
 p9346
-aS'532944'
+ag56
+aS'532623'
 p9347
 aa(lp9348
-S'Ontrack Systems Ltd'
+S'NRB Bearings Ltd'
 p9349
-ag4
-aS'532607'
+aS'NRBBEARING'
 p9350
-aa(lp9351
-S'Onward Technologies Ltd'
-p9352
-aS'ONWARDTEC'
+aS'530367'
+p9351
+aa(lp9352
+S'NRC Ltd'
 p9353
-aS'517536'
+aS'NRC'
 p9354
-aa(lp9355
-S'Opto Circuits India Ltd'
-p9356
-aS'OPTOCIRCUI'
+aS'503780'
+p9355
+aa(lp9356
+S'NSE'
 p9357
-aS'532391'
+aS'^NSEI'
 p9358
+ag56
 aa(lp9359
-S'Oracle Financial Services Software Ltd'
+S'Nu Tech Corporate Services Ltd'
 p9360
-aS'OFSS'
+ag56
+aS'526313'
 p9361
-aS'532466'
-p9362
-aa(lp9363
-S'Orbit Corporation Ltd'
+aa(lp9362
+S'Nu Tek India Ltd'
+p9363
+aS'NUTEK'
 p9364
-aS'ORBITCORP'
+aS'533015'
 p9365
-aS'532837'
-p9366
-aa(lp9367
-S'Orbit Exports Ltd'
+aa(lp9366
+S'Nucent Finance Ltd'
+p9367
+aS'PRESSMN'
 p9368
-ag4
-aS'512626'
+aS'509077'
 p9369
 aa(lp9370
-S'ORBIT WAR   '
+S'Nuchem Ltd'
 p9371
-ag4
-aS'961665'
+aS'NUCHEM'
 p9372
-aa(lp9373
-S'Orchid Chemicals & Pharmaceuticals Ltd'
-p9374
-aS'ORCHIDCHEM'
+aS'500311'
+p9373
+aa(lp9374
+S'Nucleus Software Exports Ltd'
 p9375
-aS'524372'
+aS'NUCLEUS'
 p9376
-aa(lp9377
-S'Oregon Commercials Ltd'
-p9378
-ag4
-aS'512097'
+aS'531209'
+p9377
+aa(lp9378
+S'Numeric Power Systems Ltd'
 p9379
-aa(lp9380
-S'ORG Informatics Ltd'
+aS'SWELECTES'
+p9380
+aS'532051'
 p9381
-aS'ORGINFO'
-p9382
-aS'517195'
+aa(lp9382
+S'Nutech Global Ltd'
 p9383
-aa(lp9384
-S'Organic Coatings Ltd'
-p9385
-ag4
-aS'531157'
+ag56
+aS'531304'
+p9384
+aa(lp9385
+S'Nutraplus Products India Ltd'
 p9386
-aa(lp9387
-S'Oricon Enterprises Ltd'
-p9388
-aS'ORIENTCONT'
+ag56
+aS'524764'
+p9387
+aa(lp9388
+S'Nuway Organic Naturals India Ltd'
 p9389
-aS'513121'
+ag56
+aS'531819'
 p9390
 aa(lp9391
-S'Orient Abrasives Ltd'
+S'Nylofils India Ltd'
 p9392
-aS'ORIENTABRA'
+ag56
+aS'526488'
 p9393
-aS'504879'
-p9394
-aa(lp9395
-S'Orient Beverages Ltd'
+aa(lp9394
+S'ONELIFECAP'
+p9395
+aS'ONELIFECAP'
 p9396
-ag4
-aS'507690'
+aS'533632'
 p9397
 aa(lp9398
-S'Orient Ceramics & Industries Ltd'
+S'ORBTEXP'
 p9399
-aS'ORIENTCERA'
+aS'ORBTEXP'
 p9400
-aS'530365'
+aS'512626'
 p9401
 aa(lp9402
-S'Orient Green Power Company Ltd'
+S'ORIENTREF'
 p9403
-aS'GREENPOWER'
+aS'ORIENTREF'
 p9404
-aS'533263'
+aS'534076'
 p9405
 aa(lp9406
-S'Orient Information Technology Ltd'
+S'ORIENTBELL'
 p9407
-aS'ORIENTINFO'
+aS'ORIENTBELL'
 p9408
-aS'531167'
+aS'530365'
 p9409
 aa(lp9410
-S'Orient Paper & Industries Ltd'
+S'ORIENTCEM'
 p9411
-aS'ORIENTPPR'
+aS'ORIENTCEM'
 p9412
-aS'502420'
+aS'535754'
 p9413
 aa(lp9414
-S'Orient Press Ltd'
+S'Indian Sucrose Ltd'
 p9415
-aS'ORIENTLTD'
+aS'OSWALSUG'
 p9416
-aS'526325'
+aS'500319'
 p9417
 aa(lp9418
-S'Oriental Bank of Commerce'
+S'Oasis Securities Ltd'
 p9419
-aS'ORIENTBANK'
+ag56
+aS'512489'
 p9420
-aS'500315'
-p9421
-aa(lp9422
-S'Oriental Carbon & Chemicals Ltd'
+aa(lp9421
+S'Oberoi Realty Ltd'
+p9422
+aS'OBEROIRLTY'
 p9423
-aS'ORIENTCARB'
+aS'533273'
 p9424
-aS'506579'
-p9425
-aa(lp9426
-S'Oriental Hotels Ltd'
+aa(lp9425
+S'Ocean Agro India Ltd'
+p9426
+ag56
+aS'519491'
 p9427
-aS'ORIENTHOT'
-p9428
-aS'500314'
+aa(lp9428
+S'Ocean Infrastructure Ltd'
 p9429
-aa(lp9430
-S'Oriental Trimex Ltd'
-p9431
-aS'ORIENTALTL'
+ag56
+aS'532086'
+p9430
+aa(lp9431
+S'OCL India Ltd'
 p9432
-aS'532817'
+aS'OCL'
 p9433
-aa(lp9434
-S'Oriental Veneer Products Ltd'
-p9435
-ag4
-aS'531859'
+aS'502165'
+p9434
+aa(lp9435
+S'OCL Iron and Steel Ltd'
 p9436
-aa(lp9437
-S'Orind Exports Ltd'
+aS'OISL'
+p9437
+aS'533008'
 p9438
-ag4
-aS'512616'
-p9439
-aa(lp9440
-S'Orion Paper & Industries Ltd'
+aa(lp9439
+S'Octant Interactive Technologies Ltd'
+p9440
+ag56
+aS'590090'
 p9441
-ag4
-aS'516020'
-p9442
-aa(lp9443
-S'Orissa Minerals Development Company Ltd'
+aa(lp9442
+S'Octav Investments Ltd'
+p9443
+aS'OCTAV'
 p9444
-aS'ORISSAMINE'
+aS'533010'
 p9445
-aS'590086'
-p9446
-aa(lp9447
-S'Orissa Sponge Iron & Steel Ltd'
+aa(lp9446
+S'Odyssey Corporation Ltd'
+p9447
+ag56
+aS'531996'
 p9448
-ag4
-aS'504864'
-p9449
-aa(lp9450
-S'Ortin Laboratories Ltd'
+aa(lp9449
+S'Odyssey Technologies Ltd'
+p9450
+ag56
+aS'530175'
 p9451
-ag4
-aS'590074'
-p9452
-aa(lp9453
-S'Oscar Global Ltd'
+aa(lp9452
+S'Oil & Natural Gas Corporation Ltd'
+p9453
+aS'ONGC'
 p9454
-ag4
-aS'530173'
+aS'500312'
 p9455
 aa(lp9456
-S'Oscar Investments Ltd'
+S'Oil Country Tubular Ltd'
 p9457
-ag4
-aS'501179'
+aS'OILCOUNTUB'
 p9458
-aa(lp9459
-S'Oseaspre Consultants Ltd'
-p9460
-ag4
-aS'509782'
+aS'500313'
+p9459
+aa(lp9460
+S'Oil India Ltd'
 p9461
-aa(lp9462
-S'Osian Industries Ltd'
+aS'OIL'
+p9462
+aS'533106'
 p9463
-ag4
-aS'531617'
-p9464
-aa(lp9465
-S'Oswal Agro Mills Ltd'
+aa(lp9464
+S'OK Play India Ltd'
+p9465
+ag56
+aS'526415'
 p9466
-aS'OSWALAGRO'
-p9467
-aS'500317'
+aa(lp9467
+S'Olympia Industries Ltd'
 p9468
-aa(lp9469
-S'Oswal Chemicals & Fertilizers Ltd'
-p9470
-aS'BINDALAGRO'
+ag56
+aS'521105'
+p9469
+aa(lp9470
+S'Olympic Oil Industries Ltd'
 p9471
-aS'500063'
+ag56
+aS'507609'
 p9472
 aa(lp9473
-S'Oswal Leasing Ltd'
+S'OM Metals Infraprojects Ltd'
 p9474
-ag4
-aS'509099'
+aS'OMMETALS'
 p9475
-aa(lp9476
-S'Oswal minerals Ltd.'
-p9477
-aS'OSWALMIN'
+aS'531092'
+p9476
+aa(lp9477
+S'Omax Autos Ltd'
 p9478
-ag4
-aa(lp9479
-S'Oswal Overseas Ltd'
+aS'OMAXAUTO'
+p9479
+aS'520021'
 p9480
-ag4
-aS'531065'
-p9481
-aa(lp9482
-S'Oswal Spinning & Weaving Mills Ltd'
+aa(lp9481
+S'Omaxe Ltd'
+p9482
+aS'OMAXE'
 p9483
-aS'OSWALSPG'
+aS'532880'
 p9484
-aS'500318'
-p9485
-aa(lp9486
-S'Oswal Yarns Ltd'
+aa(lp9485
+S'Omega Ag-Seeds Punjab Ltd'
+p9486
+ag56
+aS'519479'
 p9487
-ag4
-aS'514460'
-p9488
-aa(lp9489
-S'Oudh Sugar Mills Ltd'
+aa(lp9488
+S'Omega Interactive Technologies Ltd'
+p9489
+ag56
+aS'511644'
 p9490
-aS'OUDHSUG'
-p9491
-aS'507260'
+aa(lp9491
+S'Omkar Overseas Ltd'
 p9492
-aa(lp9493
-S'Overseas Synthetics Ltd'
-p9494
-ag4
-aS'514330'
+ag56
+aS'531496'
+p9493
+aa(lp9494
+S'Omkar Pharmachem Ltd'
 p9495
-aa(lp9496
-S'Oxford Industries Ltd'
-p9497
-ag4
-aS'514414'
+ag56
+aS'532167'
+p9496
+aa(lp9497
+S'Omkar Speciality Chemicals Limited'
 p9498
-aa(lp9499
-S'PANCHSHEEL'
+aS'OMKARCHEM'
+p9499
+aS'533317'
 p9500
-aS'PANCHSHEEL'
-p9501
-ag4
-aa(lp9502
-S'PGIL'
+aa(lp9501
+S'Omni AXs Software Ltd'
+p9502
+ag56
+aS'532340'
 p9503
-aS'PGIL'
-p9504
-ag4
-aa(lp9505
-S'PROVOGE'
+aa(lp9504
+S'Omnitech InfoSolutions Ltd'
+p9505
+aS'OMNITECH'
 p9506
-aS'PROVOGE'
+aS'532882'
 p9507
-ag4
 aa(lp9508
-S'POLYMED'
+S'Omnitex Industries India Ltd'
 p9509
-aS'POLYMED'
+ag56
+aS'514324'
 p9510
-ag4
 aa(lp9511
-S'PILANIINV'
+S'Online Media Solutions Ltd'
 p9512
-aS'PILANIINV'
+ag56
+aS'532354'
 p9513
-ag4
 aa(lp9514
-S'PRAKASHCON'
+S'OnMobile Global Ltd'
 p9515
-aS'PRAKASHCON'
+aS'ONMOBILE'
 p9516
-ag4
-aa(lp9517
-S'PANAMAPET'
-p9518
-aS'PANAMAPET'
+aS'532944'
+p9517
+aa(lp9518
+S'Ontrack Systems Ltd'
 p9519
-ag4
-aa(lp9520
-S'PIPAVAVDOC'
-p9521
-aS'PIPAVAVDOC'
+ag56
+aS'532607'
+p9520
+aa(lp9521
+S'Onward Technologies Ltd'
 p9522
-ag4
-aa(lp9523
-S'PGEL'
+aS'ONWARDTEC'
+p9523
+aS'517536'
 p9524
-aS'PGEL'
-p9525
-ag4
-aa(lp9526
-S'PROZONINTU'
+aa(lp9525
+S'Opto Circuits India Ltd'
+p9526
+aS'OPTOCIRCUI'
 p9527
-aS'PROZONINTU'
+aS'532391'
 p9528
-ag4
 aa(lp9529
-S'PROZONE'
+S'Oracle Financial Services Software Ltd'
 p9530
-aS'PROZONE'
+aS'OFSS'
 p9531
-ag4
-aa(lp9532
-S'PEL'
-p9533
-aS'PEL'
+aS'532466'
+p9532
+aa(lp9533
+S'Orbit Corporation Ltd'
 p9534
-ag4
-aa(lp9535
-S'PDSMFL'
+aS'ORBITCORP'
+p9535
+aS'532837'
 p9536
-aS'PDSMFL'
-p9537
-ag4
-aa(lp9538
-S'PALRED'
+aa(lp9537
+S'Orbit Exports Ltd'
+p9538
+aS'ORBTEXP'
 p9539
-aS'PALRED'
+aS'512626'
 p9540
-ag4
 aa(lp9541
-S'PHOENIXLL'
+S'ORBIT WAR   '
 p9542
-aS'PHOENIXLL'
+ag56
+aS'961665'
 p9543
-ag4
 aa(lp9544
-S'PIRPHYTO'
+S'Orchid Chemicals & Pharmaceuticals Ltd'
 p9545
-aS'PIRPHYTO'
+aS'ORCHIDCHEM'
 p9546
-ag4
-aa(lp9547
-S'PILIND'
-p9548
-aS'PILIND'
+aS'524372'
+p9547
+aa(lp9548
+S'Oregon Commercials Ltd'
 p9549
-ag4
-aa(lp9550
-S'PRESSMN'
-p9551
-aS'PRESSMN'
+ag56
+aS'512097'
+p9550
+aa(lp9551
+S'ORG Informatics Ltd'
 p9552
-ag4
-aa(lp9553
-S'PFRL'
+aS'ORGINFO'
+p9553
+aS'517195'
 p9554
-aS'PFRL'
-p9555
-ag4
-aa(lp9556
-S'PCJEWELLER'
+aa(lp9555
+S'Organic Coatings Ltd'
+p9556
+ag56
+aS'531157'
 p9557
-aS'PCJEWELLER'
-p9558
-ag4
-aa(lp9559
-S'PROZONECSC'
+aa(lp9558
+S'Oricon Enterprises Ltd'
+p9559
+aS'ORICONENT'
 p9560
-aS'PROZONECSC'
+aS'513121'
 p9561
-ag4
 aa(lp9562
-S'Pace Textiles Ltd'
+S'Orient Abrasives Ltd'
 p9563
-ag4
-aS'512449'
+aS'ORIENTABRA'
 p9564
-aa(lp9565
-S'Pacific Cotspin Ltd'
-p9566
-ag4
-aS'531118'
+aS'504879'
+p9565
+aa(lp9566
+S'Orient Beverages Ltd'
 p9567
-aa(lp9568
-S'Pacific Industries Ltd'
-p9569
-aS'PACIFICIND'
+ag56
+aS'507690'
+p9568
+aa(lp9569
+S'Orient Ceramics & Industries Ltd'
 p9570
-aS'523483'
+aS'ORIENTBELL'
 p9571
-aa(lp9572
-S'Padam Cotton Yarns Ltd'
-p9573
-ag4
-aS'531395'
+aS'530365'
+p9572
+aa(lp9573
+S'Orient Green Power Company Ltd'
 p9574
-aa(lp9575
-S'Padmalaya Telefilms Ltd'
+aS'GREENPOWER'
+p9575
+aS'533263'
 p9576
-aS'PADMALAYAT'
-p9577
-aS'532350'
+aa(lp9577
+S'Orient Information Technology Ltd'
 p9578
-aa(lp9579
-S'PAE Ltd'
+aS'ORIENTINFO'
+p9579
+aS'531167'
 p9580
-aS'PAEL'
-p9581
-aS'517230'
+aa(lp9581
+S'Orient Paper & Industries Ltd'
 p9582
-aa(lp9583
-S'Page Industries Ltd'
+aS'ORIENTPPR'
+p9583
+aS'502420'
 p9584
-aS'PAGEIND'
-p9585
-aS'532827'
+aa(lp9585
+S'Orient Press Ltd'
 p9586
-aa(lp9587
-S'PAL Credit & Capital Ltd'
+aS'ORIENTLTD'
+p9587
+aS'526325'
 p9588
-aS'PALCREDIT'
-p9589
-aS'511306'
+aa(lp9589
+S'Oriental Bank of Commerce'
 p9590
-aa(lp9591
-S'Palsoft Infosystems Ltd'
+aS'ORIENTBANK'
+p9591
+aS'500315'
 p9592
-ag4
-aS'511597'
-p9593
-aa(lp9594
-S'Pan Electronics India Ltd'
+aa(lp9593
+S'Oriental Carbon & Chemicals Ltd'
+p9594
+aS'ORIENTCARB'
 p9595
-ag4
-aS'517397'
+aS'506579'
 p9596
 aa(lp9597
-S'Pan India Corporation Ltd'
+S'Oriental Hotels Ltd'
 p9598
-aS'SRGINFOTEC'
+aS'ORIENTHOT'
 p9599
-aS'511525'
+aS'500314'
 p9600
 aa(lp9601
-S'Panacea Biotec Ltd'
+S'Oriental Trimex Ltd'
 p9602
-aS'PANACEABIO'
+aS'ORIENTALTL'
 p9603
-aS'531349'
+aS'532817'
 p9604
 aa(lp9605
-S'Panama Petrochem Ltd'
+S'Oriental Veneer Products Ltd'
 p9606
-ag4
-aS'524820'
+ag56
+aS'531859'
 p9607
 aa(lp9608
-S'Panasonic Battery India Company Ltd'
+S'Orind Exports Ltd'
 p9609
-aS'LAKHNNATNL'
+ag56
+aS'512616'
 p9610
-aS'504093'
-p9611
-aa(lp9612
-S'Panasonic Carbon India Company Ltd'
+aa(lp9611
+S'Orion Paper & Industries Ltd'
+p9612
+ag56
+aS'516020'
 p9613
-aS'PANCARBON'
-p9614
-aS'508941'
+aa(lp9614
+S'Orissa Minerals Development Company Ltd'
 p9615
-aa(lp9616
-S'Panasonic Home Appliances India Company Ltd'
+aS'ORISSAMINE'
+p9616
+aS'590086'
 p9617
-aS'PANASONIC'
-p9618
-aS'523307'
+aa(lp9618
+S'Orissa Sponge Iron & Steel Ltd'
 p9619
-aa(lp9620
-S'Panchmahal Steel Ltd'
-p9621
-aS'PANCHMSTEL'
+ag56
+aS'504864'
+p9620
+aa(lp9621
+S'Ortin Laboratories Ltd'
 p9622
-aS'513511'
+aS'ORTINLABSS'
 p9623
-aa(lp9624
-S'Panchsheel Organics Ltd'
-p9625
-ag4
-aS'531726'
+aS'539287'
+p9624
+aa(lp9625
+S'Oscar Global Ltd'
 p9626
-aa(lp9627
-S'Pankaj Piyush Trade & Investment Ltd'
-p9628
-ag4
-aS'506122'
+ag56
+aS'530173'
+p9627
+aa(lp9628
+S'Oscar Investments Ltd'
 p9629
-aa(lp9630
-S'Pankaj Polymers Ltd'
-p9631
-ag4
-aS'531280'
+ag56
+aS'501179'
+p9630
+aa(lp9631
+S'Oseaspre Consultants Ltd'
 p9632
-aa(lp9633
-S'Panoramic Universal Ltd'
-p9634
-aS'PANORAMUNI'
+ag56
+aS'509782'
+p9633
+aa(lp9634
+S'Osian Industries Ltd'
 p9635
-aS'531816'
+ag56
+aS'531617'
 p9636
 aa(lp9637
-S'PANTALOON RE'
+S'Oswal Agro Mills Ltd'
 p9638
-ag4
-aS'623574'
+aS'OSWALAGRO'
 p9639
-aa(lp9640
-S'Pantaloon Retail India Ltd'
-p9641
-aS'PANTALOONR'
+aS'500317'
+p9640
+aa(lp9641
+S'Oswal Chemicals & Fertilizers Ltd'
 p9642
-aS'523574'
+aS'BINDALAGRO'
 p9643
-aa(lp9644
-S'Pantaloon Retail India-DVR'
-p9645
-ag4
-aS'570002'
+aS'500063'
+p9644
+aa(lp9645
+S'Oswal Leasing Ltd'
 p9646
-aa(lp9647
-S'Pantaloon Retail India-DVR'
-p9648
-aS'PRETAILDVR'
+ag56
+aS'509099'
+p9647
+aa(lp9648
+S'Oswal minerals Ltd.'
 p9649
-aS' 570002'
+aS'OSWALMIN'
 p9650
+ag56
 aa(lp9651
-S'Panther Industrial Products Ltd'
+S'Oswal Overseas Ltd'
 p9652
-ag4
-aS'524055'
+ag56
+aS'531065'
 p9653
 aa(lp9654
-S'Panyam Cements & Mineral Industries Ltd'
+S'Oswal Spinning & Weaving Mills Ltd'
 p9655
-aS'PANYAMCEM'
+aS'OSWALSPG'
 p9656
-aS'500322'
+aS'500318'
 p9657
 aa(lp9658
-S'Paper Products Ltd'
+S'Oswal Yarns Ltd'
 p9659
-aS'PAPERPROD'
+ag56
+aS'514460'
 p9660
-aS'509820'
-p9661
-aa(lp9662
-S'Paraan Ltd'
+aa(lp9661
+S'Oudh Sugar Mills Ltd'
+p9662
+aS'OUDHSUG'
 p9663
-ag4
-aS'506159'
+aS'507260'
 p9664
 aa(lp9665
-S'Parabolic Drugs Ltd'
+S'Overseas Synthetics Ltd'
 p9666
-aS'PARABDRUGS'
+ag56
+aS'514330'
 p9667
-aS'533211'
-p9668
-aa(lp9669
-S'Parag Shilpa Investments Ltd'
+aa(lp9668
+S'Oxford Industries Ltd'
+p9669
+ag56
+aS'514414'
 p9670
-ag4
-aS'505502'
-p9671
-aa(lp9672
-S'Paragon Finance Ltd'
+aa(lp9671
+S'PANCHSHEEL'
+p9672
+aS'PANCHSHEEL'
 p9673
-ag4
-aS'531255'
+aS'531726'
 p9674
 aa(lp9675
-S'Paramount Communications Ltd'
+S'PGIL'
 p9676
-aS'PARACABLES'
+aS'PGIL'
 p9677
-aS'530555'
+aS'532808'
 p9678
 aa(lp9679
-S'Paramount Cosmetics India Ltd'
+S'PROVOGE'
 p9680
-ag4
-aS'507970'
+aS'PROVOGE'
 p9681
-aa(lp9682
-S'Paramount Printpackaging Limited'
-p9683
-aS'PARAPRINT'
+aS'532647'
+p9682
+aa(lp9683
+S'POLYMED'
 p9684
-aS'533399'
+aS'POLYMED'
 p9685
-aa(lp9686
-S'Paras Petrofils Ltd'
-p9687
-aS'PARASPETRO'
+aS'531768'
+p9686
+aa(lp9687
+S'PILANIINV'
 p9688
-aS'521246'
+aS'PILANIINV'
 p9689
-aa(lp9690
-S'Parasrampuria Credit Inves Ltd'
-p9691
-ag4
-aS'511082'
+aS'590121'
+p9690
+aa(lp9691
+S'PRAKASHCON'
 p9692
-aa(lp9693
-S'Parekh Aluminex Ltd'
+aS'PRAKASHCON'
+p9693
+aS'533605'
 p9694
-aS'PARAL'
-p9695
-aS'532606'
+aa(lp9695
+S'PANAMAPET'
 p9696
-aa(lp9697
-S'Parekh Platinum Ltd'
+aS'PANAMAPET'
+p9697
+aS'524820'
 p9698
-aS'PAREKHPLAT'
-p9699
-aS'500323'
+aa(lp9699
+S'PIPAVAVDOC'
 p9700
-aa(lp9701
-S'Parenteral Drugs India Ltd'
+aS'PIPAVAVDOC'
+p9701
+aS'533107'
 p9702
-aS'PDPL'
-p9703
-aS'524689'
+aa(lp9703
+S'PGEL'
 p9704
-aa(lp9705
-S'Parichay Investments Ltd'
+aS'PGEL'
+p9705
+aS'533581'
 p9706
-ag4
-aS'505525'
-p9707
-aa(lp9708
-S'Parijat Trading Ltd'
+aa(lp9707
+S'PROZONINTU'
+p9708
+aS'PROZONINTU'
 p9709
-ag4
-aS'512087'
+aS'534675'
 p9710
 aa(lp9711
-S'Parikh Herbals Ltd'
+S'PROZONE'
 p9712
-ag4
-aS'532034'
+aS'PROZONINTU'
 p9713
-aa(lp9714
-S'Parker Agrochem Exports Ltd'
-p9715
-ag4
-aS'524628'
+aS'534675'
+p9714
+aa(lp9715
+S'PEL'
 p9716
-aa(lp9717
-S'Parle Software Ltd'
+aS'PEL'
+p9717
+aS'500302'
 p9718
-ag4
-aS'532911'
-p9719
-aa(lp9720
-S'Parrys Sugar Industries Limited'
+aa(lp9719
+S'PDSMFL'
+p9720
+aS'PDSMFL'
 p9721
-aS'PARRYSUGAR'
+aS'538730'
 p9722
-aS'500162'
-p9723
-aa(lp9724
-S'Parsharti Investment Ltd'
+aa(lp9723
+S'PALRED'
+p9724
+aS'PALRED'
 p9725
-ag4
-aS'511702'
-p9726
-aa(lp9727
-S'Parshwanath Housing Finance Corporation Ltd'
+ag56
+aa(lp9726
+S'PHOENIXLL'
+p9727
+aS'PHOENIXLL'
 p9728
-ag4
-aS'511176'
+aS'517296'
 p9729
 aa(lp9730
-S'Parsoli Corporation Ltd'
+S'PIRPHYTO'
 p9731
-ag4
-aS'530071'
+aS'PIRPHYTO'
 p9732
-aa(lp9733
-S'Parsvnath Developers Ltd'
-p9734
-aS'PARSVNATH'
+aS'532979'
+p9733
+aa(lp9734
+S'PILIND'
 p9735
-aS'532780'
+aS'PILIND'
 p9736
-aa(lp9737
-S'Parth Alluminium Ltd'
-p9738
-ag4
-aS'513430'
+aS'500327'
+p9737
+aa(lp9738
+S'PRESSMN'
 p9739
-aa(lp9740
-S'Pasari Spinning Mills Ltd'
+aS'PRESSMN'
+p9740
+aS'509077'
 p9741
-ag4
-aS'521080'
-p9742
-aa(lp9743
-S'Passari Cellulose Ltd'
+aa(lp9742
+S'PFRL'
+p9743
+aS'PFRL'
 p9744
-ag4
-aS'530923'
+aS'535755'
 p9745
 aa(lp9746
-S'Pasupati Acrylon Ltd'
+S'PCJEWELLER'
 p9747
-aS'PASUPTACRY'
+aS'PCJEWELLER'
 p9748
-aS'500456'
+aS'534809'
 p9749
 aa(lp9750
-S'Pasupati Fincap Ltd'
+S'PROZONECSC'
 p9751
-ag4
-aS'511734'
+aS'PROZONECSC'
 p9752
+ag56
 aa(lp9753
-S'Pasupati Spinning & Weaving Mills Ltd'
+S'Pace Textiles Ltd'
 p9754
-aS'PASUPATSPG'
+ag56
+aS'512449'
 p9755
-aS'503092'
-p9756
-aa(lp9757
-S'Patel Engineering Ltd'
+aa(lp9756
+S'Pacific Cotspin Ltd'
+p9757
+ag56
+aS'531118'
 p9758
-aS'PATELENG'
-p9759
-aS'531120'
+aa(lp9759
+S'Pacific Industries Ltd'
 p9760
-aa(lp9761
-S'Patel Integrated Logistics Ltd'
+aS'PACIFICIND'
+p9761
+aS'523483'
 p9762
-aS'PATINTLOG'
-p9763
-aS'526381'
+aa(lp9763
+S'Padam Cotton Yarns Ltd'
 p9764
-aa(lp9765
-S'Patels Airtemp India Ltd'
-p9766
-ag4
-aS'517417'
+ag56
+aS'531395'
+p9765
+aa(lp9766
+S'Padmalaya Telefilms Ltd'
 p9767
-aa(lp9768
-S'Patni Computer Systems Ltd'
+aS'PADMALAYAT'
+p9768
+aS'532350'
 p9769
-aS'PATNI'
-p9770
-aS'532517'
+aa(lp9770
+S'PAE Ltd'
 p9771
-aa(lp9772
-S'Patspin India Ltd'
+aS'PAEL'
+p9772
+aS'517230'
 p9773
-aS'PATSPINLTD'
-p9774
-aS'514326'
+aa(lp9774
+S'Page Industries Ltd'
 p9775
-aa(lp9776
-S'Paushak Ltd'
+aS'PAGEIND'
+p9776
+aS'532827'
 p9777
-ag4
-aS'532742'
-p9778
-aa(lp9779
-S'PBA Infrastructure Ltd'
+aa(lp9778
+S'PAL Credit & Capital Ltd'
+p9779
+aS'PALCREDIT'
 p9780
-aS'PBAINFRA'
+aS'511306'
 p9781
-aS'532676'
-p9782
-aa(lp9783
-S'PBM Polytex Ltd'
+aa(lp9782
+S'Palsoft Infosystems Ltd'
+p9783
+ag56
+aS'511597'
 p9784
-ag4
-aS'514087'
-p9785
-aa(lp9786
-S'PCS Technology Ltd'
+aa(lp9785
+S'Pan Electronics India Ltd'
+p9786
+ag56
+aS'517397'
 p9787
-ag4
-aS'517119'
-p9788
-aa(lp9789
-S'Peacock Industries Ltd'
+aa(lp9788
+S'Pan India Corporation Ltd'
+p9789
+aS'SRGINFOTEC'
 p9790
-aS'PEACOCKIND'
+aS'511525'
 p9791
-aS'500327'
-p9792
-aa(lp9793
-S'Pearl Engineering Polymers Ltd'
+aa(lp9792
+S'Panacea Biotec Ltd'
+p9793
+aS'PANACEABIO'
 p9794
-aS'PEPL'
+aS'531349'
 p9795
-aS'526562'
-p9796
-aa(lp9797
-S'Pearl Global Ltd'
+aa(lp9796
+S'Panama Petrochem Ltd'
+p9797
+aS'PANAMAPET'
 p9798
-aS'PEARLGLOBL'
+aS'524820'
 p9799
-aS'521123'
-p9800
-aa(lp9801
-S'PEARL Polymers Ltd'
+aa(lp9800
+S'Panasonic Battery India Company Ltd'
+p9801
+aS'LAKHNNATNL'
 p9802
-aS'PEARLPOLY'
+aS'504093'
 p9803
-aS'523260'
-p9804
-aa(lp9805
-S'Pee Cee Cosma Sope Ltd'
+aa(lp9804
+S'Panasonic Carbon India Company Ltd'
+p9805
+aS'PANCARBON'
 p9806
-ag4
-aS'524136'
+aS'508941'
 p9807
 aa(lp9808
-S'Peeti Securities Ltd'
+S'Panasonic Home Appliances India Company Ltd'
 p9809
-ag4
-aS'531352'
+aS'PANASONIC'
 p9810
-aa(lp9811
-S'Peninsula Land Ltd'
-p9812
-aS'PENINLAND'
+aS'523307'
+p9811
+aa(lp9812
+S'Panchmahal Steel Ltd'
 p9813
-aS'503031'
+aS'PANCHMSTEL'
 p9814
-aa(lp9815
-S'PENN IND PS '
-p9816
-ag4
-aS'700107'
+aS'513511'
+p9815
+aa(lp9816
+S'Panchsheel Organics Ltd'
 p9817
-aa(lp9818
-S'Pennar Aluminium Company Ltd'
+aS'PANCHSHEEL'
+p9818
+aS'531726'
 p9819
-aS'PENNARALUM'
-p9820
-aS'513405'
+aa(lp9820
+S'Pankaj Piyush Trade & Investment Ltd'
 p9821
-aa(lp9822
-S'Pennar Industries Ltd'
-p9823
-aS'PENIND'
+ag56
+aS'506122'
+p9822
+aa(lp9823
+S'Pankaj Polymers Ltd'
 p9824
-aS'513228'
+ag56
+aS'531280'
 p9825
 aa(lp9826
-S'Pentamedia Graphics Ltd'
+S'Panoramic Universal Ltd'
 p9827
-aS'PENTSFWARE'
+aS'PANORAMUNI'
 p9828
-aS'500329'
+aS'531816'
 p9829
 aa(lp9830
-S'Pentasoft Technologies Ltd'
+S'PANTALOON RE'
 p9831
-aS'PENTACOMMU'
+ag56
+aS'623574'
 p9832
-aS'531492'
-p9833
-aa(lp9834
-S'Pentokey Organy India Ltd'
+aa(lp9833
+S'Pantaloon Retail India Ltd'
+p9834
+aS'FRL'
 p9835
-ag4
-aS'524210'
+aS'523574'
 p9836
 aa(lp9837
-S'Peoples Investments Ltd'
+S'Pantaloon Retail India-DVR'
 p9838
-ag4
-aS'501144'
+aS'FRLDVR'
 p9839
-aa(lp9840
-S'Perfectpac Ltd'
-p9841
-ag4
-aS'526435'
+aS'570002'
+p9840
+aa(lp9841
+S'Pantaloon Retail India-DVR'
 p9842
-aa(lp9843
-S'Peria Karamalai Tea & Produce Company Ltd'
+aS'FRLDVR'
+p9843
+aS'570002'
 p9844
-aS'PERIATEA'
-p9845
-aS'531044'
+aa(lp9845
+S'Panther Industrial Products Ltd'
 p9846
-aa(lp9847
-S'Permanent Magnets Ltd'
-p9848
-aS'PERMAGNET'
+ag56
+aS'524055'
+p9847
+aa(lp9848
+S'Panyam Cements & Mineral Industries Ltd'
 p9849
-aS'504132'
+aS'PANYAMCEM'
 p9850
-aa(lp9851
-S'Persistent Systems Ltd'
-p9852
-aS'PERSISTENT'
+aS'500322'
+p9851
+aa(lp9852
+S'Paper Products Ltd'
 p9853
-aS'533179'
+aS'PAPERPROD'
 p9854
-aa(lp9855
-S'Petron Engineering Construction Ltd'
-p9856
-aS'PETRONENGG'
+aS'509820'
+p9855
+aa(lp9856
+S'Paraan Ltd'
 p9857
-aS'530381'
+ag56
+aS'506159'
 p9858
 aa(lp9859
-S'Petronet LNG Ltd'
+S'Parabolic Drugs Ltd'
 p9860
-aS'PETRONET'
+aS'PARABDRUGS'
 p9861
-aS'532522'
+aS'533211'
 p9862
 aa(lp9863
-S'Pfizer Ltd'
+S'Parag Shilpa Investments Ltd'
 p9864
-aS'PFIZER'
+ag56
+aS'505502'
 p9865
-aS'500680'
-p9866
-aa(lp9867
-S'PFL Infotech Ltd'
+aa(lp9866
+S'Paragon Finance Ltd'
+p9867
+ag56
+aS'531255'
 p9868
-ag4
-aS'531769'
-p9869
-aa(lp9870
-S'PG Foils Ltd'
+aa(lp9869
+S'Paramount Communications Ltd'
+p9870
+aS'PARACABLES'
 p9871
-ag4
-aS'526747'
+aS'530555'
 p9872
 aa(lp9873
-S'PG Industry Ltd'
+S'Paramount Cosmetics India Ltd'
 p9874
-ag4
-aS'531281'
+ag56
+aS'507970'
 p9875
 aa(lp9876
-S'PH Capital Ltd'
+S'Paramount Printpackaging Limited'
 p9877
-ag4
-aS'500143'
+aS'PARAPRINT'
 p9878
-aa(lp9879
-S'PH Trading Ltd'
-p9880
-ag4
-aS'512026'
+aS'533399'
+p9879
+aa(lp9880
+S'Paras Petrofils Ltd'
 p9881
-aa(lp9882
-S'Phaarmasia Ltd'
+aS'PARASPETRO'
+p9882
+aS'521246'
 p9883
-ag4
-aS'523620'
-p9884
-aa(lp9885
-S'Pharma Com India Ltd'
+aa(lp9884
+S'Parasrampuria Credit Inves Ltd'
+p9885
+ag56
+aS'511082'
 p9886
-ag4
-aS'516110'
-p9887
-aa(lp9888
-S'Pharmaids Pharmaceuticals Ltd'
+aa(lp9887
+S'Parekh Aluminex Ltd'
+p9888
+aS'PARAL'
 p9889
-ag4
-aS'524572'
+aS'532606'
 p9890
 aa(lp9891
-S'PHIL Corporation Ltd'
+S'Parekh Platinum Ltd'
 p9892
-aS'PHILCORP'
+aS'PAREKHPLAT'
 p9893
-aS'500458'
+aS'500323'
 p9894
 aa(lp9895
-S'Phillips Carbon Black Ltd'
+S'Parenteral Drugs India Ltd'
 p9896
-aS'PHILIPCARB'
+aS'PDPL'
 p9897
-aS'506590'
+aS'524689'
 p9898
 aa(lp9899
-S'Phoenix International Ltd'
+S'Parichay Investments Ltd'
 p9900
-aS'PHOENXINTL'
+ag56
+aS'505525'
 p9901
-aS'526481'
-p9902
-aa(lp9903
-S'Phoenix Mills Ltd'
+aa(lp9902
+S'Parijat Trading Ltd'
+p9903
+ag56
+aS'512087'
 p9904
-aS'PHOENIXLTD'
-p9905
-aS'503100'
+aa(lp9905
+S'Parikh Herbals Ltd'
 p9906
-aa(lp9907
-S'Photon Capital Advisors Ltd'
-p9908
-ag4
-aS'509084'
+ag56
+aS'532034'
+p9907
+aa(lp9908
+S'Parker Agrochem Exports Ltd'
 p9909
-aa(lp9910
-S'Photoquip India Ltd'
-p9911
-ag4
-aS'526588'
+ag56
+aS'524628'
+p9910
+aa(lp9911
+S'Parle Software Ltd'
 p9912
-aa(lp9913
-S'Phyto Chem India Ltd'
-p9914
-ag4
-aS'524808'
+ag56
+aS'532911'
+p9913
+aa(lp9914
+S'Parrys Sugar Industries Limited'
 p9915
-aa(lp9916
-S'PI Drugs & Pharmaceuticals Ltd'
+aS'PARRYSUGAR'
+p9916
+aS'500162'
 p9917
-ag4
-aS'512529'
-p9918
-aa(lp9919
-S'PI Industries Ltd'
+aa(lp9918
+S'Parsharti Investment Ltd'
+p9919
+ag56
+aS'511702'
 p9920
-aS'PIIND'
-p9921
-aS'523642'
+aa(lp9921
+S'Parshwanath Housing Finance Corporation Ltd'
 p9922
-aa(lp9923
-S'Piccadily Agro Industries Ltd'
-p9924
-ag4
-aS'530305'
+ag56
+aS'511176'
+p9923
+aa(lp9924
+S'Parsoli Corporation Ltd'
 p9925
-aa(lp9926
-S'Piccadily Sugar & Allied Industries Ltd'
-p9927
-aS'PICCADSUG'
+ag56
+aS'530071'
+p9926
+aa(lp9927
+S'Parsvnath Developers Ltd'
 p9928
-aS'507498'
+aS'PARSVNATH'
 p9929
-aa(lp9930
-S'Pidilite Industries Ltd'
-p9931
-aS'PIDILITIND'
+aS'532780'
+p9930
+aa(lp9931
+S'Parth Alluminium Ltd'
 p9932
-aS'500331'
+ag56
+aS'513430'
 p9933
 aa(lp9934
-S'Pioneer Agro Extracts Ltd'
+S'Pasari Spinning Mills Ltd'
 p9935
-ag4
-aS'519439'
+ag56
+aS'521080'
 p9936
 aa(lp9937
-S'Pioneer Distilleries Ltd'
+S'Passari Cellulose Ltd'
 p9938
-aS'PIONDIST'
+ag56
+aS'530923'
 p9939
-aS'531879'
-p9940
-aa(lp9941
-S'Pioneer Embroideries Ltd'
+aa(lp9940
+S'Pasupati Acrylon Ltd'
+p9941
+aS'PASUPTACRY'
 p9942
-aS'PIONEEREMB'
+aS'500456'
 p9943
-aS'514300'
-p9944
-aa(lp9945
-S'Pioneer Investcorp Ltd'
+aa(lp9944
+S'Pasupati Fincap Ltd'
+p9945
+ag56
+aS'511734'
 p9946
-ag4
-aS'507864'
-p9947
-aa(lp9948
-S'Pipavav Shipyard Ltd'
+aa(lp9947
+S'Pasupati Spinning & Weaving Mills Ltd'
+p9948
+aS'PASUPATSPG'
 p9949
-aS'PIPAVAVYD'
+aS'503092'
 p9950
-aS'533107'
-p9951
-aa(lp9952
-S'Piramal Glass Ltd'
+aa(lp9951
+S'Patel Engineering Ltd'
+p9952
+aS'PATELENG'
 p9953
-aS'PIRGLASS'
+aS'531120'
 p9954
-aS'532949'
-p9955
-aa(lp9956
-S'Piramal Healthcare Ltd'
+aa(lp9955
+S'Patel Integrated Logistics Ltd'
+p9956
+aS'PATINTLOG'
 p9957
-aS'PIRHEALTH'
+aS'526381'
 p9958
-aS'500302'
-p9959
-aa(lp9960
-S'Piramal Life Sciences Ltd'
+aa(lp9959
+S'Patels Airtemp India Ltd'
+p9960
+ag56
+aS'517417'
 p9961
-aS'PIRLIFE'
-p9962
-aS'532979'
+aa(lp9962
+S'Patni Computer Systems Ltd'
 p9963
-aa(lp9964
-S'Pithampur Poly Products Ltd'
+aS'PATNI'
+p9964
+aS'532517'
 p9965
-ag4
-aS'530683'
-p9966
-aa(lp9967
-S'Pithampur Steels Ltd'
+aa(lp9966
+S'Patspin India Ltd'
+p9967
+aS'PATSPINLTD'
 p9968
-ag4
-aS'513611'
+aS'514326'
 p9969
 aa(lp9970
-S'Pitti Laminations Ltd'
+S'Paushak Ltd'
 p9971
-aS'PITTILAM'
+ag56
+aS'532742'
 p9972
-aS'513519'
-p9973
-aa(lp9974
-S'Pix Transmissions Ltd'
+aa(lp9973
+S'PBA Infrastructure Ltd'
+p9974
+aS'PBAINFRA'
 p9975
-ag4
-aS'500333'
+aS'532676'
 p9976
 aa(lp9977
-S'PL Enterprises Ltd'
+S'PBM Polytex Ltd'
 p9978
-ag4
-aS'526671'
+ag56
+aS'514087'
 p9979
 aa(lp9980
-S'Planters Polysacks Ltd'
+S'PCS Technology Ltd'
 p9981
-ag4
-aS'523105'
+ag56
+aS'517119'
 p9982
 aa(lp9983
-S'Plastiblends India Ltd'
+S'Peacock Industries Ltd'
 p9984
-aS'PLASTIBLEN'
+aS'PILIND'
 p9985
-aS'523648'
+aS'500327'
 p9986
 aa(lp9987
-S'Platinum Corporation Ltd'
+S'Pearl Engineering Polymers Ltd'
 p9988
-ag4
-aS'532117'
+aS'PEPL'
 p9989
-aa(lp9990
-S'Plethico Pharmaceuticals Ltd'
-p9991
-aS'PLETHICO'
+aS'526562'
+p9990
+aa(lp9991
+S'Pearl Global Ltd'
 p9992
-aS'532739'
+aS'PEARLGLOBL'
 p9993
-aa(lp9994
-S'PNB Gilts Ltd'
-p9995
-aS'PNBGILTS'
+aS'521123'
+p9994
+aa(lp9995
+S'PEARL Polymers Ltd'
 p9996
-aS'532366'
+aS'PEARLPOLY'
 p9997
-aa(lp9998
-S'Pochiraju Industries Ltd'
-p9999
-aS'POCHIRAJU '
+aS'523260'
+p9998
+aa(lp9999
+S'Pee Cee Cosma Sope Ltd'
 p10000
-aS'532803'
+ag56
+aS'524136'
 p10001
 aa(lp10002
-S'Poddar Pigments Ltd'
+S'Peeti Securities Ltd'
 p10003
-aS'PODARPIGMT'
+ag56
+aS'531352'
 p10004
-aS'524570'
-p10005
-aa(lp10006
-S'Pokarna Ltd'
+aa(lp10005
+S'Peninsula Land Ltd'
+p10006
+aS'PENINLAND'
 p10007
-ag4
-aS'532486'
+aS'503031'
 p10008
 aa(lp10009
-S'Polar Industries Ltd'
+S'PENN IND PS '
 p10010
-aS'POLARIND'
+ag56
+aS'700107'
 p10011
-aS'504288'
-p10012
-aa(lp10013
-S'Polar Pharma India Ltd'
+aa(lp10012
+S'Pennar Aluminium Company Ltd'
+p10013
+aS'PENNARALUM'
 p10014
-ag4
-aS'523333'
+aS'513405'
 p10015
 aa(lp10016
-S'Polaris Software Lab Ltd'
+S'Pennar Industries Ltd'
 p10017
-aS'POLARIS'
+aS'PENIND'
 p10018
-aS'532254'
+aS'513228'
 p10019
 aa(lp10020
-S'Polo Hotels Ltd'
+S'Pentamedia Graphics Ltd'
 p10021
-ag4
-aS'526687'
+aS'PENTSFWARE'
 p10022
-aa(lp10023
-S'Polson Ltd'
-p10024
-ag4
-aS'507645'
+aS'500329'
+p10023
+aa(lp10024
+S'Pentasoft Technologies Ltd'
 p10025
-aa(lp10026
-S'Poly Medicure Ltd'
+aS'PENTACOMMU'
+p10026
+aS'531492'
 p10027
-ag4
-aS'531768'
-p10028
-aa(lp10029
-S'Polychem Ltd'
+aa(lp10028
+S'Pentokey Organy India Ltd'
+p10029
+ag56
+aS'524210'
 p10030
-aS'POLYCHEM'
-p10031
-aS'506605'
+aa(lp10031
+S'Peoples Investments Ltd'
 p10032
-aa(lp10033
-S'Polycon International Ltd'
-p10034
-ag4
-aS'531397'
+ag56
+aS'501144'
+p10033
+aa(lp10034
+S'Perfectpac Ltd'
 p10035
-aa(lp10036
-S'Polygenta Technologies Ltd'
-p10037
-ag4
-aS'514486'
+ag56
+aS'526435'
+p10036
+aa(lp10037
+S'Peria Karamalai Tea & Produce Company Ltd'
 p10038
-aa(lp10039
-S'Polylink Polymers India Ltd'
-p10040
-ag4
-aS'531454'
+aS'PKTEA'
+p10039
+ag56
+aa(lp10040
+S'Permanent Magnets Ltd'
 p10041
-aa(lp10042
-S'Polymechplast Machines Ltd'
+aS'PERMAGNET'
+p10042
+aS'504132'
 p10043
-ag4
-aS'526043'
-p10044
-aa(lp10045
-S'Polyplex Corporation Ltd'
+aa(lp10044
+S'Persistent Systems Ltd'
+p10045
+aS'PERSISTENT'
 p10046
-aS'POLYPLEX'
+aS'533179'
 p10047
-aS'524051'
-p10048
-aa(lp10049
-S'Polypro Fibrils India Ltd'
+aa(lp10048
+S'Petron Engineering Construction Ltd'
+p10049
+aS'PETRONENGG'
 p10050
-ag4
-aS'531467'
+aS'530381'
 p10051
 aa(lp10052
-S'Polyspin Exports Ltd'
+S'Petronet LNG Ltd'
 p10053
-ag4
-aS'590055'
+aS'PETRONET'
 p10054
-aa(lp10055
-S'Polytex India Ltd'
-p10056
-ag4
-aS'512481'
+aS'532522'
+p10055
+aa(lp10056
+S'Pfizer Ltd'
 p10057
-aa(lp10058
-S'Pondy Oxides & Chemicals Ltd'
+aS'PFIZER'
+p10058
+aS'500680'
 p10059
-aS'PONDYOXIDE'
-p10060
-aS'532626'
+aa(lp10060
+S'PFL Infotech Ltd'
 p10061
-aa(lp10062
-S'Ponni Sugars Erode Ltd'
-p10063
-aS'PONNIERODE'
+ag56
+aS'531769'
+p10062
+aa(lp10063
+S'PG Foils Ltd'
 p10064
-aS'532460'
+ag56
+aS'526747'
 p10065
 aa(lp10066
-S'Poona Dal & Oil Industries Ltd'
+S'PG Industry Ltd'
 p10067
-ag4
-aS'519359'
+ag56
+aS'531281'
 p10068
 aa(lp10069
-S'Poonam Corporation Ltd'
+S'PH Capital Ltd'
 p10070
-ag4
-aS'531219'
+ag56
+aS'500143'
 p10071
 aa(lp10072
-S'Popular Estate Management Ltd'
+S'PH Trading Ltd'
 p10073
-ag4
-aS'531870'
+ag56
+aS'512026'
 p10074
 aa(lp10075
-S'Porwal Auto Components Ltd'
+S'Phaarmasia Ltd'
 p10076
-aS'PORWAL'
+ag56
+aS'523620'
 p10077
-aS'532933'
-p10078
-aa(lp10079
-S'Power Finance Corporation Ltd'
+aa(lp10078
+S'Pharma Com India Ltd'
+p10079
+ag56
+aS'516110'
 p10080
-aS'PFC '
-p10081
-aS'532810'
+aa(lp10081
+S'Pharmaids Pharmaceuticals Ltd'
 p10082
-aa(lp10083
-S'Power Grid Corporation of India Ltd'
-p10084
-aS'POWERGRID'
+ag56
+aS'524572'
+p10083
+aa(lp10084
+S'PHIL Corporation Ltd'
 p10085
-aS'532898'
+aS'PHILCORP'
 p10086
-aa(lp10087
-S'Powersoft Global Solutions Ltd'
-p10088
-ag4
-aS'532736'
+aS'500458'
+p10087
+aa(lp10088
+S'Phillips Carbon Black Ltd'
 p10089
-aa(lp10090
-S'Prabhav Industries Ltd'
+aS'PHILIPCARB'
+p10090
+aS'506590'
 p10091
-ag4
-aS'531855'
-p10092
-aa(lp10093
-S'Pradeep Metals Ltd'
+aa(lp10092
+S'Phoenix International Ltd'
+p10093
+aS'PHOENXINTL'
 p10094
-ag4
-aS'513532'
+aS'526481'
 p10095
 aa(lp10096
-S'Pradip Overseas Ltd'
+S'Phoenix Mills Ltd'
 p10097
-aS'PRADIP'
+aS'PHOENIXLTD'
 p10098
-aS'533178'
+aS'503100'
 p10099
 aa(lp10100
-S'Prag Bosimi Synthetics Ltd'
+S'Photon Capital Advisors Ltd'
 p10101
-aS'PRAGBOSIMI'
+ag56
+aS'509084'
 p10102
-aS'500192'
-p10103
-aa(lp10104
-S'Praj Industries Ltd'
+aa(lp10103
+S'Photoquip India Ltd'
+p10104
+ag56
+aS'526588'
 p10105
-aS'PRAJIND'
-p10106
-aS'522205'
+aa(lp10106
+S'Phyto Chem India Ltd'
 p10107
-aa(lp10108
-S'Prajay Engineers Syndicate Ltd'
-p10109
-aS'PRAENG'
+ag56
+aS'524808'
+p10108
+aa(lp10109
+S'PI Drugs & Pharmaceuticals Ltd'
 p10110
-aS'531746'
+ag56
+aS'512529'
 p10111
 aa(lp10112
-S'Prakash Industries Ltd'
+S'PI Industries Ltd'
 p10113
-aS'PRAKASH'
+aS'PIIND'
 p10114
-aS'506022'
+aS'523642'
 p10115
 aa(lp10116
-S'Prakash Steelage Ltd'
+S'Piccadily Agro Industries Ltd'
 p10117
-aS'PRAKASHSTL'
+ag56
+aS'530305'
 p10118
-aS'533239'
-p10119
-aa(lp10120
-S'Prakash Woollen Mills Ltd'
+aa(lp10119
+S'Piccadily Sugar & Allied Industries Ltd'
+p10120
+aS'PICCADSUG'
 p10121
-ag4
-aS'531437'
+aS'507498'
 p10122
 aa(lp10123
-S'Pramada Finvest Ltd'
+S'Pidilite Industries Ltd'
 p10124
-ag4
-aS'531293'
+aS'PIDILITIND'
 p10125
-aa(lp10126
-S'Pranavaditya Spinning Mills Ltd'
-p10127
-ag4
-aS'531172'
+aS'500331'
+p10126
+aa(lp10127
+S'Pioneer Agro Extracts Ltd'
 p10128
-aa(lp10129
-S'Pratibha Industries Ltd'
-p10130
-aS'PRATIBHA'
+ag56
+aS'519439'
+p10129
+aa(lp10130
+S'Pioneer Distilleries Ltd'
 p10131
-aS'532718'
+aS'PIONDIST'
 p10132
-aa(lp10133
-S'Pratik Panels Ltd'
-p10134
-ag4
-aS'526490'
+aS'531879'
+p10133
+aa(lp10134
+S'Pioneer Embroideries Ltd'
 p10135
-aa(lp10136
-S'Pratiksha Chemicals Ltd'
+aS'PIONEEREMB'
+p10136
+aS'514300'
 p10137
-ag4
-aS'531257'
-p10138
-aa(lp10139
-S'Praveen Properties Ltd'
+aa(lp10138
+S'Pioneer Investcorp Ltd'
+p10139
+ag56
+aS'507864'
 p10140
-ag4
-aS'531256'
-p10141
-aa(lp10142
-S'Precimet Diamonds India Ltd'
+aa(lp10141
+S'Pipavav Shipyard Ltd'
+p10142
+aS'PIPAVAVDOC'
 p10143
-aS'PERCIMDIAM'
+aS'533107'
 p10144
-aS'530391'
-p10145
-aa(lp10146
-S'Precious Trading & Investments Ltd'
+aa(lp10145
+S'Piramal Glass Ltd'
+p10146
+aS'PIRGLASS'
 p10147
-ag4
-aS'506107'
+aS'532949'
 p10148
 aa(lp10149
-S'Precision Containeurs Ltd'
+S'Piramal Healthcare Ltd'
 p10150
-ag4
-aS'523874'
+aS'PEL'
 p10151
-aa(lp10152
-S'Precision Electronics Ltd'
-p10153
-ag4
-aS'517258'
+aS'500302'
+p10152
+aa(lp10153
+S'Piramal Life Sciences Ltd'
 p10154
-aa(lp10155
-S'Precision Pipes & Profiles Company Ltd'
+aS'PIRPHYTO'
+p10155
+aS'532979'
 p10156
-aS'PPAP'
-p10157
-aS'532934'
+aa(lp10157
+S'Pithampur Poly Products Ltd'
 p10158
-aa(lp10159
-S'Precision Wires India Ltd'
-p10160
-aS'PRECWIRE'
+ag56
+aS'530683'
+p10159
+aa(lp10160
+S'Pithampur Steels Ltd'
 p10161
-aS'523539'
+ag56
+aS'513611'
 p10162
 aa(lp10163
-S'Precot Mills Ltd'
+S'Pitti Laminations Ltd'
 p10164
-aS'PRECOT'
+aS'PITTILAM'
 p10165
-aS'521184'
+aS'513519'
 p10166
 aa(lp10167
-S'Prem Somani Financial Services Ltd'
+S'Pix Transmissions Ltd'
 p10168
-ag4
-aS'530669'
+ag56
+aS'500333'
 p10169
 aa(lp10170
-S'Premco Global Ltd'
+S'PL Enterprises Ltd'
 p10171
-ag4
-aS'530331'
+ag56
+aS'526671'
 p10172
 aa(lp10173
-S'Premier Capital Services Ltd'
+S'Planters Polysacks Ltd'
 p10174
-ag4
-aS'511016'
+ag56
+aS'523105'
 p10175
 aa(lp10176
-S'Premier Energy & Infrastructure Ltd'
+S'Plastiblends India Ltd'
 p10177
-ag4
-aS'533100'
+aS'PLASTIBLEN'
 p10178
-aa(lp10179
-S'Premier Explosives Ltd'
-p10180
-ag4
-aS'526247'
+aS'523648'
+p10179
+aa(lp10180
+S'Platinum Corporation Ltd'
 p10181
-aa(lp10182
-S'Premier Ltd'
-p10183
-aS'PREMIER'
+ag56
+aS'532117'
+p10182
+aa(lp10183
+S'Plethico Pharmaceuticals Ltd'
 p10184
-aS'500540'
+aS'PLETHICO'
 p10185
-aa(lp10186
-S'Premier Polyfilm Ltd'
-p10187
-aS'PREMIERPOL'
+aS'532739'
+p10186
+aa(lp10187
+S'PNB Gilts Ltd'
 p10188
-aS'514354'
+aS'PNBGILTS'
 p10189
-aa(lp10190
-S'Premier Synthetics Ltd'
-p10191
-ag4
-aS'509835'
+aS'532366'
+p10190
+aa(lp10191
+S'Pochiraju Industries Ltd'
 p10192
-aa(lp10193
-S'Premium Capital Market & Investments Ltd'
+aS'POCHIRAJU'
+p10193
+aS'532803'
 p10194
-ag4
-aS'511660'
-p10195
-aa(lp10196
-S'Prerna Infrabuild Ltd'
+aa(lp10195
+S'Poddar Pigments Ltd'
+p10196
+aS'PODARPIGMT'
 p10197
-ag4
-aS'531802'
+aS'524570'
 p10198
 aa(lp10199
-S'Pressure Sensitive Systems India Ltd'
+S'Pokarna Ltd'
 p10200
-ag4
-aS'526773'
+ag56
+aS'532486'
 p10201
 aa(lp10202
-S'Prestige Estates Projects Ltd'
+S'Polar Industries Ltd'
 p10203
-aS'PRESTIGE'
+aS'POLARIND'
 p10204
-aS'533274'
+aS'504288'
 p10205
 aa(lp10206
-S'Pretto Leather Industries Ltd'
+S'Polar Pharma India Ltd'
 p10207
-ag4
-aS'526691'
+ag56
+aS'523333'
 p10208
 aa(lp10209
-S'Pricol Ltd'
+S'Polaris Software Lab Ltd'
 p10210
-aS'PRICOL'
+aS'POLARIS'
 p10211
-aS'526109'
+aS'532254'
 p10212
 aa(lp10213
-S'Prima Agro Ltd'
+S'Polo Hotels Ltd'
 p10214
-ag4
-aS'519262'
+ag56
+aS'526687'
 p10215
 aa(lp10216
-S'Prima Industries Ltd'
+S'Polson Ltd'
 p10217
-ag4
-aS'531246'
+ag56
+aS'507645'
 p10218
 aa(lp10219
-S'Prima Plastics Ltd'
+S'Poly Medicure Ltd'
 p10220
-ag4
-aS'530589'
+aS'POLYMED'
 p10221
-aa(lp10222
-S'Prime Focus Ltd'
-p10223
-aS'PFOCUS'
+aS'531768'
+p10222
+aa(lp10223
+S'Polychem Ltd'
 p10224
-aS'532748'
+aS'POLYCHEM'
 p10225
-aa(lp10226
-S'Prime Industries Ltd'
-p10227
-ag4
-aS'519299'
+aS'506605'
+p10226
+aa(lp10227
+S'Polycon International Ltd'
 p10228
-aa(lp10229
-S'Prime Property Development Corporation Ltd'
-p10230
-ag4
-aS'530695'
+ag56
+aS'531397'
+p10229
+aa(lp10230
+S'Polygenta Technologies Ltd'
 p10231
-aa(lp10232
-S'Prime Securities Ltd'
-p10233
-aS'PRIMESECU'
+ag56
+aS'514486'
+p10232
+aa(lp10233
+S'Polylink Polymers India Ltd'
 p10234
-aS'500337'
+ag56
+aS'531454'
 p10235
 aa(lp10236
-S'Prime Textiles Ltd'
+S'Polymechplast Machines Ltd'
 p10237
-ag4
-aS'521149'
+ag56
+aS'526043'
 p10238
 aa(lp10239
-S'Principal Pharmaceuticals & Chemicals Ltd'
+S'Polyplex Corporation Ltd'
 p10240
-ag4
-aS'524622'
+aS'POLYPLEX'
 p10241
-aa(lp10242
-S'Prism Cement Ltd'
-p10243
-aS'PRISMCEM'
+aS'524051'
+p10242
+aa(lp10243
+S'Polypro Fibrils India Ltd'
 p10244
-aS'500338'
+ag56
+aS'531467'
 p10245
 aa(lp10246
-S'Prism Informatics Ltd'
+S'Polyspin Exports Ltd'
 p10247
-ag4
-aS'505530'
+ag56
+aS'590055'
 p10248
 aa(lp10249
-S'Prithvi Information Solutions Ltd'
+S'Polytex India Ltd'
 p10250
-aS'PRITHVI'
+ag56
+aS'512481'
 p10251
-aS'532675'
-p10252
-aa(lp10253
-S'Prithvi Softech Ltd'
+aa(lp10252
+S'Pondy Oxides & Chemicals Ltd'
+p10253
+aS'PONDYOXIDE'
 p10254
-aS'PRITHVISOF'
+aS'532626'
 p10255
-aS'531688'
-p10256
-aa(lp10257
-S'Pritish Nandy Communications Ltd'
+aa(lp10256
+S'Ponni Sugars Erode Ltd'
+p10257
+aS'PONNIERODE'
 p10258
-aS'PNC'
+aS'532460'
 p10259
-aS'532387'
-p10260
-aa(lp10261
-S'Priya Ltd'
+aa(lp10260
+S'Poona Dal & Oil Industries Ltd'
+p10261
+ag56
+aS'519359'
 p10262
-aS'PRIYADYES'
-p10263
-aS'524580'
+aa(lp10263
+S'Poonam Corporation Ltd'
 p10264
-aa(lp10265
-S'Priyadarshini Spinning Mills Ltd'
-p10266
-aS'PSMSPGMILL'
+ag56
+aS'531219'
+p10265
+aa(lp10266
+S'Popular Estate Management Ltd'
 p10267
-aS'503873'
+ag56
+aS'531870'
 p10268
 aa(lp10269
-S'Priyadarshini Thread Ltd'
+S'Porwal Auto Components Ltd'
 p10270
-ag4
-aS'521005'
+ag56
+aS'532933'
 p10271
 aa(lp10272
-S'Pro Fin Capital Services Ltd'
+S'Power Finance Corporation Ltd'
 p10273
-ag4
-aS'511557'
+aS'PFC'
 p10274
-aa(lp10275
-S'Procal Electronics India Ltd'
-p10276
-ag4
-aS'526009'
+aS'532810'
+p10275
+aa(lp10276
+S'Power Grid Corporation of India Ltd'
 p10277
-aa(lp10278
-S'Procter & Gamble Hygiene & Health Care Ltd'
+aS'POWERGRID'
+p10278
+aS'532898'
 p10279
-aS'PGHH'
-p10280
-aS'500459'
+aa(lp10280
+S'Powersoft Global Solutions Ltd'
 p10281
-aa(lp10282
-S'Professional Diamonds Ltd'
-p10283
-ag4
-aS'523001'
+ag56
+aS'532736'
+p10282
+aa(lp10283
+S'Prabhav Industries Ltd'
 p10284
-aa(lp10285
-S'Progressive Extractions & Exports Ltd'
-p10286
-ag4
-aS'531265'
+ag56
+aS'531855'
+p10285
+aa(lp10286
+S'Pradeep Metals Ltd'
 p10287
-aa(lp10288
-S'Promact Plastics Ltd'
-p10289
-ag4
-aS'526494'
+ag56
+aS'513532'
+p10288
+aa(lp10289
+S'Pradip Overseas Ltd'
 p10290
-aa(lp10291
-S'Proto Developers & Technologies Ltd'
+aS'PRADIP'
+p10291
+aS'533178'
 p10292
-ag4
-aS'530069'
-p10293
-aa(lp10294
-S'Provogue India Ltd'
+aa(lp10293
+S'Prag Bosimi Synthetics Ltd'
+p10294
+aS'PRAGBOSIMI'
 p10295
-aS'PROVOGUE'
+aS'500192'
 p10296
-aS'532647'
-p10297
-aa(lp10298
-S'Prraneta Industries Ltd'
+aa(lp10297
+S'Praj Industries Ltd'
+p10298
+aS'PRAJIND'
 p10299
-ag4
-aS'531611'
+aS'522205'
 p10300
 aa(lp10301
-S'Prudential ICICI Mutual Fund (SPIcE)'
+S'Prajay Engineers Syndicate Ltd'
 p10302
-ag4
-aS'555555'
+aS'PRAENG'
 p10303
-aa(lp10304
-S'PSI Data Systems Ltd'
-p10305
-aS'PSIDATASYS'
+aS'531746'
+p10304
+aa(lp10305
+S'Prakash Industries Ltd'
 p10306
-aS'532199'
+aS'PRAKASH'
 p10307
-aa(lp10308
-S'PSL Ltd'
-p10309
-aS'PSL'
+aS'506022'
+p10308
+aa(lp10309
+S'Prakash Steelage Ltd'
 p10310
-aS'526801'
+aS'PRAKASHSTL'
 p10311
-aa(lp10312
-S'PSUBNKBEES'
-p10313
-aS'PSUBNKBEES'
+aS'533239'
+p10312
+aa(lp10313
+S'Prakash Woollen Mills Ltd'
 p10314
-ag4
-aa(lp10315
-S'PTC India Financial Services Limited'
-p10316
-aS'PFS'
+ag56
+aS'531437'
+p10315
+aa(lp10316
+S'Pramada Finvest Ltd'
 p10317
-aS'533344'
+ag56
+aS'531293'
 p10318
 aa(lp10319
-S'PTC India Ltd'
+S'Pranavaditya Spinning Mills Ltd'
 p10320
-aS'PTC'
+ag56
+aS'531172'
 p10321
-aS'532524'
-p10322
-aa(lp10323
-S'PTL Enterprises Ltd'
+aa(lp10322
+S'Pratibha Industries Ltd'
+p10323
+aS'PRATIBHA'
 p10324
-aS'PTL'
+aS'532718'
 p10325
-aS'509220'
-p10326
-aa(lp10327
-S'Pudumjee Industries Ltd'
+aa(lp10326
+S'Pratik Panels Ltd'
+p10327
+ag56
+aS'526490'
 p10328
-aS'PDUMJEIND'
-p10329
-aS'516092'
+aa(lp10329
+S'Pratiksha Chemicals Ltd'
 p10330
-aa(lp10331
-S'Pudumjee Pulp & Paper Mills Ltd'
-p10332
-aS'PDUMJEPULP'
+ag56
+aS'531257'
+p10331
+aa(lp10332
+S'Praveen Properties Ltd'
 p10333
-aS'500343'
+ag56
+aS'531256'
 p10334
 aa(lp10335
-S'Punctual Trading Ltd'
+S'Precimet Diamonds India Ltd'
 p10336
-ag4
-aS'512461'
+aS'PRECIMDIAM'
 p10337
-aa(lp10338
-S'Puneet Resins Ltd'
-p10339
-ag4
-aS'526492'
+aS'530391'
+p10338
+aa(lp10339
+S'Precious Trading & Investments Ltd'
 p10340
-aa(lp10341
-S'Punit Commercials Ltd'
-p10342
-ag4
-aS'512099'
+ag56
+aS'506107'
+p10341
+aa(lp10342
+S'Precision Containeurs Ltd'
 p10343
-aa(lp10344
-S'Punj Lloyd Ltd'
-p10345
-aS'PUNJLLOYD'
+ag56
+aS'523874'
+p10344
+aa(lp10345
+S'Precision Electronics Ltd'
 p10346
-aS'532693'
+ag56
+aS'517258'
 p10347
 aa(lp10348
-S'Punjab & Sind Bank'
+S'Precision Pipes & Profiles Company Ltd'
 p10349
-aS'PSB'
+aS'PPAP'
 p10350
-aS'533295'
+aS'532934'
 p10351
 aa(lp10352
-S'Punjab Alkalies & Chemicals Ltd'
+S'Precision Wires India Ltd'
 p10353
-aS'PUNALKALI'
+aS'PRECWIRE'
 p10354
-aS'506852'
+aS'523539'
 p10355
 aa(lp10356
-S'Punjab Chemicals & Crop Protection Ltd'
+S'Precot Mills Ltd'
 p10357
-aS'PUNJABCHEM'
+aS'PRECOT'
 p10358
-aS'506618'
+aS'521184'
 p10359
 aa(lp10360
-S'Punjab Communications Ltd'
+S'Prem Somani Financial Services Ltd'
 p10361
-aS'PUNJCOMMU'
+ag56
+aS'530669'
 p10362
-aS'500346'
-p10363
-aa(lp10364
-S'Punjab National Bank'
+aa(lp10363
+S'Premco Global Ltd'
+p10364
+ag56
+aS'530331'
 p10365
-aS'PNB'
-p10366
-aS'532461'
+aa(lp10366
+S'Premier Capital Services Ltd'
 p10367
-aa(lp10368
-S'Punjab Tractors Ltd'
-p10369
-aS'PUNJABTRAC'
+ag56
+aS'511016'
+p10368
+aa(lp10369
+S'Premier Energy & Infrastructure Ltd'
 p10370
-aS'500344'
+ag56
+aS'533100'
 p10371
 aa(lp10372
-S'Punjab Woolcombers Ltd'
+S'Premier Explosives Ltd'
 p10373
-aS'PUNJABWOOL'
+ag56
+aS'526247'
 p10374
-aS'509839'
-p10375
-aa(lp10376
-S'Puravankara Projects Ltd'
+aa(lp10375
+S'Premier Ltd'
+p10376
+aS'PREMIER'
 p10377
-aS'PURVA'
+aS'500540'
 p10378
-aS'532891'
-p10379
-aa(lp10380
-S'Purity Flexpack Ltd'
+aa(lp10379
+S'Premier Polyfilm Ltd'
+p10380
+aS'PREMIERPOL'
 p10381
-ag4
-aS'523315'
+aS'514354'
 p10382
 aa(lp10383
-S'PVP Ventures Ltd'
+S'Premier Synthetics Ltd'
 p10384
-aS'PVP'
+ag56
+aS'509835'
 p10385
-aS'517556'
-p10386
-aa(lp10387
-S'PVR Ltd'
+aa(lp10386
+S'Premium Capital Market & Investments Ltd'
+p10387
+ag56
+aS'511660'
 p10388
-aS'PVR'
-p10389
-aS'532689'
+aa(lp10389
+S'Prerna Infrabuild Ltd'
 p10390
-aa(lp10391
-S'Pyramid Saimira Theatre Ltd'
-p10392
-aS'PSTL'
+ag56
+aS'531802'
+p10391
+aa(lp10392
+S'Pressure Sensitive Systems India Ltd'
 p10393
-aS'532791'
+ag56
+aS'526773'
 p10394
 aa(lp10395
-S'Pyramid Trading & Finance Ltd'
+S'Prestige Estates Projects Ltd'
 p10396
-ag4
-aS'512191'
+aS'PRESTIGE'
 p10397
-aa(lp10398
-S'Shristi Infrastructure Development Corporation Ltd'
-p10399
-aS'PEERABASAN'
+aS'533274'
+p10398
+aa(lp10399
+S'Pretto Leather Industries Ltd'
 p10400
-aS'511411'
+ag56
+aS'526691'
 p10401
 aa(lp10402
-S'Silicon Valley Infotech Ltd'
+S'Pricol Ltd'
 p10403
-aS'PRASGLOFIN'
+aS'PRICOL'
 p10404
-aS'531738'
+aS'526109'
 p10405
 aa(lp10406
-S'Voith Paper Fabrics India Ltd'
+S'Prima Agro Ltd'
 p10407
-aS'PORRITSPEN'
+ag56
+aS'519262'
 p10408
-aS'522122'
-p10409
-aa(lp10410
-S'Quantum Digital Vision India Ltd'
+aa(lp10409
+S'Prima Industries Ltd'
+p10410
+ag56
+aS'531246'
 p10411
-ag4
-aS'530281'
-p10412
-aa(lp10413
-S'Quantum Gold Fund'
+aa(lp10412
+S'Prima Plastics Ltd'
+p10413
+ag56
+aS'530589'
 p10414
-aS'QGOLDHALF'
-p10415
-ag4
-aa(lp10416
-S'Quantum Index Fund -Exchange Traded Fund (ETF)'
+aa(lp10415
+S'Prime Focus Ltd'
+p10416
+aS'PFOCUS'
 p10417
-aS'QNIFTY'
+aS'532748'
 p10418
-aS'590110'
-p10419
-aa(lp10420
-S'Quintegra Solutions Ltd'
+aa(lp10419
+S'Prime Industries Ltd'
+p10420
+ag56
+aS'519299'
 p10421
-aS'QUINTEGRA'
-p10422
-aS'532274'
+aa(lp10422
+S'Prime Property Development Corporation Ltd'
 p10423
-aa(lp10424
-S'Quintegra Solutions Ltd'
-p10425
-ag4
-aS'532866'
+ag56
+aS'530695'
+p10424
+aa(lp10425
+S'Prime Securities Ltd'
 p10426
-aa(lp10427
-S'RTNINFRA'
+aS'PRIMESECU'
+p10427
+aS'500337'
 p10428
-aS'RTNINFRA'
-p10429
-ag4
-aa(lp10430
-S'RELDIVOPP'
+aa(lp10429
+S'Prime Textiles Ltd'
+p10430
+ag56
+aS'521149'
 p10431
-aS'RELDIVOPP'
-p10432
-ag4
-aa(lp10433
-S'RELNIFTY'
+aa(lp10432
+S'Principal Pharmaceuticals & Chemicals Ltd'
+p10433
+ag56
+aS'524622'
 p10434
-aS'RELNIFTY'
-p10435
-ag4
-aa(lp10436
-S'RAMCOCEM'
+aa(lp10435
+S'Prism Cement Ltd'
+p10436
+aS'PRISMCEM'
 p10437
-aS'RAMCOCEM'
+aS'500338'
 p10438
-ag4
 aa(lp10439
-S'RAIN'
+S'Prism Informatics Ltd'
 p10440
-aS'RAIN'
+ag56
+aS'505530'
 p10441
-ag4
 aa(lp10442
-S'REPCOHOME'
+S'Prithvi Information Solutions Ltd'
 p10443
-aS'REPCOHOME'
+aS'PRITHVI'
 p10444
-ag4
-aa(lp10445
-S'RELCNX100'
-p10446
-aS'RELCNX100'
+aS'532675'
+p10445
+aa(lp10446
+S'Prithvi Softech Ltd'
 p10447
-ag4
-aa(lp10448
-S'ROSSELLIND'
+aS'PRITHVISOF'
+p10448
+aS'531688'
 p10449
-aS'ROSSELLIND'
-p10450
-ag4
-aa(lp10451
-S'RTNPOWER'
+aa(lp10450
+S'Pritish Nandy Communications Ltd'
+p10451
+aS'PNC'
 p10452
-aS'RTNPOWER'
+aS'532387'
 p10453
-ag4
 aa(lp10454
-S'RMMIL'
+S'Priya Ltd'
 p10455
-aS'RMMIL'
+aS'PRIYADYES'
 p10456
-ag4
-aa(lp10457
-S'RASOYPR'
-p10458
-aS'RASOYPR'
+aS'524580'
+p10457
+aa(lp10458
+S'Priyadarshini Spinning Mills Ltd'
 p10459
-ag4
-aa(lp10460
-S'RELCONS'
+aS'PSMSPGMILL'
+p10460
+aS'503873'
 p10461
-aS'RELCONS'
-p10462
-ag4
-aa(lp10463
-S'R P P Infra Projects Limited'
+aa(lp10462
+S'Priyadarshini Thread Ltd'
+p10463
+ag56
+aS'521005'
 p10464
-aS'RPPINFRA'
-p10465
-aS'533284'
+aa(lp10465
+S'Pro Fin Capital Services Ltd'
 p10466
-aa(lp10467
-S'R Systems International Ltd'
-p10468
-aS'RSYSTEMS'
+ag56
+aS'511557'
+p10467
+aa(lp10468
+S'Procal Electronics India Ltd'
 p10469
-aS'532735'
+ag56
+aS'526009'
 p10470
 aa(lp10471
-S'Raasi Finance & Investment Ltd'
+S'Procter & Gamble Hygiene & Health Care Ltd'
 p10472
-ag4
-aS'511153'
+aS'PGHH'
 p10473
-aa(lp10474
-S'Raasi Refractories Ltd'
-p10475
-ag4
-aS'502271'
+aS'500459'
+p10474
+aa(lp10475
+S'Professional Diamonds Ltd'
 p10476
-aa(lp10477
-S'Rabha Plastics Ltd'
-p10478
-ag4
-aS'531712'
+ag56
+aS'523001'
+p10477
+aa(lp10478
+S'Progressive Extractions & Exports Ltd'
 p10479
-aa(lp10480
-S'Radaan Mediaworks (I) Ltd'
-p10481
-aS'RADAAN'
+ag56
+aS'531265'
+p10480
+aa(lp10481
+S'Promact Plastics Ltd'
 p10482
-aS'590070'
+ag56
+aS'526494'
 p10483
 aa(lp10484
-S'Radha Madhav Corporation Ltd'
+S'Proto Developers & Technologies Ltd'
 p10485
-aS'RMCL'
+ag56
+aS'530069'
 p10486
-aS'532692'
-p10487
-aa(lp10488
-S'Radhe Developers India Ltd'
+aa(lp10487
+S'Provogue India Ltd'
+p10488
+aS'PROVOGE'
 p10489
-ag4
-aS'531273'
+aS'532647'
 p10490
 aa(lp10491
-S'Radico Khaitan Ltd'
+S'Prraneta Industries Ltd'
 p10492
-aS'RADICO'
+ag56
+aS'531611'
 p10493
-aS'532497'
-p10494
-aa(lp10495
-S'Raghav Industries Ltd'
+aa(lp10494
+S'Prudential ICICI Mutual Fund (SPIcE)'
+p10495
+aS'ISENSEX'
 p10496
-ag4
-aS'526465'
+aS'555555'
 p10497
 aa(lp10498
-S'Raghava Estates Ltd'
+S'PSI Data Systems Ltd'
 p10499
-ag4
-aS'531627'
+aS'PSIDATASYS'
 p10500
-aa(lp10501
-S'Raghunath International Ltd'
-p10502
-ag4
-aS'526813'
+aS'532199'
+p10501
+aa(lp10502
+S'PSL Ltd'
 p10503
-aa(lp10504
-S'Raghunath Tobacco Company Ltd'
+aS'PSL'
+p10504
+aS'526801'
 p10505
-ag4
-aS'531552'
-p10506
-aa(lp10507
-S'Raghuvir Synthetics Ltd'
+aa(lp10506
+S'PSUBNKBEES'
+p10507
+aS'PSUBNKBEES'
 p10508
-ag4
-aS'514316'
+aS'590108'
 p10509
 aa(lp10510
-S'Ragsan Petrochem Ltd'
+S'PTC India Financial Services Limited'
 p10511
-ag4
-aS'531412'
+aS'PFS'
 p10512
-aa(lp10513
-S'Rahul Dairy & Allied Products Ltd'
-p10514
-ag4
-aS'519415'
+aS'533344'
+p10513
+aa(lp10514
+S'PTC India Ltd'
 p10515
-aa(lp10516
-S'Rahul Merchandising Ltd'
+aS'PTC'
+p10516
+aS'532524'
 p10517
-ag4
-aS'531887'
-p10518
-aa(lp10519
-S'Rai Saheb Rekhchand Mohota Spinning & Weaving Mills Ltd'
+aa(lp10518
+S'PTL Enterprises Ltd'
+p10519
+aS'PTL'
 p10520
-aS'RAIREKMOH'
+aS'509220'
 p10521
-aS'530047'
-p10522
-aa(lp10523
-S'Raigarh Paper & Board Mills Ltd'
+aa(lp10522
+S'Pudumjee Industries Ltd'
+p10523
+aS'PDUMJEIND'
 p10524
-ag4
-aS'530495'
+aS'516092'
 p10525
 aa(lp10526
-S'Rain Commodities Ltd'
+S'Pudumjee Pulp & Paper Mills Ltd'
 p10527
-aS'RAINCOM'
+aS'PDUMJEPULP'
 p10528
-aS'500339'
+aS'500343'
 p10529
 aa(lp10530
-S'Rainbow Denim Ltd'
+S'Punctual Trading Ltd'
 p10531
-ag4
-aS'532441'
+ag56
+aS'512461'
 p10532
 aa(lp10533
-S'Rainbow Foundations Ltd'
+S'Puneet Resins Ltd'
 p10534
-ag4
-aS'531694'
+ag56
+aS'526492'
 p10535
 aa(lp10536
-S'Rainbow Papers Ltd'
+S'Punit Commercials Ltd'
 p10537
-aS'RAINBOWPAP'
+ag56
+aS'512099'
 p10538
-aS'523523'
-p10539
-aa(lp10540
-S'Raj Agro Mills Ltd'
+aa(lp10539
+S'Punj Lloyd Ltd'
+p10540
+aS'PUNJLLOYD'
 p10541
-ag4
-aS'530291'
+aS'532693'
 p10542
 aa(lp10543
-S'Raj Irrigation Pipes & Fittings Ltd'
+S'Punjab & Sind Bank'
 p10544
-ag4
-aS'513406'
+aS'PSB'
 p10545
-aa(lp10546
-S'Raj Oil Mills Ltd'
-p10547
-aS'RAJOIL'
+aS'533295'
+p10546
+aa(lp10547
+S'Punjab Alkalies & Chemicals Ltd'
 p10548
-aS'533093'
+aS'PUNALKALI'
 p10549
-aa(lp10550
-S'Raj Packaging Industries Ltd'
-p10551
-ag4
-aS'530111'
+aS'506852'
+p10550
+aa(lp10551
+S'Punjab Chemicals & Crop Protection Ltd'
 p10552
-aa(lp10553
-S'Raj Rayon Ltd'
+aS'PUNJABCHEM'
+p10553
+aS'506618'
 p10554
-aS'RAJRAYON'
-p10555
-aS'530699'
+aa(lp10555
+S'Punjab Communications Ltd'
 p10556
-aa(lp10557
-S'Raj Television Network Ltd'
+aS'PUNJCOMMU'
+p10557
+aS'500346'
 p10558
-aS'RAJTV'
-p10559
-aS'532826'
+aa(lp10559
+S'Punjab National Bank'
 p10560
-aa(lp10561
-S'Raja Bahadur Motilal Poona Mills Ltd'
+aS'PNB'
+p10561
+aS'532461'
 p10562
-ag4
-aS'503127'
-p10563
-aa(lp10564
-S'Rajapalayam Mills Ltd'
+aa(lp10563
+S'Punjab Tractors Ltd'
+p10564
+aS'PUNJABTRAC'
 p10565
-aS'RAJPALAYAM'
+aS'500344'
 p10566
-aS'532503'
-p10567
-aa(lp10568
-S'Rajasthan Gases Ltd'
+aa(lp10567
+S'Punjab Woolcombers Ltd'
+p10568
+aS'PUNJABWOOL'
 p10569
-ag4
-aS'526873'
+aS'509839'
 p10570
 aa(lp10571
-S'Rajasthan Petro Synthetics Ltd'
+S'Puravankara Projects Ltd'
 p10572
-aS'RAJASPETRO'
+aS'PURVA'
 p10573
-aS'506975'
+aS'532891'
 p10574
 aa(lp10575
-S'Rajasthan Tube Manufacturing Company Ltd'
+S'Purity Flexpack Ltd'
 p10576
-ag4
-aS'530253'
+ag56
+aS'523315'
 p10577
 aa(lp10578
-S'Rajath Finance Ltd'
+S'PVP Ventures Ltd'
 p10579
-ag4
-aS'507962'
+aS'PVP'
 p10580
-aa(lp10581
-S'Rajdarshan Industries Ltd'
-p10582
-aS'ARENTERP'
+aS'517556'
+p10581
+aa(lp10582
+S'PVR Ltd'
 p10583
-aS'526662'
+aS'PVR'
 p10584
-aa(lp10585
-S'Rajdhani Leasing & Industries Ltd'
-p10586
-ag4
-aS'523030'
+aS'532689'
+p10585
+aa(lp10586
+S'Pyramid Saimira Theatre Ltd'
 p10587
-aa(lp10588
-S'Rajendra Electrical Industries Ltd'
+aS'PSTL'
+p10588
+aS'532791'
 p10589
-ag4
-aS'512487'
-p10590
-aa(lp10591
-S'Rajendra Mechanical Industries Ltd'
+aa(lp10590
+S'Pyramid Trading & Finance Ltd'
+p10591
+ag56
+aS'512191'
 p10592
-ag4
-aS'513043'
-p10593
-aa(lp10594
-S'Rajesh Exports Ltd'
+aa(lp10593
+S'Shristi Infrastructure Development Corporation Ltd'
+p10594
+aS'PEERABASAN'
 p10595
-aS'RAJESHEXPO'
+aS'511411'
 p10596
-aS'531500'
-p10597
-aa(lp10598
-S'Rajesh Malleables Ltd'
+aa(lp10597
+S'Silicon Valley Infotech Ltd'
+p10598
+aS'PRASGLOFIN'
 p10599
-ag4
-aS'513630'
+aS'531738'
 p10600
 aa(lp10601
-S'Rajesh Strips Ltd'
+S'Voith Paper Fabrics India Ltd'
 p10602
-ag4
-aS'513554'
+aS'PORRITSPEN'
 p10603
-aa(lp10604
-S'Rajeswari Foundations Ltd'
-p10605
-ag4
-aS'526823'
+aS'522122'
+p10604
+aa(lp10605
+S'Quantum Digital Vision India Ltd'
 p10606
-aa(lp10607
-S'Rajkamal Synthetics Ltd'
-p10608
-ag4
-aS'514028'
+ag56
+aS'530281'
+p10607
+aa(lp10608
+S'Quantum Gold Fund'
 p10609
-aa(lp10610
-S'Rajkumar Forge Ltd'
+aS'QGOLDHALF'
+p10610
+aS'590099'
 p10611
-ag4
-aS'513369'
-p10612
-aa(lp10613
-S'Rajlaxmi Industries Ltd'
+aa(lp10612
+S'Quantum Index Fund -Exchange Traded Fund (ETF)'
+p10613
+aS'QNIFTY'
 p10614
-ag4
-aS'512319'
+aS'590110'
 p10615
 aa(lp10616
-S'Rajoo Engineers Ltd'
+S'Quintegra Solutions Ltd'
 p10617
-ag4
-aS'522257'
+aS'QUINTEGRA'
 p10618
-aa(lp10619
-S'Rajratan Global Wire Ltd'
-p10620
-ag4
-aS'517522'
+aS'532866'
+p10619
+aa(lp10620
+S'Quintegra Solutions Ltd'
 p10621
-aa(lp10622
-S'Rajshree Sugars & Chemicals Ltd'
+aS'QUINTEGRA'
+p10622
+aS'532866'
 p10623
-aS'RAJSREESUG'
-p10624
-aS'500354'
+aa(lp10624
+S'RTNINFRA'
 p10625
-aa(lp10626
-S'Rajvir Industries Ltd'
+aS'RTNINFRA'
+p10626
+aS'534597'
 p10627
-aS'RAJVIR'
-p10628
-aS'532665'
+aa(lp10628
+S'RELDIVOPP'
 p10629
-aa(lp10630
-S'Rallis India Ltd'
-p10631
-aS'RALLIS'
+aS'RELDIVOPP'
+p10630
+ag56
+aa(lp10631
+S'RELNIFTY'
 p10632
-aS'500355'
+aS'RELNIFTY'
 p10633
-aa(lp10634
-S'Ram Informatics Ltd'
-p10635
-ag4
-aS'530951'
+aS'537484'
+p10634
+aa(lp10635
+S'RAMCOCEM'
 p10636
-aa(lp10637
-S'Ram Kaashyap Investment Ltd'
+aS'RAMCOCEM'
+p10637
+aS'500260'
 p10638
-ag4
-aS'511652'
-p10639
-aa(lp10640
-S'Ram Ratna Wires Ltd'
+aa(lp10639
+S'RAIN'
+p10640
+aS'RAIN'
 p10641
-ag4
-aS'522281'
+aS'500339'
 p10642
 aa(lp10643
-S'Rama Newsprint & Papers Ltd'
+S'REPCOHOME'
 p10644
-aS'RAMANEWS'
+aS'REPCOHOME'
 p10645
-aS'500356'
+aS'535322'
 p10646
 aa(lp10647
-S'Rama Paper Mills Ltd'
+S'RELCNX100'
 p10648
-ag4
-aS'500357'
+aS'RELCNX100'
 p10649
-aa(lp10650
-S'Rama Petrochemicals Ltd'
-p10651
-aS'RAMAPETRO'
+aS'537483'
+p10650
+aa(lp10651
+S'ROSSELLIND'
 p10652
-aS'500358'
+aS'ROSSELLIND'
 p10653
-aa(lp10654
-S'Rama Phosphates Ltd'
-p10655
-aS'RAMAPHOSP'
+aS'533168'
+p10654
+aa(lp10655
+S'RTNPOWER'
 p10656
-aS'524037'
+aS'RTNPOWER'
 p10657
-aa(lp10658
-S'Rama Pulp & Papers Ltd'
-p10659
-ag4
-aS'502587'
+aS'533122'
+p10658
+aa(lp10659
+S'RMMIL'
 p10660
-aa(lp10661
-S'Rama Vision Ltd'
+aS'RMMIL'
+p10661
+aS'533017'
 p10662
-aS'RAMAVISION'
-p10663
-aS'523289'
+aa(lp10663
+S'RASOYPR'
 p10664
-aa(lp10665
-S'Ramco Industries Ltd'
+aS'RASOYPR'
+p10665
+aS'531522'
 p10666
-aS'RAMCOIND'
-p10667
-aS'532369'
+aa(lp10667
+S'RELCONS'
 p10668
-aa(lp10669
-S'Ramco Systems Ltd'
-p10670
-aS'RAMCOSYS'
+aS'RELCONS'
+p10669
+ag56
+aa(lp10670
+S'R P P Infra Projects Limited'
 p10671
-aS'532370'
+aS'RPPINFRA'
 p10672
-aa(lp10673
-S'Ramkrishna Forgings Ltd'
-p10674
-aS'RKFORGE'
+aS'533284'
+p10673
+aa(lp10674
+S'R Systems International Ltd'
 p10675
-aS'532527'
+aS'RSYSTEMS'
 p10676
-aa(lp10677
-S'Ramky Infrastructure Ltd'
-p10678
-aS'RAMKY'
+aS'532735'
+p10677
+aa(lp10678
+S'Raasi Finance & Investment Ltd'
 p10679
-aS'533262'
+ag56
+aS'511153'
 p10680
 aa(lp10681
-S'Rammaica India Ltd'
+S'Raasi Refractories Ltd'
 p10682
-ag4
-aS'515127'
+ag56
+aS'502271'
 p10683
 aa(lp10684
-S'Ramsarup Industries Ltd'
+S'Rabha Plastics Ltd'
 p10685
-aS'RAMSARUP'
+ag56
+aS'531712'
 p10686
-aS'532690'
-p10687
-aa(lp10688
-S'Ramsons Projects Ltd'
+aa(lp10687
+S'Radaan Mediaworks (I) Ltd'
+p10688
+aS'RADAAN'
 p10689
-ag4
-aS'530925'
+aS'590070'
 p10690
 aa(lp10691
-S'Rana Sugars Ltd'
+S'Radha Madhav Corporation Ltd'
 p10692
-aS'RANASUG'
+aS'RMCL'
 p10693
-aS'507490'
+aS'532692'
 p10694
 aa(lp10695
-S'Ranbaxy Laboratories Ltd'
+S'Radhe Developers India Ltd'
 p10696
-aS'RANBAXY'
+ag56
+aS'531273'
 p10697
-aS'500359'
-p10698
-aa(lp10699
-S'Rander Corporation Ltd'
+aa(lp10698
+S'Radico Khaitan Ltd'
+p10699
+aS'RADICO'
 p10700
-ag4
-aS'531228'
+aS'532497'
 p10701
 aa(lp10702
-S'Rane Brake Lining Ltd'
+S'Raghav Industries Ltd'
 p10703
-aS'RBL'
+ag56
+aS'526465'
 p10704
-aS'532987'
-p10705
-aa(lp10706
-S'Rane Engine Valve Ltd'
+aa(lp10705
+S'Raghava Estates Ltd'
+p10706
+ag56
+aS'531627'
 p10707
-aS'RANEENGINE'
-p10708
-aS'532988'
+aa(lp10708
+S'Raghunath International Ltd'
 p10709
-aa(lp10710
-S'Rane Holdings Ltd'
-p10711
-aS'RANEHOLDIN'
+ag56
+aS'526813'
+p10710
+aa(lp10711
+S'Raghunath Tobacco Company Ltd'
 p10712
-aS'505800'
+ag56
+aS'531552'
 p10713
 aa(lp10714
-S'Rane Madras Ltd'
+S'Raghuvir Synthetics Ltd'
 p10715
-aS'RML'
+ag56
+aS'514316'
 p10716
-aS'532661'
-p10717
-aa(lp10718
-S'Range Apparels Ltd'
+aa(lp10717
+S'Ragsan Petrochem Ltd'
+p10718
+ag56
+aS'531412'
 p10719
-ag4
-aS'530219'
-p10720
-aa(lp10721
-S'Ranjeev Alloys Ltd'
+aa(lp10720
+S'Rahul Dairy & Allied Products Ltd'
+p10721
+ag56
+aS'519415'
 p10722
-ag4
-aS'513727'
-p10723
-aa(lp10724
-S'Ranklin Solutions Ltd'
+aa(lp10723
+S'Rahul Merchandising Ltd'
+p10724
+ag56
+aS'531887'
 p10725
-aS'RANKLIN'
-p10726
-aS'590077'
+aa(lp10726
+S'Rai Saheb Rekhchand Mohota Spinning & Weaving Mills Ltd'
 p10727
-aa(lp10728
-S'Rap Media Ltd'
+aS'RAIREKMOH'
+p10728
+aS'530047'
 p10729
-ag4
-aS'531583'
-p10730
-aa(lp10731
-S'Rapicut Carbides Ltd'
+aa(lp10730
+S'Raigarh Paper & Board Mills Ltd'
+p10731
+ag56
+aS'530495'
 p10732
-ag4
-aS'500360'
-p10733
-aa(lp10734
-S'Rapid Investments Ltd'
+aa(lp10733
+S'Rain Commodities Ltd'
+p10734
+aS'RAIN'
 p10735
-ag4
-aS'501351'
+aS'500339'
 p10736
 aa(lp10737
-S'Ras Extrusions Ltd'
+S'Rainbow Denim Ltd'
 p10738
-ag4
-aS'523780'
+ag56
+aS'532441'
 p10739
 aa(lp10740
-S'Ras Propack Lamipack Ltd'
+S'Rainbow Foundations Ltd'
 p10741
-aS'RASLAMIPAK'
+ag56
+aS'531694'
 p10742
-aS'500361'
-p10743
-aa(lp10744
-S'Ras Resorts & Apart Hotels Ltd'
+aa(lp10743
+S'Rainbow Papers Ltd'
+p10744
+aS'RAINBOWPAP'
 p10745
-ag4
-aS'507966'
+aS'523523'
 p10746
 aa(lp10747
-S'Rasandik Engineering Industries India Ltd'
+S'Raj Agro Mills Ltd'
 p10748
-ag4
-aS'522207'
+ag56
+aS'530291'
 p10749
 aa(lp10750
-S'Rashel Agrotech Ltd'
+S'Raj Irrigation Pipes & Fittings Ltd'
 p10751
-ag4
-aS'532055'
+ag56
+aS'513406'
 p10752
 aa(lp10753
-S'Rashtriya Chemicals & Fertilizers Ltd'
+S'Raj Oil Mills Ltd'
 p10754
-aS'RCF'
+aS'RAJOIL'
 p10755
-aS'524230'
+aS'533093'
 p10756
 aa(lp10757
-S'Rasi Electrodes Ltd'
+S'Raj Packaging Industries Ltd'
 p10758
-ag4
-aS'531233'
+ag56
+aS'530111'
 p10759
 aa(lp10760
-S'Rasoi Ltd'
+S'Raj Rayon Ltd'
 p10761
-ag4
-aS'507649'
+aS'RAJRAYON'
 p10762
-aa(lp10763
-S'Rasoya Proteins Ltd'
-p10764
-ag4
-aS'531522'
+aS'530699'
+p10763
+aa(lp10764
+S'Raj Television Network Ltd'
 p10765
-aa(lp10766
-S'Ratan Glitter Industries Ltd'
+aS'RAJTV'
+p10766
+aS'532826'
 p10767
-ag4
-aS'512397'
-p10768
-aa(lp10769
-S'Rathi Bars Ltd'
+aa(lp10768
+S'Raja Bahadur Motilal Poona Mills Ltd'
+p10769
+ag56
+aS'503127'
 p10770
-ag4
-aS'532918'
-p10771
-aa(lp10772
-S'Rathi Graphic Technologies Ltd'
+aa(lp10771
+S'Rajapalayam Mills Ltd'
+p10772
+aS'RAJPALAYAM'
 p10773
-ag4
-aS'524610'
+aS'532503'
 p10774
 aa(lp10775
-S'Rathi Ispat Ltd'
+S'Rajasthan Gases Ltd'
 p10776
-ag4
-aS'504896'
+ag56
+aS'526873'
 p10777
 aa(lp10778
-S'Rathi Steel & Power Ltd'
+S'Rajasthan Petro Synthetics Ltd'
 p10779
-ag4
-aS'504903'
+aS'RAJASPETRO'
 p10780
-aa(lp10781
-S'Ratnabali Capital Markets Ltd'
-p10782
-ag4
-aS'531391'
+aS'506975'
+p10781
+aa(lp10782
+S'Rajasthan Tube Manufacturing Company Ltd'
 p10783
-aa(lp10784
-S'Ratnamani Metals & Tubes Ltd'
-p10785
-aS'RATNAMANI'
+ag56
+aS'530253'
+p10784
+aa(lp10785
+S'Rajath Finance Ltd'
 p10786
-aS'520111'
+ag56
+aS'507962'
 p10787
 aa(lp10788
-S'Ratni Investments Company Ltd'
+S'Rajdarshan Industries Ltd'
 p10789
-ag4
-aS'503637'
+aS'ARENTERP'
 p10790
-aa(lp10791
-S'Raunaq Automotive Components Ltd'
-p10792
-ag4
-aS'520073'
+aS'526662'
+p10791
+aa(lp10792
+S'Rajdhani Leasing & Industries Ltd'
 p10793
-aa(lp10794
-S'Ravalgaon Sugar Farm Ltd'
-p10795
-aS'RAVALSUGAR'
+ag56
+aS'523030'
+p10794
+aa(lp10795
+S'Rajendra Electrical Industries Ltd'
 p10796
-aS'507300'
+ag56
+aS'512487'
 p10797
 aa(lp10798
-S'Ravi Kumar Distilleries Limited'
+S'Rajendra Mechanical Industries Ltd'
 p10799
-aS'RKDL'
+ag56
+aS'513043'
 p10800
-aS'533294'
-p10801
-aa(lp10802
-S'Ravinay Trading Company Ltd'
+aa(lp10801
+S'Rajesh Exports Ltd'
+p10802
+aS'RAJESHEXPO'
 p10803
-ag4
-aS'504378'
+aS'531500'
 p10804
 aa(lp10805
-S'Ravindra Trading & Agencies Ltd'
+S'Rajesh Malleables Ltd'
 p10806
-ag4
-aS'504341'
+ag56
+aS'513630'
 p10807
 aa(lp10808
-S'Raymed Labs Ltd'
+S'Rajesh Strips Ltd'
 p10809
-ag4
-aS'531207'
+ag56
+aS'513554'
 p10810
 aa(lp10811
-S'Raymond Ltd'
+S'Rajeswari Foundations Ltd'
 p10812
-aS'RAYMOND'
+ag56
+aS'526823'
 p10813
-aS'500330'
-p10814
-aa(lp10815
-S'RB Gupta Financials Ltd'
+aa(lp10814
+S'Rajkamal Synthetics Ltd'
+p10815
+ag56
+aS'514028'
 p10816
-ag4
-aS'532024'
-p10817
-aa(lp10818
-S'RCC Cements Ltd'
+aa(lp10817
+S'Rajkumar Forge Ltd'
+p10818
+ag56
+aS'513369'
 p10819
-ag4
-aS'531825'
-p10820
-aa(lp10821
-S'RDB Industries Ltd'
+aa(lp10820
+S'Rajlaxmi Industries Ltd'
+p10821
+ag56
+aS'512319'
 p10822
-ag4
-aS'526723'
-p10823
-aa(lp10824
-S'READYMADE STEEL INDIA LTD'
+aa(lp10823
+S'Rajoo Engineers Ltd'
+p10824
+ag56
+aS'522257'
 p10825
-ag4
-aS'533482'
-p10826
-aa(lp10827
-S'Real Strips Ltd'
+aa(lp10826
+S'Rajratan Global Wire Ltd'
+p10827
+ag56
+aS'517522'
 p10828
-ag4
-aS'513558'
-p10829
-aa(lp10830
-S'Redex Protech Ltd'
+aa(lp10829
+S'Rajshree Sugars & Chemicals Ltd'
+p10830
+aS'RAJSREESUG'
 p10831
-ag4
-aS'523650'
+aS'500354'
 p10832
 aa(lp10833
-S'Redington India Ltd'
+S'Rajvir Industries Ltd'
 p10834
-aS'REDINGTON '
+aS'RAJVIR'
 p10835
-aS'532805'
+aS'532665'
 p10836
 aa(lp10837
-S'Refex Refrigerants Ltd'
+S'Rallis India Ltd'
 p10838
-aS'REFEX'
+aS'RALLIS'
 p10839
-aS'532884'
+aS'500355'
 p10840
 aa(lp10841
-S'Refnol Resins & Chemicals Ltd'
+S'Ram Informatics Ltd'
 p10842
-ag4
-aS'530815'
+ag56
+aS'530951'
 p10843
 aa(lp10844
-S'Regal Entertainment & Consultants Ltd'
+S'Ram Kaashyap Investment Ltd'
 p10845
-ag4
-aS'531033'
+ag56
+aS'511652'
 p10846
 aa(lp10847
-S'Regaliaa Realty Ltd'
+S'Ram Ratna Wires Ltd'
 p10848
-ag4
-aS'530807'
+ag56
+aS'522281'
 p10849
 aa(lp10850
-S'Regency Ceramics Ltd'
+S'Rama Newsprint & Papers Ltd'
 p10851
-aS'REGENCERAM'
+aS'RAMANEWS'
 p10852
-aS'515018'
+aS'500356'
 p10853
 aa(lp10854
-S'Regency Hospital Ltd'
+S'Rama Paper Mills Ltd'
 p10855
-ag4
-aS'526403'
+ag56
+aS'500357'
 p10856
 aa(lp10857
-S'Regency Trust Ltd'
+S'Rama Petrochemicals Ltd'
 p10858
-ag4
-aS'511585'
+aS'RAMAPETRO'
 p10859
-aa(lp10860
-S'Rei Agro Ltd'
-p10861
-aS'REIAGROLTD'
+aS'500358'
+p10860
+aa(lp10861
+S'Rama Phosphates Ltd'
 p10862
-aS'532106'
+aS'RAMAPHOSP'
 p10863
-aa(lp10864
-S'REI Six Ten Retail Ltd'
-p10865
-aS'REISIXTEN'
+aS'524037'
+p10864
+aa(lp10865
+S'Rama Pulp & Papers Ltd'
 p10866
-aS'533065'
+ag56
+aS'502587'
 p10867
 aa(lp10868
-S'Rekvina Laboratories Ltd'
+S'Rama Vision Ltd'
 p10869
-ag4
-aS'526075'
+aS'RAMAVISION'
 p10870
-aa(lp10871
-S'Relaxo Footwears Ltd'
-p10872
-aS'RELAXO'
+aS'523289'
+p10871
+aa(lp10872
+S'Ramco Industries Ltd'
 p10873
-aS'530517'
+aS'RAMCOIND'
 p10874
-aa(lp10875
-S'Reliable Ventures India Ltd'
-p10876
-ag4
-aS'532124'
+aS'532369'
+p10875
+aa(lp10876
+S'Ramco Systems Ltd'
 p10877
-aa(lp10878
-S'Reliance Broadcast Network Ltd'
+aS'RAMCOSYS'
+p10878
+aS'532370'
 p10879
-aS'RBN'
-p10880
-aS'533143'
+aa(lp10880
+S'Ramkrishna Forgings Ltd'
 p10881
-aa(lp10882
-S'Reliance Capital Ltd'
+aS'RKFORGE'
+p10882
+aS'532527'
 p10883
-aS'RELCAPITAL'
-p10884
-aS'500111'
+aa(lp10884
+S'Ramky Infrastructure Ltd'
 p10885
-aa(lp10886
-S'Reliance Chemotex Industries Ltd'
+aS'RAMKY'
+p10886
+aS'533262'
 p10887
-ag4
-aS'503162'
-p10888
-aa(lp10889
-S'Reliance Communications Ltd'
+aa(lp10888
+S'Rammaica India Ltd'
+p10889
+ag56
+aS'515127'
 p10890
-aS'RCOM'
-p10891
-aS'532712'
+aa(lp10891
+S'Ramsarup Industries Ltd'
 p10892
-aa(lp10893
-S'Reliance Industrial Infrastructure Ltd'
+aS'RAMSARUP'
+p10893
+aS'532690'
 p10894
-aS'RIIL'
-p10895
-aS'523445'
+aa(lp10895
+S'Ramsons Projects Ltd'
 p10896
-aa(lp10897
-S'Reliance Industries Ltd'
-p10898
-aS'RELIANCE'
+ag56
+aS'530925'
+p10897
+aa(lp10898
+S'Rana Sugars Ltd'
 p10899
-aS'500325'
+aS'RANASUG'
 p10900
-aa(lp10901
-S'Reliance Infrastructure Ltd'
-p10902
-aS'RELINFRA'
+aS'507490'
+p10901
+aa(lp10902
+S'Ranbaxy Laboratories Ltd'
 p10903
-aS'500390'
+aS'RANBAXY'
 p10904
-aa(lp10905
-S'Reliance MediaWorks Ltd'
-p10906
-aS'RELMEDIA'
+aS'500359'
+p10905
+aa(lp10906
+S'Rander Corporation Ltd'
 p10907
-aS'532399'
+ag56
+aS'531228'
 p10908
 aa(lp10909
-S'Reliance Mutual Fund - Gold Exchange Traded Fund'
+S'Rane Brake Lining Ltd'
 p10910
-aS'RELGOLD'
+aS'RBL'
 p10911
-ag4
-aa(lp10912
-S'Reliance Mutual Fund -Banking Exchange Traded Fund'
-p10913
-aS'RELBANK'
+aS'532987'
+p10912
+aa(lp10913
+S'Rane Engine Valve Ltd'
 p10914
-ag4
-aa(lp10915
-S'Reliance Natural Resources Ltd'
+aS'RANEENGINE'
+p10915
+aS'532988'
 p10916
-aS'RNRL'
-p10917
-aS'532709'
+aa(lp10917
+S'Rane Holdings Ltd'
 p10918
-aa(lp10919
-S'Reliance Petroleum Ltd'
+aS'RANEHOLDIN'
+p10919
+aS'505800'
 p10920
-aS'RPL'
-p10921
-aS'532743'
+aa(lp10921
+S'Rane Madras Ltd'
 p10922
-aa(lp10923
-S'Reliance Power Ltd'
+aS'RML'
+p10923
+aS'532661'
 p10924
-aS'RPOWER'
-p10925
-aS'532939'
+aa(lp10925
+S'Range Apparels Ltd'
 p10926
-aa(lp10927
-S'Relic Technologies Ltd'
-p10928
-ag4
-aS'511712'
+ag56
+aS'530219'
+p10927
+aa(lp10928
+S'Ranjeev Alloys Ltd'
 p10929
-aa(lp10930
-S'Religare Enterprises Ltd'
-p10931
-aS'RELIGARE'
+ag56
+aS'513727'
+p10930
+aa(lp10931
+S'Ranklin Solutions Ltd'
 p10932
-aS'532915'
+aS'RANKLIN'
 p10933
-aa(lp10934
-S'Religare Gold ETF'
-p10935
-aS'RELIGAREGO'
+aS'590077'
+p10934
+aa(lp10935
+S'Rap Media Ltd'
 p10936
-aS'533172'
+ag56
+aS'531583'
 p10937
 aa(lp10938
-S'Religare Nifty Exchange Traded Fund'
+S'Rapicut Carbides Ltd'
 p10939
-aS'RELGRNIFTY'
+ag56
+aS'500360'
 p10940
-ag4
 aa(lp10941
-S'Religare Technologies Ltd'
+S'Rapid Investments Ltd'
 p10942
-aS'RTL'
+ag56
+aS'501351'
 p10943
-aS'533525'
-p10944
-aa(lp10945
-S'Relish Pharmaceuticals Ltd'
+aa(lp10944
+S'Ras Extrusions Ltd'
+p10945
+ag56
+aS'523780'
 p10946
-ag4
-aS'524632'
-p10947
-aa(lp10948
-S'Remi Metals Gujarat Ltd'
+aa(lp10947
+S'Ras Propack Lamipack Ltd'
+p10948
+aS'RASLAMIPAK'
 p10949
-aS'REMIMETAL'
+aS'500361'
 p10950
-aS'500365'
-p10951
-aa(lp10952
-S'Remi Sales & Engineering Ltd'
+aa(lp10951
+S'Ras Resorts & Apart Hotels Ltd'
+p10952
+ag56
+aS'507966'
 p10953
-ag4
-aS'504360'
-p10954
-aa(lp10955
-S'Remi Securities Ltd'
+aa(lp10954
+S'Rasandik Engineering Industries India Ltd'
+p10955
+ag56
+aS'522207'
 p10956
-ag4
-aS'511149'
-p10957
-aa(lp10958
-S'Remsons Industries Ltd'
+aa(lp10957
+S'Rashel Agrotech Ltd'
+p10958
+ag56
+aS'532055'
 p10959
-aS'REMSONSIND'
-p10960
-aS'530919'
+aa(lp10960
+S'Rashtriya Chemicals & Fertilizers Ltd'
 p10961
-aa(lp10962
-S'Renaissance Jewellery Ltd'
+aS'RCF'
+p10962
+aS'524230'
 p10963
-aS'RJL'
-p10964
-aS'532923'
+aa(lp10964
+S'Rasi Electrodes Ltd'
 p10965
-aa(lp10966
-S'Repro India Ltd'
-p10967
-aS'REPRO'
+ag56
+aS'531233'
+p10966
+aa(lp10967
+S'Rasoi Ltd'
 p10968
-aS'532687'
+ag56
+aS'507649'
 p10969
 aa(lp10970
-S'Residency Projects & Infratech Ltd'
+S'Rasoya Proteins Ltd'
 p10971
-ag4
-aS'511114'
+aS'RASOYPR'
 p10972
-aa(lp10973
-S'Responsive Industries Ltd'
-p10974
-aS'RESPONIND'
+aS'531522'
+p10973
+aa(lp10974
+S'Ratan Glitter Industries Ltd'
 p10975
-aS'505509'
+ag56
+aS'512397'
 p10976
 aa(lp10977
-S'Restile Ceramics Ltd'
+S'Rathi Bars Ltd'
 p10978
-ag4
-aS'515085'
+ag56
+aS'532918'
 p10979
 aa(lp10980
-S'Resurgere Mines & Minerals India Ltd'
+S'Rathi Graphic Technologies Ltd'
 p10981
-aS'RESURGERE'
+ag56
+aS'524610'
 p10982
-aS'533017'
-p10983
-aa(lp10984
-S'Revathi Equipment Ltd'
+aa(lp10983
+S'Rathi Ispat Ltd'
+p10984
+ag56
+aS'504896'
 p10985
-aS'REVATHI'
-p10986
-aS'505368'
+aa(lp10986
+S'Rathi Steel & Power Ltd'
 p10987
-aa(lp10988
-S'Rexnord Electronics & Controls Ltd'
-p10989
-ag4
-aS'531888'
+ag56
+aS'504903'
+p10988
+aa(lp10989
+S'Ratnabali Capital Markets Ltd'
 p10990
-aa(lp10991
-S'RFL International Ltd'
-p10992
-ag4
-aS'531646'
+ag56
+aS'531391'
+p10991
+aa(lp10992
+S'Ratnamani Metals & Tubes Ltd'
 p10993
-aa(lp10994
-S'RGN Securities & Holdings Ltd'
+aS'RATNAMANI'
+p10994
+aS'520111'
 p10995
-ag4
-aS'531211'
-p10996
-aa(lp10997
-S'Riba Textiles Ltd'
+aa(lp10996
+S'Ratni Investments Company Ltd'
+p10997
+ag56
+aS'503637'
 p10998
-ag4
-aS'531952'
-p10999
-aa(lp11000
-S'Rich Capital & Financial Services Ltd'
+aa(lp10999
+S'Raunaq Automotive Components Ltd'
+p11000
+ag56
+aS'520073'
 p11001
-ag4
-aS'530271'
-p11002
-aa(lp11003
-S'Richa Industries Ltd'
+aa(lp11002
+S'Ravalgaon Sugar Farm Ltd'
+p11003
+aS'RAVALSUGAR'
 p11004
-ag4
-aS'532766'
+aS'507300'
 p11005
 aa(lp11006
-S'Richirich Agro Ltd'
+S'Ravi Kumar Distilleries Limited'
 p11007
-ag4
-aS'519230'
+aS'RKDL'
 p11008
-aa(lp11009
-S'Rico Auto Industries Ltd'
-p11010
-aS'RICOAUTO'
+aS'533294'
+p11009
+aa(lp11010
+S'Ravinay Trading Company Ltd'
 p11011
-aS'520008'
+ag56
+aS'504378'
 p11012
 aa(lp11013
-S'Ricoh India Ltd'
+S'Ravindra Trading & Agencies Ltd'
 p11014
-ag4
-aS'517496'
+ag56
+aS'504341'
 p11015
 aa(lp11016
-S'Riddhi Siddhi Gluco Biols Ltd'
+S'Raymed Labs Ltd'
 p11017
-ag4
-aS'524480'
+ag56
+aS'531207'
 p11018
 aa(lp11019
-S'Rids Securities Ltd'
+S'Raymond Ltd'
 p11020
-ag4
-aS'531716'
+aS'RAYMOND'
 p11021
-aa(lp11022
-S'Riga Sugar Company Ltd'
-p11023
-ag4
-aS'507508'
+aS'500330'
+p11022
+aa(lp11023
+S'RB Gupta Financials Ltd'
 p11024
-aa(lp11025
-S'Rinku Polychem Ltd'
-p11026
-ag4
-aS'524458'
+ag56
+aS'532024'
+p11025
+aa(lp11026
+S'RCC Cements Ltd'
 p11027
-aa(lp11028
-S'Rishab Financial Services Ltd'
-p11029
-ag4
-aS'531218'
+ag56
+aS'531825'
+p11028
+aa(lp11029
+S'RDB Industries Ltd'
 p11030
-aa(lp11031
-S'Rishab Special Yarns Ltd'
-p11032
-ag4
-aS'514177'
+ag56
+aS'526723'
+p11031
+aa(lp11032
+S'READYMADE STEEL INDIA LTD'
 p11033
-aa(lp11034
-S'Rishabh Digha Steel & Allied Products Ltd'
-p11035
-ag4
-aS'531539'
+ag56
+aS'533482'
+p11034
+aa(lp11035
+S'Real Strips Ltd'
 p11036
-aa(lp11037
-S'Rishabhdev Technocable Ltd'
-p11038
-ag4
-aS'533083'
+ag56
+aS'513558'
+p11037
+aa(lp11038
+S'Redex Protech Ltd'
 p11039
-aa(lp11040
-S'Rishi Laser Ltd'
-p11041
-ag4
-aS'526861'
+ag56
+aS'523650'
+p11040
+aa(lp11041
+S'Redington India Ltd'
 p11042
-aa(lp11043
-S'Rishi Packers Ltd'
+aS'REDINGTON'
+p11043
+aS'532805'
 p11044
-aS'RISHIPACK'
-p11045
-aS'523021'
+aa(lp11045
+S'Refex Refrigerants Ltd'
 p11046
-aa(lp11047
-S'Rishiroop Rubber International Ltd'
+aS'REFEX'
+p11047
+aS'532884'
 p11048
-ag4
-aS'523658'
-p11049
-aa(lp11050
-S'Ritesh International Ltd'
+aa(lp11049
+S'Refnol Resins & Chemicals Ltd'
+p11050
+ag56
+aS'530815'
 p11051
-ag4
-aS'519097'
-p11052
-aa(lp11053
-S'Ritesh Properties & Industries Ltd'
+aa(lp11052
+S'Regal Entertainment & Consultants Ltd'
+p11053
+ag56
+aS'531033'
 p11054
-ag4
-aS'526407'
-p11055
-aa(lp11056
-S'RJ Shah & Company Ltd'
+aa(lp11055
+S'Regaliaa Realty Ltd'
+p11056
+ag56
+aS'530807'
 p11057
-ag4
-aS'509845'
-p11058
-aa(lp11059
-S'RLF Ltd'
+aa(lp11058
+S'Regency Ceramics Ltd'
+p11059
+aS'REGENCERAM'
 p11060
-ag4
-aS'512618'
+aS'515018'
 p11061
 aa(lp11062
-S'RM Mohite Textiles Ltd'
+S'Regency Hospital Ltd'
 p11063
-ag4
-aS'532140'
+ag56
+aS'526403'
 p11064
 aa(lp11065
-S'Robinson Worldwide Trade Ltd'
+S'Regency Trust Ltd'
 p11066
-ag4
-aS'532154'
+ag56
+aS'511585'
 p11067
 aa(lp11068
-S'Rock Hard Petrochemical Industries Ltd'
+S'Rei Agro Ltd'
 p11069
-ag4
-aS'524194'
+aS'REIAGROLTD'
 p11070
-aa(lp11071
-S'Rockland Thermionics Ltd'
-p11072
-ag4
-aS'530061'
+aS'532106'
+p11071
+aa(lp11072
+S'REI Six Ten Retail Ltd'
 p11073
-aa(lp11074
-S'Rohit Ferro Tech Ltd'
+aS'REISIXTEN'
+p11074
+aS'533065'
 p11075
-aS'ROHITFERRO'
-p11076
-aS'532731'
+aa(lp11076
+S'Rekvina Laboratories Ltd'
 p11077
-aa(lp11078
-S'Rohit Pulp & Paper Mills Ltd'
-p11079
-ag4
-aS'502445'
+ag56
+aS'526075'
+p11078
+aa(lp11079
+S'Relaxo Footwears Ltd'
 p11080
-aa(lp11081
-S'Rollatainers Ltd'
+aS'RELAXO'
+p11081
+aS'530517'
 p11082
-aS'ROLATAN'
-p11083
-aS'502448'
+aa(lp11083
+S'Reliable Ventures India Ltd'
 p11084
-aa(lp11085
-S'Rolta India Ltd'
-p11086
-aS'ROLTA'
+ag56
+aS'532124'
+p11085
+aa(lp11086
+S'Reliance Broadcast Network Ltd'
 p11087
-aS'500366'
+aS'RBN'
 p11088
-aa(lp11089
-S'Roman Tarmat Ltd'
-p11090
-aS'ROMAN'
+aS'533143'
+p11089
+aa(lp11090
+S'Reliance Capital Ltd'
 p11091
-aS'532869'
+aS'RELCAPITAL'
 p11092
-aa(lp11093
-S'Roopa Industries Ltd'
-p11094
-ag4
-aS'530991'
+aS'500111'
+p11093
+aa(lp11094
+S'Reliance Chemotex Industries Ltd'
 p11095
-aa(lp11096
-S'Rose Investments Ltd'
-p11097
-ag4
-aS'501154'
+ag56
+aS'503162'
+p11096
+aa(lp11097
+S'Reliance Communications Ltd'
 p11098
-aa(lp11099
-S'Rose Zinc Ltd'
+aS'RCOM'
+p11099
+aS'532712'
 p11100
-ag4
-aS'530631'
-p11101
-aa(lp11102
-S'Rosebud Commercials Ltd'
+aa(lp11101
+S'Reliance Industrial Infrastructure Ltd'
+p11102
+aS'RIIL'
 p11103
-ag4
-aS'512161'
+aS'523445'
 p11104
 aa(lp11105
-S'Rosekamal Textiles Ltd'
+S'Reliance Industries Ltd'
 p11106
-ag4
-aS'512309'
+aS'RELIANCE'
 p11107
-aa(lp11108
-S'Roselabs Finance Ltd'
-p11109
-ag4
-aS'531324'
+aS'500325'
+p11108
+aa(lp11109
+S'Reliance Infrastructure Ltd'
 p11110
-aa(lp11111
-S'Roselabs Ltd'
+aS'RELINFRA'
+p11111
+aS'500390'
 p11112
-ag4
-aS'526753'
-p11113
-aa(lp11114
-S'Rosette Resorts Ltd'
+aa(lp11113
+S'Reliance MediaWorks Ltd'
+p11114
+aS'RELMEDIA'
 p11115
-ag4
-aS'530561'
+aS'532399'
 p11116
 aa(lp11117
-S'Rossell Tea Ltd'
+S'Reliance Mutual Fund - Gold Exchange Traded Fund'
 p11118
-ag4
-aS'533168'
+aS'RELGOLD'
 p11119
-aa(lp11120
-S'Rotam Commercials Ltd'
-p11121
-ag4
-aS'512359'
+aS'533891'
+p11120
+aa(lp11121
+S'Reliance Mutual Fund -Banking Exchange Traded Fund'
 p11122
-aa(lp11123
-S'Roto Pumps Ltd'
+aS'RELBANK'
+p11123
+aS'533888'
 p11124
-ag4
-aS'517500'
-p11125
-aa(lp11126
-S'Royal Cushion Vinyl Products Ltd'
+aa(lp11125
+S'Reliance Natural Resources Ltd'
+p11126
+aS'RNRL'
 p11127
-aS'ROYALCUSHN'
+aS'532709'
 p11128
-aS'526193'
-p11129
-aa(lp11130
-S'Royal Orchid Hotels Ltd'
+aa(lp11129
+S'Reliance Petroleum Ltd'
+p11130
+aS'RPL'
 p11131
-aS'ROHLTD'
+aS'532743'
 p11132
-aS'532699'
-p11133
-aa(lp11134
-S'Royal Resorts & Hotels Ltd'
+aa(lp11133
+S'Reliance Power Ltd'
+p11134
+aS'RPOWER'
 p11135
-ag4
-aS'531295'
+aS'532939'
 p11136
 aa(lp11137
-S'Royale Manor Hotels & Industries Ltd'
+S'Relic Technologies Ltd'
 p11138
-ag4
-aS'526640'
+ag56
+aS'511712'
 p11139
 aa(lp11140
-S'RPG Cables Ltd'
+S'Religare Enterprises Ltd'
 p11141
-aS'RPGCABLES'
+aS'RELIGARE'
 p11142
-aS'517056'
+aS'532915'
 p11143
 aa(lp11144
-S'RPG Life Sciences Ltd'
+S'Religare Gold ETF'
 p11145
-aS'RPGLIFE'
+aS'RELIGAREGO'
 p11146
-aS'532983'
+aS'533172'
 p11147
 aa(lp11148
-S'RR Financial Consultants Ltd'
+S'Religare Nifty Exchange Traded Fund'
 p11149
-ag4
-aS'511626'
+aS'RELGRNIFTY'
 p11150
+ag56
 aa(lp11151
-S'RR Securities Ltd'
+S'Religare Technologies Ltd'
 p11152
-ag4
-aS'530917'
+ag56
+aS'533525'
 p11153
 aa(lp11154
-S'RS Software India Ltd'
+S'Relish Pharmaceuticals Ltd'
 p11155
-aS'RSSOFTWARE'
+ag56
+aS'524632'
 p11156
-aS'517447'
-p11157
-aa(lp11158
-S'RSWM Ltd'
+aa(lp11157
+S'Remi Metals Gujarat Ltd'
+p11158
+aS'REMIMETAL'
 p11159
-aS'RSWM'
+aS'500365'
 p11160
-aS'500350'
-p11161
-aa(lp11162
-S'RT Exports Ltd'
+aa(lp11161
+S'Remi Sales & Engineering Ltd'
+p11162
+ag56
+aS'504360'
 p11163
-ag4
-aS'512565'
-p11164
-aa(lp11165
-S'RTS Power Corporation Ltd'
+aa(lp11164
+S'Remi Securities Ltd'
+p11165
+ag56
+aS'511149'
 p11166
-ag4
-aS'531215'
-p11167
-aa(lp11168
-S'Rubber Products Ltd'
+aa(lp11167
+S'Remsons Industries Ltd'
+p11168
+aS'REMSONSIND'
 p11169
-ag4
-aS'526496'
+aS'530919'
 p11170
 aa(lp11171
-S'Rubfila International Ltd'
+S'Renaissance Jewellery Ltd'
 p11172
-aS'RUBFILINTL'
+aS'RJL'
 p11173
-aS'500367'
+aS'532923'
 p11174
 aa(lp11175
-S'Rubra Medicaments Ltd'
+S'Repro India Ltd'
 p11176
-ag4
-aS'531099'
+aS'REPRO'
 p11177
-aa(lp11178
-S'Ruby Mills Ltd'
-p11179
-aS'RUBYMILLS'
+aS'532687'
+p11178
+aa(lp11179
+S'Residency Projects & Infratech Ltd'
 p11180
-aS'503169'
+ag56
+aS'511114'
 p11181
 aa(lp11182
-S'Ruchi Infrastructure Ltd'
+S'Responsive Industries Ltd'
 p11183
-aS'RUCHINFRA'
+aS'RESPONIND'
 p11184
-aS'509020'
+aS'505509'
 p11185
 aa(lp11186
-S'Ruchi Soya Industries Ltd'
+S'Restile Ceramics Ltd'
 p11187
-aS'RUCHISOYA'
+ag56
+aS'515085'
 p11188
-aS'500368'
-p11189
-aa(lp11190
-S'Ruchi Strips & Alloys Ltd'
+aa(lp11189
+S'Resurgere Mines & Minerals India Ltd'
+p11190
+aS'RMMIL'
 p11191
-aS'RUCHISTRIP'
+aS'533017'
 p11192
-aS'513295'
-p11193
-aa(lp11194
-S'Ruchira Papers Ltd'
+aa(lp11193
+S'Revathi Equipment Ltd'
+p11194
+aS'REVATHI'
 p11195
-aS'RUCHIRA'
+aS'505368'
 p11196
-aS'532785'
-p11197
-aa(lp11198
-S'Rungta Irrigation Ltd'
+aa(lp11197
+S'Rexnord Electronics & Controls Ltd'
+p11198
+ag56
+aS'531888'
 p11199
-ag4
-aS'530449'
-p11200
-aa(lp11201
-S'Rupa & Company Ltd'
+aa(lp11200
+S'RFL International Ltd'
+p11201
+ag56
+aS'531646'
 p11202
-aS'RUPA'
-p11203
-aS'533552'
+aa(lp11203
+S'RGN Securities & Holdings Ltd'
 p11204
-aa(lp11205
-S'Rural Electrification Corporation Ltd'
-p11206
-aS'RECLTD'
+ag56
+aS'531211'
+p11205
+aa(lp11206
+S'Riba Textiles Ltd'
 p11207
-aS'532955'
+ag56
+aS'531952'
 p11208
 aa(lp11209
-S'Rushil Decor Ltd'
+S'Rich Capital & Financial Services Ltd'
 p11210
-aS'RUSHIL'
+ag56
+aS'530271'
 p11211
-aS'533470'
-p11212
-aa(lp11213
-S'Rutron International Ltd'
+aa(lp11212
+S'Richa Industries Ltd'
+p11213
+ag56
+aS'532766'
 p11214
-ag4
-aS'504335'
-p11215
-aa(lp11216
-S'Ruttonsha International Rectifier Ltd'
+aa(lp11215
+S'Richirich Agro Ltd'
+p11216
+ag56
+aS'519230'
 p11217
-ag4
-aS'517035'
-p11218
-aa(lp11219
-S'Shree Renuka Sugars Ltd'
+aa(lp11218
+S'Rico Auto Industries Ltd'
+p11219
+aS'RICOAUTO'
 p11220
-aS'RENUKA'
+aS'520008'
 p11221
-aS'532670'
-p11222
-aa(lp11223
-S'SURANASOL'
+aa(lp11222
+S'Ricoh India Ltd'
+p11223
+ag56
+aS'517496'
 p11224
-aS'SURANASOL'
-p11225
-ag4
-aa(lp11226
-S'SWELECTES'
+aa(lp11225
+S'Riddhi Siddhi Gluco Biols Ltd'
+p11226
+ag56
+aS'524480'
 p11227
-aS'SWELECTES'
-p11228
-ag4
-aa(lp11229
-S'SANOFI'
+aa(lp11228
+S'Rids Securities Ltd'
+p11229
+ag56
+aS'531716'
 p11230
-aS'SANOFI'
-p11231
-ag4
-aa(lp11232
-S'SEPOWER'
+aa(lp11231
+S'Riga Sugar Company Ltd'
+p11232
+ag56
+aS'507508'
 p11233
-aS'SEPOWER'
-p11234
-ag4
-aa(lp11235
-S'SAMINDUS'
+aa(lp11234
+S'Rinku Polychem Ltd'
+p11235
+ag56
+aS'524458'
 p11236
-aS'SAMINDUS'
-p11237
-ag4
-aa(lp11238
-S'SAYAJIHOTL'
+aa(lp11237
+S'Rishab Financial Services Ltd'
+p11238
+ag56
+aS'531218'
 p11239
-aS'SAYAJIHOTL'
-p11240
-ag4
-aa(lp11241
-S'SIMPLEXCAS'
+aa(lp11240
+S'Rishab Special Yarns Ltd'
+p11241
+ag56
+aS'514177'
 p11242
-aS'SIMPLEXCAS'
-p11243
-ag4
-aa(lp11244
-S'SUNCLAYLTD'
+aa(lp11243
+S'Rishabh Digha Steel & Allied Products Ltd'
+p11244
+ag56
+aS'531539'
 p11245
-aS'SUNCLAYLTD'
-p11246
-ag4
-aa(lp11247
-S'SHIRPUR-G'
+aa(lp11246
+S'Rishabhdev Technocable Ltd'
+p11247
+ag56
+aS'533083'
 p11248
-aS'SHIRPUR-G'
-p11249
-ag4
-aa(lp11250
-S'STYABS'
+aa(lp11249
+S'Rishi Laser Ltd'
+p11250
+ag56
+aS'526861'
 p11251
-aS'STYABS'
-p11252
-ag4
-aa(lp11253
-S'SPECIALITY'
+aa(lp11252
+S'Rishi Packers Ltd'
+p11253
+aS'RISHIPACK'
 p11254
-aS'SPECIALITY'
+aS'523021'
 p11255
-ag4
 aa(lp11256
-S'SIGNETIND'
+S'Rishiroop Rubber International Ltd'
 p11257
-aS'SIGNETIND'
+ag56
+aS'523658'
 p11258
-ag4
 aa(lp11259
-S'SEINV'
+S'Ritesh International Ltd'
 p11260
-aS'SEINV'
+ag56
+aS'519097'
 p11261
-ag4
 aa(lp11262
-S'SHAKTIPUMP'
+S'Ritesh Properties & Industries Ltd'
 p11263
-aS'SHAKTIPUMP'
+ag56
+aS'526407'
 p11264
-ag4
 aa(lp11265
-S'STEL'
+S'RJ Shah & Company Ltd'
 p11266
-aS'STEL'
+ag56
+aS'509845'
 p11267
-ag4
 aa(lp11268
-S'SEZAL'
+S'RLF Ltd'
 p11269
-aS'SEZAL'
+ag56
+aS'512618'
 p11270
-ag4
 aa(lp11271
-S'SHARONBIO'
+S'RM Mohite Textiles Ltd'
 p11272
-aS'SHARONBIO'
+ag56
+aS'532140'
 p11273
-ag4
 aa(lp11274
-S'SARTHAKIND'
+S'Robinson Worldwide Trade Ltd'
 p11275
-aS'SARTHAKIND'
+ag56
+aS'532154'
 p11276
-ag4
 aa(lp11277
-S'SCHNEIDER'
+S'Rock Hard Petrochemical Industries Ltd'
 p11278
-aS'SCHNEIDER'
+ag56
+aS'524194'
 p11279
-ag4
 aa(lp11280
-S'SWANENERGY'
+S'Rockland Thermionics Ltd'
 p11281
-aS'SWANENERGY'
+ag56
+aS'530061'
 p11282
-ag4
 aa(lp11283
-S'SUJANATWR'
+S'Rohit Ferro Tech Ltd'
 p11284
-aS'SUJANATWR'
+aS'ROHITFERRO'
 p11285
-ag4
-aa(lp11286
-S'SSLT'
-p11287
-aS'SSLT'
+aS'532731'
+p11286
+aa(lp11287
+S'Rohit Pulp & Paper Mills Ltd'
 p11288
-ag4
-aa(lp11289
-S'SHRINATRAJ'
-p11290
-aS'SHRINATRAJ'
+ag56
+aS'502445'
+p11289
+aa(lp11290
+S'Rollatainers Ltd'
 p11291
-ag4
-aa(lp11292
-S'SUPERHOUSE'
+aS'ROLATAN'
+p11292
+aS'502448'
 p11293
-aS'SUPERHOUSE'
-p11294
-ag4
-aa(lp11295
-S'SRIPIPES'
+aa(lp11294
+S'Rolta India Ltd'
+p11295
+aS'ROLTA'
 p11296
-aS'SRIPIPES'
+aS'500366'
 p11297
-ag4
 aa(lp11298
-S'SQSBFSI'
+S'Roman Tarmat Ltd'
 p11299
-aS'SQSBFSI'
+aS'TARMAT'
 p11300
-ag4
-aa(lp11301
-S'SPICEMOBI'
-p11302
-aS'SPICEMOBI'
+aS'532869'
+p11301
+aa(lp11302
+S'Roopa Industries Ltd'
 p11303
-ag4
-aa(lp11304
-S'SNOWMAN'
-p11305
-aS'SNOWMAN'
+ag56
+aS'530991'
+p11304
+aa(lp11305
+S'Rose Investments Ltd'
 p11306
-ag4
-aa(lp11307
-S'SITICABLE'
-p11308
-aS'SITICABLE'
+ag56
+aS'501154'
+p11307
+aa(lp11308
+S'Rose Zinc Ltd'
 p11309
-ag4
-aa(lp11310
-S'SHEMAROO'
-p11311
-aS'SHEMAROO'
+ag56
+aS'530631'
+p11310
+aa(lp11311
+S'Rosebud Commercials Ltd'
 p11312
-ag4
-aa(lp11313
-S'SREEL'
+aS'8KMILES'
+p11313
+aS'512161'
 p11314
-aS'SREEL'
-p11315
-ag4
-aa(lp11316
-S'SFCL'
+aa(lp11315
+S'Rosekamal Textiles Ltd'
+p11316
+ag56
+aS'512309'
 p11317
-aS'SFCL'
-p11318
-ag4
-aa(lp11319
-S'SHRIASTER'
+aa(lp11318
+S'Roselabs Finance Ltd'
+p11319
+ag56
+aS'531324'
 p11320
-aS'SHRIASTER'
-p11321
-ag4
-aa(lp11322
-S'SKIL'
+aa(lp11321
+S'Roselabs Ltd'
+p11322
+ag56
+aS'526753'
 p11323
-aS'SKIL'
-p11324
-ag4
-aa(lp11325
-S'SDBL'
+aa(lp11324
+S'Rosette Resorts Ltd'
+p11325
+ag56
+aS'530561'
 p11326
-aS'SDBL'
-p11327
-ag4
-aa(lp11328
-S'SHARDACROP'
+aa(lp11327
+S'Rossell Tea Ltd'
+p11328
+aS'ROSSELLIND'
 p11329
-aS'SHARDACROP'
+aS'533168'
 p11330
-ag4
 aa(lp11331
-S'Archana Software Ltd'
+S'Rotam Commercials Ltd'
 p11332
-aS'SSLFINANCE'
+ag56
+aS'512359'
 p11333
-aS'530565'
-p11334
-aa(lp11335
-S'Benchmark Mutual Fund - Shariah Benchmark Exchange'
+aa(lp11334
+S'Roto Pumps Ltd'
+p11335
+ag56
+aS'517500'
 p11336
-aS'SHARIABEES'
-p11337
-ag4
-aa(lp11338
-S'Eskay KnIT India Ltd'
+aa(lp11337
+S'Royal Cushion Vinyl Products Ltd'
+p11338
+aS'ROYALCUSHN'
 p11339
-aS'SHREEKRPET'
+aS'526193'
 p11340
-aS'514118'
-p11341
-aa(lp11342
-S'Jhagadia Copper Ltd'
+aa(lp11341
+S'Royal Orchid Hotels Ltd'
+p11342
+aS'ROHLTD'
 p11343
-aS'SWIL'
+aS'532699'
 p11344
-aS'504920'
-p11345
-aa(lp11346
-S'Krishna Lifestyle Technologies Ltd'
+aa(lp11345
+S'Royal Resorts & Hotels Ltd'
+p11346
+ag56
+aS'531295'
 p11347
-aS'SHREEKRPOL'
-p11348
-aS'514221'
+aa(lp11348
+S'Royale Manor Hotels & Industries Ltd'
 p11349
-aa(lp11350
-S'Luminaire Technologies Ltd'
-p11351
-aS'STRAUSIND'
+ag56
+aS'526640'
+p11350
+aa(lp11351
+S'RPG Cables Ltd'
 p11352
-aS'526045'
+aS'RPGCABLES'
 p11353
-aa(lp11354
-S'Narmada Gelatines Ltd'
-p11355
-aS'SHAWGELTIN'
+aS'517056'
+p11354
+aa(lp11355
+S'RPG Life Sciences Ltd'
 p11356
-aS'526739'
+aS'RPGLIFE'
 p11357
-aa(lp11358
-S'Pan India Corporation Ltd'
-p11359
-aS'SRGINFOTEC'
+aS'532983'
+p11358
+aa(lp11359
+S'RR Financial Consultants Ltd'
 p11360
-aS'511525'
+ag56
+aS'511626'
 p11361
 aa(lp11362
-S'S & T Corporation Ltd'
+S'RR Securities Ltd'
 p11363
-ag4
-aS'514197'
+ag56
+aS'530917'
 p11364
 aa(lp11365
-S'S Kumars.Com Ltd'
+S'RS Software India Ltd'
 p11366
-ag4
-aS'532316'
+aS'RSSOFTWARE'
 p11367
-aa(lp11368
-S'S Mobility Ltd'
-p11369
-aS'SMOBILITY'
+aS'517447'
+p11368
+aa(lp11369
+S'RSWM Ltd'
 p11370
-aS'517214'
+aS'RSWM'
 p11371
-aa(lp11372
-S'S&P; CNX Nifty UTI ETF'
-p11373
-ag4
-aS'590102'
+aS'500350'
+p11372
+aa(lp11373
+S'RT Exports Ltd'
 p11374
-aa(lp11375
-S'S&Y; Mills Ltd'
-p11376
-ag4
-aS'531135'
+ag56
+aS'512565'
+p11375
+aa(lp11376
+S'RTS Power Corporation Ltd'
 p11377
-aa(lp11378
-S'S.Kumars Nationwide Ltd'
-p11379
-aS'SKUMARSYNF'
+ag56
+aS'531215'
+p11378
+aa(lp11379
+S'Rubber Products Ltd'
 p11380
-aS'514304'
+ag56
+aS'526496'
 p11381
 aa(lp11382
-S'SAAG RR Infra Ltd'
+S'Rubfila International Ltd'
 p11383
-ag4
-aS'531374'
+aS'RUBFILINTL'
 p11384
-aa(lp11385
-S'Saamya Biotech India Ltd'
-p11386
-ag4
-aS'532905'
+aS'500367'
+p11385
+aa(lp11386
+S'Rubra Medicaments Ltd'
 p11387
-aa(lp11388
-S'Saarc Net Ltd'
-p11389
-ag4
-aS'531901'
+ag56
+aS'531099'
+p11388
+aa(lp11389
+S'Ruby Mills Ltd'
 p11390
-aa(lp11391
-S'Sabero Organics Gujarat Ltd'
+aS'RUBYMILLS'
+p11391
+aS'503169'
 p11392
-aS'SABERORGAN'
-p11393
-aS'524446'
+aa(lp11393
+S'Ruchi Infrastructure Ltd'
 p11394
-aa(lp11395
-S'Saboo Brothers Ltd'
+aS'RUCHINFRA'
+p11395
+aS'509020'
 p11396
-ag4
-aS'530267'
-p11397
-aa(lp11398
-S'Saboo Sodium Chloro Ltd'
+aa(lp11397
+S'Ruchi Soya Industries Ltd'
+p11398
+aS'RUCHISOYA'
 p11399
-ag4
-aS'530461'
+aS'500368'
 p11400
 aa(lp11401
-S'Sacheta Metals Ltd'
+S'Ruchi Strips & Alloys Ltd'
 p11402
-ag4
-aS'531869'
+aS'RUCHISTRIP'
 p11403
-aa(lp11404
-S'Sadbhav Engineering Ltd'
-p11405
-aS'SADBHAV'
+aS'513295'
+p11404
+aa(lp11405
+S'Ruchira Papers Ltd'
 p11406
-aS'532710'
+aS'RUCHIRA'
 p11407
-aa(lp11408
-S'Sadhana Nitro Chem Ltd'
-p11409
-ag4
-aS'506642'
+aS'532785'
+p11408
+aa(lp11409
+S'Rungta Irrigation Ltd'
 p11410
-aa(lp11411
-S'Safari Industries India Ltd'
-p11412
-ag4
-aS'523025'
+ag56
+aS'530449'
+p11411
+aa(lp11412
+S'Rupa & Company Ltd'
 p11413
-aa(lp11414
-S'Sagar Cements Ltd'
+aS'RUPA'
+p11414
+aS'533552'
 p11415
-aS'SAGCEM'
-p11416
-aS'502090'
+aa(lp11416
+S'Rural Electrification Corporation Ltd'
 p11417
-aa(lp11418
-S'Sagar Soya Products Ltd'
+aS'RECLTD'
+p11418
+aS'532955'
 p11419
-ag4
-aS'507663'
-p11420
-aa(lp11421
-S'Sah Petroleums Ltd'
+aa(lp11420
+S'Rushil Decor Ltd'
+p11421
+aS'RUSHIL'
 p11422
-aS'SAHPETRO'
+aS'533470'
 p11423
-aS'532543'
-p11424
-aa(lp11425
-S'Sahara Housingfina Corporation Ltd'
+aa(lp11424
+S'Rutron International Ltd'
+p11425
+ag56
+aS'504335'
 p11426
-ag4
-aS'511533'
-p11427
-aa(lp11428
-S'Sahara One Media & Entertainment Ltd'
+aa(lp11427
+S'Ruttonsha International Rectifier Ltd'
+p11428
+ag56
+aS'517035'
 p11429
-ag4
-aS'503691'
-p11430
-aa(lp11431
-S'Sahil Financial Services Ltd'
+aa(lp11430
+S'Shree Renuka Sugars Ltd'
+p11431
+aS'RENUKA'
 p11432
-ag4
-aS'531203'
+aS'532670'
 p11433
 aa(lp11434
-S'Sahyadri Industries Ltd'
+S'SURANASOL'
 p11435
-ag4
-aS'532841'
+aS'SURANASOL'
 p11436
-aa(lp11437
-S'Sai Service Station Ltd'
-p11438
-aS'SAISERVICE'
+aS'533298'
+p11437
+aa(lp11438
+S'SWELECTES'
 p11439
-aS'526681'
+aS'SWELECTES'
 p11440
-aa(lp11441
-S'Sai Wires India Ltd'
-p11442
-ag4
-aS'531648'
+aS'532051'
+p11441
+aa(lp11442
+S'SANOFI'
 p11443
-aa(lp11444
-S'Sainik Finance & Industries Ltd'
+aS'SANOFI'
+p11444
+aS'500674'
 p11445
-ag4
-aS'530265'
-p11446
-aa(lp11447
-S'Saint Gobain Sekurit India Ltd'
+aa(lp11446
+S'SEPOWER'
+p11447
+aS'SEPOWER'
 p11448
-ag4
-aS'515043'
+aS'534598'
 p11449
 aa(lp11450
-S'Saksoft Ltd'
+S'SAMINDUS'
 p11451
-aS'SAKSOFT'
+aS'SAMINDUS'
 p11452
-aS'590051'
+aS'532005'
 p11453
 aa(lp11454
-S'Sakthi Finance Ltd'
+S'SAYAJIHOTL'
 p11455
-aS'SAKTHIFIN'
+aS'SAYAJIHOTL'
 p11456
-aS'511066'
+aS'523710'
 p11457
 aa(lp11458
-S'Sakthi Sugars Ltd'
+S'SIMPLEXCAS'
 p11459
-aS'SAKHTISUG'
+aS'SIMPLEXCAS'
 p11460
-aS'507315'
+aS'513472'
 p11461
 aa(lp11462
-S'Sakuma Exports Ltd'
+S'SUNCLAYLTD'
 p11463
-aS'SAKUMA'
+aS'SUNCLAYLTD'
 p11464
-aS'532713'
+aS'520056'
 p11465
 aa(lp11466
-S'SAL Steel Ltd'
+S'SHIRPUR-G'
 p11467
-aS'SALSTEEL'
+aS'SHIRPUR-G'
 p11468
-aS'532604'
+aS'512289'
 p11469
 aa(lp11470
-S'Salguti Industries Ltd'
+S'STYABS'
 p11471
-ag4
-aS'526554'
+aS'STYABS'
 p11472
-aa(lp11473
-S'Salona Cotspin Ltd'
-p11474
-aS'SALONACOT'
+aS'506222'
+p11473
+aa(lp11474
+S'SPECIALITY'
 p11475
-aS'590056'
+aS'SPECIALITY'
 p11476
-aa(lp11477
-S'Salora International Ltd'
-p11478
-aS'SALORAINTL'
+aS'534425'
+p11477
+aa(lp11478
+S'SIGNETIND'
 p11479
-aS'500370'
+aS'SIGNET'
 p11480
-aa(lp11481
-S'Salzer Electronics Ltd'
-p11482
-ag4
-aS'517059'
+aS'512131'
+p11481
+aa(lp11482
+S'SEINV'
 p11483
-aa(lp11484
-S'Sam Industries Ltd'
+aS'SEINV'
+p11484
+aS'532900'
 p11485
-ag4
-aS'532005'
-p11486
-aa(lp11487
-S'Sam Leaseco Ltd'
+aa(lp11486
+S'SHAKTIPUMP'
+p11487
+aS'SHAKTIPUMP'
 p11488
-ag4
-aS'504345'
+aS'531431'
 p11489
 aa(lp11490
-S'Sambandam Spinning Mills Ltd'
+S'STEL'
 p11491
-aS'SAMBANDAM'
+aS'STEL'
 p11492
-aS'521240'
+aS'533316'
 p11493
 aa(lp11494
-S'Sambhaav Media Ltd'
+S'SEZAL'
 p11495
-aS'SAMBHAAV'
+aS'SEZAL'
 p11496
-aS'511630'
+aS'532993'
 p11497
 aa(lp11498
-S'Samkrg Pistons & Rings Ltd'
+S'SHARONBIO'
 p11499
-ag4
-aS'520075'
+aS'SHARONBIO'
 p11500
-aa(lp11501
-S'Sampada Chemicals Ltd'
-p11502
-ag4
-aS'506172'
+aS'532908'
+p11501
+aa(lp11502
+S'SARTHAKIND'
 p11503
-aa(lp11504
-S'Sampre Nutritions Ltd'
+aS'SARTHAKIND'
+p11504
+aS'531930'
 p11505
-ag4
-aS'530617'
-p11506
-aa(lp11507
-S'Samrat Pharmachem Ltd'
+aa(lp11506
+S'SCHNEIDER'
+p11507
+aS'SCHNEIDER'
 p11508
-ag4
-aS'530125'
+aS'534139'
 p11509
 aa(lp11510
-S'Samruddhi Cement Ltd'
+S'SWANENERGY'
 p11511
-aS'SAMRUDDHI'
+aS'SWANENERGY'
 p11512
-aS'533209'
+aS'503310'
 p11513
 aa(lp11514
-S'Samtel Color Ltd'
+S'SUJANATWR'
 p11515
-aS'SAMTEL'
+aS'SUJANATWR'
 p11516
-aS'500372'
+aS'532887'
 p11517
 aa(lp11518
-S'Samtel India Ltd'
+S'SSLT'
 p11519
-aS'SAMTELTD'
+aS'VEDL'
 p11520
-aS'500371'
+aS'500295'
 p11521
 aa(lp11522
-S'Samtex Fashions Ltd'
+S'SHRINATRAJ'
 p11523
-ag4
-aS'521206'
+aS'SHRINATRAJ'
 p11524
+ag56
 aa(lp11525
-S'Sanco Trans Ltd'
+S'SUPERHOUSE'
 p11526
-ag4
-aS'523116'
+aS'SUPERHOUSE'
 p11527
-aa(lp11528
-S'Sand Plast (India) Ltd'
-p11529
-ag4
-aS'533079'
+aS'523283'
+p11528
+aa(lp11529
+S'SRIPIPES'
 p11530
-aa(lp11531
-S'Sandesh Ltd'
+aS'SRIPIPES'
+p11531
+aS'513605'
 p11532
-aS'SANDESH'
-p11533
-aS'526725'
+aa(lp11533
+S'SQSBFSI'
 p11534
-aa(lp11535
-S'Sandu Pharmaceuticals Ltd'
+aS'SQSBFSI'
+p11535
+aS'533121'
 p11536
-ag4
-aS'524703'
-p11537
-aa(lp11538
-S'Sandur Manganese & Iron Ores Ltd'
+aa(lp11537
+S'SPICEMOBI'
+p11538
+aS'SPICEMOBI'
 p11539
-ag4
-aS'504918'
+aS'517214'
 p11540
 aa(lp11541
-S'Sangal Papers Ltd'
+S'SNOWMAN'
 p11542
-ag4
-aS'516096'
+aS'SNOWMAN'
 p11543
-aa(lp11544
-S'Sangam India Ltd'
-p11545
-aS'SANGAMIND'
+aS'538635'
+p11544
+aa(lp11545
+S'SITICABLE'
 p11546
-aS'514234'
+aS'SITICABLE'
 p11547
-aa(lp11548
-S'Sanghi Corporate Services Ltd'
-p11549
-ag4
-aS'511640'
+aS'532795'
+p11548
+aa(lp11549
+S'SHEMAROO'
 p11550
-aa(lp11551
-S'Sanghi Industries Ltd'
+aS'SHEMAROO'
+p11551
+aS'538685'
 p11552
-aS'SANGHIIND'
-p11553
-aS'526521'
+aa(lp11553
+S'SREEL'
 p11554
-aa(lp11555
-S'Sanghi Polyesters Ltd'
+aS'SREEL'
+p11555
+aS'535601'
 p11556
-aS'SANGHIPOLY'
-p11557
-aS'500375'
+aa(lp11557
+S'SFCL'
 p11558
-aa(lp11559
-S'Sanghvi Forging and Engineering Limited'
+aS'SFCL'
+p11559
+aS'536666'
 p11560
-aS'SANGHVIFOR'
-p11561
-aS'533411'
+aa(lp11561
+S'SHRIASTER'
 p11562
-aa(lp11563
-S'Sanghvi Movers Ltd'
-p11564
-aS'SANGHVIMOV'
+aS'SHRIASTER'
+p11563
+ag56
+aa(lp11564
+S'SKIL'
 p11565
-aS'530073'
+aS'SKIL'
 p11566
+ag56
 aa(lp11567
-S'Sanguine Media Ltd'
+S'SDBL'
 p11568
-ag4
-aS'531898'
+aS'SDBL'
 p11569
-aa(lp11570
-S'Sanjay Leasing Ltd'
-p11571
-ag4
-aS'508954'
+aS'507514'
+p11570
+aa(lp11571
+S'SHARDACROP'
 p11572
-aa(lp11573
-S'Sanjivani Paranteral Ltd'
+aS'SHARDACROP'
+p11573
+aS'538666'
 p11574
-ag4
-aS'531569'
-p11575
-aa(lp11576
-S'Sanket International Ltd'
+aa(lp11575
+S'Archana Software Ltd'
+p11576
+ag56
+aS'530565'
 p11577
-ag4
-aS'512409'
-p11578
-aa(lp11579
-S'Sankhya Infotech Ltd'
+aa(lp11578
+S'Benchmark Mutual Fund - Shariah Benchmark Exchange'
+p11579
+aS'SHARIABEES'
 p11580
-ag4
-aS'532972'
+aS'590109'
 p11581
 aa(lp11582
-S'Sanmitra Commercial Ltd'
+S'Eskay KnIT India Ltd'
 p11583
-ag4
-aS'512062'
+aS'SHREEKRPET'
 p11584
-aa(lp11585
-S'Sanra Software Ltd'
-p11586
-ag4
-aS'531312'
+aS'514118'
+p11585
+aa(lp11586
+S'Jhagadia Copper Ltd'
 p11587
-aa(lp11588
-S'Sanrhea Technical Textiles Ltd'
+aS'SWIL'
+p11588
+aS'504920'
 p11589
-ag4
-aS'514280'
-p11590
-aa(lp11591
-S'Santaram Spinners Ltd'
+aa(lp11590
+S'Krishna Lifestyle Technologies Ltd'
+p11591
+aS'SHREEKRPOL'
 p11592
-ag4
-aS'531323'
+aS'514221'
 p11593
 aa(lp11594
-S'Santosh Fine Fab Ltd'
+S'Luminaire Technologies Ltd'
 p11595
-ag4
-aS'530035'
+aS'STRAUSIND'
 p11596
-aa(lp11597
-S'Santowin Polyesters Ltd'
-p11598
-ag4
-aS'512465'
+aS'526045'
+p11597
+aa(lp11598
+S'Narmada Gelatines Ltd'
 p11599
-aa(lp11600
-S'Sanwaria Agro Oils Ltd'
+aS'SHAWGELTIN'
+p11600
+aS'526739'
 p11601
-aS'SANWARIA'
-p11602
-aS'519260'
+aa(lp11602
+S'Pan India Corporation Ltd'
 p11603
-aa(lp11604
-S'Saptarishi Agro Industries Ltd'
+aS'SRGINFOTEC'
+p11604
+aS'511525'
 p11605
-ag4
-aS'519238'
-p11606
-aa(lp11607
-S'SAR SAROVR-DDB'
+aa(lp11606
+S'S & T Corporation Ltd'
+p11607
+ag56
+aS'514197'
 p11608
-ag4
-aS'911545'
-p11609
-aa(lp11610
-S'Sarang Chemicals Ltd'
+aa(lp11609
+S'S Kumars.Com Ltd'
+p11610
+ag56
+aS'532316'
 p11611
-ag4
-aS'532031'
-p11612
-aa(lp11613
-S'Saraswati Commercial India Ltd'
+aa(lp11612
+S'S Mobility Ltd'
+p11613
+aS'SPICEMOBI'
 p11614
-ag4
-aS'512020'
+aS'517214'
 p11615
 aa(lp11616
-S'Saraswati Industrial Syndicate Ltd'
+S'S&P; CNX Nifty UTI ETF'
 p11617
-ag4
-aS'533033'
+aS'UTISUNDER'
 p11618
-aa(lp11619
-S'Sarda Energy & Minerals Ltd'
-p11620
-aS'SARDAEN'
+aS'590102'
+p11619
+aa(lp11620
+S'S&Y; Mills Ltd'
 p11621
-aS'504614'
+ag56
+aS'531135'
 p11622
 aa(lp11623
-S'Sarda Papers Ltd'
+S'S.Kumars Nationwide Ltd'
 p11624
-ag4
-aS'516032'
+aS'SKUMARSYNF'
 p11625
-aa(lp11626
-S'Sarda Plywood Industries Ltd'
-p11627
-ag4
-aS'516003'
+aS'514304'
+p11626
+aa(lp11627
+S'SAAG RR Infra Ltd'
 p11628
-aa(lp11629
-S'Sarda Proteins Ltd'
-p11630
-ag4
-aS'519242'
+ag56
+aS'531374'
+p11629
+aa(lp11630
+S'Saamya Biotech India Ltd'
 p11631
-aa(lp11632
-S'Saregama India Ltd'
-p11633
-aS'SAREGAMA'
+ag56
+aS'532905'
+p11632
+aa(lp11633
+S'Saarc Net Ltd'
 p11634
-aS'532163'
+ag56
+aS'531901'
 p11635
 aa(lp11636
-S'Sark Systems India Ltd'
+S'Sabero Organics Gujarat Ltd'
 p11637
-aS'SARKSYS'
+aS'SABERORGAN'
 p11638
-aS'533056'
+aS'524446'
 p11639
 aa(lp11640
-S'Sarla Gems Ltd'
+S'Saboo Brothers Ltd'
 p11641
-ag4
-aS'523652'
+ag56
+aS'530267'
 p11642
 aa(lp11643
-S'Sarla Performance Fibers Ltd'
+S'Saboo Sodium Chloro Ltd'
 p11644
-aS'SARLAPOLY'
+ag56
+aS'530461'
 p11645
-aS'526885'
-p11646
-aa(lp11647
-S'Sarthak Global Ltd'
+aa(lp11646
+S'Sacheta Metals Ltd'
+p11647
+ag56
+aS'531869'
 p11648
-ag4
-aS'530993'
-p11649
-aa(lp11650
-S'Sarthak Industries Ltd'
+aa(lp11649
+S'Sadbhav Engineering Ltd'
+p11650
+aS'SADBHAV'
 p11651
-ag4
-aS'531930'
+aS'532710'
 p11652
 aa(lp11653
-S'Sarup Tanneries Ltd'
+S'Sadhana Nitro Chem Ltd'
 p11654
-ag4
-aS'514412'
+ag56
+aS'506642'
 p11655
 aa(lp11656
-S'Sarvamangal Mercantile Company Ltd'
+S'Safari Industries India Ltd'
 p11657
-ag4
-aS'506190'
+ag56
+aS'523025'
 p11658
 aa(lp11659
-S'Sasken Communication Technologies Ltd'
+S'Sagar Cements Ltd'
 p11660
-aS'SASKEN'
+aS'SAGCEM'
 p11661
-aS'532663'
+aS'502090'
 p11662
 aa(lp11663
-S'Sat Industries Ltd'
+S'Sagar Soya Products Ltd'
 p11664
-ag4
-aS'511076'
+ag56
+aS'507663'
 p11665
 aa(lp11666
-S'Satellite Engineering Ltd'
+S'Sah Petroleums Ltd'
 p11667
-ag4
-aS'522279'
+aS'GULFPETRO'
 p11668
-aa(lp11669
-S'Sathavahana Ispat Ltd'
-p11670
-aS'SATHAISPAT'
+aS'532543'
+p11669
+aa(lp11670
+S'Sahara Housingfina Corporation Ltd'
 p11671
-aS'526093'
+ag56
+aS'511533'
 p11672
 aa(lp11673
-S'Satra Properties India Ltd'
+S'Sahara One Media & Entertainment Ltd'
 p11674
-ag4
-aS'508996'
+ag56
+aS'503691'
 p11675
 aa(lp11676
-S'Satyam Computer Services Ltd'
+S'Sahil Financial Services Ltd'
 p11677
-aS'SATYAMCOMP'
+ag56
+aS'531203'
 p11678
-aS'500376'
-p11679
-aa(lp11680
-S'Saurashtra Cement Ltd'
+aa(lp11679
+S'Sahyadri Industries Ltd'
+p11680
+ag56
+aS'532841'
 p11681
-aS'SAURASHCEM'
-p11682
-aS'502175'
+aa(lp11682
+S'Sai Service Station Ltd'
 p11683
-aa(lp11684
-S'Savani Financials Ltd'
+aS'SAISERVICE'
+p11684
+aS'526681'
 p11685
-ag4
-aS'511577'
-p11686
-aa(lp11687
-S'Savant Infocomm Ltd'
+aa(lp11686
+S'Sai Wires India Ltd'
+p11687
+ag56
+aS'531648'
 p11688
-ag4
-aS'517320'
-p11689
-aa(lp11690
-S'Saven Technologies Ltd'
+aa(lp11689
+S'Sainik Finance & Industries Ltd'
+p11690
+ag56
+aS'530265'
 p11691
-ag4
-aS'532404'
-p11692
-aa(lp11693
-S'Savera Industries Ltd'
+aa(lp11692
+S'Saint Gobain Sekurit India Ltd'
+p11693
+ag56
+aS'515043'
 p11694
-aS'SAVERA'
-p11695
-aS'512634'
+aa(lp11695
+S'Saksoft Ltd'
 p11696
-aa(lp11697
-S'Savita Oil Technologies Ltd'
+aS'SAKSOFT'
+p11697
+aS'590051'
 p11698
-aS'SOTL'
-p11699
-aS'524667'
+aa(lp11699
+S'Sakthi Finance Ltd'
 p11700
-aa(lp11701
-S'Sawaca Business Machines Ltd'
+aS'SAKTHIFIN'
+p11701
+aS'511066'
 p11702
-ag4
-aS'531893'
-p11703
-aa(lp11704
-S'Saya Housing Finance Company Ltd'
+aa(lp11703
+S'Sakthi Sugars Ltd'
+p11704
+aS'SAKHTISUG'
 p11705
-ag4
-aS'511144'
+aS'507315'
 p11706
 aa(lp11707
-S'Sayaji Hotels Ltd'
+S'Sakuma Exports Ltd'
 p11708
-aS'SAYAJHOTEL'
+aS'SAKUMA'
 p11709
-aS'523710'
+aS'532713'
 p11710
 aa(lp11711
-S'SB&T; International Ltd'
+S'SAL Steel Ltd'
 p11712
-aS'SB&TINTL;'
+aS'SALSTEEL'
 p11713
-aS'513583'
+aS'532604'
 p11714
 aa(lp11715
-S'SBEC Sugar Ltd'
+S'Salguti Industries Ltd'
 p11716
-ag4
-aS'532102'
+ag56
+aS'526554'
 p11717
 aa(lp11718
-S'SBI Capital Protection Oriented Fund Series II (Growth)'
+S'Salona Cotspin Ltd'
 p11719
-ag4
-aS'533340'
+aS'SALONACOT'
 p11720
-aa(lp11721
-S'SBI Mutual Fund - SBI Gold Exchange Traded Scheme'
-p11722
-aS'SBIGETS'
+aS'590056'
+p11721
+aa(lp11722
+S'Salora International Ltd'
 p11723
-ag4
-aa(lp11724
-S'Scanet Exports Ltd'
+aS'SALORAINTL'
+p11724
+aS'500370'
 p11725
-ag4
-aS'531260'
-p11726
-aa(lp11727
-S'Scanpoint Graphics Ltd'
+aa(lp11726
+S'Salzer Electronics Ltd'
+p11727
+ag56
+aS'517059'
 p11728
-ag4
-aS'526544'
-p11729
-aa(lp11730
-S'Scenario Media Ltd'
+aa(lp11729
+S'Sam Industries Ltd'
+p11730
+aS'SAMINDUS'
 p11731
-ag4
-aS'505590'
+aS'532005'
 p11732
 aa(lp11733
-S'Schablona India Ltd'
+S'Sam Leaseco Ltd'
 p11734
-ag4
-aS'507894'
+ag56
+aS'504345'
 p11735
 aa(lp11736
-S'Schlafhorst Engineering India Ltd'
+S'Sambandam Spinning Mills Ltd'
 p11737
-ag4
-aS'505358'
+aS'SAMBANDAM'
 p11738
-aa(lp11739
-S'Schrader Duncan Ltd'
-p11740
-ag4
-aS'504908'
+aS'521240'
+p11739
+aa(lp11740
+S'Sambhaav Media Ltd'
 p11741
-aa(lp11742
-S'Scindia Steam Navigation Company Ltd'
+aS'SAMBHAAV'
+p11742
+aS'511630'
 p11743
-ag4
-aS'501887'
-p11744
-aa(lp11745
-S'Scooters India Ltd'
+aa(lp11744
+S'Samkrg Pistons & Rings Ltd'
+p11745
+ag56
+aS'520075'
 p11746
-ag4
-aS'505141'
-p11747
-aa(lp11748
-S'SDFC Finance Ltd'
+aa(lp11747
+S'Sampada Chemicals Ltd'
+p11748
+ag56
+aS'506172'
 p11749
-ag4
-aS'511433'
-p11750
-aa(lp11751
-S'SE Investments Ltd'
+aa(lp11750
+S'Sampre Nutritions Ltd'
+p11751
+ag56
+aS'530617'
 p11752
-aS'SEINVEST'
-p11753
-aS'532900'
+aa(lp11753
+S'Samrat Pharmachem Ltd'
 p11754
-aa(lp11755
-S'Sea TV Network Ltd'
-p11756
-aS'SEATV'
+ag56
+aS'530125'
+p11755
+aa(lp11756
+S'Samruddhi Cement Ltd'
 p11757
-aS'533268'
+aS'SAMRUDDHI'
 p11758
-aa(lp11759
-S'Seahorse Hospitals Ltd'
-p11760
-ag4
-aS'524520'
+aS'533209'
+p11759
+aa(lp11760
+S'Samtel Color Ltd'
 p11761
-aa(lp11762
-S'Seamec Ltd'
+aS'SAMTEL'
+p11762
+aS'500372'
 p11763
-aS'SEAMECLTD'
-p11764
-aS'526807'
+aa(lp11764
+S'Samtel India Ltd'
 p11765
-aa(lp11766
-S'Seasons Furnishings Ltd'
+aS'SAMTELTD'
+p11766
+aS'500371'
 p11767
-ag4
-aS'521182'
-p11768
-aa(lp11769
-S'Seasons Textiles Ltd'
+aa(lp11768
+S'Samtex Fashions Ltd'
+p11769
+ag56
+aS'521206'
 p11770
-ag4
-aS'514264'
-p11771
-aa(lp11772
-S'Seax Global Ventures Ltd'
+aa(lp11771
+S'Sanco Trans Ltd'
+p11772
+ag56
+aS'523116'
 p11773
-ag4
-aS'526843'
-p11774
-aa(lp11775
-S'Secunderabad Healthcare Ltd'
+aa(lp11774
+S'Sand Plast (India) Ltd'
+p11775
+ag56
+aS'533079'
 p11776
-ag4
-aS'524540'
-p11777
-aa(lp11778
-S'Securities Capital Investments India Ltd'
+aa(lp11777
+S'Sandesh Ltd'
+p11778
+aS'SANDESH'
 p11779
-ag4
-aS'530269'
+aS'526725'
 p11780
 aa(lp11781
-S'SEL CRPS    '
+S'Sandu Pharmaceuticals Ltd'
 p11782
-ag4
-aS'700108'
+ag56
+aS'524703'
 p11783
 aa(lp11784
-S'SEL Manufacturing Company Ltd'
+S'Sandur Manganese & Iron Ores Ltd'
 p11785
-aS'SELMCL'
+ag56
+aS'504918'
 p11786
-aS'532886'
-p11787
-aa(lp11788
-S'Selan Exploration Technology Ltd'
+aa(lp11787
+S'Sangal Papers Ltd'
+p11788
+ag56
+aS'516096'
 p11789
-aS'SELAN'
-p11790
-aS'530075'
+aa(lp11790
+S'Sangam India Ltd'
 p11791
-aa(lp11792
-S'Sellaids Publications India Ltd'
+aS'SANGAMIND'
+p11792
+aS'514234'
 p11793
-ag4
-aS'526071'
-p11794
-aa(lp11795
-S'Senbo Industries Ltd'
+aa(lp11794
+S'Sanghi Corporate Services Ltd'
+p11795
+ag56
+aS'511640'
 p11796
-ag4
-aS'532021'
-p11797
-aa(lp11798
-S'Sentil Agrotech Ltd'
+aa(lp11797
+S'Sanghi Industries Ltd'
+p11798
+aS'SANGHIIND'
 p11799
-ag4
-aS'531980'
+aS'526521'
 p11800
 aa(lp11801
-S'Sentinel Tea and Exports Ltd'
+S'Sanghi Polyesters Ltd'
 p11802
-aS'SENTINEL'
+aS'SANGHIPOLY'
 p11803
-aS'533316'
+aS'500375'
 p11804
 aa(lp11805
-S'Sequel e-Routers Ltd'
+S'Sanghvi Forging and Engineering Limited'
 p11806
-ag4
-aS'521238'
+aS'SANGHVIFOR'
 p11807
-aa(lp11808
-S'SER Industries Ltd'
-p11809
-ag4
-aS'507984'
+aS'533411'
+p11808
+aa(lp11809
+S'Sanghvi Movers Ltd'
 p11810
-aa(lp11811
-S'Servalakshmi Paper Limited'
+aS'SANGHVIMOV'
+p11811
+aS'530073'
 p11812
-aS'SERVALL'
-p11813
-aS'533401'
+aa(lp11813
+S'Sanguine Media Ltd'
 p11814
-aa(lp11815
-S'Serve All Enterprise Solutions Ltd'
-p11816
-ag4
-aS'512341'
+ag56
+aS'531898'
+p11815
+aa(lp11816
+S'Sanjay Leasing Ltd'
 p11817
-aa(lp11818
-S'Servotech Engineering Industries Ltd'
-p11819
-ag4
-aS'531944'
+ag56
+aS'508954'
+p11818
+aa(lp11819
+S'Sanjivani Paranteral Ltd'
 p11820
-aa(lp11821
-S'Sesa Goa Ltd'
-p11822
-aS'SESAGOA'
+ag56
+aS'531569'
+p11821
+aa(lp11822
+S'Sanket International Ltd'
 p11823
-aS'500295'
+ag56
+aS'512409'
 p11824
 aa(lp11825
-S'Seshachal Technologies Ltd'
+S'Sankhya Infotech Ltd'
 p11826
-ag4
-aS'531794'
+ag56
+aS'532972'
 p11827
 aa(lp11828
-S'Seshasayee Paper & Boards Ltd'
+S'Sanmitra Commercial Ltd'
 p11829
-aS'SESHAPAPER'
+ag56
+aS'512062'
 p11830
-aS'502450'
-p11831
-aa(lp11832
-S'Setco Automotive Ltd'
+aa(lp11831
+S'Sanra Software Ltd'
+p11832
+ag56
+aS'531312'
 p11833
-ag4
-aS'505075'
-p11834
-aa(lp11835
-S'Sezal Glass Ltd'
+aa(lp11834
+S'Sanrhea Technical Textiles Ltd'
+p11835
+ag56
+aS'514280'
 p11836
-aS'SEZALGLASS'
-p11837
-aS'532993'
+aa(lp11837
+S'Santaram Spinners Ltd'
 p11838
-aa(lp11839
-S'SGN Telecoms Ltd'
-p11840
-ag4
-aS'531812'
+ag56
+aS'531323'
+p11839
+aa(lp11840
+S'Santosh Fine Fab Ltd'
 p11841
-aa(lp11842
-S'Shaba Chemicals Ltd'
-p11843
-ag4
-aS'524546'
+ag56
+aS'530035'
+p11842
+aa(lp11843
+S'Santowin Polyesters Ltd'
 p11844
-aa(lp11845
-S'Shah Alloys Ltd'
-p11846
-aS'SHAHALLOYS'
+ag56
+aS'512465'
+p11845
+aa(lp11846
+S'Sanwaria Agro Oils Ltd'
 p11847
-aS'513436'
+aS'SANWARIA'
 p11848
-aa(lp11849
-S'Shah Construction Company Ltd'
-p11850
-ag4
-aS'509870'
+aS'519260'
+p11849
+aa(lp11850
+S'Saptarishi Agro Industries Ltd'
 p11851
-aa(lp11852
-S'Shah Foods Ltd'
-p11853
-ag4
-aS'519031'
+ag56
+aS'519238'
+p11852
+aa(lp11853
+S'SAR SAROVR-DDB'
 p11854
-aa(lp11855
-S'Shaily Engineering Plastics Ltd'
-p11856
-ag4
-aS'501423'
+ag56
+aS'911545'
+p11855
+aa(lp11856
+S'Sarang Chemicals Ltd'
 p11857
-aa(lp11858
-S'Shakti Met-Dor Ltd'
-p11859
-ag4
-aS'526510'
+ag56
+aS'532031'
+p11858
+aa(lp11859
+S'Saraswati Commercial India Ltd'
 p11860
-aa(lp11861
-S'Shakti Press Ltd'
-p11862
-ag4
-aS'526841'
+ag56
+aS'512020'
+p11861
+aa(lp11862
+S'Saraswati Industrial Syndicate Ltd'
 p11863
-aa(lp11864
-S'Shakti Pumps India Ltd'
+aS'SARASIND'
+p11864
+aS'533033'
 p11865
-ag4
-aS'531431'
-p11866
-aa(lp11867
-S'Shaktiman Mercantile Company Ltd'
+aa(lp11866
+S'Sarda Energy & Minerals Ltd'
+p11867
+aS'SARDAEN'
 p11868
-ag4
-aS'506194'
+aS'504614'
 p11869
 aa(lp11870
-S'Shalibhadra Finance Ltd'
+S'Sarda Papers Ltd'
 p11871
-ag4
-aS'511754'
+ag56
+aS'516032'
 p11872
 aa(lp11873
-S'Shalimar Paints Ltd'
+S'Sarda Plywood Industries Ltd'
 p11874
-aS'SHALPAINTS'
+ag56
+aS'516003'
 p11875
-aS'509874'
-p11876
-aa(lp11877
-S'Shalimar Productions Ltd'
+aa(lp11876
+S'Sarda Proteins Ltd'
+p11877
+ag56
+aS'519242'
 p11878
-ag4
-aS'512499'
-p11879
-aa(lp11880
-S'Shalimar Wires Industries Ltd'
+aa(lp11879
+S'Saregama India Ltd'
+p11880
+aS'SAREGAMA'
 p11881
-ag4
-aS'532455'
+aS'532163'
 p11882
 aa(lp11883
-S'Shamken Cotsyn Ltd'
+S'Sark Systems India Ltd'
 p11884
-ag4
-aS'514209'
+ag56
+aS'533056'
 p11885
 aa(lp11886
-S'Shamken Multifab Ltd'
+S'Sarla Gems Ltd'
 p11887
-aS'SHAMKNFAB'
+ag56
+aS'523652'
 p11888
-aS'514152'
-p11889
-aa(lp11890
-S'Shamken Spinners Ltd'
+aa(lp11889
+S'Sarla Performance Fibers Ltd'
+p11890
+aS'SARLAPOLY'
 p11891
-aS'SHAMKNSPIN'
+aS'526885'
 p11892
-aS'500386'
-p11893
-aa(lp11894
-S'Shamrock Industrial Company Ltd'
+aa(lp11893
+S'Sarthak Global Ltd'
+p11894
+ag56
+aS'530993'
 p11895
-ag4
-aS'531240'
-p11896
-aa(lp11897
-S'Shantanu Sheorey Aquakult Ltd'
+aa(lp11896
+S'Sarthak Industries Ltd'
+p11897
+aS'SARTHAKIND'
 p11898
-ag4
-aS'531925'
+aS'531930'
 p11899
 aa(lp11900
-S'Shanthi Gears Ltd'
+S'Sarup Tanneries Ltd'
 p11901
-aS'SHANTIGEAR'
+ag56
+aS'514412'
 p11902
-aS'522034'
-p11903
-aa(lp11904
-S'Shantivijay Jewels Ltd'
+aa(lp11903
+S'Sarvamangal Mercantile Company Ltd'
+p11904
+ag56
+aS'506190'
 p11905
-ag4
-aS'530989'
-p11906
-aa(lp11907
-S'Sharad Fibres & Yarn Processors Ltd'
+aa(lp11906
+S'Sasken Communication Technologies Ltd'
+p11907
+aS'SASKEN'
 p11908
-ag4
-aS'514402'
+aS'532663'
 p11909
 aa(lp11910
-S'Sharda Ispat Ltd'
+S'Sat Industries Ltd'
 p11911
-ag4
-aS'513548'
+ag56
+aS'511076'
 p11912
 aa(lp11913
-S'Shardul Securities Ltd'
+S'Satellite Engineering Ltd'
 p11914
-aS'SHRIYAMSEC'
+ag56
+aS'522279'
 p11915
-aS'512393'
-p11916
-aa(lp11917
-S'Sharon Bio-Medicine Ltd'
+aa(lp11916
+S'Sathavahana Ispat Ltd'
+p11917
+aS'SATHAISPAT'
 p11918
-ag4
-aS'532908'
+aS'526093'
 p11919
 aa(lp11920
-S'Sharp India Ltd'
+S'Satra Properties India Ltd'
 p11921
-aS'KALYANISHP'
+ag56
+aS'508996'
 p11922
-aS'523449'
-p11923
-aa(lp11924
-S'Sharp Industries Ltd'
+aa(lp11923
+S'Satyam Computer Services Ltd'
+p11924
+aS'SATYAMCOMP'
 p11925
-ag4
-aS'523359'
+aS'500376'
 p11926
 aa(lp11927
-S'Sharp Trading & finance Ltd'
+S'Saurashtra Cement Ltd'
 p11928
-ag4
-aS'512417'
+aS'SAURASHCEM'
 p11929
-aa(lp11930
-S'Sharyans Resources Ltd'
-p11931
-aS'SHARRESLTD'
+aS'502175'
+p11930
+aa(lp11931
+S'Savani Financials Ltd'
 p11932
-aS'511413'
+ag56
+aS'511577'
 p11933
 aa(lp11934
-S'Shasun Chemicals & Drugs Ltd'
+S'Savant Infocomm Ltd'
 p11935
-aS'SHASUNPHAR'
+ag56
+aS'517320'
 p11936
-aS'524552'
-p11937
-aa(lp11938
-S'Shaw Wallace & Company Ltd'
+aa(lp11937
+S'Saven Technologies Ltd'
+p11938
+ag56
+aS'532404'
 p11939
-aS'SHAWALLACE'
-p11940
-aS'501379'
+aa(lp11940
+S'Savera Industries Ltd'
 p11941
-aa(lp11942
-S'Sheel International Ltd'
+aS'SAVERA'
+p11942
+aS'512634'
 p11943
-ag4
-aS'526081'
-p11944
-aa(lp11945
-S'Sheetal Bio Agro Tech Ltd'
+aa(lp11944
+S'Savita Oil Technologies Ltd'
+p11945
+aS'SOTL'
 p11946
-ag4
-aS'531800'
+aS'524667'
 p11947
 aa(lp11948
-S'Sheetal Diamonds Ltd'
+S'Sawaca Business Machines Ltd'
 p11949
-ag4
-aS'530525'
+ag56
+aS'531893'
 p11950
 aa(lp11951
-S'Shekhawati Poly-Yarn Limited'
+S'Saya Housing Finance Company Ltd'
 p11952
-aS'SPYL'
+ag56
+aS'511144'
 p11953
-aS'533301'
-p11954
-aa(lp11955
-S'Shervani Industrial Syndicate Ltd'
+aa(lp11954
+S'Sayaji Hotels Ltd'
+p11955
+aS'SAYAJIHOTL'
 p11956
-ag4
-aS'526117'
+aS'523710'
 p11957
 aa(lp11958
-S'Shetron Ltd'
+S'SB&T; International Ltd'
 p11959
-aS'SHETRON'
+aS'SB&TINTL;'
 p11960
-aS'526137'
+aS'513583'
 p11961
 aa(lp11962
-S'Shilchar Technologies Ltd'
+S'SBEC Sugar Ltd'
 p11963
-ag4
-aS'531201'
+ag56
+aS'532102'
 p11964
 aa(lp11965
-S'Shilp Gravures Ltd'
+S'SBI Capital Protection Oriented Fund Series II (Growth)'
 p11966
-ag4
-aS'513709'
+ag56
+aS'533340'
 p11967
 aa(lp11968
-S'Shilpa Medicare Ltd'
+S'SBI Mutual Fund - SBI Gold Exchange Traded Scheme'
 p11969
-aS'SHILPAMED'
+aS'SBIGETS'
 p11970
-aS'530549'
+aS'590098'
 p11971
 aa(lp11972
-S'Shilpi Cable Technologies Limited'
+S'Scanet Exports Ltd'
 p11973
-aS'SHILPI'
+ag56
+aS'531260'
 p11974
-aS'533389'
-p11975
-aa(lp11976
-S'Shimoga Technologies Ltd'
+aa(lp11975
+S'Scanpoint Graphics Ltd'
+p11976
+ag56
+aS'526544'
 p11977
-ag4
-aS'513418'
-p11978
-aa(lp11979
-S'Shipping Corporation of India Ltd'
+aa(lp11978
+S'Scenario Media Ltd'
+p11979
+ag56
+aS'505590'
 p11980
-aS'SCI'
-p11981
-aS'523598'
+aa(lp11981
+S'Schablona India Ltd'
 p11982
-aa(lp11983
-S'Shirpur Gold Refinery Ltd'
-p11984
-aS'AGEEGOLD'
+ag56
+aS'507894'
+p11983
+aa(lp11984
+S'Schlafhorst Engineering India Ltd'
 p11985
-aS'512289'
+ag56
+aS'505358'
 p11986
 aa(lp11987
-S'Shiv Vani Oil & Gas Exploration Services Ltd'
+S'Schrader Duncan Ltd'
 p11988
-aS'SHIV-VANI'
+ag56
+aS'504908'
 p11989
-aS'522175'
-p11990
-aa(lp11991
-S'Shiva Cement Ltd'
+aa(lp11990
+S'Scindia Steam Navigation Company Ltd'
+p11991
+ag56
+aS'501887'
 p11992
-ag4
-aS'532323'
-p11993
-aa(lp11994
-S'Shiva Fertilizers Ltd'
+aa(lp11993
+S'Scooters India Ltd'
+p11994
+ag56
+aS'505141'
 p11995
-ag4
-aS'530433'
-p11996
-aa(lp11997
-S'Shiva Medicare Ltd'
+aa(lp11996
+S'SDFC Finance Ltd'
+p11997
+ag56
+aS'511433'
 p11998
-ag4
-aS'524602'
-p11999
-aa(lp12000
-S'Shiva Suitings Ltd'
+aa(lp11999
+S'SE Investments Ltd'
+p12000
+aS'SEINV'
 p12001
-ag4
-aS'521003'
+aS'532900'
 p12002
 aa(lp12003
-S'Shiva Texyarn Ltd'
+S'Sea TV Network Ltd'
 p12004
-aS'SHIVTEX'
+ag56
+aS'533268'
 p12005
-aS'511108'
-p12006
-aa(lp12007
-S'Shivagrico Implements Ltd'
+aa(lp12006
+S'Seahorse Hospitals Ltd'
+p12007
+ag56
+aS'524520'
 p12008
-ag4
-aS'522237'
-p12009
-aa(lp12010
-S'Shivalik Bimetal Controls Ltd'
+aa(lp12009
+S'Seamec Ltd'
+p12010
+aS'SEAMECLTD'
 p12011
-ag4
-aS'513097'
+aS'526807'
 p12012
 aa(lp12013
-S'Shivam Autotech Ltd'
+S'Seasons Furnishings Ltd'
 p12014
-aS'SHIVAMAUTO'
+ag56
+aS'521182'
 p12015
-aS'532776'
-p12016
-aa(lp12017
-S'Shloka Infotech Ltd'
+aa(lp12016
+S'Seasons Textiles Ltd'
+p12017
+ag56
+aS'514264'
 p12018
-ag4
-aS'511607'
-p12019
-aa(lp12020
-S'Shoppers Stop Ltd'
+aa(lp12019
+S'Seax Global Ventures Ltd'
+p12020
+ag56
+aS'526843'
 p12021
-aS'SHOPERSTOP'
-p12022
-aS'532638'
+aa(lp12022
+S'Secunderabad Healthcare Ltd'
 p12023
-aa(lp12024
-S'Shree Ajit Pulp & Paper Ltd'
-p12025
-ag4
-aS'590058'
+ag56
+aS'524540'
+p12024
+aa(lp12025
+S'Securities Capital Investments India Ltd'
 p12026
-aa(lp12027
-S'Shree Ashtavinayak Cine Vision Ltd'
-p12028
-aS'SHREEASHTA'
+ag56
+aS'530269'
+p12027
+aa(lp12028
+S'SEL CRPS    '
 p12029
-aS'532793'
+ag56
+aS'700108'
 p12030
 aa(lp12031
-S'Shree Bhawani Paper Mills Ltd'
+S'SEL Manufacturing Company Ltd'
 p12032
-ag4
-aS'502563'
+aS'SELMCL'
 p12033
-aa(lp12034
-S'Shree Cement Ltd'
-p12035
-aS'SHREECEM'
+aS'532886'
+p12034
+aa(lp12035
+S'Selan Exploration Technology Ltd'
 p12036
-aS'500387'
+aS'SELAN'
 p12037
-aa(lp12038
-S'Shree Digvijay Cement Company Ltd'
-p12039
-aS'SHREDIGCEM'
+aS'530075'
+p12038
+aa(lp12039
+S'Sellaids Publications India Ltd'
 p12040
-aS'502180'
+ag56
+aS'526071'
 p12041
 aa(lp12042
-S'Shree Ganesh Elastoplast Ltd'
+S'Senbo Industries Ltd'
 p12043
-ag4
-aS'530797'
+ag56
+aS'532021'
 p12044
 aa(lp12045
-S'Shree Ganesh Forgings Ltd'
+S'Sentil Agrotech Ltd'
 p12046
-aS'SGFL'
+ag56
+aS'531980'
 p12047
-aS'532643'
-p12048
-aa(lp12049
-S'Shree Ganesh Jewellery House Ltd'
+aa(lp12048
+S'Sentinel Tea and Exports Ltd'
+p12049
+aS'STEL'
 p12050
-aS'SGJHL'
+aS'533316'
 p12051
-aS'533180'
-p12052
-aa(lp12053
-S'Shree Global Tradefin Ltd'
+aa(lp12052
+S'Sequel e-Routers Ltd'
+p12053
+ag56
+aS'521238'
 p12054
-ag4
-aS'512463'
-p12055
-aa(lp12056
-S'Shree Hari Chemicals Export Ltd'
+aa(lp12055
+S'SER Industries Ltd'
+p12056
+ag56
+aS'507984'
 p12057
-ag4
-aS'524336'
-p12058
-aa(lp12059
-S'Shree Karthik Papers Ltd'
+aa(lp12058
+S'Servalakshmi Paper Limited'
+p12059
+aS'SERVALL'
 p12060
-ag4
-aS'516106'
+aS'533401'
 p12061
 aa(lp12062
-S'Shree Krishna Paper Mills & Industries Ltd'
+S'Serve All Enterprise Solutions Ltd'
 p12063
-ag4
-aS'500388'
+ag56
+aS'512341'
 p12064
 aa(lp12065
-S'Shree Manufacturing Company Ltd'
+S'Servotech Engineering Industries Ltd'
 p12066
-ag4
-aS'503863'
+ag56
+aS'531944'
 p12067
 aa(lp12068
-S'Shree Narmada Aluminium Industries Ltd'
+S'Sesa Goa Ltd'
 p12069
-ag4
-aS'513127'
+aS'VEDL'
 p12070
-aa(lp12071
-S'Shree Nath Commercial & Finance Ltd'
-p12072
-ag4
-aS'512105'
+aS'500295'
+p12071
+aa(lp12072
+S'Seshachal Technologies Ltd'
 p12073
-aa(lp12074
-S'Shree Om Trades Ltd'
-p12075
-ag4
-aS'506180'
+ag56
+aS'531794'
+p12074
+aa(lp12075
+S'Seshasayee Paper & Boards Ltd'
 p12076
-aa(lp12077
-S'Shree Pacetronix Ltd'
+aS'SESHAPAPER'
+p12077
+aS'502450'
 p12078
-ag4
-aS'527005'
-p12079
-aa(lp12080
-S'Shree Precoated Steels Ltd'
+aa(lp12079
+S'Setco Automotive Ltd'
+p12080
+ag56
+aS'505075'
 p12081
-aS'SHPRE'
-p12082
-aS'533110'
+aa(lp12082
+S'Sezal Glass Ltd'
 p12083
-aa(lp12084
-S'Shree Rajasthan Syntex Ltd'
+aS'SEZAL'
+p12084
+aS'532993'
 p12085
-aS'SHRERAJSYN'
-p12086
-aS'503837'
+aa(lp12086
+S'SGN Telecoms Ltd'
 p12087
-aa(lp12088
-S'Shree Rajeshwaranand Paper Mills Ltd'
-p12089
-ag4
-aS'516086'
+ag56
+aS'531812'
+p12088
+aa(lp12089
+S'Shaba Chemicals Ltd'
 p12090
-aa(lp12091
-S'Shree Rajiv Lochan Oil Extraction Ltd'
-p12092
-ag4
-aS'530295'
+ag56
+aS'524546'
+p12091
+aa(lp12092
+S'Shah Alloys Ltd'
 p12093
-aa(lp12094
-S'Shree Ram Mills Ltd'
+aS'SHAHALLOYS'
+p12094
+aS'513436'
 p12095
-ag4
-aS'503205'
-p12096
-aa(lp12097
-S'Shree Rama Multi Tech Ltd'
+aa(lp12096
+S'Shah Construction Company Ltd'
+p12097
+ag56
+aS'509870'
 p12098
-aS'SHREERAMA'
-p12099
-aS'532310'
+aa(lp12099
+S'Shah Foods Ltd'
 p12100
-aa(lp12101
-S'Shree Rang Fincap Ltd'
-p12102
-ag4
-aS'531149'
+ag56
+aS'519031'
+p12101
+aa(lp12102
+S'Shaily Engineering Plastics Ltd'
 p12103
-aa(lp12104
-S'Shree Rani Sati Investment & Finance Ltd'
-p12105
-ag4
-aS'501267'
+ag56
+aS'501423'
+p12104
+aa(lp12105
+S'Shakti Met-Dor Ltd'
 p12106
-aa(lp12107
-S'Shree Renuka Sugars Ltd'
-p12108
-aS'RENUKA'
+ag56
+aS'526510'
+p12107
+aa(lp12108
+S'Shakti Press Ltd'
 p12109
-aS'532670'
+ag56
+aS'526841'
 p12110
 aa(lp12111
-S'Shree Salasar Investments Ltd'
+S'Shakti Pumps India Ltd'
 p12112
-ag4
-aS'503635'
+aS'SHAKTIPUMP'
 p12113
-aa(lp12114
-S'Shree Shaleen Investments Ltd'
-p12115
-ag4
-aS'505513'
+aS'531431'
+p12114
+aa(lp12115
+S'Shaktiman Mercantile Company Ltd'
 p12116
-aa(lp12117
-S'Shree Steel Wire Ropes Ltd'
-p12118
-ag4
-aS'513488'
+ag56
+aS'506194'
+p12117
+aa(lp12118
+S'Shalibhadra Finance Ltd'
 p12119
-aa(lp12120
-S'Shree Surgovind Tradelink Ltd'
-p12121
-ag4
-aS'531667'
+ag56
+aS'511754'
+p12120
+aa(lp12121
+S'Shalimar Paints Ltd'
 p12122
-aa(lp12123
-S'Shree Vaani Sugars & Industries Ltd'
+aS'SHALPAINTS'
+p12123
+aS'509874'
 p12124
-ag4
-aS'507468'
-p12125
-aa(lp12126
-S'Shreekrishna Biotech Ltd'
+aa(lp12125
+S'Shalimar Productions Ltd'
+p12126
+ag56
+aS'512499'
 p12127
-ag4
-aS'505592'
-p12128
-aa(lp12129
-S'Shrenuj & Company Ltd'
+aa(lp12128
+S'Shalimar Wires Industries Ltd'
+p12129
+ag56
+aS'532455'
 p12130
-aS'SHRENUJ'
-p12131
-aS'523236'
+aa(lp12131
+S'Shamken Cotsyn Ltd'
 p12132
-aa(lp12133
-S'Shreyans Industries Ltd'
-p12134
-aS'SHREYANIND'
+ag56
+aS'514209'
+p12133
+aa(lp12134
+S'Shamken Multifab Ltd'
 p12135
-aS'516016'
+aS'SHAMKNFAB'
 p12136
-aa(lp12137
-S'Shreyas Intermediates Ltd'
-p12138
-ag4
-aS'526335'
+aS'514152'
+p12137
+aa(lp12138
+S'Shamken Spinners Ltd'
 p12139
-aa(lp12140
-S'Shreyas Shipping & Logistics Ltd'
+aS'SHAMKNSPIN'
+p12140
+aS'500386'
 p12141
-aS'SHREYAS'
-p12142
-aS'520151'
+aa(lp12142
+S'Shamrock Industrial Company Ltd'
 p12143
-aa(lp12144
-S'Shri Bajrang Alloys Ltd'
-p12145
-ag4
-aS'526981'
+ag56
+aS'531240'
+p12144
+aa(lp12145
+S'Shantanu Sheorey Aquakult Ltd'
 p12146
-aa(lp12147
-S'Shri Chlochem Ltd'
-p12148
-ag4
-aS'524640'
+ag56
+aS'531925'
+p12147
+aa(lp12148
+S'Shanthi Gears Ltd'
 p12149
-aa(lp12150
-S'Shri Dinesh Mills Ltd'
+aS'SHANTIGEAR'
+p12150
+aS'522034'
 p12151
-aS'SHRIDINESH'
-p12152
-aS'503804'
+aa(lp12152
+S'Shantivijay Jewels Ltd'
 p12153
-aa(lp12154
-S'Shri Ganesh Spinners Ltd'
-p12155
-ag4
-aS'531693'
+ag56
+aS'530989'
+p12154
+aa(lp12155
+S'Sharad Fibres & Yarn Processors Ltd'
 p12156
-aa(lp12157
-S'Shri Jagdamba Polymers Ltd'
-p12158
-ag4
-aS'512453'
+ag56
+aS'514402'
+p12157
+aa(lp12158
+S'Sharda Ispat Ltd'
 p12159
-aa(lp12160
-S'Shri Kalyan Holdings Ltd'
-p12161
-ag4
-aS'532083'
+ag56
+aS'513548'
+p12160
+aa(lp12161
+S'Shardul Securities Ltd'
 p12162
-aa(lp12163
-S'Shri Krishna Devcon Ltd'
+aS'SHRIYAMSEC'
+p12163
+aS'512393'
 p12164
-ag4
-aS'531080'
-p12165
-aa(lp12166
-S'Shri Lakshmi Cotsyn Ltd'
+aa(lp12165
+S'Sharon Bio-Medicine Ltd'
+p12166
+aS'SHARONBIO'
 p12167
-aS'SHLAKSHMI'
+aS'532908'
 p12168
-aS'526049'
-p12169
-aa(lp12170
-S'Shri Shakti LPG Ltd'
+aa(lp12169
+S'Sharp India Ltd'
+p12170
+aS'KALYANISHP'
 p12171
-aS'SHAKTIGAS'
+aS'523449'
 p12172
-aS'531322'
-p12173
-aa(lp12174
-S'Shricon Industries Ltd'
+aa(lp12173
+S'Sharp Industries Ltd'
+p12174
+ag56
+aS'523359'
 p12175
-ag4
-aS'508961'
-p12176
-aa(lp12177
-S'Shriram Asset Management Company Ltd'
+aa(lp12176
+S'Sharp Trading & finance Ltd'
+p12177
+ag56
+aS'512417'
 p12178
-ag4
-aS'531359'
-p12179
-aa(lp12180
-S'Shriram City Union Finance Ltd'
+aa(lp12179
+S'Sharyans Resources Ltd'
+p12180
+aS'CREST'
 p12181
-aS'SHRIRAMCIT'
+aS'511413'
 p12182
-aS'532498'
-p12183
-aa(lp12184
-S'Shriram EPC Ltd'
+aa(lp12183
+S'Shasun Chemicals & Drugs Ltd'
+p12184
+aS'SHASUNPHAR'
 p12185
-aS'SHRIRAMEPC'
+aS'524552'
 p12186
-aS'532945'
-p12187
-aa(lp12188
-S'Shriram Transport Finance Company Ltd'
+aa(lp12187
+S'Shaw Wallace & Company Ltd'
+p12188
+aS'SHAWALLACE'
 p12189
-aS'SRTRANSFIN'
+aS'501379'
 p12190
-aS'511218'
-p12191
-aa(lp12192
-S'Shristi Infrastructure Development Corporation Ltd'
+aa(lp12191
+S'Sheel International Ltd'
+p12192
+ag56
+aS'526081'
 p12193
-aS'PEERABASAN'
-p12194
-aS'511411'
+aa(lp12194
+S'Sheetal Bio Agro Tech Ltd'
 p12195
-aa(lp12196
-S'Shubham Granites Ltd'
-p12197
-ag4
-aS'531570'
+ag56
+aS'531800'
+p12196
+aa(lp12197
+S'Sheetal Diamonds Ltd'
 p12198
-aa(lp12199
-S'Shukra Bullions Ltd'
-p12200
-ag4
-aS'531506'
+ag56
+aS'530525'
+p12199
+aa(lp12200
+S'Shekhawati Poly-Yarn Limited'
 p12201
-aa(lp12202
-S'Shukra Jewellery Ltd'
+aS'SPYL'
+p12202
+aS'533301'
 p12203
-aS'SHUKRADIAM'
-p12204
-aS'523790'
+aa(lp12204
+S'Shervani Industrial Syndicate Ltd'
 p12205
-aa(lp12206
-S'Shukun Construction Ltd'
-p12207
-ag4
-aS'531715'
+ag56
+aS'526117'
+p12206
+aa(lp12207
+S'Shetron Ltd'
 p12208
-aa(lp12209
-S'Shyam Software Industries Ltd'
+aS'SHETRON'
+p12209
+aS'526137'
 p12210
-ag4
-aS'531598'
-p12211
-aa(lp12212
-S'Shyam Star Gems Ltd'
+aa(lp12211
+S'Shilchar Technologies Ltd'
+p12212
+ag56
+aS'531201'
 p12213
-ag4
-aS'526365'
-p12214
-aa(lp12215
-S'Shyam Telecom Ltd'
+aa(lp12214
+S'Shilp Gravures Ltd'
+p12215
+ag56
+aS'513709'
 p12216
-aS'SHYAMTEL'
-p12217
-aS'517411'
+aa(lp12217
+S'Shilpa Medicare Ltd'
 p12218
-aa(lp12219
-S'Shyamal Holdings & Trading Ltd'
+aS'SHILPAMED'
+p12219
+aS'530549'
 p12220
-ag4
-aS'505529'
-p12221
-aa(lp12222
-S'SI Group India Ltd'
+aa(lp12221
+S'Shilpi Cable Technologies Limited'
+p12222
+aS'SHILPI'
 p12223
-aS'SIGROUPIND'
+aS'533389'
 p12224
-aS'506460'
-p12225
-aa(lp12226
-S'Sibar Auto Parts Ltd'
+aa(lp12225
+S'Shimoga Technologies Ltd'
+p12226
+ag56
+aS'513418'
 p12227
-ag4
-aS'520141'
-p12228
-aa(lp12229
-S'Sicagen India Ltd'
+aa(lp12228
+S'Shipping Corporation of India Ltd'
+p12229
+aS'SCI'
 p12230
-aS'SICAGEN'
+aS'523598'
 p12231
-aS'533014'
-p12232
-aa(lp12233
-S'Sical Logistics Ltd'
+aa(lp12232
+S'Shirpur Gold Refinery Ltd'
+p12233
+aS'SHIRPUR-G'
 p12234
-aS'SICAL'
+aS'512289'
 p12235
-aS'520086'
-p12236
-aa(lp12237
-S'Siddha Ventures Ltd'
+aa(lp12236
+S'Shiv Vani Oil & Gas Exploration Services Ltd'
+p12237
+aS'SHIV-VANI'
 p12238
-ag4
-aS'530439'
+aS'522175'
 p12239
 aa(lp12240
-S'Siddhartha Tubes Ltd'
+S'Shiva Cement Ltd'
 p12241
-aS'SIDDHATUBE'
+ag56
+aS'532323'
 p12242
-aS'523728'
-p12243
-aa(lp12244
-S'Siel Financial Services Ltd'
+aa(lp12243
+S'Shiva Fertilizers Ltd'
+p12244
+ag56
+aS'530433'
 p12245
-ag4
-aS'532217'
-p12246
-aa(lp12247
-S'Siemens Healthcare Diagnostics Ltd'
+aa(lp12246
+S'Shiva Medicare Ltd'
+p12247
+ag56
+aS'524602'
 p12248
-ag4
-aS'506559'
-p12249
-aa(lp12250
-S'Siemens Ltd'
+aa(lp12249
+S'Shiva Suitings Ltd'
+p12250
+ag56
+aS'521003'
 p12251
-aS'SIEMENS'
-p12252
-aS'500550'
+aa(lp12252
+S'Shiva Texyarn Ltd'
 p12253
-aa(lp12254
-S'Signet Overseas Ltd'
+aS'SHIVTEX'
+p12254
+aS'511108'
 p12255
-ag4
-aS'512131'
-p12256
-aa(lp12257
-S'Sika Interplant Systems Ltd'
+aa(lp12256
+S'Shivagrico Implements Ltd'
+p12257
+ag56
+aS'522237'
 p12258
-ag4
-aS'523606'
-p12259
-aa(lp12260
-S'SIL Investments Ltd'
+aa(lp12259
+S'Shivalik Bimetal Controls Ltd'
+p12260
+ag56
+aS'513097'
 p12261
-aS'SILINV'
-p12262
-aS'521194'
+aa(lp12262
+S'Shivam Autotech Ltd'
 p12263
-aa(lp12264
-S'Silicon Valley Infotech Ltd'
+aS'SHIVAMAUTO'
+p12264
+aS'532776'
 p12265
-aS'PRASGLOFIN'
-p12266
-aS'531738'
+aa(lp12266
+S'Shloka Infotech Ltd'
 p12267
-aa(lp12268
-S'Silktex Ltd'
-p12269
-ag4
-aS'526835'
+ag56
+aS'511607'
+p12268
+aa(lp12269
+S'Shoppers Stop Ltd'
 p12270
-aa(lp12271
-S'Silver Oak India Ltd'
+aS'SHOPERSTOP'
+p12271
+aS'532638'
 p12272
-ag4
-aS'531635'
-p12273
-aa(lp12274
-S'Silver Smith India Ltd'
+aa(lp12273
+S'Shree Ajit Pulp & Paper Ltd'
+p12274
+ag56
+aS'590058'
 p12275
-ag4
-aS'531626'
-p12276
-aa(lp12277
-S'Silverline Animation Technologies Ltd'
+aa(lp12276
+S'Shree Ashtavinayak Cine Vision Ltd'
+p12277
+aS'SHREEASHTA'
 p12278
-aS'SILVERANIMA'
+aS'532793'
 p12279
-aS'532999'
-p12280
-aa(lp12281
-S'Silverline Technologies Ltd'
+aa(lp12280
+S'Shree Bhawani Paper Mills Ltd'
+p12281
+ag56
+aS'502563'
 p12282
-aS'SILVERLINE'
-p12283
-aS'500389'
+aa(lp12283
+S'Shree Cement Ltd'
 p12284
-aa(lp12285
-S'Silveroak Commercials Ltd'
+aS'SHREECEM'
+p12285
+aS'500387'
 p12286
-ag4
-aS'512197'
-p12287
-aa(lp12288
-S'Simbhaoli Sugars Ltd'
+aa(lp12287
+S'Shree Digvijay Cement Company Ltd'
+p12288
+aS'SHREDIGCEM'
 p12289
-aS'SIMBHSUGAR'
+aS'502180'
 p12290
-aS'507446'
-p12291
-aa(lp12292
-S'Simmonds Marshall Ltd'
+aa(lp12291
+S'Shree Ganesh Elastoplast Ltd'
+p12292
+ag56
+aS'530797'
 p12293
-ag4
-aS'507998'
-p12294
-aa(lp12295
-S'Simplex Castings Ltd'
+aa(lp12294
+S'Shree Ganesh Forgings Ltd'
+p12295
+aS'SGFL'
 p12296
-ag4
-aS'513472'
+aS'532643'
 p12297
 aa(lp12298
-S'Simplex Infrastructures Ltd'
+S'Shree Ganesh Jewellery House Ltd'
 p12299
-aS'SIMPLEXINF'
+aS'SGJHL'
 p12300
-aS'523838'
+aS'533180'
 p12301
 aa(lp12302
-S'Simplex Mills Company Ltd'
+S'Shree Global Tradefin Ltd'
 p12303
-ag4
-aS'533018'
+ag56
+aS'512463'
 p12304
 aa(lp12305
-S'Simplex Papers Ltd'
+S'Shree Hari Chemicals Export Ltd'
 p12306
-ag4
-aS'533019'
+ag56
+aS'524336'
 p12307
 aa(lp12308
-S'Simplex Projects Ltd'
+S'Shree Karthik Papers Ltd'
 p12309
-aS'SIMPLEX'
+ag56
+aS'516106'
 p12310
-aS'532877'
-p12311
-aa(lp12312
-S'Simplex Realty Ltd'
+aa(lp12311
+S'Shree Krishna Paper Mills & Industries Ltd'
+p12312
+ag56
+aS'500388'
 p12313
-ag4
-aS'503229'
-p12314
-aa(lp12315
-S'Simplex Trading & Agencies Ltd'
+aa(lp12314
+S'Shree Manufacturing Company Ltd'
+p12315
+ag56
+aS'503863'
 p12316
-ag4
-aS'504382'
-p12317
-aa(lp12318
-S'Simran Farms Ltd'
+aa(lp12317
+S'Shree Narmada Aluminium Industries Ltd'
+p12318
+ag56
+aS'513127'
 p12319
-ag4
-aS'519566'
-p12320
-aa(lp12321
-S'Sinclairs Hotels Ltd'
+aa(lp12320
+S'Shree Nath Commercial & Finance Ltd'
+p12321
+ag56
+aS'512105'
 p12322
-ag4
-aS'523023'
-p12323
-aa(lp12324
-S'Singer India Ltd'
+aa(lp12323
+S'Shree Om Trades Ltd'
+p12324
+ag56
+aS'506180'
 p12325
-aS'SINGER'
-p12326
-aS'505729'
+aa(lp12326
+S'Shree Pacetronix Ltd'
 p12327
-aa(lp12328
-S'Sinnar Bidi Udyog Ltd'
-p12329
-ag4
-aS'509887'
+ag56
+aS'527005'
+p12328
+aa(lp12329
+S'Shree Precoated Steels Ltd'
 p12330
-aa(lp12331
-S'Sintex Industries Ltd'
+aS'SHPRE'
+p12331
+aS'533110'
 p12332
-aS'SINTEX'
-p12333
-aS'502742'
+aa(lp12333
+S'Shree Rajasthan Syntex Ltd'
 p12334
-aa(lp12335
-S'SIP Industries Ltd'
+aS'SHRERAJSYN'
+p12335
+aS'503837'
 p12336
-ag4
-aS'523164'
-p12337
-aa(lp12338
-S'Sir Shadi Lal Enterprises Ltd'
+aa(lp12337
+S'Shree Rajeshwaranand Paper Mills Ltd'
+p12338
+ag56
+aS'516086'
 p12339
-ag4
-aS'532879'
-p12340
-aa(lp12341
-S'Sirdar Carbonic Gas Company Ltd'
+aa(lp12340
+S'Shree Rajiv Lochan Oil Extraction Ltd'
+p12341
+ag56
+aS'530295'
 p12342
-ag4
-aS'509895'
-p12343
-aa(lp12344
-S'Sirhind Enterprises Ltd'
+aa(lp12343
+S'Shree Ram Mills Ltd'
+p12344
+ag56
+aS'503205'
 p12345
-ag4
-aS'531560'
-p12346
-aa(lp12347
-S'Sirpur Paper Mills Ltd'
+aa(lp12346
+S'Shree Rama Multi Tech Ltd'
+p12347
+aS'SHREERAMA'
 p12348
-aS'SIRPAPER'
+aS'532310'
 p12349
-aS'502455'
-p12350
-aa(lp12351
-S'Sita Enterprises Ltd'
+aa(lp12350
+S'Shree Rang Fincap Ltd'
+p12351
+ag56
+aS'531149'
 p12352
-ag4
-aS'512589'
-p12353
-aa(lp12354
-S'Sita Shree Food Products Ltd'
+aa(lp12353
+S'Shree Rani Sati Investment & Finance Ltd'
+p12354
+ag56
+aS'501267'
 p12355
-aS'SITASHREE'
-p12356
-aS'532961'
+aa(lp12356
+S'Shree Renuka Sugars Ltd'
 p12357
-aa(lp12358
-S'Siyaram Silk Mills Ltd'
+aS'RENUKA'
+p12358
+aS'532670'
 p12359
-aS'SIYSIL'
-p12360
-aS'503811'
+aa(lp12360
+S'Shree Salasar Investments Ltd'
 p12361
-aa(lp12362
-S'SJ Corporation Ltd'
-p12363
-ag4
-aS'504398'
+ag56
+aS'503635'
+p12362
+aa(lp12363
+S'Shree Shaleen Investments Ltd'
 p12364
-aa(lp12365
-S'SJVN Ltd'
-p12366
-aS'SJVN'
+ag56
+aS'505513'
+p12365
+aa(lp12366
+S'Shree Steel Wire Ropes Ltd'
 p12367
-aS'533206'
+ag56
+aS'513488'
 p12368
 aa(lp12369
-S'SKF India Ltd'
+S'Shree Surgovind Tradelink Ltd'
 p12370
-aS'SKFINDIA'
+ag56
+aS'531667'
 p12371
-aS'500472'
-p12372
-aa(lp12373
-S'SKM Egg Products Export India Ltd'
+aa(lp12372
+S'Shree Vaani Sugars & Industries Ltd'
+p12373
+ag56
+aS'507468'
 p12374
-aS'SKMEGGPROD'
-p12375
-aS'532143'
+aa(lp12375
+S'Shreekrishna Biotech Ltd'
 p12376
-aa(lp12377
-S'SKP Securities Ltd'
-p12378
-ag4
-aS'531169'
+ag56
+aS'505592'
+p12377
+aa(lp12378
+S'Shrenuj & Company Ltd'
 p12379
-aa(lp12380
-S'SKS Logistics Ltd'
+aS'SHRENUJ'
+p12380
+aS'523236'
 p12381
-ag4
-aS'526508'
-p12382
-aa(lp12383
-S'SKS Microfinance Ltd'
+aa(lp12382
+S'Shreyans Industries Ltd'
+p12383
+aS'SHREYANIND'
 p12384
-aS'SKSMICRO'
+aS'516016'
 p12385
-aS'533228'
-p12386
-aa(lp12387
-S'Sky Industries Ltd'
+aa(lp12386
+S'Shreyas Intermediates Ltd'
+p12387
+ag56
+aS'526335'
 p12388
-ag4
-aS'526479'
-p12389
-aa(lp12390
-S'Skyline Millars Ltd'
+aa(lp12389
+S'Shreyas Shipping & Logistics Ltd'
+p12390
+aS'SHREYAS'
 p12391
-ag4
-aS'505650'
+aS'520151'
 p12392
 aa(lp12393
-S'Skypak Service Specialists Ltd'
+S'Shri Bajrang Alloys Ltd'
 p12394
-ag4
-aS'523846'
+ag56
+aS'526981'
 p12395
 aa(lp12396
-S'SM Energy Teknik & Electronics Ltd'
+S'Shri Chlochem Ltd'
 p12397
-ag4
-aS'522042'
+ag56
+aS'524640'
 p12398
 aa(lp12399
-S'Smartlink Network Systems Ltd'
+S'Shri Dinesh Mills Ltd'
 p12400
-aS'SMARTLINK'
+aS'SHRIDINESH'
 p12401
-aS'532419'
+aS'503804'
 p12402
 aa(lp12403
-S'SMIFS Capital Markets Ltd'
+S'Shri Ganesh Spinners Ltd'
 p12404
-ag4
-aS'508905'
+ag56
+aS'531693'
 p12405
 aa(lp12406
-S'SML Isuzu Limited '
+S'Shri Jagdamba Polymers Ltd'
 p12407
-aS'SMLISUZU'
+ag56
+aS'512453'
 p12408
-aS'505192'
-p12409
-aa(lp12410
-S'Smruthi Organics Ltd'
+aa(lp12409
+S'Shri Kalyan Holdings Ltd'
+p12410
+ag56
+aS'532083'
 p12411
-ag4
-aS'590046'
-p12412
-aa(lp12413
-S'SMS Pharmaceuticals Ltd'
+aa(lp12412
+S'Shri Krishna Devcon Ltd'
+p12413
+ag56
+aS'531080'
 p12414
-aS'SMSPHARMA '
-p12415
-aS'532815'
+aa(lp12415
+S'Shri Lakshmi Cotsyn Ltd'
 p12416
-aa(lp12417
-S'SNL Bearings Ltd'
+aS'SHLAKSHMI'
+p12417
+aS'526049'
 p12418
-ag4
-aS'505827'
-p12419
-aa(lp12420
-S'SNS Textiles Ltd'
+aa(lp12419
+S'Shri Shakti LPG Ltd'
+p12420
+aS'SHAKTIGAS'
 p12421
-aS'SUZLONFIBR'
+aS'531322'
 p12422
-aS'514240'
-p12423
-aa(lp12424
-S'Sobha Developers Ltd'
+aa(lp12423
+S'Shricon Industries Ltd'
+p12424
+ag56
+aS'508961'
 p12425
-aS'SOBHA'
-p12426
-aS'532784'
+aa(lp12426
+S'Shriram Asset Management Company Ltd'
 p12427
-aa(lp12428
-S'Softbpo Global Services Ltd'
-p12429
-ag4
-aS'504375'
+ag56
+aS'531359'
+p12428
+aa(lp12429
+S'Shriram City Union Finance Ltd'
 p12430
-aa(lp12431
-S'Softech Infinium Solutions Ltd'
+aS'SHRIRAMCIT'
+p12431
+aS'532498'
 p12432
-ag4
-aS'530651'
-p12433
-aa(lp12434
-S'Softsol India Ltd'
+aa(lp12433
+S'Shriram EPC Ltd'
+p12434
+aS'SHRIRAMEPC'
 p12435
-ag4
-aS'532344'
+aS'532945'
 p12436
 aa(lp12437
-S'Software Technology Group International Ltd'
+S'Shriram Transport Finance Company Ltd'
 p12438
-aS'SOFTTECHGR'
+aS'SRTRANSFIN'
 p12439
-aS'532293'
+aS'511218'
 p12440
 aa(lp12441
-S'Solar Industries India Ltd'
+S'Shristi Infrastructure Development Corporation Ltd'
 p12442
-aS'SOLARINDS'
+aS'PEERABASAN'
 p12443
-aS'532725'
+aS'511411'
 p12444
 aa(lp12445
-S'Solectron EMS India Ltd'
+S'Shubham Granites Ltd'
 p12446
-aS'SOLEMS'
+ag56
+aS'531570'
 p12447
-aS'532956'
-p12448
-aa(lp12449
-S'Solid Carbide Tools Ltd'
+aa(lp12448
+S'Shukra Bullions Ltd'
+p12449
+ag56
+aS'531506'
 p12450
-ag4
-aS'500394'
-p12451
-aa(lp12452
-S'Solid Containers Ltd'
+aa(lp12451
+S'Shukra Jewellery Ltd'
+p12452
+aS'SHUKRADIAM'
 p12453
-ag4
-aS'502460'
+aS'523790'
 p12454
 aa(lp12455
-S'Solid Stone Company Ltd'
+S'Shukun Construction Ltd'
 p12456
-ag4
-aS'513699'
+ag56
+aS'531715'
 p12457
 aa(lp12458
-S'Solitaire Machine Tools Ltd'
+S'Shyam Software Industries Ltd'
 p12459
-ag4
-aS'522152'
+ag56
+aS'531598'
 p12460
 aa(lp12461
-S'Solix Technologies Ltd'
+S'Shyam Star Gems Ltd'
 p12462
-ag4
-aS'501421'
+ag56
+aS'526365'
 p12463
 aa(lp12464
-S'Solvay Pharma India Ltd'
+S'Shyam Telecom Ltd'
 p12465
-ag4
-aS'532447'
+aS'SHYAMTEL'
 p12466
-aa(lp12467
-S'Som Datt Finance Corporation Ltd'
-p12468
-aS'SOMDUTTFIN'
+aS'517411'
+p12467
+aa(lp12468
+S'Shyamal Holdings & Trading Ltd'
 p12469
-aS'511571'
+ag56
+aS'505529'
 p12470
 aa(lp12471
-S'Som Distilleries & Breweries Ltd'
+S'SI Group India Ltd'
 p12472
-ag4
-aS'507514'
+aS'SIGROUPIND'
 p12473
-aa(lp12474
-S'Soma Papers & Industries Ltd'
-p12475
-ag4
-aS'516038'
+aS'506460'
+p12474
+aa(lp12475
+S'Sibar Auto Parts Ltd'
 p12476
-aa(lp12477
-S'Soma Textiles & Industries Ltd'
-p12478
-aS'SOMATEX'
+ag56
+aS'520141'
+p12477
+aa(lp12478
+S'Sicagen India Ltd'
 p12479
-aS'521034'
+aS'SICAGEN'
 p12480
-aa(lp12481
-S'Somany Ceramics Ltd'
-p12482
-aS'SOMANYCERA'
+aS'533014'
+p12481
+aa(lp12482
+S'Sical Logistics Ltd'
 p12483
-aS'531548'
+aS'SICAL'
 p12484
-aa(lp12485
-S'Somi Conveyor Beltings Ltd'
-p12486
-ag4
-aS'533001'
+aS'520086'
+p12485
+aa(lp12486
+S'Siddha Ventures Ltd'
 p12487
-aa(lp12488
-S'Sona Koyo Steering Systems Ltd'
-p12489
-aS'SONASTEER'
+ag56
+aS'530439'
+p12488
+aa(lp12489
+S'Siddhartha Tubes Ltd'
 p12490
-aS'520057'
+aS'SIDDHATUBE'
 p12491
-aa(lp12492
-S'Sonal Adhesives Ltd'
-p12493
-ag4
-aS'526901'
+aS'523728'
+p12492
+aa(lp12493
+S'Siel Financial Services Ltd'
 p12494
-aa(lp12495
-S'Sonata Software Ltd'
-p12496
-aS'SONATSOFTW'
+ag56
+aS'532217'
+p12495
+aa(lp12496
+S'Siemens Healthcare Diagnostics Ltd'
 p12497
-aS'532221'
+ag56
+aS'506559'
 p12498
 aa(lp12499
-S'South Asian Enterprises Ltd'
+S'Siemens Ltd'
 p12500
-ag4
-aS'526477'
+aS'SIEMENS'
 p12501
-aa(lp12502
-S'South Asian Petrochem Ltd'
-p12503
-aS'SAPL'
+aS'500550'
+p12502
+aa(lp12503
+S'Signet Overseas Ltd'
 p12504
-aS'532452'
+aS'SIGNET'
 p12505
-aa(lp12506
-S'South India Paper Mills Ltd'
-p12507
-ag4
-aS'516108'
+aS'512131'
+p12506
+aa(lp12507
+S'Sika Interplant Systems Ltd'
 p12508
-aa(lp12509
-S'South Indian Bank Ltd'
-p12510
-aS'SOUTHBANK'
+ag56
+aS'523606'
+p12509
+aa(lp12510
+S'SIL Investments Ltd'
 p12511
-aS'532218'
+aS'SILINV'
 p12512
-aa(lp12513
-S'Southern Gas Ltd'
-p12514
-ag4
-aS'509910'
+aS'521194'
+p12513
+aa(lp12514
+S'Silicon Valley Infotech Ltd'
 p12515
-aa(lp12516
-S'Southern Ispat & Energy Ltd'
+aS'PRASGLOFIN'
+p12516
+aS'531738'
 p12517
-aS'SOUISPAT'
-p12518
-aS'531645'
+aa(lp12518
+S'Silktex Ltd'
 p12519
-aa(lp12520
-S'Southern Latex Ltd'
-p12521
-ag4
-aS'514454'
+ag56
+aS'526835'
+p12520
+aa(lp12521
+S'Silver Oak India Ltd'
 p12522
-aa(lp12523
-S'Southern Online Bio Technologies Ltd'
-p12524
-ag4
-aS'532669'
+ag56
+aS'531635'
+p12523
+aa(lp12524
+S'Silver Smith India Ltd'
 p12525
-aa(lp12526
-S'Southern Petrochemical Industrial Corporation Ltd'
-p12527
-aS'SPIC'
+ag56
+aS'531626'
+p12526
+aa(lp12527
+S'Silverline Animation Technologies Ltd'
 p12528
-aS'500758'
+ag56
+aS'532999'
 p12529
 aa(lp12530
-S'Southern Petrochemicals Ltd'
+S'Silverline Technologies Ltd'
 p12531
-ag4
-aS'590030'
+aS'SILVERLINE'
 p12532
-aa(lp12533
-S'Sovereign Diamonds Ltd'
-p12534
-ag4
-aS'523826'
+aS'500389'
+p12533
+aa(lp12534
+S'Silveroak Commercials Ltd'
 p12535
-aa(lp12536
-S'Sowbhagya Media Ltd'
-p12537
-ag4
-aS'532025'
+ag56
+aS'512197'
+p12536
+aa(lp12537
+S'Simbhaoli Sugars Ltd'
 p12538
-aa(lp12539
-S'SP Capital Financing Ltd'
+aS'SIMBHSUGAR'
+p12539
+aS'507446'
 p12540
-ag4
-aS'530289'
-p12541
-aa(lp12542
-S'Span Diagnostics Ltd'
+aa(lp12541
+S'Simmonds Marshall Ltd'
+p12542
+ag56
+aS'507998'
 p12543
-ag4
-aS'524727'
-p12544
-aa(lp12545
-S'Spanco  Ltd'
+aa(lp12544
+S'Simplex Castings Ltd'
+p12545
+aS'SIMPLEXCAS'
 p12546
-aS'SPANCO'
+aS'513472'
 p12547
-aS'508976'
-p12548
-aa(lp12549
-S'Sparc Systems Ltd'
+aa(lp12548
+S'Simplex Infrastructures Ltd'
+p12549
+aS'SIMPLEXINF'
 p12550
-ag4
-aS'531370'
+aS'523838'
 p12551
 aa(lp12552
-S'Sparsh BPO Services Ltd'
+S'Simplex Mills Company Ltd'
 p12553
-ag4
-aS'532833'
+ag56
+aS'533018'
 p12554
 aa(lp12555
-S'Spartek Ceramics India Ltd'
+S'Simplex Papers Ltd'
 p12556
-aS'SPARTEK'
+ag56
+aS'533019'
 p12557
-aS'515003'
-p12558
-aa(lp12559
-S'Speciality Papers Ltd'
+aa(lp12558
+S'Simplex Projects Ltd'
+p12559
+aS'SIMPLEX'
 p12560
-ag4
-aS'502465'
+aS'532877'
 p12561
 aa(lp12562
-S'Spectacle Industries Ltd'
+S'Simplex Realty Ltd'
 p12563
-aS'SPECTACLE'
+ag56
+aS'503229'
 p12564
-aS'512413'
-p12565
-aa(lp12566
-S'Spectra Industries Ltd'
+aa(lp12565
+S'Simplex Trading & Agencies Ltd'
+p12566
+ag56
+aS'504382'
 p12567
-ag4
-aS'513687'
-p12568
-aa(lp12569
-S'Spectrum Foods Ltd'
+aa(lp12568
+S'Simran Farms Ltd'
+p12569
+ag56
+aS'519566'
 p12570
-ag4
-aS'531982'
-p12571
-aa(lp12572
-S'SPEL Semiconductor Ltd'
+aa(lp12571
+S'Sinclairs Hotels Ltd'
+p12572
+ag56
+aS'523023'
 p12573
-aS'SPICELEC'
-p12574
-aS'517166'
+aa(lp12574
+S'Singer India Ltd'
 p12575
-aa(lp12576
-S'Spenta International Ltd'
+aS'SINGER'
+p12576
+aS'505729'
 p12577
-ag4
-aS'526161'
-p12578
-aa(lp12579
-S'Spentex Industries Ltd'
+aa(lp12578
+S'Sinnar Bidi Udyog Ltd'
+p12579
+ag56
+aS'509887'
 p12580
-aS'SPENTEX'
-p12581
-aS'521082'
+aa(lp12581
+S'Sintex Industries Ltd'
 p12582
-aa(lp12583
-S'Spice Communications Ltd'
+aS'SINTEX'
+p12583
+aS'502742'
 p12584
-aS'SPICETELE'
-p12585
-aS'532863'
+aa(lp12585
+S'SIP Industries Ltd'
 p12586
-aa(lp12587
-S'Spice Islands Apparels Ltd'
-p12588
-ag4
-aS'526827'
+ag56
+aS'523164'
+p12587
+aa(lp12588
+S'Sir Shadi Lal Enterprises Ltd'
 p12589
-aa(lp12590
-S'Spicejet Ltd'
-p12591
-aS'MODILUFT'
+ag56
+aS'532879'
+p12590
+aa(lp12591
+S'Sirdar Carbonic Gas Company Ltd'
 p12592
-aS'500285'
+ag56
+aS'509895'
 p12593
 aa(lp12594
-S'SPL Industries Ltd'
+S'Sirhind Enterprises Ltd'
 p12595
-aS'SPLIL'
+ag56
+aS'531560'
 p12596
-aS'532651'
-p12597
-aa(lp12598
-S'SPL Polymers Ltd'
+aa(lp12597
+S'Sirpur Paper Mills Ltd'
+p12598
+aS'SIRPAPER'
 p12599
-ag4
-aS'524364'
+aS'502455'
 p12600
 aa(lp12601
-S'Splash Media Works Ltd'
+S'Sita Enterprises Ltd'
 p12602
-ag4
-aS'512048'
+ag56
+aS'512589'
 p12603
 aa(lp12604
-S'SPML Infra Ltd'
+S'Sita Shree Food Products Ltd'
 p12605
-aS'SPMLINFRA'
+aS'SITASHREE'
 p12606
-aS'500402'
+aS'532961'
 p12607
 aa(lp12608
-S'SPS International Ltd'
+S'Siyaram Silk Mills Ltd'
 p12609
-ag4
-aS'530177'
+aS'SIYSIL'
 p12610
-aa(lp12611
-S'Sql Star International Ltd'
-p12612
-ag4
-aS'532249'
+aS'503811'
+p12611
+aa(lp12612
+S'SJ Corporation Ltd'
 p12613
-aa(lp12614
-S'SR Industries Ltd'
-p12615
-ag4
-aS'513515'
+ag56
+aS'504398'
+p12614
+aa(lp12615
+S'SJVN Ltd'
 p12616
-aa(lp12617
-S'SR Oils & Fats Ltd'
+aS'SJVN'
+p12617
+aS'533206'
 p12618
-ag4
-aS'519319'
-p12619
-aa(lp12620
-S'Sree Jayalakshmi Auto Spin Ltd'
+aa(lp12619
+S'SKF India Ltd'
+p12620
+aS'SKFINDIA'
 p12621
-ag4
-aS'530037'
+aS'500472'
 p12622
 aa(lp12623
-S'Sree Rayalaseema Alkalies & Allied Chemicals Ltd'
+S'SKM Egg Products Export India Ltd'
 p12624
-aS'SREERAYALK'
+aS'SKMEGGPROD'
 p12625
-aS'507753'
+aS'532143'
 p12626
 aa(lp12627
-S'Sree Rayalaseema Hi Strength Hypo Ltd'
+S'SKP Securities Ltd'
 p12628
-aS'SRHHYPOLTD'
+ag56
+aS'531169'
 p12629
-aS'532842'
-p12630
-aa(lp12631
-S'Sree Sakthi Paper Mills Ltd'
+aa(lp12630
+S'SKS Logistics Ltd'
+p12631
+ag56
+aS'526508'
 p12632
-ag4
-aS'532701'
-p12633
-aa(lp12634
-S'SREI Infrastructure Finance Ltd'
+aa(lp12633
+S'SKS Microfinance Ltd'
+p12634
+aS'SKSMICRO'
 p12635
-aS'SREINFRA'
+aS'533228'
 p12636
-aS'523756'
-p12637
-aa(lp12638
-S'SRF Ltd'
+aa(lp12637
+S'Sky Industries Ltd'
+p12638
+ag56
+aS'526479'
 p12639
-aS'SRF'
-p12640
-aS'503806'
+aa(lp12640
+S'Skyline Millars Ltd'
 p12641
-aa(lp12642
-S'SRF Polymers Ltd'
-p12643
-ag4
-aS'532468'
+ag56
+aS'505650'
+p12642
+aa(lp12643
+S'Skypak Service Specialists Ltd'
 p12644
-aa(lp12645
-S'SRHHL Industries Ltd'
-p12646
-aS'SRHHLINDST'
+ag56
+aS'523846'
+p12645
+aa(lp12646
+S'SM Energy Teknik & Electronics Ltd'
 p12647
-aS'524410'
+ag56
+aS'522042'
 p12648
 aa(lp12649
-S'Sri Adhikari Brothers Television Network Ltd'
+S'Smartlink Network Systems Ltd'
 p12650
-aS'SABTN'
+aS'SMARTLINK'
 p12651
-aS'530943'
+aS'532419'
 p12652
 aa(lp12653
-S'Sri Chamundeswari Sugars Ltd'
+S'SMIFS Capital Markets Ltd'
 p12654
-aS'SRICHAMUND'
+ag56
+aS'508905'
 p12655
-aS'522300'
-p12656
-aa(lp12657
-S'Sri Ganapathy Mills Company Ltd'
+aa(lp12656
+S'SML Isuzu Limited '
+p12657
+aS'SMLISUZU'
 p12658
-ag4
-aS'521236'
+aS'505192'
 p12659
 aa(lp12660
-S'Sri Jayalakshmi Spinning Mills Ltd'
+S'Smruthi Organics Ltd'
 p12661
-ag4
-aS'531141'
+ag56
+aS'590046'
 p12662
 aa(lp12663
-S'Sri Lakshmi Saraswathi Textiles Arni Ltd'
+S'SMS Pharmaceuticals Ltd'
 p12664
-ag4
-aS'521161'
+aS'SMSPHARMA'
 p12665
-aa(lp12666
-S'Sri Nachammai Cotton Mills Ltd'
-p12667
-ag4
-aS'521234'
+aS'532815'
+p12666
+aa(lp12667
+S'SNL Bearings Ltd'
 p12668
-aa(lp12669
-S'Sri Ramakrishna Mills Coimbatore Ltd'
-p12670
-ag4
-aS'521178'
+ag56
+aS'505827'
+p12669
+aa(lp12670
+S'SNS Textiles Ltd'
 p12671
-aa(lp12672
-S'Sri Vajra Granites Ltd'
+aS'SUZLONFIBR'
+p12672
+aS'514240'
 p12673
-ag4
-aS'515081'
-p12674
-aa(lp12675
-S'Srinivasa Hatcheries Ltd'
+aa(lp12674
+S'Sobha Developers Ltd'
+p12675
+aS'SOBHA'
 p12676
-ag4
-aS'526893'
+aS'532784'
 p12677
 aa(lp12678
-S'Srinivasa Shipping & Property Development Ltd'
+S'Softbpo Global Services Ltd'
 p12679
-ag4
-aS'530821'
+ag56
+aS'504375'
 p12680
 aa(lp12681
-S'SRRAYL ALKPS'
+S'Softech Infinium Solutions Ltd'
 p12682
-ag4
-aS'700102'
+ag56
+aS'530651'
 p12683
 aa(lp12684
-S'SRS Limited'
+S'Softsol India Ltd'
 p12685
-aS'SRSLTD'
+ag56
+aS'532344'
 p12686
-aS'533569'
-p12687
-aa(lp12688
-S'SRS Real Infrastructure Ltd'
+aa(lp12687
+S'Software Technology Group International Ltd'
+p12688
+aS'SOFTTECHGR'
 p12689
-aS'SRSREAL'
+aS'532293'
 p12690
-aS'533305'
-p12691
-aa(lp12692
-S'SS Forgings & Engineering Ltd'
+aa(lp12691
+S'Solar Industries India Ltd'
+p12692
+aS'SOLARINDS'
 p12693
-ag4
-aS'522296'
+aS'532725'
 p12694
 aa(lp12695
-S'SS Organics Ltd'
+S'Solectron EMS India Ltd'
 p12696
-ag4
-aS'524636'
+aS'SOLEMS'
 p12697
-aa(lp12698
-S'Standard Batteries Ltd'
-p12699
-aS'STANDRDBAT'
+aS'532956'
+p12698
+aa(lp12699
+S'Solid Carbide Tools Ltd'
 p12700
-aS'504180'
+ag56
+aS'500394'
 p12701
 aa(lp12702
-S'Standard Capital Markets Ltd'
+S'Solid Containers Ltd'
 p12703
-ag4
-aS'511700'
+ag56
+aS'502460'
 p12704
 aa(lp12705
-S'Standard Industries Ltd'
+S'Solid Stone Company Ltd'
 p12706
-aS'SIL'
+ag56
+aS'513699'
 p12707
-aS'530017'
-p12708
-aa(lp12709
-S'Stanpacks India Ltd'
+aa(lp12708
+S'Solitaire Machine Tools Ltd'
+p12709
+ag56
+aS'522152'
 p12710
-ag4
-aS'530931'
-p12711
-aa(lp12712
-S'Stanrose Mafatlal Investments & Finance Ltd'
+aa(lp12711
+S'Solix Technologies Ltd'
+p12712
+ag56
+aS'501421'
 p12713
-ag4
-aS'506105'
-p12714
-aa(lp12715
-S'Star Leasing Ltd'
+aa(lp12714
+S'Solvay Pharma India Ltd'
+p12715
+ag56
+aS'532447'
 p12716
-ag4
-aS'508922'
-p12717
-aa(lp12718
-S'Star Paper Mills Ltd'
+aa(lp12717
+S'Som Datt Finance Corporation Ltd'
+p12718
+aS'SOMDUTTFIN'
 p12719
-aS'STARPAPER'
+aS'511571'
 p12720
-aS'516022'
-p12721
-aa(lp12722
-S'Starchik Specialities Ltd'
+aa(lp12721
+S'Som Distilleries & Breweries Ltd'
+p12722
+aS'SDBL'
 p12723
-ag4
-aS'519455'
+aS'507514'
 p12724
 aa(lp12725
-S'Starlite Components Ltd'
+S'Soma Papers & Industries Ltd'
 p12726
-ag4
-aS'517548'
+ag56
+aS'516038'
 p12727
 aa(lp12728
-S'Starvox Electronics Ltd'
+S'Soma Textiles & Industries Ltd'
 p12729
-ag4
-aS'517172'
+aS'SOMATEX'
 p12730
-aa(lp12731
-S'State Bank of Bikaner & Jaipur'
-p12732
-aS'SBBJ'
+aS'521034'
+p12731
+aa(lp12732
+S'Somany Ceramics Ltd'
 p12733
-aS'501061'
+aS'SOMANYCERA'
 p12734
-aa(lp12735
-S'State Bank of India'
-p12736
-aS'SBIN'
+aS'531548'
+p12735
+aa(lp12736
+S'Somi Conveyor Beltings Ltd'
 p12737
-aS'500112'
+ag56
+aS'533001'
 p12738
 aa(lp12739
-S'State Bank of Mysore'
+S'Sona Koyo Steering Systems Ltd'
 p12740
-aS'MYSOREBANK'
+aS'SONASTEER'
 p12741
-aS'532200'
+aS'520057'
 p12742
 aa(lp12743
-S'State Bank of Travancore'
+S'Sonal Adhesives Ltd'
 p12744
-aS'SBT'
+ag56
+aS'526901'
 p12745
-aS'532191'
-p12746
-aa(lp12747
-S'STATE BANK(R'
+aa(lp12746
+S'Sonata Software Ltd'
+p12747
+aS'SONATSOFTW'
 p12748
-ag4
-aS'600112'
+aS'532221'
 p12749
 aa(lp12750
-S'State Trading Corporation of India Ltd'
+S'South Asian Enterprises Ltd'
 p12751
-aS'STCINDIA'
+ag56
+aS'526477'
 p12752
-aS'512531'
-p12753
-aa(lp12754
-S'Steel Authority of India Ltd'
+aa(lp12753
+S'South Asian Petrochem Ltd'
+p12754
+aS'SAPL'
 p12755
-aS'SAIL'
+aS'532452'
 p12756
-aS'500113'
-p12757
-aa(lp12758
-S'Steel Exchange India Ltd'
+aa(lp12757
+S'South India Paper Mills Ltd'
+p12758
+aS'SIPAPER'
 p12759
-ag4
-aS'590037'
+aS'516108'
 p12760
 aa(lp12761
-S'Steel Strips Infrastructures Ltd'
+S'South Indian Bank Ltd'
 p12762
-ag4
-aS'513173'
+aS'SOUTHBANK'
 p12763
-aa(lp12764
-S'Steel Strips Wheels Ltd'
-p12765
-aS'SSWL'
+aS'532218'
+p12764
+aa(lp12765
+S'Southern Gas Ltd'
 p12766
-aS'513262'
+ag56
+aS'509910'
 p12767
 aa(lp12768
-S'Steel Tubes of India Ltd'
+S'Southern Ispat & Energy Ltd'
 p12769
-aS'STEELTUBES'
+aS'SOUISPAT'
 p12770
-aS'506059'
+aS'531645'
 p12771
 aa(lp12772
-S'Steelcast Ltd'
+S'Southern Latex Ltd'
 p12773
-ag4
-aS'513517'
+ag56
+aS'514454'
 p12774
 aa(lp12775
-S'Steelco Gujarat Ltd'
+S'Southern Online Bio Technologies Ltd'
 p12776
-aS'STEELCOGUJ'
+ag56
+aS'532669'
 p12777
-aS'500399'
-p12778
-aa(lp12779
-S'Stelco Strips Ltd'
+aa(lp12778
+S'Southern Petrochemical Industrial Corporation Ltd'
+p12779
+aS'SPIC'
 p12780
-ag4
-aS'513530'
+aS'590030'
 p12781
 aa(lp12782
-S'Step Two Corporation Ltd'
+S'Southern Petrochemicals Ltd'
 p12783
-ag4
-aS'531509'
+aS'SPIC'
 p12784
-aa(lp12785
-S'Sterling Biotech Ltd'
-p12786
-aS'STERLINBIO'
+aS'590030'
+p12785
+aa(lp12786
+S'Sovereign Diamonds Ltd'
 p12787
-aS'512299'
+ag56
+aS'523826'
 p12788
 aa(lp12789
-S'Sterling Green Woods Ltd'
+S'Sowbhagya Media Ltd'
 p12790
-ag4
-aS'526500'
+ag56
+aS'532025'
 p12791
 aa(lp12792
-S'Sterling Holiday Resorts India Ltd'
+S'SP Capital Financing Ltd'
 p12793
-aS'STERLINHOL'
+ag56
+aS'530289'
 p12794
-aS'523363'
-p12795
-aa(lp12796
-S'Sterling International Enterprises Ltd'
+aa(lp12795
+S'Span Diagnostics Ltd'
+p12796
+ag56
+aS'524727'
 p12797
-ag4
-aS'508998'
-p12798
-aa(lp12799
-S'Sterling Strips Ltd'
+aa(lp12798
+S'Spanco  Ltd'
+p12799
+aS'SPANCO'
 p12800
-ag4
-aS'513575'
+aS'508976'
 p12801
 aa(lp12802
-S'Sterling Tools Ltd'
+S'Sparc Systems Ltd'
 p12803
-aS'STERTOOLS'
+ag56
+aS'531370'
 p12804
-aS'530759'
-p12805
-aa(lp12806
-S'Sterlite Industries India Ltd'
+aa(lp12805
+S'Sparsh BPO Services Ltd'
+p12806
+ag56
+aS'532833'
 p12807
-aS'STER'
-p12808
-aS'500900'
+aa(lp12808
+S'Spartek Ceramics India Ltd'
 p12809
-aa(lp12810
-S'Sterlite Projects Ltd'
+aS'SPARTEK'
+p12810
+aS'515003'
 p12811
-ag4
-aS'506971'
-p12812
-aa(lp12813
-S'Sterlite Technologies Ltd'
+aa(lp12812
+S'Speciality Papers Ltd'
+p12813
+ag56
+aS'502465'
 p12814
-aS'STRTECH'
-p12815
-aS'532374'
+aa(lp12815
+S'Spectacle Industries Ltd'
 p12816
-aa(lp12817
-S'Stewarts & Lloyds of India Ltd'
+aS'SPECTACLE'
+p12817
+aS'512413'
 p12818
-ag4
-aS'504960'
-p12819
-aa(lp12820
-S'STI India Ltd'
+aa(lp12819
+S'Spectra Industries Ltd'
+p12820
+ag56
+aS'513687'
 p12821
-aS'STINDIA'
-p12822
-aS'513151'
+aa(lp12822
+S'Spectrum Foods Ltd'
 p12823
-aa(lp12824
-S'STL Global Ltd'
-p12825
-aS'SGL'
+ag56
+aS'531982'
+p12824
+aa(lp12825
+S'SPEL Semiconductor Ltd'
 p12826
-aS'532730'
+aS'SPICELEC'
 p12827
-aa(lp12828
-S'Stocknet International Ltd'
-p12829
-ag4
-aS'512640'
+aS'517166'
+p12828
+aa(lp12829
+S'Spenta International Ltd'
 p12830
-aa(lp12831
-S'Stone India Ltd'
-p12832
-ag4
-aS'522085'
+ag56
+aS'526161'
+p12831
+aa(lp12832
+S'Spentex Industries Ltd'
 p12833
-aa(lp12834
-S'Store One Retail India Ltd'
+aS'SPENTEX'
+p12834
+aS'521082'
 p12835
-aS'STOREONE'
-p12836
-aS'532679'
+aa(lp12836
+S'Spice Communications Ltd'
 p12837
-aa(lp12838
-S'Stovec Industries Limited'
+aS'SPICETELE'
+p12838
+aS'532863'
 p12839
-ag4
-aS'504959'
-p12840
-aa(lp12841
-S'Stresscrete India Ltd'
+aa(lp12840
+S'Spice Islands Apparels Ltd'
+p12841
+ag56
+aS'526827'
 p12842
-ag4
-aS'531444'
-p12843
-aa(lp12844
-S'Strides Arcolab Ltd'
+aa(lp12843
+S'Spicejet Ltd'
+p12844
+aS'MODILUFT'
 p12845
-aS'STAR'
+aS'500285'
 p12846
-aS'532531'
-p12847
-aa(lp12848
-S'Sturdy Industries Ltd'
+aa(lp12847
+S'SPL Industries Ltd'
+p12848
+aS'SPLIL'
 p12849
-ag4
-aS'530611'
+aS'532651'
 p12850
 aa(lp12851
-S'Su-raj Diamonds & Jewellery Ltd'
+S'SPL Polymers Ltd'
 p12852
-aS'SURAJDIAMN'
+ag56
+aS'524364'
 p12853
-aS'507892'
-p12854
-aa(lp12855
-S'Suashish Diamonds Ltd'
+aa(lp12854
+S'Splash Media Works Ltd'
+p12855
+ag56
+aS'512048'
 p12856
-aS'SUASHDIMON'
-p12857
-aS'526733'
+aa(lp12857
+S'SPML Infra Ltd'
 p12858
-aa(lp12859
-S'Suave Hotels Ltd'
+aS'SPMLINFRA'
+p12859
+aS'500402'
 p12860
-ag4
-aS'531373'
-p12861
-aa(lp12862
-S'Subex Ltd'
+aa(lp12861
+S'SPS International Ltd'
+p12862
+ag56
+aS'530177'
 p12863
-aS'SUBEX'
-p12864
-aS'532348'
+aa(lp12864
+S'Sql Star International Ltd'
 p12865
-aa(lp12866
-S'Subhash Silk Mills Ltd'
-p12867
-ag4
-aS'530231'
+ag56
+aS'532249'
+p12866
+aa(lp12867
+S'SR Industries Ltd'
 p12868
-aa(lp12869
-S'Subhkam Capital Ltd'
-p12870
-ag4
-aS'531866'
+ag56
+aS'513515'
+p12869
+aa(lp12870
+S'SR Oils & Fats Ltd'
 p12871
-aa(lp12872
-S'Subros Ltd'
-p12873
-aS'SUBROS'
+ag56
+aS'519319'
+p12872
+aa(lp12873
+S'Sree Jayalakshmi Auto Spin Ltd'
 p12874
-aS'517168'
+ag56
+aS'530037'
 p12875
 aa(lp12876
-S'Subuthi Finance Ltd'
+S'Sree Rayalaseema Alkalies & Allied Chemicals Ltd'
 p12877
-ag4
-aS'531841'
+aS'SREERAYALK'
 p12878
-aa(lp12879
-S'Subway Finance & Investment Company Ltd'
-p12880
-ag4
-aS'511024'
+aS'507753'
+p12879
+aa(lp12880
+S'Sree Rayalaseema Hi Strength Hypo Ltd'
 p12881
-aa(lp12882
-S'Suchak Trading Ltd'
+aS'SRHHYPOLTD'
+p12882
+aS'532842'
 p12883
-ag4
-aS'512075'
-p12884
-aa(lp12885
-S'Sudal Industries Ltd'
+aa(lp12884
+S'Sree Sakthi Paper Mills Ltd'
+p12885
+ag56
+aS'532701'
 p12886
-ag4
-aS'506003'
-p12887
-aa(lp12888
-S'Sudar Garments Limited'
+aa(lp12887
+S'SREI Infrastructure Finance Ltd'
+p12888
+aS'SREINFRA'
 p12889
-aS'SUDAR'
+aS'523756'
 p12890
-aS'533332'
-p12891
-aa(lp12892
-S'Sudarshan Chemical Industries Ltd'
+aa(lp12891
+S'SRF Ltd'
+p12892
+aS'SRF'
 p12893
-aS'SUDARSCHEM'
+aS'503806'
 p12894
-aS'506655'
-p12895
-aa(lp12896
-S'Sudev Industries Ltd'
+aa(lp12895
+S'SRF Polymers Ltd'
+p12896
+ag56
+aS'532468'
 p12897
-ag4
-aS'526530'
-p12898
-aa(lp12899
-S'Suditi Industries Ltd'
+aa(lp12898
+S'SRHHL Industries Ltd'
+p12899
+aS'SRHHLINDST'
 p12900
-aS'SUDITIND'
+aS'524410'
 p12901
-aS'521113'
-p12902
-aa(lp12903
-S'Sugal & Damani Finlease Ltd'
+aa(lp12902
+S'Sri Adhikari Brothers Television Network Ltd'
+p12903
+aS'SABTN'
 p12904
-ag4
-aS'511654'
+aS'530943'
 p12905
 aa(lp12906
-S'Sujana Metal Products Ltd'
+S'Sri Chamundeswari Sugars Ltd'
 p12907
-aS'SMPL'
+aS'SRICHAMUND'
 p12908
-aS'513414'
-p12909
-aa(lp12910
-S'Sujana Towers Ltd'
+ag56
+aa(lp12909
+S'Sri Ganapathy Mills Company Ltd'
+p12910
+ag56
+aS'521236'
 p12911
-aS'SUJANATOW'
-p12912
-aS'532887'
+aa(lp12912
+S'Sri Jayalakshmi Spinning Mills Ltd'
 p12913
-aa(lp12914
-S'Sujana Universal Industries Ltd'
-p12915
-aS'SUJANAUNI'
+ag56
+aS'531141'
+p12914
+aa(lp12915
+S'Sri Lakshmi Saraswathi Textiles Arni Ltd'
 p12916
-aS'517224'
+ag56
+aS'521161'
 p12917
 aa(lp12918
-S'Sukhjit Starch & Chemicals Ltd'
+S'Sri Nachammai Cotton Mills Ltd'
 p12919
-ag4
-aS'524542'
+ag56
+aS'521234'
 p12920
 aa(lp12921
-S'Sulabh Engineers & Services Ltd'
+S'Sri Ramakrishna Mills Coimbatore Ltd'
 p12922
-ag4
-aS'508969'
+ag56
+aS'521178'
 p12923
 aa(lp12924
-S'Sulzer India Ltd'
+S'Sri Vajra Granites Ltd'
 p12925
-aS'SULZER'
+ag56
+aS'515081'
 p12926
-aS'522087'
-p12927
-aa(lp12928
-S'Sumedha Fiscal Services Ltd'
+aa(lp12927
+S'Srinivasa Hatcheries Ltd'
+p12928
+ag56
+aS'526893'
 p12929
-ag4
-aS'530419'
-p12930
-aa(lp12931
-S'Sumeet Industries Ltd'
+aa(lp12930
+S'Srinivasa Shipping & Property Development Ltd'
+p12931
+ag56
+aS'530821'
 p12932
-aS'SUMEETINDS'
-p12933
-aS'514211'
+aa(lp12933
+S'SRRAYL ALKPS'
 p12934
-aa(lp12935
-S'Sumeru Industries Ltd'
-p12936
-ag4
-aS'530445'
+ag56
+aS'700102'
+p12935
+aa(lp12936
+S'SRS Limited'
 p12937
-aa(lp12938
-S'Summit Securities Limited'
+aS'SRSLTD'
+p12938
+aS'533569'
 p12939
-aS'SUMMITSEC'
-p12940
-aS'533306'
+aa(lp12940
+S'SRS Real Infrastructure Ltd'
 p12941
-aa(lp12942
-S'Summit Securities Ltd'
-p12943
-aS'SUMMIT'
+ag56
+aS'533305'
+p12942
+aa(lp12943
+S'SS Forgings & Engineering Ltd'
 p12944
-aS'504807'
+ag56
+aS'522296'
 p12945
 aa(lp12946
-S'Sun Granite Exports Ltd'
+S'SS Organics Ltd'
 p12947
-ag4
-aS'531013'
+ag56
+aS'524636'
 p12948
 aa(lp12949
-S'Sun Pharma Advanced Research Company Ltd'
+S'Standard Batteries Ltd'
 p12950
-aS'SPARC'
+aS'STANDRDBAT'
 p12951
-aS'532872'
+aS'504180'
 p12952
 aa(lp12953
-S'Sun Pharmaceutical Industries Ltd'
+S'Standard Capital Markets Ltd'
 p12954
-aS'SUNPHARMA'
+ag56
+aS'511700'
 p12955
-aS'524715'
-p12956
-aa(lp12957
-S'Sun Source India Ltd'
+aa(lp12956
+S'Standard Industries Ltd'
+p12957
+aS'SIL'
 p12958
-ag4
-aS'517403'
+aS'530017'
 p12959
 aa(lp12960
-S'Sun TV Network Ltd'
+S'Stanpacks India Ltd'
 p12961
-aS'SUNTV'
+ag56
+aS'530931'
 p12962
-aS'532733'
-p12963
-aa(lp12964
-S'Suncity Synthetics Ltd'
+aa(lp12963
+S'Stanrose Mafatlal Investments & Finance Ltd'
+p12964
+ag56
+aS'506105'
 p12965
-ag4
-aS'530795'
-p12966
-aa(lp12967
-S'Sundaram Brake Linings Ltd'
+aa(lp12966
+S'Star Leasing Ltd'
+p12967
+ag56
+aS'508922'
 p12968
-aS'SUNDRMBRAK'
-p12969
-aS'590072'
+aa(lp12969
+S'Star Paper Mills Ltd'
 p12970
-aa(lp12971
-S'Sundaram Clayton Ltd'
+aS'STARPAPER'
+p12971
+aS'516022'
 p12972
-aS'SUNCLAYTON'
-p12973
-aS'520056'
+aa(lp12973
+S'Starchik Specialities Ltd'
 p12974
-aa(lp12975
-S'Sundaram Finance Ltd'
-p12976
-aS'SUNDARMFIN'
+ag56
+aS'519455'
+p12975
+aa(lp12976
+S'Starlite Components Ltd'
 p12977
-aS'590071'
+ag56
+aS'517548'
 p12978
 aa(lp12979
-S'Sundaram Multi Pap Ltd'
+S'Starvox Electronics Ltd'
 p12980
-aS'SUNDARAM'
+ag56
+aS'517172'
 p12981
-aS'533166'
-p12982
-aa(lp12983
-S'Sunday Exports Ltd'
+aa(lp12982
+S'State Bank of Bikaner & Jaipur'
+p12983
+aS'SBBJ'
 p12984
-ag4
-aS'530425'
+aS'501061'
 p12985
 aa(lp12986
-S'Sundram Fasteners Ltd'
+S'State Bank of India'
 p12987
-aS'SUNDRMFAST'
+aS'SBIN'
 p12988
-aS'500403'
+aS'500112'
 p12989
 aa(lp12990
-S'Sunflag Iron & Steel Company Ltd'
+S'State Bank of Mysore'
 p12991
-aS'SUNFLAG'
+aS'MYSOREBANK'
 p12992
-aS'500404'
+aS'532200'
 p12993
 aa(lp12994
-S'Sungold Capital Ltd'
+S'State Bank of Travancore'
 p12995
-ag4
-aS'531433'
+aS'SBT'
 p12996
-aa(lp12997
-S'Sunil Agro Foods Ltd'
-p12998
-ag4
-aS'530953'
+aS'532191'
+p12997
+aa(lp12998
+S'STATE BANK(R'
 p12999
-aa(lp13000
-S'Sunil Hitech Engineers Ltd'
-p13001
-aS'SUNILHITEC'
+ag56
+aS'600112'
+p13000
+aa(lp13001
+S'State Trading Corporation of India Ltd'
 p13002
-aS'532711'
+aS'STCINDIA'
 p13003
-aa(lp13004
-S'Sunil Industries Ltd'
-p13005
-ag4
-aS'521232'
+aS'512531'
+p13004
+aa(lp13005
+S'Steel Authority of India Ltd'
 p13006
-aa(lp13007
-S'Sunitee Chemicals Ltd'
+aS'SAIL'
+p13007
+aS'500113'
 p13008
-ag4
-aS'531945'
-p13009
-aa(lp13010
-S'Sunraj Diamond Exports Ltd'
+aa(lp13009
+S'Steel Exchange India Ltd'
+p13010
+ag56
+aS'590037'
 p13011
-ag4
-aS'523425'
-p13012
-aa(lp13013
-S'Sunshield Chemicals Ltd'
+aa(lp13012
+S'Steel Strips Infrastructures Ltd'
+p13013
+ag56
+aS'513173'
 p13014
-ag4
-aS'530845'
-p13015
-aa(lp13016
-S'Sunteck Realty Ltd'
+aa(lp13015
+S'Steel Strips Wheels Ltd'
+p13016
+aS'SSWL'
 p13017
-aS'SUNTECK'
+aS'513262'
 p13018
-aS'512179'
-p13019
-aa(lp13020
-S'Super Bakers India Ltd'
+aa(lp13019
+S'Steel Tubes of India Ltd'
+p13020
+aS'STEELTUBES'
 p13021
-ag4
-aS'530735'
+aS'506059'
 p13022
 aa(lp13023
-S'Super Crop Safe Ltd'
+S'Steelcast Ltd'
 p13024
-ag4
-aS'530883'
+ag56
+aS'513517'
 p13025
 aa(lp13026
-S'Super Domestic Machines Ltd'
+S'Steelco Gujarat Ltd'
 p13027
-ag4
-aS'531699'
+aS'STEELCOGUJ'
 p13028
-aa(lp13029
-S'Super Sales India Ltd'
-p13030
-aS'SUPER'
+aS'500399'
+p13029
+aa(lp13030
+S'Stelco Strips Ltd'
 p13031
-aS'512527'
+ag56
+aS'513530'
 p13032
 aa(lp13033
-S'Super Spinning Mills Ltd'
+S'Step Two Corporation Ltd'
 p13034
-aS'SUPERSPIN'
+ag56
+aS'531509'
 p13035
-aS'521180'
-p13036
-aa(lp13037
-S'Super Syncotex India Ltd'
+aa(lp13036
+S'Sterling Biotech Ltd'
+p13037
+aS'STERLINBIO'
 p13038
-ag4
-aS'503297'
+aS'512299'
 p13039
 aa(lp13040
-S'Super Tannery India Ltd'
+S'Sterling Green Woods Ltd'
 p13041
-ag4
-aS'523842'
+ag56
+aS'526500'
 p13042
 aa(lp13043
-S'Superb Papers Ltd'
+S'Sterling Holiday Resorts India Ltd'
 p13044
-ag4
-aS'532070'
+aS'STERLINHOL'
 p13045
-aa(lp13046
-S'Superhouse Ltd'
-p13047
-ag4
-aS'523283'
+aS'523363'
+p13046
+aa(lp13047
+S'Sterling International Enterprises Ltd'
 p13048
-aa(lp13049
-S'Superior Vanaspati Ltd'
-p13050
-ag4
-aS'519234'
+ag56
+aS'508998'
+p13049
+aa(lp13050
+S'Sterling Strips Ltd'
 p13051
-aa(lp13052
-S'Supertex Industries Ltd'
-p13053
-ag4
-aS'526133'
+ag56
+aS'513575'
+p13052
+aa(lp13053
+S'Sterling Tools Ltd'
 p13054
-aa(lp13055
-S'Suprajit Engineering Ltd'
+aS'STERTOOLS'
+p13055
+aS'530759'
 p13056
-aS'SUPRAJIT'
-p13057
-aS'532509'
+aa(lp13057
+S'Sterlite Industries India Ltd'
 p13058
-aa(lp13059
-S'Supreme Holdings Ltd'
+aS'STER'
+p13059
+aS'500900'
 p13060
-ag4
-aS'530677'
-p13061
-aa(lp13062
-S'Supreme Industries Ltd'
+aa(lp13061
+S'Sterlite Projects Ltd'
+p13062
+ag56
+aS'506971'
 p13063
-aS'SUPREMEIND'
-p13064
-aS'509930'
+aa(lp13064
+S'Sterlite Technologies Ltd'
 p13065
-aa(lp13066
-S'Supreme Infrastructure India Ltd'
+aS'STRTECH'
+p13066
+aS'532374'
 p13067
-aS'SUPREMEINF'
-p13068
-aS'532904'
+aa(lp13068
+S'Stewarts & Lloyds of India Ltd'
 p13069
-aa(lp13070
-S'Supreme Petrochem Ltd'
-p13071
-aS'SUPPETRO'
+ag56
+aS'504960'
+p13070
+aa(lp13071
+S'STI India Ltd'
 p13072
-aS'500405'
+aS'STINDIA'
 p13073
-aa(lp13074
-S'Supreme Tex Mart Ltd'
-p13075
-aS'SUPREMETEX'
+aS'513151'
+p13074
+aa(lp13075
+S'STL Global Ltd'
 p13076
-aS'531934'
+aS'SGL'
 p13077
-aa(lp13078
-S'Surabhi Chemicals & Investments Ltd'
-p13079
-ag4
-aS'512311'
+aS'532730'
+p13078
+aa(lp13079
+S'Stocknet International Ltd'
 p13080
-aa(lp13081
-S'Suraj Products Ltd'
-p13082
-ag4
-aS'518075'
+ag56
+aS'512640'
+p13081
+aa(lp13082
+S'Stone India Ltd'
 p13083
-aa(lp13084
-S'Suraj Stainless Ltd'
-p13085
-ag4
-aS'531638'
+ag56
+aS'522085'
+p13084
+aa(lp13085
+S'Store One Retail India Ltd'
 p13086
-aa(lp13087
-S'Surana Corporation Ltd'
+aS'STOREONE'
+p13087
+aS'532679'
 p13088
-aS'SURANACORP'
-p13089
-aS'531102'
+aa(lp13089
+S'Stovec Industries Limited'
 p13090
-aa(lp13091
-S'Surana Industries Ltd'
-p13092
-aS'SURANAIND'
+ag56
+aS'504959'
+p13091
+aa(lp13092
+S'Stresscrete India Ltd'
 p13093
-aS'513597'
+ag56
+aS'531444'
 p13094
 aa(lp13095
-S'Surana Strips Ltd'
+S'Strides Arcolab Ltd'
 p13096
-ag4
-aS'513403'
+aS'STAR'
 p13097
-aa(lp13098
-S'Surana Telecom And Power Limited'
-p13099
-aS'SURANAT&P;'
+aS'532531'
+p13098
+aa(lp13099
+S'Sturdy Industries Ltd'
 p13100
-aS'517530'
+ag56
+aS'530611'
 p13101
 aa(lp13102
-S'Surana Ventures Limited'
+S'Su-raj Diamonds & Jewellery Ltd'
 p13103
-aS'SURANAVEL'
+aS'WINSOMEDJ'
 p13104
-aS'533298'
+aS'507892'
 p13105
 aa(lp13106
-S'Surat Textile Mills Ltd'
+S'Suashish Diamonds Ltd'
 p13107
-ag4
-aS'530185'
+aS'SUASHDIMON'
 p13108
-aa(lp13109
-S'Surya Industrial Corporation Ltd'
-p13110
-ag4
-aS'531262'
+aS'526733'
+p13109
+aa(lp13110
+S'Suave Hotels Ltd'
 p13111
-aa(lp13112
-S'Surya Pharmaceutical Ltd'
+aS'BYKE'
+p13112
+aS'531373'
 p13113
-aS'SURYAPHARM'
-p13114
-aS'532516'
+aa(lp13114
+S'Subex Ltd'
 p13115
-aa(lp13116
-S'Surya Roshni Ltd'
+aS'SUBEX'
+p13116
+aS'532348'
 p13117
-aS'SURYAROSNI'
-p13118
-aS'500336'
+aa(lp13118
+S'Subhash Silk Mills Ltd'
 p13119
-aa(lp13120
-S'Suryaamba Spinning Mills Ltd'
-p13121
-ag4
-aS'533101'
+ag56
+aS'530231'
+p13120
+aa(lp13121
+S'Subhkam Capital Ltd'
 p13122
-aa(lp13123
-S'Suryachakra Power Corporation Ltd'
-p13124
-ag4
-aS'532874'
+ag56
+aS'531866'
+p13123
+aa(lp13124
+S'Subros Ltd'
 p13125
-aa(lp13126
-S'Suryadeep Salt Refinery & Chemicals Works Ltd'
+aS'SUBROS'
+p13126
+aS'517168'
 p13127
-ag4
-aS'531781'
-p13128
-aa(lp13129
-S'Suryajyoti Spinning Mills Ltd'
+aa(lp13128
+S'Subuthi Finance Ltd'
+p13129
+ag56
+aS'531841'
 p13130
-aS'SURYAJYOTI'
-p13131
-aS'521022'
+aa(lp13131
+S'Subway Finance & Investment Company Ltd'
 p13132
-aa(lp13133
-S'Suryakrupa Finance Ltd'
-p13134
-ag4
-aS'511185'
+ag56
+aS'511024'
+p13133
+aa(lp13134
+S'Suchak Trading Ltd'
 p13135
-aa(lp13136
-S'Suryalakshmi Cotton Mills Ltd'
-p13137
-aS'SURYALAXMI'
+ag56
+aS'512075'
+p13136
+aa(lp13137
+S'Sudal Industries Ltd'
 p13138
-aS'521200'
+ag56
+aS'506003'
 p13139
 aa(lp13140
-S'Suryalata Spinning Mills Ltd'
+S'Sudar Garments Limited'
 p13141
-ag4
-aS'514138'
+aS'SUDAR'
 p13142
-aa(lp13143
-S'Suryanagri Finlease Ltd'
-p13144
-ag4
-aS'530867'
+aS'533332'
+p13143
+aa(lp13144
+S'Sudarshan Chemical Industries Ltd'
 p13145
-aa(lp13146
-S'Suryavanshi Spinning Mills Ltd'
+aS'SUDARSCHEM'
+p13146
+aS'506655'
 p13147
-aS'SURYVANSPG'
-p13148
-aS'514140'
+aa(lp13148
+S'Sudev Industries Ltd'
 p13149
-aa(lp13150
-S'Suryo Foods & Industries Ltd'
-p13151
-ag4
-aS'519604'
+ag56
+aS'526530'
+p13150
+aa(lp13151
+S'Suditi Industries Ltd'
 p13152
-aa(lp13153
-S'Suryodaya Investment & Trading Company Ltd'
-p13154
-ag4
-aS'501178'
+ag56
+aS'521113'
+p13153
+aa(lp13154
+S'Sugal & Damani Finlease Ltd'
 p13155
-aa(lp13156
-S'Sutlej Textiles & Industries Ltd'
-p13157
-aS'SUTLEJTEX'
+ag56
+aS'511654'
+p13156
+aa(lp13157
+S'Sujana Metal Products Ltd'
 p13158
-aS'532782'
+aS'SMPL'
 p13159
-aa(lp13160
-S'Suven Life Sciences Ltd'
-p13161
-aS'SUVEN'
+aS'513414'
+p13160
+aa(lp13161
+S'Sujana Towers Ltd'
 p13162
-aS'530239'
+aS'SUJANATWR'
 p13163
-aa(lp13164
-S'Suzlon Energy Ltd'
-p13165
-aS'SUZLON'
+aS'532887'
+p13164
+aa(lp13165
+S'Sujana Universal Industries Ltd'
 p13166
-aS'532667'
+aS'SUJANAUNI'
 p13167
-aa(lp13168
-S'SV Electricals Ltd'
-p13169
-ag4
-aS'517534'
+aS'517224'
+p13168
+aa(lp13169
+S'Sukhjit Starch & Chemicals Ltd'
 p13170
-aa(lp13171
-S'Svam Software Ltd'
-p13172
-ag4
-aS'523722'
+ag56
+aS'524542'
+p13171
+aa(lp13172
+S'Sulabh Engineers & Services Ltd'
 p13173
-aa(lp13174
-S'Svaraj Trading & Agencies Ltd'
-p13175
-ag4
-aS'503624'
+ag56
+aS'508969'
+p13174
+aa(lp13175
+S'Sulzer India Ltd'
 p13176
-aa(lp13177
-S'SVC Superchem Ltd'
+aS'SULZER'
+p13177
+aS'522087'
 p13178
-aS'ATVPETRO'
-p13179
-aS'524488'
+aa(lp13179
+S'Sumedha Fiscal Services Ltd'
 p13180
-aa(lp13181
-S'SVL Capitals Ltd'
-p13182
-ag4
-aS'508900'
+ag56
+aS'530419'
+p13181
+aa(lp13182
+S'Sumeet Industries Ltd'
 p13183
-aa(lp13184
-S'Swadeshi Industries & Leasing Ltd'
+aS'SUMEETINDS'
+p13184
+aS'514211'
 p13185
-ag4
-aS'506863'
-p13186
-aa(lp13187
-S'Swadeshi Polytex Ltd'
+aa(lp13186
+S'Sumeru Industries Ltd'
+p13187
+ag56
+aS'530445'
 p13188
-ag4
-aS'503816'
-p13189
-aa(lp13190
-S'Swan Mills Ltd'
+aa(lp13189
+S'Summit Securities Limited'
+p13190
+aS'SUMMITSEC'
 p13191
-ag4
-aS'503310'
+aS'533306'
 p13192
 aa(lp13193
-S'Swaraj Engines Ltd'
+S'Summit Securities Ltd'
 p13194
-aS'SWARAJENG'
+aS'SUMMITSEC'
 p13195
-aS'500407'
+aS'533306'
 p13196
 aa(lp13197
-S'Swarna Securities Ltd'
+S'Sun Granite Exports Ltd'
 p13198
-ag4
-aS'531003'
+ag56
+aS'531013'
 p13199
 aa(lp13200
-S'Swasti Vinayaka Gems Corporation Ltd'
+S'Sun Pharma Advanced Research Company Ltd'
 p13201
-ag4
-aS'512257'
+aS'SPARC'
 p13202
-aa(lp13203
-S'Swasti Vinayaka Synthetics Ltd'
-p13204
-ag4
-aS'510245'
+aS'532872'
+p13203
+aa(lp13204
+S'Sun Pharmaceutical Industries Ltd'
 p13205
-aa(lp13206
-S'Swastika Investsmart Ltd'
+aS'SUNPHARMA'
+p13206
+aS'524715'
 p13207
-ag4
-aS'530585'
-p13208
-aa(lp13209
-S'Swiss Glascoat Equipments Ltd'
+aa(lp13208
+S'Sun Source India Ltd'
+p13209
+ag56
+aS'517403'
 p13210
-ag4
-aS'522215'
-p13211
-aa(lp13212
-S'Switching Technologies Gunther Ltd'
+aa(lp13211
+S'Sun TV Network Ltd'
+p13212
+aS'SUNTV'
 p13213
-ag4
-aS'517201'
+aS'532733'
 p13214
 aa(lp13215
-S'Sybly Industries Ltd'
+S'Suncity Synthetics Ltd'
 p13216
-ag4
-aS'531499'
+ag56
+aS'530795'
 p13217
 aa(lp13218
-S'Sylph Technologies Ltd'
+S'Sundaram Brake Linings Ltd'
 p13219
-ag4
-aS'511447'
+aS'SUNDRMBRAK'
 p13220
-aa(lp13221
-S'Symphony Limited'
-p13222
-aS'SYMPHONY'
+aS'590072'
+p13221
+aa(lp13222
+S'Sundaram Clayton Ltd'
 p13223
-aS'517385'
+aS'SUNCLAYLTD'
 p13224
-aa(lp13225
-S'Syncom Formulations India Ltd'
-p13226
-ag4
-aS'524470'
+aS'520056'
+p13225
+aa(lp13226
+S'Sundaram Finance Ltd'
 p13227
-aa(lp13228
-S'Syncom Healthcare Ltd'
+aS'SUNDARMFIN'
+p13228
+aS'590071'
 p13229
-aS'SYNCOM'
-p13230
-aS'533157'
+aa(lp13230
+S'Sundaram Multi Pap Ltd'
 p13231
-aa(lp13232
-S'Syndicate Bank'
+aS'SUNDARAM'
+p13232
+aS'533166'
 p13233
-aS'SYNDIBANK'
-p13234
-aS'532276'
+aa(lp13234
+S'Sunday Exports Ltd'
 p13235
-aa(lp13236
-S'Synergy Log-In Systems Ltd'
-p13237
-ag4
-aS'511503'
+ag56
+aS'530425'
+p13236
+aa(lp13237
+S'Sundram Fasteners Ltd'
 p13238
-aa(lp13239
-S'Synthiko Foils Ltd'
+aS'SUNDRMFAST'
+p13239
+aS'500403'
 p13240
-ag4
-aS'513307'
-p13241
-aa(lp13242
-S'Syschem India Ltd'
+aa(lp13241
+S'Sunflag Iron & Steel Company Ltd'
+p13242
+aS'SUNFLAG'
 p13243
-ag4
-aS'531173'
+aS'500404'
 p13244
 aa(lp13245
-S'Systel Infotech Ltd'
+S'Sungold Capital Ltd'
 p13246
-ag4
-aS'531418'
+ag56
+aS'531433'
 p13247
 aa(lp13248
-S'Systematix Corporate Services Ltd'
+S'Sunil Agro Foods Ltd'
 p13249
-ag4
-aS'526506'
+ag56
+aS'530953'
 p13250
 aa(lp13251
-S'Systematix Securities Ltd'
+S'Sunil Hitech Engineers Ltd'
 p13252
-ag4
-aS'531432'
+aS'SUNILHITEC'
 p13253
-aa(lp13254
-S'TEXINFRA'
-p13255
-aS'TEXINFRA'
+aS'532711'
+p13254
+aa(lp13255
+S'Sunil Industries Ltd'
 p13256
-ag4
-aa(lp13257
-S'TIJARIA'
-p13258
-aS'TIJARIA'
+ag56
+aS'521232'
+p13257
+aa(lp13258
+S'Sunitee Chemicals Ltd'
 p13259
-ag4
-aa(lp13260
-S'TAKSHEEL'
-p13261
-aS'TAKSHEEL'
+ag56
+aS'531945'
+p13260
+aa(lp13261
+S'Sunraj Diamond Exports Ltd'
 p13262
-ag4
-aa(lp13263
-S'TRITURBINE'
-p13264
-aS'TRITURBINE'
+ag56
+aS'523425'
+p13263
+aa(lp13264
+S'Sunshield Chemicals Ltd'
 p13265
-ag4
-aa(lp13266
-S'THEBYKE'
-p13267
-aS'THEBYKE'
+ag56
+aS'530845'
+p13266
+aa(lp13267
+S'Sunteck Realty Ltd'
 p13268
-ag4
-aa(lp13269
-S'THOMASCOTT'
+aS'SUNTECK'
+p13269
+aS'512179'
 p13270
-aS'THOMASCOTT'
-p13271
-ag4
-aa(lp13272
-S'TECHIN'
+aa(lp13271
+S'Super Bakers India Ltd'
+p13272
+ag56
+aS'530735'
 p13273
-aS'TECHIN'
-p13274
-ag4
-aa(lp13275
-S'TBZ'
+aa(lp13274
+S'Super Crop Safe Ltd'
+p13275
+ag56
+aS'530883'
 p13276
-aS'TBZ'
-p13277
-ag4
-aa(lp13278
-S'TARMAT'
+aa(lp13277
+S'Super Domestic Machines Ltd'
+p13278
+ag56
+aS'531699'
 p13279
-aS'TARMAT'
-p13280
-ag4
-aa(lp13281
-S'TARAJEWELS'
+aa(lp13280
+S'Super Sales India Ltd'
+p13281
+aS'SUPER'
 p13282
-aS'TARAJEWELS'
+aS'512527'
 p13283
-ag4
 aa(lp13284
-S'TGBHOTELS'
+S'Super Spinning Mills Ltd'
 p13285
-aS'TGBHOTELS'
+aS'SUPERSPIN'
 p13286
-ag4
-aa(lp13287
-S'Ashram Online.Com Ltd'
-p13288
-aS'TATIASKYLN'
+aS'521180'
+p13287
+aa(lp13288
+S'Super Syncotex India Ltd'
 p13289
-aS'526187'
+ag56
+aS'503297'
 p13290
 aa(lp13291
-S'T & I Global Ltd'
+S'Super Tannery India Ltd'
 p13292
-ag4
-aS'522294'
+ag56
+aS'523842'
 p13293
 aa(lp13294
-S'T C P Ltd'
+S'Superb Papers Ltd'
 p13295
-aS'TCPLTD'
+ag56
+aS'532070'
 p13296
-aS'530282'
-p13297
-aa(lp13298
-S'T Spiritual World Ltd'
+aa(lp13297
+S'Superhouse Ltd'
+p13298
+aS'SUPERHOUSE'
 p13299
-ag4
-aS'532444'
+aS'523283'
 p13300
 aa(lp13301
-S'TAI Industries Ltd'
+S'Superior Vanaspati Ltd'
 p13302
-ag4
-aS'519483'
+ag56
+aS'519234'
 p13303
 aa(lp13304
-S'Tainwala Chemicals & Plastics India Ltd'
+S'Supertex Industries Ltd'
 p13305
-aS'TAINWALCHM'
+ag56
+aS'526133'
 p13306
-aS'507785'
-p13307
-aa(lp13308
-S'Taj Gvk Hotels & Resorts Ltd'
+aa(lp13307
+S'Suprajit Engineering Ltd'
+p13308
+aS'SUPRAJIT'
 p13309
-aS'TAJGVK'
+aS'532509'
 p13310
-aS'532390'
-p13311
-aa(lp13312
-S'TAK Machinery & Leasing Ltd'
+aa(lp13311
+S'Supreme Holdings Ltd'
+p13312
+ag56
+aS'530677'
 p13313
-ag4
-aS'505850'
-p13314
-aa(lp13315
-S'Take Solutions Ltd'
+aa(lp13314
+S'Supreme Industries Ltd'
+p13315
+aS'SUPREMEIND'
 p13316
-aS'TAKE'
+aS'509930'
 p13317
-aS'532890'
-p13318
-aa(lp13319
-S'Talbros Automotive Components Ltd'
+aa(lp13318
+S'Supreme Infrastructure India Ltd'
+p13319
+aS'SUPREMEINF'
 p13320
-aS'TALBROAUTO'
+aS'532904'
 p13321
-aS'505160'
-p13322
-aa(lp13323
-S'Talwalkars Better value Fitness Ltd'
+aa(lp13322
+S'Supreme Petrochem Ltd'
+p13323
+aS'SUPPETRO'
 p13324
-aS'TALWALKARS'
+aS'500405'
 p13325
-aS'533200'
-p13326
-aa(lp13327
-S'Tamboli Capital Ltd'
+aa(lp13326
+S'Supreme Tex Mart Ltd'
+p13327
+aS'SUPREMETEX'
 p13328
-ag4
-aS'533170'
+aS'531934'
 p13329
 aa(lp13330
-S'Tamil Nadu Newsprint & Papers Ltd'
+S'Surabhi Chemicals & Investments Ltd'
 p13331
-aS'TNPL'
+ag56
+aS'512311'
 p13332
-aS'531426'
-p13333
-aa(lp13334
-S'Tamilnadu Jai Bharath Mills Ltd'
+aa(lp13333
+S'Suraj Products Ltd'
+p13334
+ag56
+aS'518075'
 p13335
-ag4
-aS'521038'
-p13336
-aa(lp13337
-S'Tamilnadu Petroproducts Ltd'
+aa(lp13336
+S'Suraj Stainless Ltd'
+p13337
+ag56
+aS'531638'
 p13338
-aS'TNPETRO'
-p13339
-aS'500777'
+aa(lp13339
+S'Surana Corporation Ltd'
 p13340
-aa(lp13341
-S'Tamilnadu Steel Tubes Ltd'
+aS'SURANACORP'
+p13341
+aS'531102'
 p13342
-ag4
-aS'513540'
-p13343
-aa(lp13344
-S'Tamilnadu Telecommunications Ltd'
+aa(lp13343
+S'Surana Industries Ltd'
+p13344
+aS'SURANAIND'
 p13345
-aS'TNTELE'
+aS'513597'
 p13346
-aS'523419'
-p13347
-aa(lp13348
-S'Taneja Aerospace & Aviation Ltd'
+aa(lp13347
+S'Surana Strips Ltd'
+p13348
+ag56
+aS'513403'
 p13349
-aS'TANEJAERO'
-p13350
-aS'522229'
+aa(lp13350
+S'Surana Telecom And Power Limited'
 p13351
-aa(lp13352
-S'TANFAC Industries Ltd'
+aS'SURANAT&P;'
+p13352
+aS'517530'
 p13353
-aS'TANFACIND'
-p13354
-aS'506854'
+aa(lp13354
+S'Surana Ventures Limited'
 p13355
-aa(lp13356
-S'Tanla Solutions Ltd'
+aS'SURANASOL'
+p13356
+aS'533298'
 p13357
-aS'TANLA'
-p13358
-aS'532790'
+aa(lp13358
+S'Surat Textile Mills Ltd'
 p13359
-aa(lp13360
-S'Tantia Constructions Ltd'
-p13361
-aS'TANTIACONS'
+ag56
+aS'530185'
+p13360
+aa(lp13361
+S'Surya Industrial Corporation Ltd'
 p13362
-aS'532738'
+ag56
+aS'531262'
 p13363
 aa(lp13364
-S'Tanu Healthcare Ltd'
+S'Surya Pharmaceutical Ltd'
 p13365
-ag4
-aS'524719'
+aS'SURYAPHARM'
 p13366
-aa(lp13367
-S'Taparia Tools Ltd'
-p13368
-ag4
-aS'505685'
+aS'532516'
+p13367
+aa(lp13368
+S'Surya Roshni Ltd'
 p13369
-aa(lp13370
-S'Tarai Foods Ltd'
+aS'SURYAROSNI'
+p13370
+aS'500336'
 p13371
-ag4
-aS'519285'
-p13372
-aa(lp13373
-S'Tarapur Transformers Ltd'
+aa(lp13372
+S'Suryaamba Spinning Mills Ltd'
+p13373
+ag56
+aS'533101'
 p13374
-aS'TARAPUR'
-p13375
-aS'533203'
+aa(lp13375
+S'Suryachakra Power Corporation Ltd'
 p13376
-aa(lp13377
-S'Tashi India Ltd'
-p13378
-ag4
-aS'512271'
+ag56
+aS'532874'
+p13377
+aa(lp13378
+S'Suryadeep Salt Refinery & Chemicals Works Ltd'
 p13379
-aa(lp13380
-S'Tasty Bite Eatables Ltd'
-p13381
-ag4
-aS'519091'
+ag56
+aS'531781'
+p13380
+aa(lp13381
+S'Suryajyoti Spinning Mills Ltd'
 p13382
-aa(lp13383
-S'Tata Chemicals Ltd'
+aS'SURYAJYOTI'
+p13383
+aS'521022'
 p13384
-aS'TATACHEM'
-p13385
-aS'500770'
+aa(lp13385
+S'Suryakrupa Finance Ltd'
 p13386
-aa(lp13387
-S'Tata Coffee Ltd'
-p13388
-aS'TATACOFFEE'
+ag56
+aS'511185'
+p13387
+aa(lp13388
+S'Suryalakshmi Cotton Mills Ltd'
 p13389
-aS'532301'
+aS'SURYALAXMI'
 p13390
-aa(lp13391
-S'Tata Communications Ltd'
-p13392
-aS'TATACOMM'
+aS'521200'
+p13391
+aa(lp13392
+S'Suryalata Spinning Mills Ltd'
 p13393
-aS'500483'
+ag56
+aS'514138'
 p13394
 aa(lp13395
-S'Tata Consultancy Services Ltd'
+S'Suryanagri Finlease Ltd'
 p13396
-aS'TCS'
+ag56
+aS'530867'
 p13397
-aS'532540'
-p13398
-aa(lp13399
-S'Tata Elxsi Ltd'
+aa(lp13398
+S'Suryavanshi Spinning Mills Ltd'
+p13399
+aS'SURYVANSPG'
 p13400
-aS'TATAELXSI'
+aS'514140'
 p13401
-aS'500408'
-p13402
-aa(lp13403
-S'Tata Global Beverages Ltd'
+aa(lp13402
+S'Suryo Foods & Industries Ltd'
+p13403
+ag56
+aS'519604'
 p13404
-aS'TATAGLOBAL'
-p13405
-aS'500800'
+aa(lp13405
+S'Suryodaya Investment & Trading Company Ltd'
 p13406
-aa(lp13407
-S'Tata Investment Corporation Ltd'
-p13408
-aS'TATAINVEST'
+ag56
+aS'501178'
+p13407
+aa(lp13408
+S'Sutlej Textiles & Industries Ltd'
 p13409
-aS'501301'
+aS'SUTLEJTEX'
 p13410
-aa(lp13411
-S'Tata Metaliks Ltd'
-p13412
-aS'TATAMETALI'
+aS'532782'
+p13411
+aa(lp13412
+S'Suven Life Sciences Ltd'
 p13413
-aS'513434'
+aS'SUVEN'
 p13414
-aa(lp13415
-S'Tata Motors Ltd'
-p13416
-aS'TATAMOTORS'
+aS'530239'
+p13415
+aa(lp13416
+S'Suzlon Energy Ltd'
 p13417
-aS'500570'
+aS'SUZLON'
 p13418
-aa(lp13419
-S'Tata Motors Ltd-DVR'
-p13420
-aS'TATAMTRDVR'
+aS'532667'
+p13419
+aa(lp13420
+S'SV Electricals Ltd'
 p13421
-aS'570001'
+aS'NIVINFRA'
 p13422
-aa(lp13423
-S'Tata Power Company Ltd'
-p13424
-aS'TATAPOWER'
+aS'517534'
+p13423
+aa(lp13424
+S'Svam Software Ltd'
 p13425
-aS'500400'
+ag56
+aS'523722'
 p13426
 aa(lp13427
-S'Tata Sponge Iron Ltd'
+S'Svaraj Trading & Agencies Ltd'
 p13428
-aS'TATASPONGE'
+ag56
+aS'503624'
 p13429
-aS'513010'
-p13430
-aa(lp13431
-S'Tata Steel Ltd'
+aa(lp13430
+S'SVC Superchem Ltd'
+p13431
+aS'ATVPETRO'
 p13432
-aS'TATASTEEL'
+aS'524488'
 p13433
-aS'500470'
-p13434
-aa(lp13435
-S'Tata Teleservices Maharashtra Ltd'
+aa(lp13434
+S'SVL Capitals Ltd'
+p13435
+ag56
+aS'508900'
 p13436
-aS'TTML'
-p13437
-aS'532371'
+aa(lp13437
+S'Swadeshi Industries & Leasing Ltd'
 p13438
-aa(lp13439
-S'Tatia Financial Services Ltd'
-p13440
-ag4
-aS'530139'
+ag56
+aS'506863'
+p13439
+aa(lp13440
+S'Swadeshi Polytex Ltd'
 p13441
-aa(lp13442
-S'Tatia Global Vennture Ltd'
-p13443
-ag4
-aS'521228'
+ag56
+aS'503816'
+p13442
+aa(lp13443
+S'Swan Mills Ltd'
 p13444
-aa(lp13445
-S'Tayo Rolls Ltd'
+aS'SWANENERGY'
+p13445
+aS'503310'
 p13446
-aS'TATAYODOGA'
-p13447
-aS'504961'
+aa(lp13447
+S'Swaraj Engines Ltd'
 p13448
-aa(lp13449
-S'TCFC Finance Ltd'
+aS'SWARAJENG'
+p13449
+aS'500407'
 p13450
-ag4
-aS'532284'
-p13451
-aa(lp13452
-S'TCI Developers Ltd'
+aa(lp13451
+S'Swarna Securities Ltd'
+p13452
+ag56
+aS'531003'
 p13453
-aS'TCIDEVELOP'
-p13454
-aS'533393'
+aa(lp13454
+S'Swasti Vinayaka Gems Corporation Ltd'
 p13455
-aa(lp13456
-S'TCI Finance Ltd'
-p13457
-aS'TCIFINANCE'
+ag56
+aS'512257'
+p13456
+aa(lp13457
+S'Swasti Vinayaka Synthetics Ltd'
 p13458
-aS'501242'
+ag56
+aS'510245'
 p13459
 aa(lp13460
-S'TCI Industries Ltd'
+S'Swastika Investsmart Ltd'
 p13461
-ag4
-aS'532262'
+ag56
+aS'530585'
 p13462
 aa(lp13463
-S'Tcl Technologies Ltd'
+S'Swiss Glascoat Equipments Ltd'
 p13464
-ag4
-aS'530967'
+ag56
+aS'522215'
 p13465
 aa(lp13466
-S'TCM Ltd'
+S'Switching Technologies Gunther Ltd'
 p13467
-ag4
-aS'524156'
+ag56
+aS'517201'
 p13468
 aa(lp13469
-S'TCPL Packaging Ltd'
+S'Sybly Industries Ltd'
 p13470
-ag4
-aS'523301'
+ag56
+aS'531499'
 p13471
 aa(lp13472
-S'TD Power Systems Ltd'
+S'Sylph Technologies Ltd'
 p13473
-aS'TDPOWERSYS'
+ag56
+aS'511447'
 p13474
-aS'533553'
-p13475
-aa(lp13476
-S'Tech Mahindra Ltd'
+aa(lp13475
+S'Symphony Limited'
+p13476
+aS'SYMPHONY'
 p13477
-aS'TECHM'
+aS'517385'
 p13478
-aS'532755'
-p13479
-aa(lp13480
-S'Techno Electric & Engg Company Limited'
+aa(lp13479
+S'Syncom Formulations India Ltd'
+p13480
+ag56
+aS'524470'
 p13481
-aS'TECHNO'
-p13482
-aS'533281'
+aa(lp13482
+S'Syncom Healthcare Ltd'
 p13483
-aa(lp13484
-S'Techno Electric & Engineering Company Ltd'
+aS'SYNCOM'
+p13484
+aS'533157'
 p13485
-aS'TECHNOELEC'
-p13486
-aS'505397'
+aa(lp13486
+S'Syndicate Bank'
 p13487
-aa(lp13488
-S'Techno Forge Ltd'
+aS'SYNDIBANK'
+p13488
+aS'532276'
 p13489
-ag4
-aS'522142'
-p13490
-aa(lp13491
-S'Technocraft Industries India Ltd'
+aa(lp13490
+S'Synergy Log-In Systems Ltd'
+p13491
+ag56
+aS'511503'
 p13492
-aS'TIIL '
-p13493
-aS'532804'
+aa(lp13493
+S'Synthiko Foils Ltd'
 p13494
-aa(lp13495
-S'Technofab Engineering Ltd'
-p13496
-aS'TECHNOFAB'
+ag56
+aS'513307'
+p13495
+aa(lp13496
+S'Syschem India Ltd'
 p13497
-aS'533216'
+ag56
+aS'531173'
 p13498
 aa(lp13499
-S'Techtran Polylenses Ltd'
+S'Systel Infotech Ltd'
 p13500
-ag4
-aS'523455'
+ag56
+aS'531418'
 p13501
 aa(lp13502
-S'Tecpro Systems Ltd'
+S'Systematix Corporate Services Ltd'
 p13503
-aS'TECPRO'
+ag56
+aS'526506'
 p13504
-aS'533266'
-p13505
-aa(lp13506
-S'Teesta Agro Industries Ltd'
+aa(lp13505
+S'Systematix Securities Ltd'
+p13506
+ag56
+aS'531432'
 p13507
-ag4
-aS'524204'
-p13508
-aa(lp13509
-S'Teledata Informatics Ltd'
+aa(lp13508
+S'TEXINFRA'
+p13509
+aS'TEXINFRA'
 p13510
-aS'TELEDATAGL'
+aS'505400'
 p13511
-aS'532358'
-p13512
-aa(lp13513
-S'TELEDATA MARINE SOLUTIONS LTD'
+aa(lp13512
+S'TIJARIA'
+p13513
+aS'TIJARIA'
 p13514
-aS'TELEMARINE'
+aS'533629'
 p13515
-aS'533462'
-p13516
-aa(lp13517
-S'Teledata Technology Solutions Ltd'
+aa(lp13516
+S'TAKSHEEL'
+p13517
+aS'TAKSHEEL'
 p13518
-aS'TELEDATAIT'
+aS'533639'
 p13519
-aS'533089'
-p13520
-aa(lp13521
-S'Telephoto Entertainments Ltd'
+aa(lp13520
+S'TRITURBINE'
+p13521
+aS'TRITURBINE'
 p13522
-ag4
-aS'532355'
+aS'533655'
 p13523
 aa(lp13524
-S'Telesys Software Ltd'
+S'THEBYKE'
 p13525
-ag4
-aS'532315'
+aS'BYKE'
 p13526
-aa(lp13527
-S'Television Eighteen India Ltd'
-p13528
-aS'TV-18'
+aS'531373'
+p13527
+aa(lp13528
+S'THOMASCOTT'
 p13529
-aS'532299'
+aS'THOMASCOTT'
 p13530
-aa(lp13531
-S'Telstar Laboratories Ltd'
-p13532
-ag4
-aS'524031'
+aS'533941'
+p13531
+aa(lp13532
+S'TECHIN'
 p13533
-aa(lp13534
-S'Temptation Foods Ltd'
+aS'TECHIN'
+p13534
+aS'526576'
 p13535
-ag4
-aS'519228'
-p13536
-aa(lp13537
-S'Tera Software Ltd'
+aa(lp13536
+S'TBZ'
+p13537
+aS'TBZ'
 p13538
-ag4
-aS'590020'
+aS'534369'
 p13539
 aa(lp13540
-S'Terai Tea Company Ltd'
+S'TARMAT'
 p13541
-ag4
-aS'530533'
+aS'TARMAT'
 p13542
-aa(lp13543
-S'Texmaco Ltd'
-p13544
-aS'TEXMACOLTD'
+aS'532869'
+p13543
+aa(lp13544
+S'TARAJEWELS'
 p13545
-aS'505400'
+aS'TARAJEWELS'
 p13546
-aa(lp13547
-S'Texmaco Rail and Engineering Limited'
-p13548
-aS'TEXRAIL'
+aS'534756'
+p13547
+aa(lp13548
+S'TGBHOTELS'
 p13549
-aS'533326'
+aS'TGBHOTELS'
 p13550
-aa(lp13551
-S'Texmo Pipes & Products Ltd'
-p13552
-aS'TEXMOPIPES'
+aS'532845'
+p13551
+aa(lp13552
+S'Ashram Online.Com Ltd'
 p13553
-aS'533164'
+aS'TATIASKYLN'
 p13554
-aa(lp13555
-S'Texplast Industries Ltd'
-p13556
-ag4
-aS'530635'
+aS'526187'
+p13555
+aa(lp13556
+S'T & I Global Ltd'
 p13557
-aa(lp13558
-S'TGF Media Systems Ltd'
-p13559
-ag4
-aS'526483'
+ag56
+aS'522294'
+p13558
+aa(lp13559
+S'T C P Ltd'
 p13560
-aa(lp13561
-S'Thacker & Company Ltd'
-p13562
-ag4
-aS'509945'
+aS'TCPLTD'
+p13561
+ag56
+aa(lp13562
+S'T Spiritual World Ltd'
 p13563
-aa(lp13564
-S'Thakkers Developers Ltd'
-p13565
-ag4
-aS'526654'
+ag56
+aS'532444'
+p13564
+aa(lp13565
+S'TAI Industries Ltd'
 p13566
-aa(lp13567
-S'Thakral Services India Ltd'
-p13568
-ag4
-aS'509015'
+ag56
+aS'519483'
+p13567
+aa(lp13568
+S'Tainwala Chemicals & Plastics India Ltd'
 p13569
-aa(lp13570
-S'Thambbi Modern Spinning Mills Ltd'
+aS'TAINWALCHM'
+p13570
+aS'507785'
 p13571
-ag4
-aS'514484'
-p13572
-aa(lp13573
-S'Thana Electric Supply Company Ltd'
+aa(lp13572
+S'Taj Gvk Hotels & Resorts Ltd'
+p13573
+aS'TAJGVK'
 p13574
-ag4
-aS'501756'
+aS'532390'
 p13575
 aa(lp13576
-S'Thangamayil Jewellery Ltd'
+S'TAK Machinery & Leasing Ltd'
 p13577
-aS'THANGAMAYL'
+ag56
+aS'505850'
 p13578
-aS'533158'
-p13579
-aa(lp13580
-S'Themis Medicare Ltd'
+aa(lp13579
+S'Take Solutions Ltd'
+p13580
+aS'TAKE'
 p13581
-aS'THEMISMED'
+aS'532890'
 p13582
-aS'530199'
-p13583
-aa(lp13584
-S'Thermax Ltd'
+aa(lp13583
+S'Talbros Automotive Components Ltd'
+p13584
+aS'TALBROAUTO'
 p13585
-aS'THERMAX'
+aS'505160'
 p13586
-aS'500411'
-p13587
-aa(lp13588
-S'Thinksoft Global Services Ltd'
+aa(lp13587
+S'Talwalkars Better value Fitness Ltd'
+p13588
+aS'TALWALKARS'
 p13589
-aS'THINKSOFT'
+aS'533200'
 p13590
-aS'533121'
-p13591
-aa(lp13592
-S'Thirdwave Financial Intermediaries Ltd'
+aa(lp13591
+S'Tamboli Capital Ltd'
+p13592
+ag56
+aS'533170'
 p13593
-ag4
-aS'531652'
-p13594
-aa(lp13595
-S'Thiru Arooran Sugars Ltd'
+aa(lp13594
+S'Tamil Nadu Newsprint & Papers Ltd'
+p13595
+aS'TNPL'
 p13596
-aS'THIRUSUGAR'
+aS'531426'
 p13597
-aS'507450'
-p13598
-aa(lp13599
-S'Thirumalai Chemicals Ltd'
+aa(lp13598
+S'Tamilnadu Jai Bharath Mills Ltd'
+p13599
+ag56
+aS'521038'
 p13600
-aS'TIRUMALCHM'
-p13601
-aS'500412'
+aa(lp13601
+S'Tamilnadu Petroproducts Ltd'
 p13602
-aa(lp13603
-S'Thomas Cook India Ltd'
+aS'TNPETRO'
+p13603
+aS'500777'
 p13604
-aS'THOMASCOOK'
-p13605
-aS'500413'
+aa(lp13605
+S'Tamilnadu Steel Tubes Ltd'
 p13606
-aa(lp13607
-S'Thyrocare Laboratories Ltd'
-p13608
-ag4
-aS'511064'
+ag56
+aS'513540'
+p13607
+aa(lp13608
+S'Tamilnadu Telecommunications Ltd'
 p13609
-aa(lp13610
-S'Tide Water Oil India Ltd'
+aS'TNTELE'
+p13610
+aS'523419'
 p13611
-aS'TIDEWATER'
-p13612
-aS'590005'
+aa(lp13612
+S'Taneja Aerospace & Aviation Ltd'
 p13613
-aa(lp13614
-S'TIL Ltd'
+aS'TANEJAERO'
+p13614
+aS'522229'
 p13615
-aS'TIL'
-p13616
-aS'505196'
+aa(lp13616
+S'TANFAC Industries Ltd'
 p13617
-aa(lp13618
-S'Tilak Finance Ltd'
+aS'TANFACIND'
+p13618
+aS'506854'
 p13619
-ag4
-aS'503663'
-p13620
-aa(lp13621
-S'Tilaknagar Industries Ltd'
+aa(lp13620
+S'Tanla Solutions Ltd'
+p13621
+aS'TANLA'
 p13622
-aS'TI'
+aS'532790'
 p13623
-aS'507205'
-p13624
-aa(lp13625
-S'TIMBOR HOME LTD'
+aa(lp13624
+S'Tantia Constructions Ltd'
+p13625
+aS'TANTIACONS'
 p13626
-aS'TIMBOR'
+aS'532738'
 p13627
-aS'533444'
-p13628
-aa(lp13629
-S'Time Technoplast Ltd'
+aa(lp13628
+S'Tanu Healthcare Ltd'
+p13629
+ag56
+aS'524719'
 p13630
-aS'TIMETECHNO'
-p13631
-aS'532856'
+aa(lp13631
+S'Taparia Tools Ltd'
 p13632
-aa(lp13633
-S'Times Guaranty Ltd'
-p13634
-aS'TIMESGTY'
+ag56
+aS'505685'
+p13633
+aa(lp13634
+S'Tarai Foods Ltd'
 p13635
-aS'511559'
+ag56
+aS'519285'
 p13636
 aa(lp13637
-S'Timex Group India Ltd'
+S'Tarapur Transformers Ltd'
 p13638
-aS'TIMEXWATCH'
+aS'TARAPUR'
 p13639
-aS'500414'
+aS'533203'
 p13640
 aa(lp13641
-S'Timken India Ltd'
+S'Tashi India Ltd'
 p13642
-aS'TIMKEN'
+ag56
+aS'512271'
 p13643
-aS'522113'
-p13644
-aa(lp13645
-S'Tinna Overseas Ltd'
+aa(lp13644
+S'Tasty Bite Eatables Ltd'
+p13645
+ag56
+aS'519091'
 p13646
-ag4
-aS'530475'
-p13647
-aa(lp13648
-S'Tinplate Company of India Ltd'
+aa(lp13647
+S'Tata Chemicals Ltd'
+p13648
+aS'TATACHEM'
 p13649
-aS'TINPLATE'
+aS'500770'
 p13650
-aS'504966'
-p13651
-aa(lp13652
-S'Tips Industries Ltd'
+aa(lp13651
+S'Tata Coffee Ltd'
+p13652
+aS'TATACOFFEE'
 p13653
-aS'TIPSINDLTD'
+aS'532301'
 p13654
-aS'532375'
-p13655
-aa(lp13656
-S'Tirumala Seung Han Textile Ltd'
+aa(lp13655
+S'Tata Communications Ltd'
+p13656
+aS'TATACOMM'
 p13657
-ag4
-aS'521036'
+aS'500483'
 p13658
 aa(lp13659
-S'Tirupati Foam Ltd'
+S'Tata Consultancy Services Ltd'
 p13660
-ag4
-aS'590035'
+aS'TCS'
 p13661
-aa(lp13662
-S'Tirupati Industries India Ltd'
-p13663
-ag4
-aS'531547'
+aS'532540'
+p13662
+aa(lp13663
+S'Tata Elxsi Ltd'
 p13664
-aa(lp13665
-S'Tirupati Inks Ltd'
+aS'TATAELXSI'
+p13665
+aS'500408'
 p13666
-ag4
-aS'533258'
-p13667
-aa(lp13668
-S'Tirupati Sarjan Ltd'
+aa(lp13667
+S'Tata Global Beverages Ltd'
+p13668
+aS'TATAGLOBAL'
 p13669
-ag4
-aS'531814'
+aS'500800'
 p13670
 aa(lp13671
-S'Tirupati Starch & Chemicals Ltd'
+S'Tata Investment Corporation Ltd'
 p13672
-ag4
-aS'524582'
+aS'TATAINVEST'
 p13673
-aa(lp13674
-S'Titagarh Steels Ltd'
-p13675
-aS'TITAGRSTEL'
+aS'501301'
+p13674
+aa(lp13675
+S'Tata Metaliks Ltd'
 p13676
-aS'500416'
+aS'TATAMETALI'
 p13677
-aa(lp13678
-S'Titagarh Wagons Ltd'
-p13679
-aS'TWL'
+aS'513434'
+p13678
+aa(lp13679
+S'Tata Motors Ltd'
 p13680
-aS'532966'
+aS'TATAMOTORS'
 p13681
-aa(lp13682
-S'Titan Biotech Ltd'
-p13683
-ag4
-aS'524717'
+aS'500570'
+p13682
+aa(lp13683
+S'Tata Motors Ltd-DVR'
 p13684
-aa(lp13685
-S'Titan Industries Ltd'
+aS'TATAMTRDVR'
+p13685
+aS'570001'
 p13686
-aS'TITAN'
-p13687
-aS'500114'
+aa(lp13687
+S'Tata Power Company Ltd'
 p13688
-aa(lp13689
-S'Titan Securities Ltd'
+aS'TATAPOWER'
+p13689
+aS'500400'
 p13690
-ag4
-aS'530045'
-p13691
-aa(lp13692
-S'Titan Trading & Agencies Ltd'
+aa(lp13691
+S'Tata Sponge Iron Ltd'
+p13692
+aS'TATASPONGE'
 p13693
-ag4
-aS'504353'
+aS'513010'
 p13694
 aa(lp13695
-S'Titanor Components Ltd'
+S'Tata Steel Ltd'
 p13696
-aS'DENORA'
+aS'TATASTEEL'
 p13697
-aS'590031'
+aS'500470'
 p13698
 aa(lp13699
-S'Tobu Enterprises Ltd'
+S'Tata Teleservices Maharashtra Ltd'
 p13700
-ag4
-aS'531035'
+aS'TTML'
 p13701
-aa(lp13702
-S'Todays Writing Products Ltd'
-p13703
-aS'TODAYS'
+aS'532371'
+p13702
+aa(lp13703
+S'Tatia Financial Services Ltd'
 p13704
-aS'531830'
+ag56
+aS'530139'
 p13705
 aa(lp13706
-S'Toheal Pharmachem Ltd'
+S'Tatia Global Vennture Ltd'
 p13707
-ag4
-aS'531910'
+ag56
+aS'521228'
 p13708
 aa(lp13709
-S'Tokyo Finance Ltd'
+S'Tayo Rolls Ltd'
 p13710
-ag4
-aS'531644'
+aS'TATAYODOGA'
 p13711
-aa(lp13712
-S'Tokyo Plast International Ltd'
-p13713
-aS'TOKYOPLAST'
+aS'504961'
+p13712
+aa(lp13713
+S'TCFC Finance Ltd'
 p13714
-aS'500418'
+ag56
+aS'532284'
 p13715
 aa(lp13716
-S'Tonira Pharma Ltd'
+S'TCI Developers Ltd'
 p13717
-ag4
-aS'530155'
+aS'TCIDEVELOP'
 p13718
-aa(lp13719
-S'Torrent Cables Ltd'
-p13720
-aS'TORRENTCAB'
+aS'533393'
+p13719
+aa(lp13720
+S'TCI Finance Ltd'
 p13721
-aS'504096'
+aS'TCIFINANCE'
 p13722
-aa(lp13723
-S'Torrent Gujarat Biotech Ltd'
-p13724
-aS'TORRENGUJ'
+aS'501242'
+p13723
+aa(lp13724
+S'TCI Industries Ltd'
 p13725
-aS'523856'
+ag56
+aS'532262'
 p13726
 aa(lp13727
-S'Torrent Pharmaceuticals Ltd'
+S'Tcl Technologies Ltd'
 p13728
-aS'TORNTPHARM'
+ag56
+aS'530967'
 p13729
-aS'500420'
-p13730
-aa(lp13731
-S'Torrent Power Ltd'
+aa(lp13730
+S'TCM Ltd'
+p13731
+ag56
+aS'524156'
 p13732
-aS'TORNTPOWER'
-p13733
-aS'532779'
+aa(lp13733
+S'TCPL Packaging Ltd'
 p13734
-aa(lp13735
-S'Toshniwal Chemicals & Industries Ltd'
-p13736
-ag4
-aS'524270'
+ag56
+aS'523301'
+p13735
+aa(lp13736
+S'TD Power Systems Ltd'
 p13737
-aa(lp13738
-S'Total Exports Ltd'
+aS'TDPOWERSYS'
+p13738
+aS'533553'
 p13739
-ag4
-aS'523878'
-p13740
-aa(lp13741
-S'Tourism Finance Corporation of India Ltd'
+aa(lp13740
+S'Tech Mahindra Ltd'
+p13741
+aS'TECHM'
 p13742
-aS'TFCILTD'
+aS'532755'
 p13743
-aS'526650'
-p13744
-aa(lp13745
-S'Towa Sokki Ltd'
+aa(lp13744
+S'Techno Electric & Engg Company Limited'
+p13745
+aS'TECHNO'
 p13746
-ag4
-aS'531771'
+aS'533281'
 p13747
 aa(lp13748
-S'Toyama Electric Ltd'
+S'Techno Electric & Engineering Company Ltd'
 p13749
-ag4
-aS'517407'
+aS'TECHNOELEC'
 p13750
-aa(lp13751
-S'TPL Plastech Ltd'
-p13752
-ag4
-aS'526582'
+aS'505397'
+p13751
+aa(lp13752
+S'Techno Forge Ltd'
 p13753
-aa(lp13754
-S'Trade Wings Ltd'
-p13755
-ag4
-aS'509953'
+ag56
+aS'522142'
+p13754
+aa(lp13755
+S'Technocraft Industries India Ltd'
 p13756
-aa(lp13757
-S'Trans Asia Corporation Ltd'
+aS'TIIL'
+p13757
+aS'532804'
 p13758
-ag4
-aS'530783'
-p13759
-aa(lp13760
-S'Trans Freight Containers Ltd'
+aa(lp13759
+S'Technofab Engineering Ltd'
+p13760
+aS'TECHNOFAB'
 p13761
-aS'TRANSFREIT'
+aS'533216'
 p13762
-aS'513063'
-p13763
-aa(lp13764
-S'Trans Medicare Ltd'
+aa(lp13763
+S'Techtran Polylenses Ltd'
+p13764
+ag56
+aS'523455'
 p13765
-ag4
-aS'524484'
-p13766
-aa(lp13767
-S'Transchem Ltd'
+aa(lp13766
+S'Tecpro Systems Ltd'
+p13767
+aS'TECPRO'
 p13768
-aS'TRANSCHEM'
+aS'533266'
 p13769
-aS'500422'
-p13770
-aa(lp13771
-S'Transcon Research & Infotech Ltd'
+aa(lp13770
+S'Teesta Agro Industries Ltd'
+p13771
+ag56
+aS'524204'
 p13772
-ag4
-aS'531318'
-p13773
-aa(lp13774
-S'Transcorp International Ltd'
+aa(lp13773
+S'Teledata Informatics Ltd'
+p13774
+aS'TELEDATAGL'
 p13775
-ag4
-aS'532410'
+aS'532358'
 p13776
 aa(lp13777
-S'Transformers & Rectifiers India Ltd'
+S'TELEDATA MARINE SOLUTIONS LTD'
 p13778
-aS'TRIL'
+aS'TELEMARINE'
 p13779
-aS'532928'
+aS'533462'
 p13780
 aa(lp13781
-S'Transgene Biotek Ltd'
+S'Teledata Technology Solutions Ltd'
 p13782
-ag4
-aS'526139'
+aS'TELEDATAIT'
 p13783
-aa(lp13784
-S'Transglobe Foods Ltd'
-p13785
-ag4
-aS'519367'
+aS'533089'
+p13784
+aa(lp13785
+S'Telephoto Entertainments Ltd'
 p13786
-aa(lp13787
-S'Transpek Finance Ltd'
-p13788
-ag4
-aS'531254'
+ag56
+aS'532355'
+p13787
+aa(lp13788
+S'Telesys Software Ltd'
 p13789
-aa(lp13790
-S'Transpek Industry Ltd'
-p13791
-aS'TRANSPEK'
+ag56
+aS'532315'
+p13790
+aa(lp13791
+S'Television Eighteen India Ltd'
 p13792
-aS'506687'
+aS'TV-18'
 p13793
-aa(lp13794
-S'Transport Corporation of India Ltd'
-p13795
-aS'TCI'
+aS'532299'
+p13794
+aa(lp13795
+S'Telstar Laboratories Ltd'
 p13796
-aS'532349'
+ag56
+aS'524031'
 p13797
 aa(lp13798
-S'Transwarranty Finance Ltd'
+S'Temptation Foods Ltd'
 p13799
-aS'TFL '
+ag56
+aS'519228'
 p13800
-aS'532812'
-p13801
-aa(lp13802
-S'TRC Financial Services Ltd'
+aa(lp13801
+S'Tera Software Ltd'
+p13802
+ag56
+aS'590020'
 p13803
-ag4
-aS'511730'
-p13804
-aa(lp13805
-S'Treadsdirect Ltd'
+aa(lp13804
+S'Terai Tea Company Ltd'
+p13805
+ag56
+aS'530533'
 p13806
-aS'TREADS'
-p13807
-aS'532205'
+aa(lp13807
+S'Texmaco Ltd'
 p13808
-aa(lp13809
-S'Tree House Education & Accessories Limited'
+aS'TEXINFRA'
+p13809
+aS'505400'
 p13810
-aS'TREEHOUSE'
-p13811
-aS'533540'
+aa(lp13811
+S'Texmaco Rail and Engineering Limited'
 p13812
-aa(lp13813
-S'Trend Electronics Ltd'
+aS'TEXRAIL'
+p13813
+aS'533326'
 p13814
-ag4
-aS'517228'
-p13815
-aa(lp13816
-S'Trendy Knitwear Ltd'
+aa(lp13815
+S'Texmo Pipes & Products Ltd'
+p13816
+aS'TEXMOPIPES'
 p13817
-ag4
-aS'532090'
+aS'533164'
 p13818
 aa(lp13819
-S'Trent Ltd'
+S'Texplast Industries Ltd'
 p13820
-aS'TRENT'
+ag56
+aS'530635'
 p13821
-aS'500251'
-p13822
-aa(lp13823
-S'TRENT07JUL10'
+aa(lp13822
+S'TGF Media Systems Ltd'
+p13823
+ag56
+aS'526483'
 p13824
-ag4
-aS'934770'
-p13825
-aa(lp13826
-S'TRF Ltd'
+aa(lp13825
+S'Thacker & Company Ltd'
+p13826
+ag56
+aS'509945'
 p13827
-aS'TRF'
-p13828
-aS'505854'
+aa(lp13828
+S'Thakkers Developers Ltd'
 p13829
-aa(lp13830
-S'Tribhuvan Housing Ltd'
-p13831
-ag4
-aS'531703'
+ag56
+aS'526654'
+p13830
+aa(lp13831
+S'Thakral Services India Ltd'
 p13832
-aa(lp13833
-S'Tricom India Ltd'
-p13834
-aS'TRICOM'
+ag56
+aS'509015'
+p13833
+aa(lp13834
+S'Thambbi Modern Spinning Mills Ltd'
 p13835
-aS'531675'
+ag56
+aS'514484'
 p13836
 aa(lp13837
-S'Trident Ltd'
+S'Thana Electric Supply Company Ltd'
 p13838
-aS'TRIDENT'
+ag56
+aS'501756'
 p13839
-aS'521064'
-p13840
-aa(lp13841
-S'Trigyn Technologies Ltd'
+aa(lp13840
+S'Thangamayil Jewellery Ltd'
+p13841
+aS'THANGAMAYL'
 p13842
-aS'TRIGYN'
+aS'533158'
 p13843
-aS'517562'
-p13844
-aa(lp13845
-S'Trijal Industries Ltd'
+aa(lp13844
+S'Themis Medicare Ltd'
+p13845
+aS'THEMISMED'
 p13846
-ag4
-aS'531658'
+aS'530199'
 p13847
 aa(lp13848
-S'Trinethra Infra Ventures Ltd'
+S'Thermax Ltd'
 p13849
-ag4
-aS'590091'
+aS'THERMAX'
 p13850
-aa(lp13851
-S'Triochem Products Ltd'
-p13852
-ag4
-aS'512101'
+aS'500411'
+p13851
+aa(lp13852
+S'Thinksoft Global Services Ltd'
 p13853
-aa(lp13854
-S'Tripex Overseas Ltd'
+aS'SQSBFSI'
+p13854
+aS'533121'
 p13855
-ag4
-aS'531774'
-p13856
-aa(lp13857
-S'Trishakti Electronics & Industries Ltd'
+aa(lp13856
+S'Thirdwave Financial Intermediaries Ltd'
+p13857
+ag56
+aS'531652'
 p13858
-ag4
-aS'531279'
-p13859
-aa(lp13860
-S'Triton Corp Ltd'
+aa(lp13859
+S'Thiru Arooran Sugars Ltd'
+p13860
+aS'THIRUSUGAR'
 p13861
-aS'TRITON'
+aS'507450'
 p13862
-aS'523387'
-p13863
-aa(lp13864
-S'Triton Valves Ltd'
+aa(lp13863
+S'Thirumalai Chemicals Ltd'
+p13864
+aS'TIRUMALCHM'
 p13865
-ag4
-aS'505978'
+aS'500412'
 p13866
 aa(lp13867
-S'Triumph International Finance India Ltd'
+S'Thomas Cook India Ltd'
 p13868
-ag4
-aS'532131'
+aS'THOMASCOOK'
 p13869
-aa(lp13870
-S'Triveni Engineering & Industries Ltd'
-p13871
-aS'TRIVENI'
+aS'500413'
+p13870
+aa(lp13871
+S'Thyrocare Laboratories Ltd'
 p13872
-aS'532356'
+ag56
+aS'511064'
 p13873
 aa(lp13874
-S'Triveni Glass Ltd'
+S'Tide Water Oil India Ltd'
 p13875
-aS'TRIVENSHET'
+aS'TIDEWATER'
 p13876
-aS'502281'
+aS'590005'
 p13877
 aa(lp13878
-S'TSL Industries Ltd'
+S'TIL Ltd'
 p13879
-ag4
-aS'531659'
+aS'TIL'
 p13880
-aa(lp13881
-S'TT Ltd'
-p13882
-aS'TTL'
+aS'505196'
+p13881
+aa(lp13882
+S'Tilak Finance Ltd'
 p13883
-aS'514142'
+ag56
+aS'503663'
 p13884
 aa(lp13885
-S'TTK Healthcare Ltd'
+S'Tilaknagar Industries Ltd'
 p13886
-aS'TTKHEALTH'
+aS'TI'
 p13887
-aS'507747'
+aS'507205'
 p13888
 aa(lp13889
-S'TTK Prestige Ltd'
+S'TIMBOR HOME LTD'
 p13890
-aS'TTKPRESTIG'
+aS'TIMBOR'
 p13891
-aS'517506'
+aS'533444'
 p13892
 aa(lp13893
-S'Tube Investments of India Ltd'
+S'Time Technoplast Ltd'
 p13894
-aS'TUBEINVEST'
+aS'TIMETECHNO'
 p13895
-aS'504973'
+aS'532856'
 p13896
 aa(lp13897
-S'Tudor India Ltd'
+S'Times Guaranty Ltd'
 p13898
-ag4
-aS'517451'
+aS'TIMESGTY'
 p13899
-aa(lp13900
-S'Tulasee Bio Ethanol Ltd'
-p13901
-ag4
-aS'524514'
+aS'511559'
+p13900
+aa(lp13901
+S'Timex Group India Ltd'
 p13902
-aa(lp13903
-S'Tulip Star Hotels Ltd'
+aS'TIMEXWATCH'
+p13903
+aS'500414'
 p13904
-ag4
-aS'531088'
-p13905
-aa(lp13906
-S'Tulip Telecom Ltd'
+aa(lp13905
+S'Timken India Ltd'
+p13906
+aS'TIMKEN'
 p13907
-aS'TULIP'
+aS'522113'
 p13908
-aS'532691'
-p13909
-aa(lp13910
-S'Tulsi Extrusions Ltd'
+aa(lp13909
+S'Tinna Overseas Ltd'
+p13910
+ag56
+aS'530475'
 p13911
-aS'TULSI'
-p13912
-aS'532948'
+aa(lp13912
+S'Tinplate Company of India Ltd'
 p13913
-aa(lp13914
-S'Tulsyan NEC Ltd'
+aS'TINPLATE'
+p13914
+aS'504966'
 p13915
-aS'TULSYAN'
-p13916
-aS'513629'
+aa(lp13916
+S'Tips Industries Ltd'
 p13917
-aa(lp13918
-S'Tuni Textile Mills Ltd'
+aS'TIPSINDLTD'
+p13918
+aS'532375'
 p13919
-ag4
-aS'531411'
-p13920
-aa(lp13921
-S'Turbotech Engineering Ltd'
+aa(lp13920
+S'Tirumala Seung Han Textile Ltd'
+p13921
+ag56
+aS'521036'
 p13922
-ag4
-aS'504358'
-p13923
-aa(lp13924
-S'Tuticorin Alkali Chemicals & Fertilisers Ltd'
+aa(lp13923
+S'Tirupati Foam Ltd'
+p13924
+ag56
+aS'590035'
 p13925
-aS'TUTICORALK'
-p13926
-aS'506808'
+aa(lp13926
+S'Tirupati Industries India Ltd'
 p13927
-aa(lp13928
-S'Tutis Technologies Ltd'
-p13929
-ag4
-aS'532311'
+ag56
+aS'531547'
+p13928
+aa(lp13929
+S'Tirupati Inks Ltd'
 p13930
-aa(lp13931
-S'TV Today Network Ltd'
-p13932
-aS'TVTODAY'
+ag56
+aS'533258'
+p13931
+aa(lp13932
+S'Tirupati Sarjan Ltd'
 p13933
-aS'532515'
+ag56
+aS'531814'
 p13934
 aa(lp13935
-S'TV18 BROADCAST LTD'
+S'Tirupati Starch & Chemicals Ltd'
 p13936
-aS'TV18BRDCST'
+ag56
+aS'524582'
 p13937
-aS'532800'
-p13938
-aa(lp13939
-S'TVS Electronics Ltd'
+aa(lp13938
+S'Titagarh Steels Ltd'
+p13939
+aS'TITAGRSTEL'
 p13940
-ag4
-aS'532513'
+aS'500416'
 p13941
 aa(lp13942
-S'TVS Electronics Ltd (Merged)'
+S'Titagarh Wagons Ltd'
 p13943
-aS'TVSELECT'
+aS'TWL'
 p13944
-aS'500423'
+aS'532966'
 p13945
 aa(lp13946
-S'TVS Motor Company Ltd'
+S'Titan Biotech Ltd'
 p13947
-aS'TVSMOTOR'
+ag56
+aS'524717'
 p13948
-aS'532343'
-p13949
-aa(lp13950
-S'TVS Srichakra Ltd'
+aa(lp13949
+S'Titan Industries Ltd'
+p13950
+aS'TITAN'
 p13951
-aS'TVSSRICHAK'
+aS'500114'
 p13952
-aS'509243'
-p13953
-aa(lp13954
-S'Twentyfirst Century Management Services Ltd'
+aa(lp13953
+S'Titan Securities Ltd'
+p13954
+ag56
+aS'530045'
 p13955
-aS'21STCENMGM'
-p13956
-aS'526921'
+aa(lp13956
+S'Titan Trading & Agencies Ltd'
 p13957
-aa(lp13958
-S'Twilight Litaka Pharma Ltd'
-p13959
-aS'TWILITAKA'
+ag56
+aS'504353'
+p13958
+aa(lp13959
+S'Titanor Components Ltd'
 p13960
-aS'506985'
+aS'DENORA'
 p13961
-aa(lp13962
-S'Twinstar Software Exports Ltd'
-p13963
-ag4
-aS'531917'
+aS'590031'
+p13962
+aa(lp13963
+S'Tobu Enterprises Ltd'
 p13964
-aa(lp13965
-S'Tyche Industries Ltd'
-p13966
-ag4
-aS'532384'
+ag56
+aS'531035'
+p13965
+aa(lp13966
+S'Todays Writing Products Ltd'
 p13967
-aa(lp13968
-S'Tyche Peripheral Systems Ltd'
+aS'TODAYS'
+p13968
+aS'531830'
 p13969
-ag4
-aS'590048'
-p13970
-aa(lp13971
-S'Typhoon Holdings Ltd'
+aa(lp13970
+S'Toheal Pharmachem Ltd'
+p13971
+ag56
+aS'531910'
 p13972
-ag4
-aS'512307'
-p13973
-aa(lp13974
-S'Tyroon Tea Company Ltd'
+aa(lp13973
+S'Tokyo Finance Ltd'
+p13974
+ag56
+aS'531644'
 p13975
-ag4
-aS'526945'
-p13976
-aa(lp13977
-S'UJAAS'
+aa(lp13976
+S'Tokyo Plast International Ltd'
+p13977
+aS'TOKYOPLAST'
 p13978
-aS'UJAAS'
+aS'500418'
 p13979
-ag4
 aa(lp13980
-S'UTTAMVALUE'
+S'Tonira Pharma Ltd'
 p13981
-aS'UTTAMVALUE'
+ag56
+aS'530155'
 p13982
-ag4
 aa(lp13983
-S'UPL'
+S'Torrent Cables Ltd'
 p13984
-aS'UPL'
+aS'TORRENTCAB'
 p13985
-ag4
-aa(lp13986
-S'UB Engineering Ltd'
-p13987
-aS'UBENGG'
+aS'504096'
+p13986
+aa(lp13987
+S'Torrent Gujarat Biotech Ltd'
 p13988
-aS'509992'
+aS'TORRENGUJ'
 p13989
-aa(lp13990
-S'Ucal Fuel Systems Ltd'
-p13991
-aS'UCALFUEL'
+aS'523856'
+p13990
+aa(lp13991
+S'Torrent Pharmaceuticals Ltd'
 p13992
-aS'500464'
+aS'TORNTPHARM'
 p13993
-aa(lp13994
-S'UCO Bank'
-p13995
-aS'UCOBANK'
+aS'500420'
+p13994
+aa(lp13995
+S'Torrent Power Ltd'
 p13996
-aS'532505'
+aS'TORNTPOWER'
 p13997
-aa(lp13998
-S'Uflex Ltd'
-p13999
-aS'UFLEX'
+aS'532779'
+p13998
+aa(lp13999
+S'Toshniwal Chemicals & Industries Ltd'
 p14000
-aS'500148'
+ag56
+aS'524270'
 p14001
 aa(lp14002
-S'UG Hotels & Resorts Ltd'
+S'Total Exports Ltd'
 p14003
-ag4
-aS'526463'
+ag56
+aS'523878'
 p14004
 aa(lp14005
-S'Ugar Sugar Works Ltd'
+S'Tourism Finance Corporation of India Ltd'
 p14006
-aS'UGARSUGAR'
+aS'TFCILTD'
 p14007
-aS'530363'
+aS'526650'
 p14008
 aa(lp14009
-S'Ultramarine & Pigments Ltd'
+S'Towa Sokki Ltd'
 p14010
-aS'ULTRMARINE'
+ag56
+aS'531771'
 p14011
-aS'506685'
-p14012
-aa(lp14013
-S'Ultratech Cement Ltd'
+aa(lp14012
+S'Toyama Electric Ltd'
+p14013
+ag56
+aS'517407'
 p14014
-aS'ULTRACEMCO'
-p14015
-aS'532538'
+aa(lp14015
+S'TPL Plastech Ltd'
 p14016
-aa(lp14017
-S'Umang Dairies Ltd'
+aS'TPLPLASTEH'
+p14017
+aS'526582'
 p14018
-aS'JKDAIRY'
-p14019
-aS'500231'
+aa(lp14019
+S'Trade Wings Ltd'
 p14020
-aa(lp14021
-S'UMS Technologies Ltd'
-p14022
-ag4
-aS'530937'
+ag56
+aS'509953'
+p14021
+aa(lp14022
+S'Trans Asia Corporation Ltd'
 p14023
-aa(lp14024
-S'Uni Abex Alloy Products Ltd'
-p14025
-ag4
-aS'504605'
+ag56
+aS'530783'
+p14024
+aa(lp14025
+S'Trans Freight Containers Ltd'
 p14026
-aa(lp14027
-S'Uni Legwears India Ltd'
+aS'TRANSFREIT'
+p14027
+aS'513063'
 p14028
-ag4
-aS'531301'
-p14029
-aa(lp14030
-S'Uni Tubes Ltd'
+aa(lp14029
+S'Trans Medicare Ltd'
+p14030
+ag56
+aS'524484'
 p14031
-ag4
-aS'500426'
-p14032
-aa(lp14033
-S'Unichem Laboratories Ltd'
+aa(lp14032
+S'Transchem Ltd'
+p14033
+aS'TRANSCHEM'
 p14034
-aS'UNICHEMLAB'
+aS'500422'
 p14035
-aS'506690'
-p14036
-aa(lp14037
-S'Uniflex Cables Ltd'
+aa(lp14036
+S'Transcon Research & Infotech Ltd'
+p14037
+ag56
+aS'531318'
 p14038
-aS'UNIFLEX'
-p14039
-aS'500427'
+aa(lp14039
+S'Transcorp International Ltd'
 p14040
-aa(lp14041
-S'Unimers India Ltd'
-p14042
-ag4
-aS'524264'
+ag56
+aS'532410'
+p14041
+aa(lp14042
+S'Transformers & Rectifiers India Ltd'
 p14043
-aa(lp14044
-S'Unimin India Ltd'
+aS'TRIL'
+p14044
+aS'532928'
 p14045
-aS'UNIMIN'
-p14046
-aS'530321'
+aa(lp14046
+S'Transgene Biotek Ltd'
 p14047
-aa(lp14048
-S'Unimode Overseas Ltd'
-p14049
-ag4
-aS'512595'
+ag56
+aS'526139'
+p14048
+aa(lp14049
+S'Transglobe Foods Ltd'
 p14050
-aa(lp14051
-S'Union Bank of India'
-p14052
-aS'UNIONBANK'
+ag56
+aS'519367'
+p14051
+aa(lp14052
+S'Transpek Finance Ltd'
 p14053
-aS'532477'
+ag56
+aS'531254'
 p14054
 aa(lp14055
-S'Union Quality Plastics Ltd'
+S'Transpek Industry Ltd'
 p14056
-ag4
-aS'526799'
+aS'TRANSPEK'
 p14057
-aa(lp14058
-S'Uniphos Enterprises Ltd'
-p14059
-aS'UNIENTER'
+aS'506687'
+p14058
+aa(lp14059
+S'Transport Corporation of India Ltd'
 p14060
-aS'500429'
+aS'TCI'
 p14061
-aa(lp14062
-S'Uniply Industries Ltd'
-p14063
-aS'UNIPLY'
+aS'532349'
+p14062
+aa(lp14063
+S'Transwarranty Finance Ltd'
 p14064
-aS'532646'
+aS'TFL'
 p14065
-aa(lp14066
-S'Uniproducts India Ltd'
-p14067
-ag4
-aS'507856'
+aS'532812'
+p14066
+aa(lp14067
+S'TRC Financial Services Ltd'
 p14068
-aa(lp14069
-S'Unique Organics Ltd'
-p14070
-ag4
-aS'530997'
+ag56
+aS'511730'
+p14069
+aa(lp14070
+S'Treadsdirect Ltd'
 p14071
-aa(lp14072
-S'Uniroyal Industries Ltd'
-p14073
-ag4
-aS'521226'
+aS'TREADS'
+p14072
+ag56
+aa(lp14073
+S'Tree House Education & Accessories Limited'
 p14074
-aa(lp14075
-S'Uniroyal Marine Exports Ltd'
+aS'TREEHOUSE'
+p14075
+aS'533540'
 p14076
-ag4
-aS'526113'
-p14077
-aa(lp14078
-S'Unistar Multimedia Ltd'
+aa(lp14077
+S'Trend Electronics Ltd'
+p14078
+ag56
+aS'517228'
 p14079
-ag4
-aS'532035'
-p14080
-aa(lp14081
-S'Unisys Softwares & Holding Industries Ltd'
+aa(lp14080
+S'Trendy Knitwear Ltd'
+p14081
+ag56
+aS'532090'
 p14082
-ag4
-aS'531831'
-p14083
-aa(lp14084
-S'Unitech International Ltd'
+aa(lp14083
+S'Trent Ltd'
+p14084
+aS'TRENT'
 p14085
-ag4
-aS'531867'
+aS'500251'
 p14086
 aa(lp14087
-S'Unitech Ltd'
+S'TRENT07JUL10'
 p14088
-aS'UNITECH'
+ag56
+aS'934770'
 p14089
-aS'507878'
-p14090
-aa(lp14091
-S'United Bank of India'
+aa(lp14090
+S'TRF Ltd'
+p14091
+aS'TRF'
 p14092
-aS'UNITEDBNK'
+aS'505854'
 p14093
-aS'533171'
-p14094
-aa(lp14095
-S'United Breweries Holdings Ltd'
+aa(lp14094
+S'Tribhuvan Housing Ltd'
+p14095
+ag56
+aS'531703'
 p14096
-aS'UBHOLDINGS'
-p14097
-aS'507458'
+aa(lp14097
+S'Tricom India Ltd'
 p14098
-aa(lp14099
-S'United Breweries Ltd'
+aS'TRICOM'
+p14099
+aS'531675'
 p14100
-ag4
-aS'532478'
-p14101
-aa(lp14102
-S'United Breweries Ltd'
+aa(lp14101
+S'Trident Ltd'
+p14102
+aS'TRIDENT'
 p14103
-aS'UBL'
+aS'521064'
 p14104
-ag4
 aa(lp14105
-S'United Credit Ltd'
+S'Trigyn Technologies Ltd'
 p14106
-ag4
-aS'531091'
+aS'TRIGYN'
 p14107
-aa(lp14108
-S'United Drilling Tools Ltd'
-p14109
-ag4
-aS'522014'
+aS'517562'
+p14108
+aa(lp14109
+S'Trijal Industries Ltd'
 p14110
-aa(lp14111
-S'United Nilgiri Tea Estates Company Ltd'
-p14112
-aS'UNITEDTEA'
+ag56
+aS'531658'
+p14111
+aa(lp14112
+S'Trinethra Infra Ventures Ltd'
 p14113
-aS'530470'
+ag56
+aS'590091'
 p14114
 aa(lp14115
-S'United Phosphorus Ltd'
+S'Triochem Products Ltd'
 p14116
-aS'UNIPHOS'
+ag56
+aS'512101'
 p14117
-aS'512070'
-p14118
-aa(lp14119
-S'United Spirits Ltd'
+aa(lp14118
+S'Tripex Overseas Ltd'
+p14119
+ag56
+aS'531774'
 p14120
-aS'MCDOWELL-N'
-p14121
-aS'532432'
+aa(lp14121
+S'Trishakti Electronics & Industries Ltd'
 p14122
-aa(lp14123
-S'United Textiles Ltd'
-p14124
-ag4
-aS'521188'
+ag56
+aS'531279'
+p14123
+aa(lp14124
+S'Triton Corp Ltd'
 p14125
-aa(lp14126
-S'United Van Der Horst Ltd'
-p14127
-ag4
-aS'522091'
+ag56
+aS'523387'
+p14126
+aa(lp14127
+S'Triton Valves Ltd'
 p14128
-aa(lp14129
-S'Unitex Designs Ltd'
-p14130
-ag4
-aS'532442'
+ag56
+aS'505978'
+p14129
+aa(lp14130
+S'Triumph International Finance India Ltd'
 p14131
-aa(lp14132
-S'Unity Infraprojects Ltd'
-p14133
-aS'UNITY'
+ag56
+aS'532131'
+p14132
+aa(lp14133
+S'Triveni Engineering & Industries Ltd'
 p14134
-aS'532746'
+aS'TRIVENI'
 p14135
-aa(lp14136
-S'Universal Arts Ltd'
-p14137
-ag4
-aS'532378'
+aS'532356'
+p14136
+aa(lp14137
+S'Triveni Glass Ltd'
 p14138
-aa(lp14139
-S'Universal Cables Ltd'
+aS'TRIVENSHET'
+p14139
+aS'502281'
 p14140
-aS'UNIVCABLES'
-p14141
-aS'504212'
+aa(lp14141
+S'TSL Industries Ltd'
 p14142
-aa(lp14143
-S'Universal Credit & Securities Ltd'
-p14144
-ag4
-aS'531963'
+ag56
+aS'531659'
+p14143
+aa(lp14144
+S'TT Ltd'
 p14145
-aa(lp14146
-S'Universal Office Automation Ltd'
+aS'TTL'
+p14146
+aS'514142'
 p14147
-ag4
-aS'523519'
-p14148
-aa(lp14149
-S'Universal Prime Aluminium Ltd'
+aa(lp14148
+S'TTK Healthcare Ltd'
+p14149
+aS'TTKHEALTH'
 p14150
-ag4
-aS'504673'
+aS'507747'
 p14151
 aa(lp14152
-S'Universal Starch Chem Allied Ltd'
+S'TTK Prestige Ltd'
 p14153
-ag4
-aS'524408'
+aS'TTKPRESTIG'
 p14154
-aa(lp14155
-S'Uniworth Ltd'
-p14156
-aS'WOOLWORTH'
+aS'517506'
+p14155
+aa(lp14156
+S'Tube Investments of India Ltd'
 p14157
-aS'514144'
+aS'TUBEINVEST'
 p14158
-aa(lp14159
-S'Unjha Formulations Ltd'
-p14160
-ag4
-aS'531762'
+aS'504973'
+p14159
+aa(lp14160
+S'Tudor India Ltd'
 p14161
-aa(lp14162
-S'Unno Industries Ltd'
-p14163
-ag4
-aS'519273'
+ag56
+aS'517451'
+p14162
+aa(lp14163
+S'Tulasee Bio Ethanol Ltd'
 p14164
-aa(lp14165
-S'UP Hotels Ltd'
-p14166
-ag4
-aS'509960'
+ag56
+aS'524514'
+p14165
+aa(lp14166
+S'Tulip Star Hotels Ltd'
 p14167
-aa(lp14168
-S'Upasana Finance Ltd'
-p14169
-ag4
-aS'511764'
+ag56
+aS'531088'
+p14168
+aa(lp14169
+S'Tulip Telecom Ltd'
 p14170
-aa(lp14171
-S'Upper Ganges Sugar & Industries Ltd'
+aS'TULIP'
+p14171
+aS'532691'
 p14172
-aS'UPERGANGES'
-p14173
-aS'530505'
+aa(lp14173
+S'Tulsi Extrusions Ltd'
 p14174
-aa(lp14175
-S'Upsurge Investment & Finance Ltd'
+aS'TULSI'
+p14175
+aS'532948'
 p14176
-ag4
-aS'531390'
-p14177
-aa(lp14178
-S'Usha Housing Development Company Ltd'
+aa(lp14177
+S'Tulsyan NEC Ltd'
+p14178
+aS'TULSYAN'
 p14179
-ag4
-aS'532016'
+aS'513629'
 p14180
 aa(lp14181
-S'Usha Martin Education & Solutions Ltd'
+S'Tuni Textile Mills Ltd'
 p14182
-aS'UMESLTD'
+ag56
+aS'531411'
 p14183
-aS'532398'
-p14184
-aa(lp14185
-S'Usha Martin Ltd'
+aa(lp14184
+S'Turbotech Engineering Ltd'
+p14185
+ag56
+aS'504358'
 p14186
-aS'USHAMART'
-p14187
-aS'517146'
+aa(lp14187
+S'Tuticorin Alkali Chemicals & Fertilisers Ltd'
 p14188
-aa(lp14189
-S'Ushakiran Finance Ltd'
+aS'TUTICORALK'
+p14189
+aS'506808'
 p14190
-ag4
-aS'511507'
-p14191
-aa(lp14192
-S'Ushdev International Ltd'
+aa(lp14191
+S'Tutis Technologies Ltd'
+p14192
+ag56
+aS'532311'
 p14193
-aS'USHDEVINT'
-p14194
-aS'511736'
+aa(lp14194
+S'TV Today Network Ltd'
 p14195
-aa(lp14196
-S'Usher Agro Ltd'
+aS'TVTODAY'
+p14196
+aS'532515'
 p14197
-aS'USHERAGRO'
-p14198
-aS'532765'
+aa(lp14198
+S'TV18 BROADCAST LTD'
 p14199
-aa(lp14200
-S'UT Ltd'
+aS'TV18BRDCST'
+p14200
+aS'532800'
 p14201
-ag4
-aS'526879'
-p14202
-aa(lp14203
-S'UTI -1 6.75 BD 01JU08-US64BONDS'
+aa(lp14202
+S'TVS Electronics Ltd'
+p14203
+aS'TVSELECT'
 p14204
-aS'US64BONDS'
+aS'532513'
 p14205
-ag4
 aa(lp14206
-S'UTI Mutual Fund'
+S'TVS Electronics Ltd (Merged)'
 p14207
-aS'UTISUNDER'
+aS'TVSELECT'
 p14208
-ag4
-aa(lp14209
-S'UTI Mutual Fund - UTI Gold Exchange Traded Fund'
-p14210
-aS'GOLDSHARE'
+aS'532513'
+p14209
+aa(lp14210
+S'TVS Motor Company Ltd'
 p14211
-ag4
-aa(lp14212
-S'Uttam Galva Steels Ltd'
+aS'TVSMOTOR'
+p14212
+aS'532343'
 p14213
-aS'UTTAMSTL'
-p14214
-aS'513216'
+aa(lp14214
+S'TVS Srichakra Ltd'
 p14215
-aa(lp14216
-S'Uttam Sugar Mills Ltd'
+aS'TVSSRICHAK'
+p14216
+aS'509243'
 p14217
-aS'UTTAMSUGAR'
-p14218
-aS'532729'
+aa(lp14218
+S'Twentyfirst Century Management Services Ltd'
 p14219
-aa(lp14220
-S'UTV Software Communications Ltd'
+aS'21STCENMGM'
+p14220
+aS'526921'
 p14221
-aS'UTVSOF'
-p14222
-aS'532619'
+aa(lp14222
+S'Twilight Litaka Pharma Ltd'
 p14223
-aa(lp14224
-S'UV Boards Ltd'
+aS'TWILITAKA'
+p14224
+aS'506985'
 p14225
-ag4
-aS'526957'
-p14226
-aa(lp14227
-S'VAKRANGEE'
+aa(lp14226
+S'Twinstar Software Exports Ltd'
+p14227
+ag56
+aS'531917'
 p14228
-aS'VAKRANGEE'
-p14229
-ag4
-aa(lp14230
-S'VISHNU'
+aa(lp14229
+S'Tyche Industries Ltd'
+p14230
+ag56
+aS'532384'
 p14231
-aS'VISHNU'
-p14232
-ag4
-aa(lp14233
-S'VASWANI'
+aa(lp14232
+S'Tyche Peripheral Systems Ltd'
+p14233
+ag56
+aS'590048'
 p14234
-aS'VASWANI'
-p14235
-ag4
-aa(lp14236
-S'VIKASGLOB'
+aa(lp14235
+S'Typhoon Holdings Ltd'
+p14236
+ag56
+aS'512307'
 p14237
-aS'VIKASGLOB'
-p14238
-ag4
-aa(lp14239
-S'VTMLTD'
+aa(lp14238
+S'Tyroon Tea Company Ltd'
+p14239
+ag56
+aS'526945'
 p14240
-aS'VTMLTD'
-p14241
-ag4
-aa(lp14242
-S'V2RETAIL'
+aa(lp14241
+S'UJAAS'
+p14242
+aS'UJAAS'
 p14243
-aS'V2RETAIL'
+aS'533644'
 p14244
-ag4
 aa(lp14245
-S'VSSL'
+S'UTTAMVALUE'
 p14246
-aS'VSSL'
+aS'UTTAMVALUE'
 p14247
-ag4
-aa(lp14248
-S'VKSPL'
-p14249
-aS'VKSPL'
+aS'500254'
+p14248
+aa(lp14249
+S'UPL'
 p14250
-ag4
-aa(lp14251
-S'VAIBHAVGBL'
+aS'UPL'
+p14251
+aS'512070'
 p14252
-aS'VAIBHAVGBL'
-p14253
-ag4
-aa(lp14254
-S'VMART'
+aa(lp14253
+S'UB Engineering Ltd'
+p14254
+aS'UBENGG'
 p14255
-aS'VMART'
+aS'509992'
 p14256
-ag4
 aa(lp14257
-S'VIMALOIL'
+S'Ucal Fuel Systems Ltd'
 p14258
-aS'VIMALOIL'
+aS'UCALFUEL'
 p14259
-ag4
-aa(lp14260
-S'VIVIDHA'
-p14261
-aS'VIVIDHA'
+aS'500464'
+p14260
+aa(lp14261
+S'UCO Bank'
 p14262
-ag4
-aa(lp14263
-S'Jog Engineering Ltd'
+aS'UCOBANK'
+p14263
+aS'532505'
 p14264
-aS'VMJOGENGG'
-p14265
-aS'507942'
+aa(lp14265
+S'Uflex Ltd'
 p14266
-aa(lp14267
-S'V & K Softech Ltd'
+aS'UFLEX'
+p14267
+aS'500148'
 p14268
-ag4
-aS'532402'
-p14269
-aa(lp14270
-S'V B Desai Financial Services Ltd'
+aa(lp14269
+S'UG Hotels & Resorts Ltd'
+p14270
+ag56
+aS'526463'
 p14271
-aS'VBDESAIFIN'
-p14272
-aS'511110'
+aa(lp14272
+S'Ugar Sugar Works Ltd'
 p14273
-aa(lp14274
-S'V Guard Industries Ltd'
+aS'UGARSUGAR'
+p14274
+aS'530363'
 p14275
-aS'VGUARD'
-p14276
-aS'532953'
+aa(lp14276
+S'Ultramarine & Pigments Ltd'
 p14277
-aa(lp14278
-S'V.S.T Tillers Tractors Limited'
+aS'ULTRMARINE'
+p14278
+aS'506685'
 p14279
-aS'VSTTILLERS'
-p14280
-aS'531266'
+aa(lp14280
+S'Ultratech Cement Ltd'
 p14281
-aa(lp14282
-S'Va Tech Wabag Ltd'
+aS'ULTRACEMCO'
+p14282
+aS'532538'
 p14283
-aS'WABAG'
-p14284
-aS'533269'
+aa(lp14284
+S'Umang Dairies Ltd'
 p14285
-aa(lp14286
-S'Vadilal Enterprises Ltd'
+aS'JKDAIRY'
+p14286
+aS'500231'
 p14287
-ag4
-aS'519152'
-p14288
-aa(lp14289
-S'Vadilal Industries Ltd'
+aa(lp14288
+S'UMS Technologies Ltd'
+p14289
+ag56
+aS'530937'
 p14290
-aS'VADILALIND'
-p14291
-aS'519156'
+aa(lp14291
+S'Uni Abex Alloy Products Ltd'
 p14292
-aa(lp14293
-S'Vaghani Techno Build Ltd'
-p14294
-ag4
-aS'531676'
+ag56
+aS'504605'
+p14293
+aa(lp14294
+S'Uni Legwears India Ltd'
 p14295
-aa(lp14296
-S'Vaibhav Gems Ltd'
-p14297
-aS'VAIBHAVGEM'
+ag56
+aS'531301'
+p14296
+aa(lp14297
+S'Uni Tubes Ltd'
 p14298
-aS'532156'
+ag56
+aS'500426'
 p14299
 aa(lp14300
-S'Vaishno Cement Company Ltd'
+S'Unichem Laboratories Ltd'
 p14301
-ag4
-aS'526941'
+aS'UNICHEMLAB'
 p14302
-aa(lp14303
-S'Vakrangee Softwares Ltd'
-p14304
-aS'VAKRANSOFT'
+aS'506690'
+p14303
+aa(lp14304
+S'Uniflex Cables Ltd'
 p14305
-aS'511431'
+aS'UNIFLEX'
 p14306
-aa(lp14307
-S'Valecha Engineering Ltd'
-p14308
-aS'VALECHAENG'
+aS'500427'
+p14307
+aa(lp14308
+S'Unimers India Ltd'
 p14309
-aS'532389'
+ag56
+aS'524264'
 p14310
 aa(lp14311
-S'Valiant Communications Ltd'
+S'Unimin India Ltd'
 p14312
-ag4
-aS'526775'
+aS'UNIMIN'
 p14313
-aa(lp14314
-S'Vallabh Poly Plast International Ltd'
-p14315
-ag4
-aS'530403'
+aS'530321'
+p14314
+aa(lp14315
+S'Unimode Overseas Ltd'
 p14316
-aa(lp14317
-S'Vallabh Steels Ltd'
-p14318
-ag4
-aS'513397'
+ag56
+aS'512595'
+p14317
+aa(lp14318
+S'Union Bank of India'
 p14319
-aa(lp14320
-S'Valley Indiana Leisure Ltd'
+aS'UNIONBANK'
+p14320
+aS'532477'
 p14321
-ag4
-aS'531962'
-p14322
-aa(lp14323
-S'Valson Industries Ltd'
+aa(lp14322
+S'Union Quality Plastics Ltd'
+p14323
+ag56
+aS'526799'
 p14324
-ag4
-aS'530459'
-p14325
-aa(lp14326
-S'Value Industries Ltd'
+aa(lp14325
+S'Uniphos Enterprises Ltd'
+p14326
+aS'UNIENTER'
 p14327
-aS'VALUEIND'
+aS'500429'
 p14328
-aS'500945'
-p14329
-aa(lp14330
-S'Valuemart Info Technologies Ltd'
+aa(lp14329
+S'Uniply Industries Ltd'
+p14330
+aS'UNIPLY'
 p14331
-ag4
-aS'532338'
+aS'532646'
 p14332
 aa(lp14333
-S'Vama Industries Ltd'
+S'Uniproducts India Ltd'
 p14334
-ag4
-aS'512175'
+ag56
+aS'507856'
 p14335
 aa(lp14336
-S'Vamshi Rubber Ltd'
+S'Unique Organics Ltd'
 p14337
-ag4
-aS'530369'
+ag56
+aS'530997'
 p14338
 aa(lp14339
-S'Vanasthali Textile Industries Ltd'
+S'Uniroyal Industries Ltd'
 p14340
-ag4
-aS'521046'
+ag56
+aS'521226'
 p14341
 aa(lp14342
-S'Vantage Corporate Services Ltd'
+S'Uniroyal Marine Exports Ltd'
 p14343
-ag4
-aS'530109'
+ag56
+aS'526113'
 p14344
 aa(lp14345
-S'Vapi Paper Mills Ltd'
+S'Unistar Multimedia Ltd'
 p14346
-ag4
-aS'502589'
+ag56
+aS'532035'
 p14347
 aa(lp14348
-S'Vardhaman Laboratories Ltd'
+S'Unisys Softwares & Holding Industries Ltd'
 p14349
-ag4
-aS'524796'
+ag56
+aS'531831'
 p14350
 aa(lp14351
-S'Vardhman Acrylics Ltd'
+S'Unitech International Ltd'
 p14352
-aS'VARDHACRLC '
+ag56
+aS'531867'
 p14353
-aS'531106'
-p14354
-aa(lp14355
-S'Vardhman Holdings Ltd'
+aa(lp14354
+S'Unitech Ltd'
+p14355
+aS'UNITECH'
 p14356
-aS'VHL'
+aS'507878'
 p14357
-aS'500439'
-p14358
-aa(lp14359
-S'Vardhman Industries Ltd'
+aa(lp14358
+S'United Bank of India'
+p14359
+aS'UNITEDBNK'
 p14360
-ag4
-aS'513534'
+aS'533171'
 p14361
 aa(lp14362
-S'Vardhman Polytex Ltd'
+S'United Breweries Holdings Ltd'
 p14363
-aS'VARDMNPOLY'
+aS'UBHOLDINGS'
 p14364
-aS'514175'
+aS'507458'
 p14365
 aa(lp14366
-S'Vardhman Textiles Ltd'
+S'United Breweries Ltd'
 p14367
-aS'VTL'
+aS'UBL'
 p14368
-aS'502986'
+aS'532478'
 p14369
 aa(lp14370
-S'Varun Industries Ltd'
+S'United Breweries Ltd'
 p14371
-aS'VARUN'
+aS'UBL'
 p14372
-aS'532917'
+aS'532478'
 p14373
 aa(lp14374
-S'Varun Shipping Company Ltd'
+S'United Credit Ltd'
 p14375
-aS'VARUNSHIP'
+ag56
+aS'531091'
 p14376
-aS'500465'
-p14377
-aa(lp14378
-S'Vas Infrastructure Ltd'
+aa(lp14377
+S'United Drilling Tools Ltd'
+p14378
+ag56
+aS'522014'
 p14379
-ag4
-aS'531574'
-p14380
-aa(lp14381
-S'Vascon Engineers Ltd'
+aa(lp14380
+S'United Nilgiri Tea Estates Company Ltd'
+p14381
+aS'UNITEDTEA'
 p14382
-aS'VASCONEQ'
-p14383
-aS'533156'
+ag56
+aa(lp14383
+S'United Phosphorus Ltd'
 p14384
-aa(lp14385
-S'Vax Housing Finance Corporation Ltd'
+aS'UPL'
+p14385
+aS'512070'
 p14386
-ag4
-aS'531650'
-p14387
-aa(lp14388
-S'VBC Ferro Alloys Ltd'
+aa(lp14387
+S'United Spirits Ltd'
+p14388
+aS'MCDOWELL-N'
 p14389
-ag4
-aS'513005'
+aS'532432'
 p14390
 aa(lp14391
-S'VBC Industries Ltd'
+S'United Textiles Ltd'
 p14392
-ag4
-aS'524310'
+ag56
+aS'521188'
 p14393
 aa(lp14394
-S'VCCL Ltd'
+S'United Van Der Horst Ltd'
 p14395
-ag4
-aS'522015'
+ag56
+aS'522091'
 p14396
 aa(lp14397
-S'VCK Capital Market Services Ltd'
+S'Unitex Designs Ltd'
 p14398
-ag4
-aS'511493'
+ag56
+aS'532442'
 p14399
 aa(lp14400
-S'Vedant Hotels Ltd'
+S'Unity Infraprojects Ltd'
 p14401
-ag4
-aS'531198'
+aS'UNITY'
 p14402
-aa(lp14403
-S'Veejay Lakshmi Engineering Works Ltd'
-p14404
-ag4
-aS'522267'
+aS'532746'
+p14403
+aa(lp14404
+S'Universal Arts Ltd'
 p14405
-aa(lp14406
-S'Veer Energy & Infrastructure Ltd'
-p14407
-ag4
-aS'503657'
+ag56
+aS'532378'
+p14406
+aa(lp14407
+S'Universal Cables Ltd'
 p14408
-aa(lp14409
-S'Velan Hotels Ltd'
+aS'UNIVCABLES'
+p14409
+aS'504212'
 p14410
-ag4
-aS'526755'
-p14411
-aa(lp14412
-S'Venkat Pharma Ltd'
+aa(lp14411
+S'Universal Credit & Securities Ltd'
+p14412
+ag56
+aS'531963'
 p14413
-ag4
-aS'532093'
-p14414
-aa(lp14415
-S'Venkys India Ltd'
+aa(lp14414
+S'Universal Office Automation Ltd'
+p14415
+ag56
+aS'523519'
 p14416
-aS'VENKEYS'
-p14417
-aS'523261'
+aa(lp14417
+S'Universal Prime Aluminium Ltd'
 p14418
-aa(lp14419
-S'Venlon Enterprises Ltd'
-p14420
-aS'VENLONPOLY'
+ag56
+aS'504673'
+p14419
+aa(lp14420
+S'Universal Starch Chem Allied Ltd'
 p14421
-aS'524038'
+ag56
+aS'524408'
 p14422
 aa(lp14423
-S'Ventura Textiles Ltd'
+S'Uniworth Ltd'
 p14424
-ag4
-aS'516098'
+aS'WOOLWORTH'
 p14425
-aa(lp14426
-S'Venus Remedies Ltd'
-p14427
-aS'VENUSREM'
+aS'514144'
+p14426
+aa(lp14427
+S'Unjha Formulations Ltd'
 p14428
-aS'526953'
+ag56
+aS'531762'
 p14429
 aa(lp14430
-S'Venus Sugar Ltd'
+S'Unno Industries Ltd'
 p14431
-aS'VENUSUGAR'
+ag56
+aS'519273'
 p14432
-aS'507472'
-p14433
-aa(lp14434
-S'Venus Universal Ltd'
+aa(lp14433
+S'UP Hotels Ltd'
+p14434
+ag56
+aS'509960'
 p14435
-ag4
-aS'530769'
-p14436
-aa(lp14437
-S'Venus Ventures Ltd'
+aa(lp14436
+S'Upasana Finance Ltd'
+p14437
+ag56
+aS'511764'
 p14438
-ag4
-aS'531874'
-p14439
-aa(lp14440
-S'Vertex Securities Ltd'
+aa(lp14439
+S'Upper Ganges Sugar & Industries Ltd'
+p14440
+aS'UPERGANGES'
 p14441
-ag4
-aS'531950'
+aS'530505'
 p14442
 aa(lp14443
-S'Vertex Spinning Ltd'
+S'Upsurge Investment & Finance Ltd'
 p14444
-ag4
-aS'531544'
+ag56
+aS'531390'
 p14445
 aa(lp14446
-S'Vesuvius India Ltd'
+S'Usha Housing Development Company Ltd'
 p14447
-aS'VESUVIUS'
+ag56
+aS'532016'
 p14448
-aS'520113'
-p14449
-aa(lp14450
-S'Vibros Organics Ltd'
+aa(lp14449
+S'Usha Martin Education & Solutions Ltd'
+p14450
+aS'UMESLTD'
 p14451
-ag4
-aS'530487'
+aS'532398'
 p14452
 aa(lp14453
-S'Viceroy Hotels Ltd'
+S'Usha Martin Ltd'
 p14454
-aS'VICEROY'
+aS'USHAMART'
 p14455
-aS'523796'
+aS'517146'
 p14456
 aa(lp14457
-S'Victoria Mills Ltd'
+S'Ushakiran Finance Ltd'
 p14458
-ag4
-aS'503349'
+ag56
+aS'511507'
 p14459
 aa(lp14460
-S'Victory Aqua Farm Ltd'
+S'Ushdev International Ltd'
 p14461
-ag4
-aS'530215'
+aS'USHDEVINT'
 p14462
-aa(lp14463
-S'Victory Paper & Boards India Ltd'
-p14464
-ag4
-aS'531234'
+aS'511736'
+p14463
+aa(lp14464
+S'Usher Agro Ltd'
 p14465
-aa(lp14466
-S'Victory Projects Ltd'
+aS'USHERAGRO'
+p14466
+aS'532765'
 p14467
-ag4
-aS'530595'
-p14468
-aa(lp14469
-S'Videocon Industries Ltd'
+aa(lp14468
+S'UT Ltd'
+p14469
+ag56
+aS'526879'
 p14470
-aS'VIDEOIND'
-p14471
-aS'511389'
+aa(lp14471
+S'UTI -1 6.75 BD 01JU08-US64BONDS'
 p14472
-aa(lp14473
-S'Vidhi Dyestuffs Manufacturing Ltd'
-p14474
-ag4
-aS'531717'
+aS'US64BONDS'
+p14473
+ag56
+aa(lp14474
+S'UTI Mutual Fund'
 p14475
-aa(lp14476
-S'Vijay Growth Financial Services Ltd'
+aS'UTISUNDER'
+p14476
+aS'590102'
 p14477
-ag4
-aS'511539'
-p14478
-aa(lp14479
-S'Vijay Shanthi Builders Ltd'
+aa(lp14478
+S'UTI Mutual Fund - UTI Gold Exchange Traded Fund'
+p14479
+aS'GOLDSHARE'
 p14480
-aS'VIJSHAN'
+aS'590101'
 p14481
-aS'523724'
-p14482
-aa(lp14483
-S'Vijay Solvex Ltd'
+aa(lp14482
+S'Uttam Galva Steels Ltd'
+p14483
+aS'UTTAMSTL'
 p14484
-ag4
-aS'531069'
+aS'513216'
 p14485
 aa(lp14486
-S'Vijay Textiles Ltd'
+S'Uttam Sugar Mills Ltd'
 p14487
-ag4
-aS'530151'
+aS'UTTAMSUGAR'
 p14488
-aa(lp14489
-S'Vijaya Bank'
-p14490
-aS'VIJAYABANK'
+aS'532729'
+p14489
+aa(lp14490
+S'UTV Software Communications Ltd'
 p14491
-aS'532401'
+aS'UTVSOF'
 p14492
-aa(lp14493
-S'Vijaya Shrimp Farms & Exports Ltd'
-p14494
-ag4
-aS'519331'
+aS'532619'
+p14493
+aa(lp14494
+S'UV Boards Ltd'
 p14495
-aa(lp14496
-S'Vikalp Securities Ltd'
-p14497
-ag4
-aS'531334'
+ag56
+aS'526957'
+p14496
+aa(lp14497
+S'VAKRANGEE'
 p14498
-aa(lp14499
-S'Vikas Granaries Ltd'
+aS'VAKRANGEE'
+p14499
+aS'511431'
 p14500
-ag4
-aS'531518'
-p14501
-aa(lp14502
-S'Vikas Profin Ltd'
+aa(lp14501
+S'VISHNU'
+p14502
+aS'VISHNU'
 p14503
-ag4
-aS'530961'
+aS'516072'
 p14504
 aa(lp14505
-S'Vikas WSP Ltd'
+S'VASWANI'
 p14506
-aS'VIKASWSP'
+aS'VASWANI'
 p14507
-aS'519307'
+aS'533576'
 p14508
 aa(lp14509
-S'Vikash Metal & Power Ltd'
+S'VIKASGLOB'
 p14510
-aS'VIKASHMET'
+aS'VIKASGLOB'
 p14511
-aS'532677'
+aS'530961'
 p14512
 aa(lp14513
-S'Vikram Thermo India Ltd'
+S'VTMLTD'
 p14514
-ag4
-aS'530477'
+aS'VTMLTD'
 p14515
-aa(lp14516
-S'Vimal Oil & Foods Ltd'
-p14517
-ag4
-aS'519373'
+aS'532893'
+p14516
+aa(lp14517
+S'V2RETAIL'
 p14518
-aa(lp14519
-S'Vimta Labs Ltd'
+aS'V2RETAIL'
+p14519
+aS'532867'
 p14520
-aS'VIMTALABS'
-p14521
-aS'524394'
+aa(lp14521
+S'VSSL'
 p14522
-aa(lp14523
-S'Vinaditya Trading Company Ltd'
+aS'VSSL'
+p14523
+aS'534392'
 p14524
-ag4
-aS'504380'
-p14525
-aa(lp14526
-S'Vinati Organics Ltd'
+aa(lp14525
+S'VKSPL'
+p14526
+aS'VKSPL'
 p14527
-aS'VINATIORGA'
+aS'534567'
 p14528
-aS'524200'
-p14529
-aa(lp14530
-S'Vinay Cements Ltd'
+aa(lp14529
+S'VAIBHAVGBL'
+p14530
+aS'VAIBHAVGBL'
 p14531
-ag4
-aS'518051'
+aS'532156'
 p14532
 aa(lp14533
-S'Vindhya Telelinks Ltd'
+S'VMART'
 p14534
-aS'VINDHYATEL'
+aS'VMART'
 p14535
-aS'517015'
+aS'534976'
 p14536
 aa(lp14537
-S'Vintage Cards & Creations Ltd'
+S'VIMALOIL'
 p14538
-aS'VINCARDS'
+aS'VIMALOIL'
 p14539
-aS'532360'
+aS'519373'
 p14540
 aa(lp14541
-S'Vintage Securities Ltd'
+S'VIVIDHA'
 p14542
-ag4
-aS'531051'
+aS'VIVIDHA'
 p14543
-aa(lp14544
-S'Vintron Informatics Ltd'
-p14545
-ag4
-aS'517393'
+aS'506146'
+p14544
+aa(lp14545
+S'Jog Engineering Ltd'
 p14546
-aa(lp14547
-S'Vinyl Chemicals India Ltd'
+aS'VMJOGENGG'
+p14547
+aS'507942'
 p14548
-aS'VINYLINDIA'
-p14549
-aS'524129'
+aa(lp14549
+S'V & K Softech Ltd'
 p14550
-aa(lp14551
-S'Vinyoflex Ltd'
-p14552
-ag4
-aS'530401'
+ag56
+aS'532402'
+p14551
+aa(lp14552
+S'V B Desai Financial Services Ltd'
 p14553
-aa(lp14554
-S'VIP Industries Ltd'
+aS'VBDESAIFIN'
+p14554
+aS'511110'
 p14555
-aS'VIPIND'
-p14556
-aS'507880'
+aa(lp14556
+S'V Guard Industries Ltd'
 p14557
-aa(lp14558
-S'Vippy Industries Ltd'
+aS'VGUARD'
+p14558
+aS'532953'
 p14559
-ag4
-aS'519039'
-p14560
-aa(lp14561
-S'Vippy Spinpro Ltd'
+aa(lp14560
+S'V.S.T Tillers Tractors Limited'
+p14561
+aS'VSTTILLERS'
 p14562
-ag4
-aS'514302'
+aS'531266'
 p14563
 aa(lp14564
-S'Vipul Dye Chem Ltd'
+S'Va Tech Wabag Ltd'
 p14565
-ag4
-aS'530627'
+aS'WABAG'
 p14566
-aa(lp14567
-S'Vipul Ltd'
-p14568
-aS'VIPUL'
+aS'533269'
+p14567
+aa(lp14568
+S'Vadilal Enterprises Ltd'
 p14569
-aS'511726'
+ag56
+aS'519152'
 p14570
 aa(lp14571
-S'Virat Crane Industries Ltd'
+S'Vadilal Industries Ltd'
 p14572
-ag4
-aS'519457'
+aS'VADILALIND'
 p14573
-aa(lp14574
-S'Virat Industries Ltd'
-p14575
-ag4
-aS'530521'
+aS'519156'
+p14574
+aa(lp14575
+S'Vaghani Techno Build Ltd'
 p14576
-aa(lp14577
-S'Virinchi Technologies Ltd'
-p14578
-ag4
-aS'532372'
+ag56
+aS'531676'
+p14577
+aa(lp14578
+S'Vaibhav Gems Ltd'
 p14579
-aa(lp14580
-S'Virtualsoft Systems Ltd'
+aS'VAIBHAVGBL'
+p14580
+aS'532156'
 p14581
-ag4
-aS'531126'
-p14582
-aa(lp14583
-S'Visa Steel Ltd'
+aa(lp14582
+S'Vaishno Cement Company Ltd'
+p14583
+ag56
+aS'526941'
 p14584
-aS'VISASTEEL'
-p14585
-aS'532721'
+aa(lp14585
+S'Vakrangee Softwares Ltd'
 p14586
-aa(lp14587
-S'Visagar Polytex Ltd'
+aS'VAKRANGEE'
+p14587
+aS'511431'
 p14588
-ag4
-aS'506146'
-p14589
-aa(lp14590
-S'Visaka Industries Ltd'
+aa(lp14589
+S'Valecha Engineering Ltd'
+p14590
+aS'VALECHAENG'
 p14591
-aS'VISAKAIND'
+aS'532389'
 p14592
-aS'509055'
-p14593
-aa(lp14594
-S'Visesh Infotecnics Ltd'
+aa(lp14593
+S'Valiant Communications Ltd'
+p14594
+ag56
+aS'526775'
 p14595
-aS'VISESHINFO'
-p14596
-aS'532411'
+aa(lp14596
+S'Vallabh Poly Plast International Ltd'
 p14597
-aa(lp14598
-S'Vishal Cotspin Ltd'
-p14599
-ag4
-aS'531822'
+ag56
+aS'530403'
+p14598
+aa(lp14599
+S'Vallabh Steels Ltd'
 p14600
-aa(lp14601
-S'Vishal Exports Overseas Ltd'
-p14602
-aS'VISHALEXPO'
+ag56
+aS'513397'
+p14601
+aa(lp14602
+S'Valley Indiana Leisure Ltd'
 p14603
-aS'532618'
+ag56
+aS'531962'
 p14604
 aa(lp14605
-S'Vishal Malleables Ltd'
+S'Valson Industries Ltd'
 p14606
-ag4
-aS'505930'
+ag56
+aS'530459'
 p14607
 aa(lp14608
-S'Vishal Retail Ltd'
+S'Value Industries Ltd'
 p14609
-aS'VISHALRET'
+aS'VALUEIND'
 p14610
-aS'532867'
+aS'500945'
 p14611
 aa(lp14612
-S'Vishnu Chemicals Ltd'
+S'Valuemart Info Technologies Ltd'
 p14613
-ag4
-aS'516072'
+ag56
+aS'532338'
 p14614
 aa(lp14615
-S'Vishnu Sugar Mills Ltd'
+S'Vama Industries Ltd'
 p14616
-ag4
-aS'507405'
+ag56
+aS'512175'
 p14617
 aa(lp14618
-S'Vishvjyoti Trading Ltd'
+S'Vamshi Rubber Ltd'
 p14619
-ag4
-aS'512067'
+ag56
+aS'530369'
 p14620
 aa(lp14621
-S'Vision Corporation Ltd'
+S'Vanasthali Textile Industries Ltd'
 p14622
-ag4
-aS'531668'
+ag56
+aS'521046'
 p14623
 aa(lp14624
-S'Vision Technology India Ltd'
+S'Vantage Corporate Services Ltd'
 p14625
-ag4
-aS'526441'
+ag56
+aS'530109'
 p14626
 aa(lp14627
-S'Visisth Mercantile Ltd'
+S'Vapi Paper Mills Ltd'
 p14628
-ag4
-aS'512279'
+ag56
+aS'502589'
 p14629
 aa(lp14630
-S'Vista Pharmaceuticals Ltd'
+S'Vardhaman Laboratories Ltd'
 p14631
-ag4
-aS'524711'
+ag56
+aS'524796'
 p14632
 aa(lp14633
-S'Visu International Ltd'
+S'Vardhman Acrylics Ltd'
 p14634
-aS'VISUINTL'
+aS'VARDHACRLC'
 p14635
-aS'590038'
-p14636
-aa(lp14637
-S'Vital Communications Ltd'
+ag56
+aa(lp14636
+S'Vardhman Holdings Ltd'
+p14637
+aS'VHL'
 p14638
-aS'VITALCOMM'
+aS'500439'
 p14639
-aS'532325'
-p14640
-aa(lp14641
-S'Vivid Chemicals Ltd'
+aa(lp14640
+S'Vardhman Industries Ltd'
+p14641
+ag56
+aS'513534'
 p14642
-ag4
-aS'524576'
-p14643
-aa(lp14644
-S'Vivimed Labs Ltd'
+aa(lp14643
+S'Vardhman Polytex Ltd'
+p14644
+aS'VARDMNPOLY'
 p14645
-aS'VIVIMEDLAB'
+aS'514175'
 p14646
-aS'532660'
-p14647
-aa(lp14648
-S'Vivo Bio Tech Ltd'
+aa(lp14647
+S'Vardhman Textiles Ltd'
+p14648
+aS'VTL'
 p14649
-ag4
-aS'511509'
+aS'502986'
 p14650
 aa(lp14651
-S'VJIL Consulting Ltd'
+S'Varun Industries Ltd'
 p14652
-ag4
-aS'517429'
+aS'VARUN'
 p14653
-aa(lp14654
-S'VLS Finance Ltd'
-p14655
-aS'VLSFINANCE'
+aS'532917'
+p14654
+aa(lp14655
+S'Varun Shipping Company Ltd'
 p14656
-aS'511333'
+aS'VARUNSHIP'
 p14657
-aa(lp14658
-S'VMF Softech Ltd'
-p14659
-ag4
-aS'519602'
+aS'500465'
+p14658
+aa(lp14659
+S'Vas Infrastructure Ltd'
 p14660
-aa(lp14661
-S'VMS Industries Limited'
-p14662
-aS'VMS'
+ag56
+aS'531574'
+p14661
+aa(lp14662
+S'Vascon Engineers Ltd'
 p14663
-aS'533427'
+aS'VASCONEQ'
 p14664
-aa(lp14665
-S'Vogue Textiles Ltd'
-p14666
-ag4
-aS'530583'
+aS'533156'
+p14665
+aa(lp14666
+S'Vax Housing Finance Corporation Ltd'
 p14667
-aa(lp14668
-S'Voith Paper Fabrics India Ltd'
-p14669
-aS'PORRITSPEN'
+ag56
+aS'531650'
+p14668
+aa(lp14669
+S'VBC Ferro Alloys Ltd'
 p14670
-aS'522122'
+ag56
+aS'513005'
 p14671
 aa(lp14672
-S'Volant Textile Mills Ltd'
+S'VBC Industries Ltd'
 p14673
-ag4
-aS'531865'
+ag56
+aS'524310'
 p14674
 aa(lp14675
-S'Voltaire Leasing & Finance Ltd'
+S'VCCL Ltd'
 p14676
-ag4
-aS'509038'
+ag56
+aS'522015'
 p14677
 aa(lp14678
-S'Voltamp Transformers Ltd'
+S'VCK Capital Market Services Ltd'
 p14679
-aS'VOLTAMP'
+ag56
+aS'511493'
 p14680
-aS'532757'
-p14681
-aa(lp14682
-S'Voltas Ltd'
+aa(lp14681
+S'Vedant Hotels Ltd'
+p14682
+ag56
+aS'531198'
 p14683
-aS'VOLTAS'
-p14684
-aS'500575'
+aa(lp14684
+S'Veejay Lakshmi Engineering Works Ltd'
 p14685
-aa(lp14686
-S'Vora Constructions Ltd'
-p14687
-ag4
-aS'512215'
+ag56
+aS'522267'
+p14686
+aa(lp14687
+S'Veer Energy & Infrastructure Ltd'
 p14688
-aa(lp14689
-S'VR Woodart Ltd'
-p14690
-ag4
-aS'523888'
+ag56
+aS'503657'
+p14689
+aa(lp14690
+S'Velan Hotels Ltd'
 p14691
-aa(lp14692
-S'VST Industries Ltd'
-p14693
-aS'VSTIND'
+ag56
+aS'526755'
+p14692
+aa(lp14693
+S'Venkat Pharma Ltd'
 p14694
-aS'509966'
+ag56
+aS'532093'
 p14695
 aa(lp14696
-S'VTM Ltd'
+S'Venkys India Ltd'
 p14697
-ag4
-aS'532893'
+aS'VENKEYS'
 p14698
-aa(lp14699
-S'VTX Industries Limited'
-p14700
-aS'VTXIND'
+aS'523261'
+p14699
+aa(lp14700
+S'Venlon Enterprises Ltd'
 p14701
-aS'532824'
+aS'VENLONPOLY'
 p14702
-aa(lp14703
-S'Vulcan Engineers Ltd'
-p14704
-aS'VULCANENG'
+aS'524038'
+p14703
+aa(lp14704
+S'Ventura Textiles Ltd'
 p14705
-aS'522080'
+ag56
+aS'516098'
 p14706
 aa(lp14707
-S'VXL Instruments Ltd'
+S'Venus Remedies Ltd'
 p14708
-aS'VXLINSTR'
+aS'VENUSREM'
 p14709
-aS'517399'
+aS'526953'
 p14710
 aa(lp14711
-S'Vyapar Industries Ltd'
+S'Venus Sugar Ltd'
 p14712
-ag4
-aS'506142'
+aS'VENUSUGAR'
 p14713
-aa(lp14714
-S'Vybra Automet Ltd'
-p14715
-ag4
-aS'520003'
+aS'507472'
+p14714
+aa(lp14715
+S'Venus Universal Ltd'
 p14716
-aa(lp14717
-S'WONDERLA'
-p14718
-aS'WONDERLA'
+ag56
+aS'530769'
+p14717
+aa(lp14718
+S'Venus Ventures Ltd'
 p14719
-ag4
-aa(lp14720
-S'WINSOMEDJ'
-p14721
-aS'WINSOMEDJ'
+ag56
+aS'531874'
+p14720
+aa(lp14721
+S'Vertex Securities Ltd'
 p14722
-ag4
-aa(lp14723
-S'WELENTRP'
-p14724
-aS'WELENTRP'
+ag56
+aS'531950'
+p14723
+aa(lp14724
+S'Vertex Spinning Ltd'
 p14725
-ag4
-aa(lp14726
-S'Ecoboard Industries Ltd'
-p14727
-aS'WESTERNBIO'
+ag56
+aS'531544'
+p14726
+aa(lp14727
+S'Vesuvius India Ltd'
 p14728
-aS'523732'
+aS'VESUVIUS'
 p14729
-aa(lp14730
-S'Kennametal India Ltd'
-p14731
-aS'WIDIA'
+aS'520113'
+p14730
+aa(lp14731
+S'Vibros Organics Ltd'
 p14732
-aS'505890'
+ag56
+aS'530487'
 p14733
 aa(lp14734
-S'Uniworth Ltd'
+S'Viceroy Hotels Ltd'
 p14735
-aS'WOOLWORTH'
+aS'VICEROY'
 p14736
-aS'514144'
+aS'523796'
 p14737
 aa(lp14738
-S'Va Tech Wabag Ltd'
+S'Victoria Mills Ltd'
 p14739
-aS'WABAG'
+ag56
+aS'503349'
 p14740
-aS'533269'
-p14741
-aa(lp14742
-S'WABCO India Limited'
+aa(lp14741
+S'Victory Aqua Farm Ltd'
+p14742
+ag56
+aS'530215'
 p14743
-aS'WABCOINDIA'
-p14744
-aS'533023'
+aa(lp14744
+S'Victory Paper & Boards India Ltd'
 p14745
-aa(lp14746
-S'Wadala Commodities Ltd'
-p14747
-aS'WADALACOM'
+ag56
+aS'531234'
+p14746
+aa(lp14747
+S'Victory Projects Ltd'
 p14748
-aS'519035'
+ag56
+aS'530595'
 p14749
 aa(lp14750
-S'Walchand Peoplefirst Ltd'
+S'Videocon Industries Ltd'
 p14751
-ag4
-aS'501370'
+aS'VIDEOIND'
 p14752
-aa(lp14753
-S'Walchandnagar Industries Ltd'
-p14754
-aS'WALCHANNAG'
+aS'511389'
+p14753
+aa(lp14754
+S'Vidhi Dyestuffs Manufacturing Ltd'
 p14755
-aS'507410'
+ag56
+aS'531717'
 p14756
 aa(lp14757
-S'Wall Street Finance Ltd'
+S'Vijay Growth Financial Services Ltd'
 p14758
-ag4
-aS'511147'
+ag56
+aS'511539'
 p14759
 aa(lp14760
-S'Wallfort Financial Services Ltd'
+S'Vijay Shanthi Builders Ltd'
 p14761
-ag4
-aS'532053'
+aS'VIJSHAN'
 p14762
-aa(lp14763
-S'Wanbury Ltd'
-p14764
-aS'WANBURY'
+aS'523724'
+p14763
+aa(lp14764
+S'Vijay Solvex Ltd'
 p14765
-aS'524212'
+ag56
+aS'531069'
 p14766
 aa(lp14767
-S'Warner Multimedia Ltd'
+S'Vijay Textiles Ltd'
 p14768
-ag4
-aS'511690'
+ag56
+aS'530151'
 p14769
 aa(lp14770
-S'Warren Tea Ltd'
+S'Vijaya Bank'
 p14771
-aS'WARRENTEA'
+aS'VIJAYABANK'
 p14772
-aS'508494'
+aS'532401'
 p14773
 aa(lp14774
-S'Waterbase Ltd'
+S'Vijaya Shrimp Farms & Exports Ltd'
 p14775
-aS'WATERBASE'
+ag56
+aS'519331'
 p14776
-aS'523660'
-p14777
-aa(lp14778
-S'Wearology Ltd'
+aa(lp14777
+S'Vikalp Securities Ltd'
+p14778
+ag56
+aS'531334'
 p14779
-ag4
-aS'523628'
-p14780
-aa(lp14781
-S'Webel-Sl Energy Systems Ltd'
+aa(lp14780
+S'Vikas Granaries Ltd'
+p14781
+ag56
+aS'531518'
 p14782
-aS'WEBELSOLAR'
-p14783
-aS'517498'
+aa(lp14783
+S'Vikas Profin Ltd'
 p14784
-aa(lp14785
-S'Weizmann Fincorp Ltd'
+aS'VIKASGLOB'
+p14785
+aS'530961'
 p14786
-ag4
-aS'511074'
-p14787
-aa(lp14788
-S'Weizmann Forex Ltd'
+aa(lp14787
+S'Vikas WSP Ltd'
+p14788
+aS'VIKASWSP'
 p14789
-aS'WEIZFOREX'
+aS'519307'
 p14790
-aS'533452'
-p14791
-aa(lp14792
-S'Weizmann Ltd'
+aa(lp14791
+S'Vikash Metal & Power Ltd'
+p14792
+aS'VIKASHMET'
 p14793
-aS'WEIZMANIND'
+aS'532677'
 p14794
-aS'523011'
-p14795
-aa(lp14796
-S'Welcast Steels Ltd'
+aa(lp14795
+S'Vikram Thermo India Ltd'
+p14796
+ag56
+aS'530477'
 p14797
-ag4
-aS'504988'
-p14798
-aa(lp14799
-S'Welcure Drugs & Pharmaceuticals Ltd'
+aa(lp14798
+S'Vimal Oil & Foods Ltd'
+p14799
+aS'VIMALOIL'
 p14800
-ag4
-aS'524661'
+aS'519373'
 p14801
 aa(lp14802
-S'Well Pack Papers & Containers Ltd'
+S'Vimta Labs Ltd'
 p14803
-ag4
-aS'531249'
+aS'VIMTALABS'
 p14804
-aa(lp14805
-S'Wellworth Overseas Ltd'
-p14806
-ag4
-aS'531752'
+aS'524394'
+p14805
+aa(lp14806
+S'Vinaditya Trading Company Ltd'
 p14807
-aa(lp14808
-S'WELSPUN GLOBAL BRANDS LTD'
-p14809
-aS'WELGLOB'
+ag56
+aS'504380'
+p14808
+aa(lp14809
+S'Vinati Organics Ltd'
 p14810
-aS'533495'
+aS'VINATIORGA'
 p14811
-aa(lp14812
-S'Welspun India Ltd'
-p14813
-aS'WELSPUNIND'
+aS'524200'
+p14812
+aa(lp14813
+S'Vinay Cements Ltd'
 p14814
-aS'514162'
+ag56
+aS'518051'
 p14815
 aa(lp14816
-S'Welspun Investments & Commercials Ltd'
+S'Vindhya Telelinks Ltd'
 p14817
-aS'WELINV'
+aS'VINDHYATEL'
 p14818
-aS'533252'
+aS'517015'
 p14819
 aa(lp14820
-S'Welspun Projects Limited'
+S'Vintage Cards & Creations Ltd'
 p14821
-aS'WELPROJ'
+aS'VINCARDS'
 p14822
-aS'532553'
+aS'532360'
 p14823
 aa(lp14824
-S'Welspun Syntex Ltd'
+S'Vintage Securities Ltd'
 p14825
-ag4
-aS'508933'
+ag56
+aS'531051'
 p14826
 aa(lp14827
-S'Welspun-Gujarat Stahl Rohren Ltd'
+S'Vintron Informatics Ltd'
 p14828
-aS'WELCORP'
+ag56
+aS'517393'
 p14829
-aS'532144'
-p14830
-aa(lp14831
-S'Welterman International Ltd'
+aa(lp14830
+S'Vinyl Chemicals India Ltd'
+p14831
+aS'VINYLINDIA'
 p14832
-ag4
-aS'526431'
+aS'524129'
 p14833
 aa(lp14834
-S'Wendt India Ltd'
+S'Vinyoflex Ltd'
 p14835
-aS'WENDT'
+ag56
+aS'530401'
 p14836
-aS'505412'
-p14837
-aa(lp14838
-S'West Coast Paper Mills Ltd'
+aa(lp14837
+S'VIP Industries Ltd'
+p14838
+aS'VIPIND'
 p14839
-aS'WSTCSTPAPR'
+aS'507880'
 p14840
-aS'500444'
-p14841
-aa(lp14842
-S'Western India Shipyard Ltd'
+aa(lp14841
+S'Vippy Industries Ltd'
+p14842
+aS'VIPPYSOLVX'
 p14843
-ag4
-aS'531217'
+aS'519039'
 p14844
 aa(lp14845
-S'WH Brady & Company Ltd'
+S'Vippy Spinpro Ltd'
 p14846
-ag4
-aS'501391'
+ag56
+aS'514302'
 p14847
 aa(lp14848
-S'Wheel & Axle Textiles Ltd'
+S'Vipul Dye Chem Ltd'
 p14849
-ag4
-aS'512297'
+ag56
+aS'530627'
 p14850
 aa(lp14851
-S'Wheels India Ltd'
+S'Vipul Ltd'
 p14852
-aS'WHEELS'
+aS'VIPULLTD'
 p14853
-aS'590073'
+aS'511726'
 p14854
 aa(lp14855
-S'Whirlpool of India Ltd'
+S'Virat Crane Industries Ltd'
 p14856
-aS'WHIRLPOOL'
+ag56
+aS'519457'
 p14857
-aS'500238'
-p14858
-aa(lp14859
-S'White Diamond Industries Ltd'
+aa(lp14858
+S'Virat Industries Ltd'
+p14859
+ag56
+aS'530521'
 p14860
-ag4
-aS'513713'
-p14861
-aa(lp14862
-S'White Lion Asia Ltd'
+aa(lp14861
+S'Virinchi Technologies Ltd'
+p14862
+ag56
+aS'532372'
 p14863
-ag4
-aS'511246'
-p14864
-aa(lp14865
-S'Willard India Ltd'
+aa(lp14864
+S'Virtualsoft Systems Ltd'
+p14865
+ag56
+aS'531126'
 p14866
-aS'WILLARDLTD'
-p14867
-aS'504227'
+aa(lp14867
+S'Visa Steel Ltd'
 p14868
-aa(lp14869
-S'Williamson Financial Services Ltd'
+aS'VISASTEEL'
+p14869
+aS'532721'
 p14870
-ag4
-aS'519214'
-p14871
-aa(lp14872
-S'Williamson Magor & Company Ltd'
+aa(lp14871
+S'Visagar Polytex Ltd'
+p14872
+aS'VIVIDHA'
 p14873
-aS'WILLAMAGOR'
+aS'506146'
 p14874
-aS'519224'
-p14875
-aa(lp14876
-S'Wim Plast Ltd'
+aa(lp14875
+S'Visaka Industries Ltd'
+p14876
+aS'VISAKAIND'
 p14877
-aS'WIMPLAST'
+aS'509055'
 p14878
-aS'526586'
-p14879
-aa(lp14880
-S'Windsor Machines Ltd'
+aa(lp14879
+S'Visesh Infotecnics Ltd'
+p14880
+aS'VISESHINFO'
 p14881
-aS'WINDMACHIN'
+aS'532411'
 p14882
-aS'522029'
-p14883
-aa(lp14884
-S'Winsome Breweries Ltd'
+aa(lp14883
+S'Vishal Cotspin Ltd'
+p14884
+ag56
+aS'531822'
 p14885
-ag4
-aS'526471'
-p14886
-aa(lp14887
-S'Winsome Textile Industries Ltd'
+aa(lp14886
+S'Vishal Exports Overseas Ltd'
+p14887
+aS'VISHALEXPO'
 p14888
-ag4
-aS'514470'
+aS'532618'
 p14889
 aa(lp14890
-S'Winsome Yarns Ltd'
+S'Vishal Malleables Ltd'
 p14891
-aS'WINSOME'
+ag56
+aS'505930'
 p14892
-aS'514348'
-p14893
-aa(lp14894
-S'Wintac Ltd'
+aa(lp14893
+S'Vishal Retail Ltd'
+p14894
+aS'V2RETAIL'
 p14895
-ag4
-aS'524758'
+aS'532867'
 p14896
 aa(lp14897
-S'Wipro Ltd'
+S'Vishnu Chemicals Ltd'
 p14898
-aS'WIPRO'
+aS'VISHNU'
 p14899
-aS'507685'
+aS'516072'
 p14900
 aa(lp14901
-S'Wire & Wireless India Ltd'
+S'Vishnu Sugar Mills Ltd'
 p14902
-aS'WWIL'
+ag56
+aS'507405'
 p14903
-aS'532795'
-p14904
-aa(lp14905
-S'Wires & Fabriks SA Ltd'
+aa(lp14904
+S'Vishvjyoti Trading Ltd'
+p14905
+ag56
+aS'512067'
 p14906
-ag4
-aS'507817'
-p14907
-aa(lp14908
-S'Wisec Global Ltd'
+aa(lp14907
+S'Vision Corporation Ltd'
+p14908
+ag56
+aS'531668'
 p14909
-ag4
-aS'511642'
-p14910
-aa(lp14911
-S'Wockhardt Ltd'
+aa(lp14910
+S'Vision Technology India Ltd'
+p14911
+ag56
+aS'526441'
 p14912
-aS'WOCKPHARMA'
-p14913
-aS'532300'
+aa(lp14913
+S'Visisth Mercantile Ltd'
 p14914
-aa(lp14915
-S'Women Networks Ltd'
-p14916
-ag4
-aS'531396'
+ag56
+aS'512279'
+p14915
+aa(lp14916
+S'Vista Pharmaceuticals Ltd'
 p14917
-aa(lp14918
-S'Woo Yang Electronics India Ltd'
-p14919
-ag4
-aS'517080'
+ag56
+aS'524711'
+p14918
+aa(lp14919
+S'Visu International Ltd'
 p14920
-aa(lp14921
-S'Woolite Mercantile Company Ltd'
+aS'VISUINTL'
+p14921
+aS'590038'
 p14922
-ag4
-aS'512217'
-p14923
-aa(lp14924
-S'Wopolin Plastics Ltd'
+aa(lp14923
+S'Vital Communications Ltd'
+p14924
+aS'VITALCOMM'
 p14925
-aS'WOPOLIN'
+aS'532325'
 p14926
-aS'509419'
-p14927
-aa(lp14928
-S'Worldwide Leather Exports Ltd'
+aa(lp14927
+S'Vivid Chemicals Ltd'
+p14928
+ag56
+aS'524576'
 p14929
-ag4
-aS'526525'
-p14930
-aa(lp14931
-S'WPIL Ltd'
+aa(lp14930
+S'Vivimed Labs Ltd'
+p14931
+aS'VIVIMEDLAB'
 p14932
-ag4
-aS'505872'
+aS'532660'
 p14933
 aa(lp14934
-S'WS Industries India Ltd'
+S'Vivo Bio Tech Ltd'
 p14935
-aS'WSI'
+ag56
+aS'511509'
 p14936
-aS'504220'
-p14937
-aa(lp14938
-S'Wyeth Ltd'
+aa(lp14937
+S'VJIL Consulting Ltd'
+p14938
+ag56
+aS'517429'
 p14939
-aS'WYETH'
-p14940
-aS'500095'
+aa(lp14940
+S'VLS Finance Ltd'
 p14941
-aa(lp14942
-S'WYN Aqua Exports Ltd'
+aS'VLSFINANCE'
+p14942
+aS'511333'
 p14943
-ag4
-aS'519586'
-p14944
-aa(lp14945
-S'XCHANGING'
+aa(lp14944
+S'VMF Softech Ltd'
+p14945
+ag56
+aS'519602'
 p14946
-aS'XCHANGING'
-p14947
-ag4
-aa(lp14948
-S'XL Energy Limited '
+aa(lp14947
+S'VMS Industries Limited'
+p14948
+ag56
+aS'533427'
 p14949
-aS'XLENERGY'
-p14950
-aS'532788'
+aa(lp14950
+S'Vogue Textiles Ltd'
 p14951
-aa(lp14952
-S'Xo Infotech Ltd'
-p14953
-ag4
-aS'532116'
+ag56
+aS'530583'
+p14952
+aa(lp14953
+S'Voith Paper Fabrics India Ltd'
 p14954
-aa(lp14955
-S'Xpro India Ltd'
+aS'PORRITSPEN'
+p14955
+aS'522122'
 p14956
-aS'XPROINDIA'
-p14957
-aS'590013'
+aa(lp14957
+S'Volant Textile Mills Ltd'
 p14958
-aa(lp14959
-S'XXBANK'
-p14960
-ag4
-aS'632149'
+ag56
+aS'531865'
+p14959
+aa(lp14960
+S'Voltaire Leasing & Finance Ltd'
 p14961
-aa(lp14962
-S'Yamini Investments Ltd'
-p14963
-ag4
-aS'511012'
+ag56
+aS'509038'
+p14962
+aa(lp14963
+S'Voltamp Transformers Ltd'
 p14964
-aa(lp14965
-S'Yarn Syndicate Ltd'
+aS'VOLTAMP'
+p14965
+aS'532757'
 p14966
-ag4
-aS'514378'
-p14967
-aa(lp14968
-S'Yash Management & Satellite Ltd'
+aa(lp14967
+S'Voltas Ltd'
+p14968
+aS'VOLTAS'
 p14969
-ag4
-aS'511601'
+aS'500575'
 p14970
 aa(lp14971
-S'Yash Papers Ltd'
+S'Vora Constructions Ltd'
 p14972
-ag4
-aS'516030'
+ag56
+aS'512215'
 p14973
 aa(lp14974
-S'Yash Trading & Finance Ltd'
+S'VR Woodart Ltd'
 p14975
-ag4
-aS'512345'
+ag56
+aS'523888'
 p14976
 aa(lp14977
-S'Yashraj Containeurs Ltd'
+S'VST Industries Ltd'
 p14978
-ag4
-aS'530063'
+aS'VSTIND'
 p14979
-aa(lp14980
-S'Yashraj Securities Ltd'
-p14981
-ag4
-aS'512167'
+aS'509966'
+p14980
+aa(lp14981
+S'VTM Ltd'
 p14982
-aa(lp14983
-S'Yatish Securities Ltd'
+aS'VTMLTD'
+p14983
+aS'532893'
 p14984
-ag4
-aS'531153'
-p14985
-aa(lp14986
-S'Yenkey Drugs & Pharmaceuticals Ltd'
+aa(lp14985
+S'VTX Industries Limited'
+p14986
+aS'VTXIND'
 p14987
-ag4
-aS'531015'
+aS'532824'
 p14988
 aa(lp14989
-S'Yes Bank Ltd'
+S'Vulcan Engineers Ltd'
 p14990
-aS'YESBANK'
+aS'VULCANENG'
 p14991
-aS'532648'
+aS'522080'
 p14992
 aa(lp14993
-S'Yogi Sung Won India Ltd'
+S'VXL Instruments Ltd'
 p14994
-ag4
-aS'522209'
+aS'VXLINSTR'
 p14995
-aa(lp14996
-S'Yuken India Ltd'
-p14997
-aS'YUKENINDIA'
+aS'517399'
+p14996
+aa(lp14997
+S'Vyapar Industries Ltd'
 p14998
-aS'522108'
+ag56
+aS'506142'
 p14999
 aa(lp15000
-S'Yuvraj International Ltd'
+S'Vybra Automet Ltd'
 p15001
-ag4
-aS'512285'
+ag56
+aS'520003'
 p15002
 aa(lp15003
-S'ZEEMEDIA'
+S'WONDERLA'
 p15004
-aS'ZEEMEDIA'
+aS'WONDERLA'
 p15005
-ag4
-aa(lp15006
-S'ZUARI'
-p15007
-aS'ZUARI'
+aS'538268'
+p15006
+aa(lp15007
+S'WINSOMEDJ'
 p15008
-ag4
-aa(lp15009
-S'ZUARIGLOB'
+aS'WINSOMEDJ'
+p15009
+aS'507892'
 p15010
-aS'ZUARIGLOB'
-p15011
-ag4
-aa(lp15012
-S'Zandu Realty Ltd'
+aa(lp15011
+S'WELENTRP'
+p15012
+aS'WELENTRP'
 p15013
-aS'ZANDUREALT'
+aS'538538'
 p15014
-aS'506720'
-p15015
-aa(lp15016
-S'Zee Entertainment Enterprises Ltd'
+aa(lp15015
+S'Ecoboard Industries Ltd'
+p15016
+aS'WESTERNBIO'
 p15017
-aS'ZEEL'
+aS'523732'
 p15018
-aS'505537'
-p15019
-aa(lp15020
-S'Zee Learn Ltd'
+aa(lp15019
+S'Kennametal India Ltd'
+p15020
+aS'WIDIA'
 p15021
-aS'ZEELEARN'
+aS'505890'
 p15022
-aS'533287'
-p15023
-aa(lp15024
-S'ZEE NEWS    '
+aa(lp15023
+S'Uniworth Ltd'
+p15024
+aS'WOOLWORTH'
 p15025
-ag4
-aS'632794'
+aS'514144'
 p15026
 aa(lp15027
-S'Zee News Ltd'
+S'Va Tech Wabag Ltd'
 p15028
-aS'ZEENEWS'
+aS'WABAG'
 p15029
-aS'532794'
+aS'533269'
 p15030
 aa(lp15031
-S'Zen Technologies Ltd'
+S'WABCO India Limited'
 p15032
-ag4
-aS'590032'
+aS'WABCOINDIA'
 p15033
-aa(lp15034
-S'Zenith Birla India Ltd'
-p15035
-aS'ZENITHBIR'
+aS'533023'
+p15034
+aa(lp15035
+S'Wadala Commodities Ltd'
 p15036
-aS'531845'
+aS'GFL'
 p15037
-aa(lp15038
-S'Zenith Computers Ltd'
-p15039
-aS'ZENITHCOMP'
+aS'519035'
+p15038
+aa(lp15039
+S'Walchand Peoplefirst Ltd'
 p15040
-aS'517164'
+ag56
+aS'501370'
 p15041
 aa(lp15042
-S'Zenith Exports Ltd'
+S'Walchandnagar Industries Ltd'
 p15043
-aS'ZENITHEXPO'
+aS'WALCHANNAG'
 p15044
-aS'512553'
+aS'507410'
 p15045
 aa(lp15046
-S'Zenith Fibres Ltd'
+S'Wall Street Finance Ltd'
 p15047
-ag4
-aS'514266'
+ag56
+aS'511147'
 p15048
 aa(lp15049
-S'Zenith Healthcare Ltd'
+S'Wallfort Financial Services Ltd'
 p15050
-ag4
-aS'530665'
+ag56
+aS'532053'
 p15051
 aa(lp15052
-S'Zenith Infotech Ltd'
+S'Wanbury Ltd'
 p15053
-aS'ZENITHINFO'
+aS'WANBURY'
 p15054
-aS'532298'
+aS'524212'
 p15055
 aa(lp15056
-S'Zenotech Laboratories Ltd'
+S'Warner Multimedia Ltd'
 p15057
-ag4
-aS'532039'
+ag56
+aS'511690'
 p15058
 aa(lp15059
-S'Zensar Technologies Ltd'
+S'Warren Tea Ltd'
 p15060
-aS'ZENSARTECH'
+aS'WARRENTEA'
 p15061
-aS'504067'
+aS'508494'
 p15062
 aa(lp15063
-S'Zenu Infotec Ltd'
+S'Waterbase Ltd'
 p15064
-ag4
-aS'531364'
+aS'WATERBASE'
 p15065
-aa(lp15066
-S'ZF Steering Gear India Ltd'
-p15067
-aS'ZFSTEERING'
+aS'523660'
+p15066
+aa(lp15067
+S'Wearology Ltd'
 p15068
-aS'505163'
+ag56
+aS'523628'
 p15069
 aa(lp15070
-S'Zicom Electronic Security Systems Ltd'
+S'Webel-Sl Energy Systems Ltd'
 p15071
-aS'ZICOM'
+aS'WEBELSOLAR'
 p15072
-aS'531404'
+aS'517498'
 p15073
 aa(lp15074
-S'Zigma Software Ltd'
+S'Weizmann Fincorp Ltd'
 p15075
-ag4
-aS'532177'
+ag56
+aS'511074'
 p15076
 aa(lp15077
-S'Zodiac Clothing Company Ltd'
+S'Weizmann Forex Ltd'
 p15078
-aS'ZODIACLOTH'
+aS'WEIZFOREX'
 p15079
-aS'521163'
+aS'533452'
 p15080
 aa(lp15081
-S'Zodiac-JRD-MKJ Ltd'
+S'Weizmann Ltd'
 p15082
-aS'ZODJRDMKJ'
+aS'WEIZMANIND'
 p15083
-aS'512587'
+aS'523011'
 p15084
 aa(lp15085
-S'Zuari Forex Ltd'
+S'Welcast Steels Ltd'
 p15086
-ag4
-aS'530283'
+ag56
+aS'504988'
 p15087
 aa(lp15088
-S'Zuari Industries Ltd'
+S'Welcure Drugs & Pharmaceuticals Ltd'
 p15089
-aS'ZUARIAGRO'
+ag56
+aS'524661'
 p15090
-aS'500780'
-p15091
-aa(lp15092
-S'Zyden Gentec Ltd'
+aa(lp15091
+S'Well Pack Papers & Containers Ltd'
+p15092
+ag56
+aS'531249'
 p15093
-ag4
-aS'530091'
-p15094
-aa(lp15095
-S'Zydus Wellness Ltd'
+aa(lp15094
+S'Wellworth Overseas Ltd'
+p15095
+ag56
+aS'531752'
 p15096
-aS'ZYDUSWELL'
-p15097
-aS'531335'
+aa(lp15097
+S'WELSPUN GLOBAL BRANDS LTD'
 p15098
-aa(lp15099
-S'Zylog Systems Ltd'
+aS'WELGLOB'
+p15099
+aS'533495'
 p15100
-aS'ZYLOG'
-p15101
-aS'532883'
+aa(lp15101
+S'Welspun India Ltd'
 p15102
-aa(lp15103
-S'20 Microns Ltd'
+aS'WELSPUNIND'
+p15103
+aS'514162'
 p15104
-aS'20MICRONS'
-p15105
-aS'533022'
+aa(lp15105
+S'Welspun Investments & Commercials Ltd'
 p15106
-aa(lp15107
-S'3i Infotech Ltd'
+aS'WELINV'
+p15107
+aS'533252'
 p15108
-aS'3IINFOTECH'
-p15109
-aS'532628'
+aa(lp15109
+S'Welspun Projects Limited'
 p15110
-aa(lp15111
-S'3M India Ltd'
+aS'WELENT'
+p15111
+aS'532553'
 p15112
-aS'3MINDIA'
-p15113
-aS'523395'
+aa(lp15113
+S'Welspun Syntex Ltd'
 p15114
+aS'WELSYNTEX'
+p15115
+aS'508933'
+p15116
+aa(lp15117
+S'Welspun-Gujarat Stahl Rohren Ltd'
+p15118
+aS'WELCORP'
+p15119
+aS'532144'
+p15120
+aa(lp15121
+S'Welterman International Ltd'
+p15122
+ag56
+aS'526431'
+p15123
+aa(lp15124
+S'Wendt India Ltd'
+p15125
+aS'WENDT'
+p15126
+aS'505412'
+p15127
+aa(lp15128
+S'West Coast Paper Mills Ltd'
+p15129
+aS'WSTCSTPAPR'
+p15130
+aS'500444'
+p15131
+aa(lp15132
+S'Western India Shipyard Ltd'
+p15133
+ag56
+aS'531217'
+p15134
+aa(lp15135
+S'WH Brady & Company Ltd'
+p15136
+ag56
+aS'501391'
+p15137
+aa(lp15138
+S'Wheel & Axle Textiles Ltd'
+p15139
+ag56
+aS'512297'
+p15140
+aa(lp15141
+S'Wheels India Ltd'
+p15142
+aS'WHEELS'
+p15143
+aS'590073'
+p15144
+aa(lp15145
+S'Whirlpool of India Ltd'
+p15146
+aS'WHIRLPOOL'
+p15147
+aS'500238'
+p15148
+aa(lp15149
+S'White Diamond Industries Ltd'
+p15150
+ag56
+aS'513713'
+p15151
+aa(lp15152
+S'White Lion Asia Ltd'
+p15153
+ag56
+aS'511246'
+p15154
+aa(lp15155
+S'Willard India Ltd'
+p15156
+aS'WILLARDLTD'
+p15157
+aS'504227'
+p15158
+aa(lp15159
+S'Williamson Financial Services Ltd'
+p15160
+ag56
+aS'519214'
+p15161
+aa(lp15162
+S'Williamson Magor & Company Ltd'
+p15163
+aS'WILLAMAGOR'
+p15164
+aS'519224'
+p15165
+aa(lp15166
+S'Wim Plast Ltd'
+p15167
+aS'WIMPLAST'
+p15168
+aS'526586'
+p15169
+aa(lp15170
+S'Windsor Machines Ltd'
+p15171
+aS'WINDMACHIN'
+p15172
+aS'522029'
+p15173
+aa(lp15174
+S'Winsome Breweries Ltd'
+p15175
+ag56
+aS'526471'
+p15176
+aa(lp15177
+S'Winsome Textile Industries Ltd'
+p15178
+ag56
+aS'514470'
+p15179
+aa(lp15180
+S'Winsome Yarns Ltd'
+p15181
+aS'WINSOME'
+p15182
+aS'514348'
+p15183
+aa(lp15184
+S'Wintac Ltd'
+p15185
+ag56
+aS'524758'
+p15186
+aa(lp15187
+S'Wipro Ltd'
+p15188
+aS'WIPRO'
+p15189
+aS'507685'
+p15190
+aa(lp15191
+S'Wire & Wireless India Ltd'
+p15192
+aS'SITICABLE'
+p15193
+aS'532795'
+p15194
+aa(lp15195
+S'Wires & Fabriks SA Ltd'
+p15196
+ag56
+aS'507817'
+p15197
+aa(lp15198
+S'Wisec Global Ltd'
+p15199
+aS'WESTINDSEC'
+p15200
+aS'511642'
+p15201
+aa(lp15202
+S'Wockhardt Ltd'
+p15203
+aS'WOCKPHARMA'
+p15204
+aS'532300'
+p15205
+aa(lp15206
+S'Women Networks Ltd'
+p15207
+ag56
+aS'531396'
+p15208
+aa(lp15209
+S'Woo Yang Electronics India Ltd'
+p15210
+ag56
+aS'517080'
+p15211
+aa(lp15212
+S'Woolite Mercantile Company Ltd'
+p15213
+ag56
+aS'512217'
+p15214
+aa(lp15215
+S'Wopolin Plastics Ltd'
+p15216
+aS'WOPOLIN'
+p15217
+aS'509419'
+p15218
+aa(lp15219
+S'Worldwide Leather Exports Ltd'
+p15220
+ag56
+aS'526525'
+p15221
+aa(lp15222
+S'WPIL Ltd'
+p15223
+ag56
+aS'505872'
+p15224
+aa(lp15225
+S'WS Industries India Ltd'
+p15226
+aS'WSI'
+p15227
+aS'504220'
+p15228
+aa(lp15229
+S'Wyeth Ltd'
+p15230
+aS'WYETH'
+p15231
+aS'500095'
+p15232
+aa(lp15233
+S'WYN Aqua Exports Ltd'
+p15234
+ag56
+aS'519586'
+p15235
+aa(lp15236
+S'XCHANGING'
+p15237
+aS'XCHANGING'
+p15238
+aS'532616'
+p15239
+aa(lp15240
+S'XL Energy Limited '
+p15241
+aS'XLENERGY'
+p15242
+aS'532788'
+p15243
+aa(lp15244
+S'Xo Infotech Ltd'
+p15245
+ag56
+aS'532116'
+p15246
+aa(lp15247
+S'Xpro India Ltd'
+p15248
+aS'XPROINDIA'
+p15249
+aS'590013'
+p15250
+aa(lp15251
+S'XXBANK'
+p15252
+ag56
+aS'632149'
+p15253
+aa(lp15254
+S'Yamini Investments Ltd'
+p15255
+ag56
+aS'511012'
+p15256
+aa(lp15257
+S'Yarn Syndicate Ltd'
+p15258
+ag56
+aS'514378'
+p15259
+aa(lp15260
+S'Yash Management & Satellite Ltd'
+p15261
+ag56
+aS'511601'
+p15262
+aa(lp15263
+S'Yash Papers Ltd'
+p15264
+ag56
+aS'516030'
+p15265
+aa(lp15266
+S'Yash Trading & Finance Ltd'
+p15267
+ag56
+aS'512345'
+p15268
+aa(lp15269
+S'Yashraj Containeurs Ltd'
+p15270
+ag56
+aS'530063'
+p15271
+aa(lp15272
+S'Yashraj Securities Ltd'
+p15273
+ag56
+aS'512167'
+p15274
+aa(lp15275
+S'Yatish Securities Ltd'
+p15276
+ag56
+aS'531153'
+p15277
+aa(lp15278
+S'Yenkey Drugs & Pharmaceuticals Ltd'
+p15279
+ag56
+aS'531015'
+p15280
+aa(lp15281
+S'Yes Bank Ltd'
+p15282
+aS'YESBANK'
+p15283
+aS'532648'
+p15284
+aa(lp15285
+S'Yogi Sung Won India Ltd'
+p15286
+ag56
+aS'522209'
+p15287
+aa(lp15288
+S'Yuken India Ltd'
+p15289
+aS'YUKENINDIA'
+p15290
+aS'522108'
+p15291
+aa(lp15292
+S'Yuvraj International Ltd'
+p15293
+ag56
+aS'512285'
+p15294
+aa(lp15295
+S'ZEEMEDIA'
+p15296
+aS'ZEEMEDIA'
+p15297
+aS'532794'
+p15298
+aa(lp15299
+S'ZUARI'
+p15300
+aS'ZUARI'
+p15301
+aS'534742'
+p15302
+aa(lp15303
+S'ZUARIGLOB'
+p15304
+aS'ZUARIGLOB'
+p15305
+aS'500780'
+p15306
+aa(lp15307
+S'Zandu Realty Ltd'
+p15308
+aS'ZANDUREALT'
+p15309
+aS'506720'
+p15310
+aa(lp15311
+S'Zee Entertainment Enterprises Ltd'
+p15312
+aS'ZEEL'
+p15313
+aS'505537'
+p15314
+aa(lp15315
+S'Zee Learn Ltd'
+p15316
+aS'ZEELEARN'
+p15317
+aS'533287'
+p15318
+aa(lp15319
+S'ZEE NEWS    '
+p15320
+ag56
+aS'632794'
+p15321
+aa(lp15322
+S'Zee News Ltd'
+p15323
+aS'ZEEMEDIA'
+p15324
+aS'532794'
+p15325
+aa(lp15326
+S'Zen Technologies Ltd'
+p15327
+ag56
+aS'590032'
+p15328
+aa(lp15329
+S'Zenith Birla India Ltd'
+p15330
+aS'ZENITHBIR'
+p15331
+aS'531845'
+p15332
+aa(lp15333
+S'Zenith Computers Ltd'
+p15334
+aS'ZENITHCOMP'
+p15335
+aS'517164'
+p15336
+aa(lp15337
+S'Zenith Exports Ltd'
+p15338
+aS'ZENITHEXPO'
+p15339
+aS'512553'
+p15340
+aa(lp15341
+S'Zenith Fibres Ltd'
+p15342
+ag56
+aS'514266'
+p15343
+aa(lp15344
+S'Zenith Healthcare Ltd'
+p15345
+ag56
+aS'530665'
+p15346
+aa(lp15347
+S'Zenith Infotech Ltd'
+p15348
+aS'ZENITHINFO'
+p15349
+aS'532298'
+p15350
+aa(lp15351
+S'Zenotech Laboratories Ltd'
+p15352
+ag56
+aS'532039'
+p15353
+aa(lp15354
+S'Zensar Technologies Ltd'
+p15355
+aS'ZENSARTECH'
+p15356
+aS'504067'
+p15357
+aa(lp15358
+S'Zenu Infotec Ltd'
+p15359
+ag56
+aS'531364'
+p15360
+aa(lp15361
+S'ZF Steering Gear India Ltd'
+p15362
+aS'ZFSTEERING'
+p15363
+aS'505163'
+p15364
+aa(lp15365
+S'Zicom Electronic Security Systems Ltd'
+p15366
+aS'ZICOM'
+p15367
+aS'531404'
+p15368
+aa(lp15369
+S'Zigma Software Ltd'
+p15370
+ag56
+aS'532177'
+p15371
+aa(lp15372
+S'Zodiac Clothing Company Ltd'
+p15373
+aS'ZODIACLOTH'
+p15374
+aS'521163'
+p15375
+aa(lp15376
+S'Zodiac-JRD-MKJ Ltd'
+p15377
+aS'ZODJRDMKJ'
+p15378
+aS'512587'
+p15379
+aa(lp15380
+S'Zuari Forex Ltd'
+p15381
+ag56
+aS'530283'
+p15382
+aa(lp15383
+S'Zuari Industries Ltd'
+p15384
+aS'ZUARIGLOB'
+p15385
+aS'500780'
+p15386
+aa(lp15387
+S'Zyden Gentec Ltd'
+p15388
+ag56
+aS'530091'
+p15389
+aa(lp15390
+S'Zydus Wellness Ltd'
+p15391
+aS'ZYDUSWELL'
+p15392
+aS'531335'
+p15393
+aa(lp15394
+S'Zylog Systems Ltd'
+p15395
+aS'ZYLOG'
+p15396
+aS'532883'
+p15397
+aa(lp15398
+S'20 Microns Ltd'
+p15399
+aS'20MICRONS'
+p15400
+aS'533022'
+p15401
+aa(lp15402
+S'3i Infotech Ltd'
+p15403
+aS'3IINFOTECH'
+p15404
+aS'532628'
+p15405
+aa(lp15406
+S'3M India Ltd'
+p15407
+aS'3MINDIA'
+p15408
+aS'523395'
+p15409
 aa.

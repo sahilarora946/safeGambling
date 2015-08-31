@@ -1,4 +1,6 @@
-from common import *
+from commonSettings import *
+from commonFunctions import getParsedHTML, getText, dumpData, csvWriter
+
 base_url = "http://www.stockfry.com/"
 
 def getURL(i):
@@ -44,6 +46,43 @@ def verify(url, symbol):
         return True
     return False
 
+def getSymbolFromMCurl(url):
+    parsedHTML = getParsedHTML(url)
+    info = getText(parsedHTML.find(attrs={"class":"FL gry10"}))
+    info = info.replace(' ','').split('|')
+    bse = ""
+    if len(info[0])>4:
+        bse = info[0][4:]
+    nse = ""
+    if len(info[1])>4:
+        nse = info[1][4:]
+    return (nse,bse)
+
+def load(file):
+    return pickle.load(open(file,'rb'))
+
+def updateAllSymbols():
+    symbols = load('data/symbols.p')
+    data = load('data/symbolsMCupdated.p')
+    index = load('data/index.p')
+    l = len(data)
+    for i in range(l):
+        print i,l
+        if data[i][-1].startswith('http://www.moneycontrol.com/india/stockpricequote/'):
+            symbol = getSymbolFromMCurl(data[i][-1])
+            if symbols[i][1] != "":
+                index[symbols[i][1]] = -1
+            if symbols[i][2] != "":
+                index[symbols[i][2]] = -1
+            symbols[i][1] = symbol[0]
+            symbols[i][2] = symbol[1]
+            index[symbol[0]] = i
+            index[symbol[1]] = i
+            data[i][1] = symbol[0]
+            data[i][2] = symbol[1]
+    dumpData(data, 'data/symbolsMCupdated.p')
+    dumpData(symbols, 'data/symbols.p')
+    dumpData(index, 'data/index.p')
 
 def getMCSymbols():
     data = pickle.load(open('data/symbols.p','rb'))
@@ -88,10 +127,82 @@ def getMCSymbols():
             print "error in ",data[j]
     dumpData(data, 'data/symbolsMCupdated.p')
 
+
+def improveMCsearchForPreiousFails():
+    data = load('data/symbolsMCupdated.p')
+    l = len(data)
+    driver = webdriver.Chrome()
+    time.sleep(2)
+    driver.get("http://www.moneycontrol.com/")
+    for i in range(l):
+        if len(data[i]) <4:
+            print data
+            print 'Error'
+            return
+        elif data[i][-1].startswith('http://www.moneycontrol.com/india/stockpricequote/'):
+            continue
+        else:
+            symbol = (data[i][1],data[i][2])
+            j = 0
+            for j in range(2):
+                if len(symbol[j])<2:
+                    continue
+                while True:
+                    id = driver.find_elements_by_id("search_str")
+                    if len(id)>0:
+                        id[0].send_keys(symbol[j])
+                        id[0].submit()
+                        break
+                    else: time.sleep(2)
+                mcURL = str(driver.current_url.encode('UTF-8'))
+                if mcURL.startswith('http://www.moneycontrol.com/india/stockpricequote/'):
+                    mcURLsplit = mcURL.split('/')
+                    mcSymbol = mcURLsplit[-1]
+                    mcName = mcURLsplit[-2]
+                    mcSector = mcURLsplit[-3]
+                    data[i][3] = mcSector
+                    data[i][4] = mcName
+                    data[i][5] = mcSymbol
+                    data[i][6] = mcURL
+                else:
+                    parsedHTML = getParsedHTML(driver.current_url)
+                    table = parsedHTML.find(attrs={'class':'srch_tbl'}).findAll('tr')
+                    try:
+                        for row in table:
+                            entry = row.findAll('td')[1]
+                            entry = getText(entry).split(' ')
+                            exitFlag = False
+                            for k in entry:
+                                if len(k)>0 and k[0] == ':':
+                                    if k[1:] == symbol[j]:
+                                        mcURL = str(row.find('td').a['href'].encode('UTF-8'))
+                                        mcURLsplit = mcURL.split('/')
+                                        mcSymbol = mcURLsplit[-1]
+                                        mcName = mcURLsplit[-2]
+                                        mcSector = mcURLsplit[-3]
+                                        data[i][3] = mcSector
+                                        data[i][4] = mcName
+                                        data[i][5] = mcSymbol
+                                        data[i][6] = mcURL
+                                        exitFlag = True
+                                        break
+                            if exitFlag:
+                                break
+                    except:
+                        pass
+            print symbol, data[i][-1]
+    dumpData(data, 'data/symbolsMCupdated.p')
+
+def getMCSymbolsUpdated()
+    getMCSymbols()
+    improveMCsearchForPreiousFails()
+
 #get all the stock symbols and save the data in data folder
 def main():
-    updateSymbols()
-    getMCSymbols()
+    #updateSymbols()
+    #getMCSymbols()
+    #improveMCsearchForPreiousFails()
+    updateAllSymbols()
 
 if __name__ == "__main__":
     main()
