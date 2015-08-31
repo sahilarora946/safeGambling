@@ -1,37 +1,13 @@
-import urllib
-from bs4 import BeautifulSoup
-import pickle
-import simplejson
-from pybing import Bing
-import re
-from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
-import time
+from common import *
 base_url = "http://www.stockfry.com/"
 
 def getURL(i):
     return base_url + '/Report_New.asp?id=StockList&a=' + str(101+i)
 
-def getParsedHTML(url):
-    sock = urllib.urlopen(url)
-    htmlSource = sock.read()
-    sock.close()
-    try:
-        return BeautifulSoup(htmlSource, 'html.parser')
-    except:
-        BeautifulSoup(htmlSource, 'lxml')
-
-#get the text from the parsed object
-def getText(soup):
-    return str(soup.get_text().encode('UTF-8'))
 
 def removeSemicolon(x):
     return x.strip(';')
 
-def dumpData(data, file):
-    pickle.dump(data, open(file,'wb'))
 
 def updateSymbols():
     DATA = []
