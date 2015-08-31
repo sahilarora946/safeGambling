@@ -1,0 +1,803 @@
+symbol,low,high,curr
+"['ALPINEHOU', 'ALPINEHOU', '']",17.85,37.5,33.35
+"['ADANIPORTS', 'ADANIPORTS', '']",244.1,374.8,362.65
+"['ACCELYA', 'ACCELYA', '']",657.2,1229.8,1014.15
+"['APLAPOLLO', 'APLAPOLLO', '']",279.1,477.0,428.6
+"['ARCOTECH', 'ARCOTECH', '']",323.0,410.0,357.75
+"['A D S Diagnostics Ltd', '', '523031']",10.8,11.34,11.34
+"['Aarti Industries Ltd', 'AARTIIND', '524208']",230.2,456.0,428.0
+"['ABB Ltd', 'ABB', '500002']",981.35,1526.3,1242.6
+"['Abbott India Ltd', 'ABBOTINDIA', '500488']",2550.0,4948.0,4781.25
+"['ACE Software Exports Ltd', '', '531525']",6.12,16.83,15.05
+"['Acrysil Ltd', '', '524091']",470.25,799.0,687.0
+"['Adf Foods Ltd', 'ADFFOODS', '519183']",51.8,89.45,72.45
+"['Adinath Textiles Ltd', '', '514113']",1.15,2.08,1.73
+"['Aditya Birla Nuvo Ltd', 'ABIRLANUVO', '500303']",1422.35,2344.85,2073.2
+"['Advanta India Ltd', 'ADVANTA', '532840']",285.0,594.0,555.0
+"['Aegis Logistics Ltd', 'AEGISCHEM', '500003']",312.6,919.9,785.0
+"['Agro Tech Foods Ltd', 'ATFL', '500215']",543.2,714.9,610.45
+"['Ahluwalia Contracts India Ltd', 'AHLUCONT', '532811']",137.25,297.0,244.7
+"['Ajanta Pharma Ltd', 'AJANTPHARM', '532331']",630.66,1720.0,1429.1
+"['Ajcon Global Services Ltd', '', '511692']",10.05,19.4,17.2
+"['Akruti City Ltd', 'ACKRUTI', '532799']",85.35,134.45,119.0
+"['Akzo Nobel India Limited ', 'AKZOINDIA', '500710']",1150.0,1551.0,1290.3
+"['Alembic Pharmaceuticals Limited', 'APLLTD', '533573']",369.7,791.9,705.15
+"['Alicon Castalloy Ltd', 'ALICON', '531147']",146.1,418.0,360.5
+"['Allcargo Global Logistics Ltd', 'ALLCARGO', '532749']",220.35,377.4,305.1
+"['Allsec Technologies Ltd', 'ALLSEC', '532633']",19.3,50.95,45.25
+"['Alpa Laboratories Ltd', 'ALPA', '532878']",9.15,21.45,19.1
+"['Alpine Housing Development Corporation Ltd', '', '526519']",17.85,37.5,33.35
+"['Alufluoride Ltd', '', '524634']",9.89,17.5,14.48
+"['Amara Raja Batteries Ltd', 'AMARAJABAT', '500008']",541.0,1128.0,1022.15
+"['Amines & Plasticizers Ltd', '', '506248']",10.02,41.8,33.95
+"['Amradeep Industries Ltd', '', '531681']",5.6,6.9,5.6
+"['Ankush Finstock Ltd', '', '531519']",2.2,9.0,8.15
+"['ANS Agro Industries Ltd', '', '531406']",11.17,26.1,25.9
+"['Apar Industries Ltd', 'APARINDS', '532259']",321.0,508.9,417.35
+"['Apollo Finvest India Ltd', '', '512437']",8.29,18.67,15.0
+"['Apollo Hospitals Enterprise Ltd', 'APOLLOHOSP', '508869']",1016.05,1478.7,1342.75
+"['Aravali Securities & Finance Ltd', 'ARAVALISEC', '512344']",3.2,7.41,6.1
+"['Arcotech Ltd', '', '532914']",323.0,410.0,357.75
+"['Arihants Securities Ltd', '', '531017']",6.65,7.71,6.65
+"['Aroni Commercials Ltd', '', '512273']",36.15,69.65,67.4
+"['Arrow Coated Products Ltd', '', '516064']",350.1,557.55,487.65
+"['Artech Power Products Ltd', '', '517481']",12.5,25.1,25.1
+"['Asahi India Glass Ltd', 'ASAHIINDIA', '515030']",90.3,182.0,152.05
+"['Ashok Leyland Ltd', 'ASHOKLEY', '500477']",36.25,99.65,92.15
+"['Ashoka Buildcon Ltd', 'ASHOKA', '533271']",110.05,221.0,179.25
+"['Asia HR Technologies Ltd', '', '532435']",3.31,9.65,8.92
+"['Asian Independent Network Ltd', '', '519485']",1.22,7.98,7.98
+"['Asian Paints Ltd', 'ASIANPAINT', '500820']",612.0,926.8,858.25
+"['Ask Me Info Hubs Ltd', '', '506874']",1.4,5.6,4.84
+"['Associated Finlease Ltd', '', '531192']",3.92,11.44,9.88
+"['Astral Poly Technik Ltd', 'ASTRAL', '532830']",338.0,534.8,435.35
+"['AstraZeneca Pharma India Ltd', 'ASTRAZEN', '506820']",781.0,1298.8,1184.45
+"['Atul Ltd', 'ATUL', '500027']",1035.0,1598.0,1305.6
+"['Aurobindo Pharma Ltd', 'AUROPHARMA', '524804']",381.5,832.2,756.4
+"['Autolite India Ltd', 'AUTOLITIND', '500029']",21.2,75.0,60.2
+"['Avanti Feeds Ltd', 'AVANTI', '512573']",1244.05,3248.0,2662.85
+"['Aventis Pharma Ltd', 'AVENTIS', '500674']",2932.0,4580.0,3975.05
+"['Avon Organics Ltd', '', '531541']",9.81,61.95,51.1
+"['Axis Gold ETF', 'AXISGOLD', '533570']",2323.0,2806.9,2429.6
+"['B Nanji Enterprises Ltd', '', '526594']",7.0,13.85,12.0
+"['Baid Leasing & Finance Company Ltd', '', '511724']",16.15,47.55,45.9
+"['Bajaj Auto Ltd', 'BAJAJ-AUTO', '532977']",1912.5,2695.0,2279.55
+"['Bajaj Corp Ltd', 'BAJAJCORP', '533229']",250.1,522.0,496.2
+"['Bajaj Electricals Ltd', 'BAJAJELEC', '500031']",199.0,308.0,248.45
+"['Bajaj Finance Ltd', 'BAJFINANCE', '500034']",2400.5,5720.2,5052.5
+"['Bajaj Finserv Ltd', 'BAJAJFINSV', '532978']",975.0,2160.0,1815.05
+"['Bajaj Holdings & Investment Ltd', 'BAJAJHLDNG', '500490']",1206.5,1694.05,1626.4
+"['Bala Techno Global Ltd', '', '511395']",0.28,0.57,0.47
+"['Bala Techno Industries Ltd', '', '514199']",1.1,3.5,3.41
+"['Balmer Lawrie & Company Ltd', 'BALMLAWRIE', '523319']",505.0,682.0,597.15
+"['Balmer Lawrie Investments Ltd', '', '532485']",242.55,299.0,283.2
+"['Bank of Baroda', 'BANKBARODA', '532134']",102.23,228.9,185.2
+"['BASF India Ltd', 'BASF', '500042']",970.1,1499.7,1203.8
+"['Bayer CropScience Ltd', 'BAYERCROP', '506285']",2223.0,4236.0,3890.75
+"['Benchmark Asset Management Company Private Limited', 'LIQUIDBEES', '']",972.0,1025.0,1000.0
+"['Benchmark Asset Management Company Pvt. Ltd.', 'BANKBEES', '590106']",1536.0,2098.85,1757.25
+"['Benchmark GoldBees', 'GOLDBEES', '590095']",2075.0,2600.0,2413.3
+"['Benchmark Mutual Fund', 'NIFTYBEES', '']",777.0,915.0,810.81
+"['Benchmark Mutual Fund - Shariah Benchmark Exchange', 'SHARIABEES', '']",165.0,229.55,197.0
+"['Benchmark Mutual Fund-Nifty Junior Benchmark ETF', 'JUNIORBEES', '']",163.65,218.4,203.55
+"['Bervin Investment & Leasing Ltd', '', '531340']",12.65,27.0,23.05
+"['Beryl Securities Ltd', '', '531582']",5.09,12.8,12.74
+"['Best Eastern Hotels Ltd', '', '508664']",21.5,43.6,41.15
+"['Betex India Ltd', '', '512477']",83.7,94.55,90.5
+"['BGIL Films & Technologies Ltd', '', '511664']",1.66,3.84,3.7
+"['Bhagawati Oxygen Ltd', '', '509449']",8.38,37.6,32.4
+"['Bhagyanagar Wood Plast Ltd', '', '514442']",13.11,32.65,26.25
+"['Bharat Bhushan Share & Commodity Brokers Ltd', '', '511501']",8.85,13.55,11.29
+"['Bharat Electronics Ltd', 'BEL', '500049']",1964.0,4160.0,3475.3
+"['Bharat Forge Ltd', 'BHARATFORG', '500493']",712.5,1363.0,1178.35
+"['Bharat Gears Ltd', 'BHARATGEAR', '505688']",60.05,110.9,91.6
+"['Bharat Petroleum Corporation Ltd', 'BPCL', '500547']",597.35,987.0,860.95
+"['Bharti Airtel Ltd', 'BHARTIARTL', '532454']",332.5,452.45,362.5
+"['Bhartiya International Ltd', 'BIL', '526666']",342.15,597.9,498.95
+"['Bhilwara Spinners Ltd', '', '514272']",2.81,7.7,6.18
+"['Bhilwara Tex-Fin Ltd', '', '530879']",9.03,31.95,28.9
+"['Bio Whitegold Industries Ltd', '', '531250']",5.4,12.25,12.22
+"['Biocon Ltd', 'BIOCON', '532523']",395.3,515.0,441.6
+"['Biopac India Corporation Ltd', '', '532330']",5.0,14.9,12.35
+"['Birla Sun Life Gold ETF', 'BSLGOLDETF', '533408']",2350.0,2792.0,2450.0
+"['Birla Sun Life Mutual Fund - Birla Sun Life Nifty ETF - Growth', 'BSLNIFTY', '']",72.3,110.67,101.75
+"['Black Rose Industries Ltd', '', '514183']",6.36,33.2,29.05
+"['Bloom Dekor Ltd', '', '526225']",13.28,36.65,30.1
+"['Blue Blends Finance Ltd', '', '511361']",22.6,27.5,22.6
+"['Blue Coast Hotels & Resorts Ltd', 'BLUECOAST', '531495']",50.25,129.2,104.9
+"['Blue Dart Express Ltd', 'BLUEDART', '526612']",4296.05,7850.0,6982.6
+"['Blue Star Infotech Ltd', 'BLUESTINFO', '532346']",157.6,314.8,276.1
+"['Blue Star Ltd', 'BLUESTARCO', '500067']",285.7,394.4,349.9
+"['Bombay Swadeshi Stores Ltd', '', '531276']",20.35,162.8,132.0
+"['Borosil Glass Works Ltd', 'BOROGLASS', '502219']",1480.0,2989.0,2422.75
+"['Bosch Ltd', 'BOSCHLTD', '500530']",14135.25,27990.0,23670.3
+"['Brady & Morris Engineering Company Ltd', '', '505690']",42.1,79.8,65.0
+"['Brawn Pharmaceuticals Ltd', '', '530207']",4.41,36.4,36.4
+"['Britannia Industries Ltd', 'BRITANNIA', '500825']",1228.0,3434.2,2973.8
+"['Oswal Chemicals & Fertilizers Ltd', 'BINDALAGRO', '500063']",18.75,61.75,52.55
+"['CYIENT', 'CYIENT', '']",418.25,615.0,553.1
+"['CRMFGETF', 'CRMFGETF', '']",2362.0,2995.0,2560.0
+"['CAPLIPOINT', 'CAPLIPOINT', '']",315.0,1519.9,1383.9
+"['CASTROLIND', 'CASTROLIND', '']",346.35,544.0,442.2
+"['CNOVAPETRO', 'CNOVAPETRO', '']",14.5,28.35,27.5
+"['Cadila Healthcare Ltd', 'CADILAHC', '532321']",1060.9,2044.75,1928.95
+"['Cambridge Technology Enterprises Ltd', 'CTE ', '532801']",4.9,61.2,55.7
+"['Camlin Ltd', 'CAMLIN', '523207']",51.1,126.4,108.65
+"['Can Fin Homes Ltd', 'CANFINHOME', '511196']",345.35,867.0,760.4
+"['Canaan International Infotech Ltd', '', '511367']",7.98,14.0,14.0
+"['Caplin Point Laboratories Ltd', '', '524742']",315.0,1519.9,1383.9
+"['Capman Financials Ltd', '', '511720']",7.44,11.38,9.5
+"['Carnation Industries Ltd', '', '530609']",21.15,34.8,32.7
+"['Castrol India Ltd', 'CASTROL', '500870']",346.35,544.0,442.2
+"['CCL Products India Ltd', 'CCL', '519600']",88.65,254.0,220.35
+"['CDR Healthcare Ltd', '', '523353']",2.1,7.58,7.58
+"['Ceat Ltd', 'CEATLTD', '500878']",588.6,1185.0,1100.7
+"['Century Enka Ltd', 'CENTENKA', '500280']",140.7,256.8,209.45
+"['CG Vak Software & Exports Ltd', '', '531489']",11.4,36.7,29.5
+"['Chaman Lal Setia Exports Ltd', '', '530307']",56.5,195.9,186.0
+"['Chartered Capital & Investment Ltd', '', '511696']",37.5,52.9,43.7
+"['Chennai Petroleum Corporation Ltd', 'CHENNPETRO', '500110']",62.25,264.9,232.55
+"['Chokhani Business Ltd', '', '507917']",5.05,6.42,6.42
+"['Choksi Laboratories Ltd', '', '526546']",7.15,16.8,13.5
+"['Cholamandalam Investment & Finance Company Ltd', 'CHOLAFIN', '511243']",400.1,744.0,601.9
+"['CIL Nova Petrochemicals Limited', 'CILNOVA', '533407']",14.5,28.35,27.5
+"['Cipla Ltd', 'CIPLA', '500087']",506.5,752.85,659.85
+"['Citi Port Financial Services Ltd', '', '531235']",5.44,7.87,7.8
+"['City Union Bank Ltd', 'CUB', '532210']",75.6,105.55,96.6
+"['CMC Ltd', 'CMC', '517326']",1805.1,2407.0,2010.7
+"['CMI Ltd', '', '517330']",46.6,203.0,180.0
+"['Colgate Palmolive India Ltd', 'COLPAL', '500830']",1522.0,2198.0,1947.0
+"['Color Chips India Ltd', 'COLORCHIPS', '532172']",17.0,59.45,52.65
+"['Confidence Petroleum India Ltd', '', '526829']",1.66,4.55,3.9
+"['Consolidated Finvest & Holdings Ltd', 'CONSOFINVT', '500226']",31.0,68.0,59.9
+"['Contech Software Ltd', '', '532397']",2.11,6.21,5.13
+"['Contil India Ltd', '', '531067']",3.95,6.23,5.05
+"['Control Print India Ltd', '', '522295']",165.55,389.9,328.9
+"['Coral Laboratories Ltd', '', '524506']",150.05,603.0,512.0
+"['Cosboard Industries Ltd', '', '530859']",6.37,15.52,12.86
+"['Cosmo Films Ltd', 'COSMOFILMS', '508814']",73.5,184.7,153.75
+"['Cranex Ltd', '', '522001']",3.61,9.28,7.96
+"['Cummins India Ltd', 'CUMMINSIND', '500480']",645.25,1247.65,1110.85
+"['Cupid Ltd', '', '530843']",20.26,234.9,197.0
+"['Cyber Media India Ltd', 'CYBERMEDIA', '532640']",6.6,10.5,9.9
+"['DALMIABHA', 'DALMIABHA', '']",355.5,733.0,676.95
+"['DCBBANK', 'DCBBANK', '']",78.65,150.9,127.0
+"['Dabur India Ltd', 'DABUR', '500096']",196.55,316.4,280.3
+"['Dalmia Bharat Enterprises Limited', 'DALMIABEL', '533309']",355.5,733.0,676.95
+"['Daulat Securities Ltd', '', '530171']",6.65,11.55,11.0
+"['Deccan Cements Ltd', 'DECCANCE', '502137']",297.5,535.0,446.35
+"['Deep Industries Ltd', 'DEEPIND', '532760']",45.1,166.7,140.65
+"['Development Credit Bank Ltd', 'DCB', '532772']",78.65,150.9,127.0
+"['Dhanalaxmi Roto Spinners Ltd', '', '521216']",6.37,17.25,15.84
+"['Dhanvantri Jeevan Rekha Ltd', '', '531043']",6.12,21.5,18.0
+"['Dharani Finance Ltd', '', '511451']",2.91,6.44,6.44
+"['Dhoot Industries Ltd', '', '523862']",1.1,4.56,4.56
+"['Dinesh Allorga Ltd', '', '524590']",8.55,21.0,19.1
+"['Dish TV India Ltd', 'DISHTV', '532839']",52.15,121.65,103.85
+"['Dishman Pharmaceuticals & Chemicals Ltd', 'DISHMAN', '532526']",102.55,233.75,209.95
+"['Divis Laboratories Ltd', 'DIVISLAB', '532488']",1550.1,2484.7,2247.75
+"['DJS Stock & Shares Ltd', '', '511636']",0.36,1.23,1.17
+"['Dr Reddys Laboratories Ltd', 'DRREDDY', '500124']",2867.0,4337.95,4180.75
+"['DS Kulkarni Developers Ltd', 'DSKULKARNI', '523890']",67.45,107.25,103.9
+"['Duroflex Engineering Ltd', '', '512229']",34.65,91.1,91.1
+"['Dynamic Portfolio Management & Services Ltd', '', '530779']",2.16,13.05,13.05
+"['Elantas Beck India Ltd', 'DRBECK', '500123']",777.0,1497.5,1270.0
+"['LT Overseas Ltd', 'DAAWAT', '532783']",96.5,204.0,173.5
+"['eClerx Services Ltd', 'ECLERX', '532927']",1169.95,1806.95,1716.35
+"['Ecoplast Ltd', '', '526703']",35.2,71.6,63.6
+"['Eicher Motors Ltd', 'EICHERMOT', '505200']",9711.25,21620.0,18919.25
+"['EIH Ltd', 'EIHOTEL', '500840']",95.4,130.95,105.05
+"['Elango Industries Ltd', '', '513452']",2.36,4.65,4.65
+"['Elantas Beck India Ltd', 'DRBECK', '500123']",777.0,1497.5,1270.0
+"['EMA India Ltd', '', '522027']",17.0,29.5,24.0
+"['Emami Ltd', 'EMAMILTD', '531162']",641.1,1365.0,1188.8
+"['Emami Paper Mills Ltd', '', '533208']",33.0,60.0,48.05
+"['Emkay Global Financial Services Ltd', 'EMKAY', '532737']",39.45,69.8,57.35
+"['Empower Industries India Ltd', '', '504351']",0.21,0.6,0.5
+"['Encore Software Ltd', '', '531750']",3.66,7.99,7.1
+"['Energy Development Company Ltd', 'ENERGYDEV', '532219']",12.4,28.5,25.65
+"['ENKEI WHEELS (INDIA) LTD', '', '533477']",73.15,237.1,191.8
+"['Enrich Industries Ltd', '', '531127']",9.01,17.85,16.8
+"['Escorts Ltd', 'ESCORTS', '500495']",101.4,179.7,167.2
+"['Essel Propack Ltd', 'ESSELPACK', '500135']",96.55,168.4,150.1
+"['Ester Industries Ltd', 'ESTER', '500136']",15.3,36.7,33.6
+"['Euro Gold Jewellery Ltd', '', '531082']",200.0,231.45,218.85
+"['Everlon Synthetics Ltd', '', '514358']",1.29,3.5,2.86
+"['Explicit Finance Ltd', '', '530571']",5.7,7.98,6.85
+"['FCEL', 'FCEL', '']",8.85,17.75,16.25
+"['FVIL', 'FVIL', '']",8.85,17.75,16.25
+"['FRLDVR', 'FRLDVR', '']",43.1,115.0,98.5
+"['FLEXITUFF', 'FLEXITUFF', '']",176.5,275.0,236.55
+"['FAG Bearings India Ltd', 'FAGBEARING', '505790']",2706.6,4920.0,4184.95
+"['Fairdeal Filaments Ltd', '', '514474']",18.75,30.25,27.2
+"['FDC Ltd', 'FDC', '531599']",138.0,220.05,194.45
+"['Filatex India Ltd', 'FILATEX', '526227']",22.5,44.35,39.5
+"['Fischer Chemic Ltd', '', '524743']",2.58,4.09,3.4
+"['Fortis Healthcare Ltd', 'FORTIS', '532843']",100.25,199.8,173.2
+"['Foseco India Ltd', 'FOSECOIND', '500150']",830.2,1549.0,1303.7
+"['Frontier Leasing & Finance Ltd', '', '508980']",140.65,148.0,147.0
+"['Fulford India Ltd', 'FULFORD', '506803']",1100.0,2365.0,2362.0
+"['Future Ventures India Limited', 'FUTUREVENT', '533400']",8.85,17.75,16.25
+"['Futuristic Securities Ltd', '', '523113']",6.72,19.2,16.7
+"['GULFOILLUB', 'GULFOILLUB', '']",280.0,565.5,498.1
+"['GULPOLY', 'GULPOLY', '']",206.0,410.0,361.15
+"['Benchmark GoldBees', 'GOLDBEES', '590095']",2075.0,2600.0,2413.3
+"['Gabriel India Ltd', 'GABRIEL', '505714']",59.05,106.75,87.95
+"['Gallantt Ispat Ltd', 'GALLISPAT', '533265']",344.05,420.0,403.65
+"['Gandhi Special Tubes Ltd', 'GANDHITUBE', '513108']",161.35,309.0,273.85
+"['Garnet Construction Ltd', '', '526727']",11.0,18.6,15.0
+"['Garware Wall Ropes Ltd', 'GARWALLROP', '509557']",152.6,353.0,297.75
+"['Gayatri Projects Ltd', 'GAYAPROJ', '532767']",126.15,477.0,439.5
+"['GEE Ltd', '', '504028']",20.05,32.95,27.5
+"['GHCL Ltd', 'GHCL', '500171']",55.1,141.7,115.7
+"['Gillette India Ltd', 'GILLETTE', '507815']",2506.25,5649.0,4871.75
+"['GK Consultants Ltd', '', '531758']",18.9,52.75,45.55
+"['GlaxoSmithkline Consumer Healthcare Ltd', 'GSKCONS', '500676']",4900.0,6575.0,6264.25
+"['GlaxoSmithKline Pharmaceuticals Ltd', 'GLAXO', '500660']",2470.0,3825.0,3393.45
+"['Glenmark Pharmaceuticals Ltd', 'GLENMARK', '532296']",676.0,1262.9,1174.75
+"['Global Boards Ltd', 'GLOBABOARD', '500159']",49.0,90.0,85.0
+"['GM Breweries Ltd', 'GMBREW', '507488']",76.65,416.0,364.4
+"['Godfrey Phillips India Ltd', 'GODFRYPHLP', '500163']",416.15,654.0,561.0
+"['Godrej Consumer Products Ltd', 'GODREJCP', '532424']",835.15,1459.0,1307.4
+"['Godrej Industries Ltd', 'GODREJIND', '500164']",259.46,412.0,369.45
+"['Godrej Properties Ltd', 'GODREJPROP', '533150']",220.0,358.5,290.0
+"['Golden Carpets Ltd', '', '531928']",2.9,4.25,4.15
+"['Goldiam International Ltd', 'GOLDIAM', '526729']",19.75,51.8,45.6
+"['Gothi Plascon India Ltd', '', '531111']",4.82,9.35,7.75
+"['GR Cables Ltd', '', '517564']",0.3,0.98,0.83
+"['Granules India Ltd', 'GRANULES', '532482']",70.72,134.2,121.9
+"['Grasim Industries Ltd', 'GRASIM', '500300']",3218.0,4024.85,3449.9
+"['Greaves Cotton Ltd', 'GREAVESCOT', '501455']",116.55,159.4,132.1
+"['Grenada Investment & Trading Company Ltd', '', '511138']",62.5,90.65,89.5
+"['Grindwell Norton Ltd', 'GRINDWELL', '506076']",452.0,799.0,762.25
+"['GSL Securities Ltd', '', '530469']",0.58,2.1,1.9
+"['Gujarat Containers Ltd', '', '513507']",7.24,10.25,10.0
+"['Gujarat Fluorochemicals Ltd', 'GUJFLUORO', '500173']",510.3,816.0,667.75
+"['Gujarat Investa Ltd', '', '531341']",4.14,10.45,10.45
+"['Gujarat Poly Avx Electronics Ltd', '', '517288']",5.86,11.56,10.1
+"['Gujarat State Petronet Ltd', 'GSPL', '532702']",83.45,141.45,121.6
+"['Gulshan Polyols Ltd', '', '532457']",206.0,410.0,361.15
+"['Gyan Developers & Builders Ltd', '', '530141']",7.04,11.34,9.28
+"['HUBTOWN', 'HUBTOWN', '']",85.35,134.45,119.0
+"['HATSUN', 'HATSUN', '']",272.05,469.7,402.95
+"['Harmony Capital Service Ltd', '', '530055']",5.7,5.96,5.7
+"['Hathway Bhawani Cabletel & Datacom Ltd', '', '509073']",7.6,11.85,9.95
+"['Hatsun Agro Product Ltd', '', '531531']",272.05,469.7,402.95
+"['HCL Technologies Ltd', 'HCLTECH', '532281']",707.5,1058.45,952.2
+"['HDFC Bank Ltd', 'HDFCBANK', '500180']",834.0,1128.0,1027.95
+"['HDFC Gold ETF', 'HDFCMFGETF', '533230']",2351.05,3003.75,2466.55
+"['Heritage Foods India Ltd', 'HERITGFOOD', '519552']",282.9,472.0,387.95
+"['Himachal Fibres Ltd', '', '514010']",1.27,29.5,29.45
+"['Himalchuli Food Products Ltd', '', '511169']",11.5,11.5,11.5
+"['Himatsingka Seide Ltd', 'HIMATSEIDE', '514043']",74.05,215.8,181.9
+"['Hindustan Foods Ltd', '', '519126']",32.4,135.3,109.3
+"['Hindustan Media Ventures Ltd', 'HMVL', '533217']",152.0,260.0,213.35
+"['Hindustan Petroleum Corporation Ltd', 'HINDPETRO', '500104']",450.15,990.95,829.1
+"['Hindustan Unilever Ltd', 'HINDUNILVR', '500696']",707.15,981.0,854.5
+"['Hitkari Fibres Ltd', '', '523222']",3.05,9.61,8.03
+"['Honeywell Automation India Ltd', 'HONAUT', '517174']",5004.2,9500.0,8792.85
+"['Housing Development Finance Corporation Ltd', 'HDFC', '500010']",975.0,1402.3,1201.9
+"['Hulta Pharmaceutical Export Ltd', '', '531155']",6.74,9.82,8.4
+"['Hyderabad Industries Ltd', 'HYDRBADIND', '509675']",550.0,849.8,688.1
+"['Hydro S&S; Industries Ltd', 'HYDROS&S;', '524019']",89.2,335.0,287.0
+"['IDBIGOLD', 'IDBIGOLD', '']",2333.05,2731.0,2440.0
+"['IBULHSGFIN', 'IBULHSGFIN', '']",380.1,820.85,777.15
+"['ICNX100', 'ICNX100', '']",68.0,109.4,90.0
+"['INIFTY', 'INIFTY', '']",73.04,101.98,90.0
+"['IGOLD', 'IGOLD', '']",2099.0,3000.0,2510.0
+"['I S T Ltd', '', '508807']",315.55,598.0,550.0
+"['IB Infotech Enterprises Ltd', '', '519463']",15.1,21.17,19.55
+"['ICICI Prudential Gold ETF', 'IPGETF', '533244']",2099.0,3000.0,2510.0
+"['Ind Agiv Commerce Ltd', '', '517077']",20.7,24.0,21.0
+"['Ind Bank Housing Ltd', '', '523465']",5.46,10.51,8.47
+"['India Infoline Ltd', 'INDIAINFO', '532636']",132.4,225.95,188.55
+"['India Motor Parts & Accessories Ltd', 'IMPAL', '590065']",590.25,859.0,702.5
+"['Indian Bright Steel Company Ltd', '', '504731']",33.0,34.65,34.65
+"['Indian Card Clothing Company Ltd', 'INDIANCARD', '509692']",94.5,176.95,149.4
+"['Indian Hume Pipe Company Ltd', 'INDIANHUME', '504741']",227.5,438.35,385.0
+"['Indian Oil Corporation Ltd', 'IOC', '530965']",306.75,465.9,405.25
+"['Indian Sucrose Ltd', 'OSWALSUG', '500319']",5.9,10.89,9.0
+"['IndiaNivesh Ltd', '', '501700']",35.05,45.0,42.4
+"['Indo Amines Ltd', '', '524648']",18.3,42.0,34.05
+"['Indo Asian Finance Ltd', '', '530747']",3.13,9.71,8.08
+"['Indo Asian Housing Corporation Ltd', '', '531674']",7.42,10.9,10.4
+"['Indo Count Industries Ltd', 'ICIL', '521016']",129.8,1035.0,991.65
+"['Indo Zinc Ltd', 'INDOZINC', '513428']",20.15,46.45,38.0
+"['Indoco Remedies Ltd', 'INDOCO', '532612']",250.35,412.2,331.9
+"['Indocount Finance Ltd', '', '500206']",4.1,19.65,16.35
+"['Indraprastha Gas Ltd', 'IGL', '532514']",375.35,523.0,485.05
+"['Indraprastha Medical Corporation Ltd', 'INDRAMEDCO', '532150']",43.65,75.75,61.25
+"['Indusind Bank Ltd', 'INDUSINDBK', '532187']",578.1,989.3,847.65
+"['Industrial & Prudential Investment Company Ltd', '', '501298']",1740.0,3018.0,2465.0
+"['INEOS ABS (India) Ltd', 'INEABS', '506222']",550.0,943.9,761.25
+"['Infosys Technologies Ltd', 'INFY', '500209']",888.89,1186.2,1111.05
+"['Infotech Enterprises Ltd', 'INFOTECENT', '532175']",418.25,615.0,553.1
+"['Infra Industries Ltd', '', '530777']",3.18,6.52,6.52
+"['Inland Printers Ltd', '', '530787']",3.85,9.35,9.35
+"['INOX Leisure Ltd', 'INOXLEISUR', '532706']",138.7,269.8,233.75
+"['Insutech India Ltd', '', '531447']",4.71,5.81,4.99
+"['Integrated Financial Services Ltd', '', '500212']",12.5,35.25,29.95
+"['Integrated Hitech Ltd', '', '532303']",2.72,5.3,4.95
+"['Integrated Proteins Ltd', '', '519606']",2.04,2.35,2.35
+"['Inter State Finance Ltd', '', '526859']",0.15,0.35,0.32
+"['Inter State Oil Carrier Ltd', '', '530259']",4.87,14.2,11.63
+"['International Housing Finance Corporation Ltd', '', '530781']",6.47,11.48,10.85
+"['Invicta Meditek Ltd', '', '523844']",2.95,5.51,4.6
+"['Inwinex Pharmaceuticals Ltd', '', '531398']",10.0,23.37,21.5
+"['Ipca Laboratories Ltd', 'IPCALAB', '524494']",592.1,887.0,782.45
+"['IRB Infrastructure Developers Ltd', 'IRB', '532947']",197.1,289.65,238.35
+"['Ivee Injectaa Ltd', '', '530057']",4.47,23.12,23.12
+"['Benchmark Mutual Fund-Nifty Junior Benchmark ETF', 'JUNIORBEES', '']",163.65,218.4,203.55
+"['J K Paper Ltd', 'JKPAPER', '532162']",28.8,46.8,39.25
+"['J Kumar Infraprojects Ltd', 'JKIL', '532940']",298.5,844.0,802.7
+"['Jagran Prakashan Ltd', 'JAGRAN', '532705']",107.25,154.85,134.1
+"['Jagsonpal Finance & Leasing Ltd', '', '530601']",2.23,2.71,2.28
+"['Jaihind Synthetics Ltd', '', '514312']",6.0,12.0,11.15
+"['Jamshri Ranjitsinghji Spinning & Weaving Mills Company Ltd', '', '502901']",14.85,37.4,30.5
+"['Jaybharat Textiles & Real Estate Ltd', '', '512233']",19.8,25.2,22.8
+"['JB Chemicals & Pharmaceuticals Ltd', 'JBCHEPHARM', '506943']",179.5,297.4,265.55
+"['JHS Svendgaard Laboratories Ltd', 'JHS', '532771']",6.1,13.55,12.35
+"['Jindal Hotels Ltd', '', '507981']",24.6,38.0,33.7
+"['Jindal Poly Films Ltd', 'JINDALPOLY', '500227']",163.95,446.0,365.9
+"['JJ Exporters Ltd', '', '530049']",6.07,12.32,11.4
+"['JJ Finance Corporation Ltd', '', '523062']",13.73,16.5,15.0
+"['JK Cement Ltd', 'JKCEMENT', '532644']",465.35,756.0,627.35
+"['JK Lakshmi Cement Ltd', 'JKLAKSHMI', '500380']",292.05,429.9,356.25
+"['Joindre Capital Services Ltd', '', '531861']",8.18,12.98,10.7
+"['JR Foods Ltd', '', '530915']",2.86,3.48,3.0
+"['Jubilant Foodworks Ltd', 'JUBLFOOD', '533155']",1175.1,1959.5,1694.1
+"['Jubilant Industries Ltd', 'JUBLINDS', '533320']",59.0,302.05,298.95
+"['Jubilant Organosys Ltd', 'JUBILANT', '530019']",115.6,372.8,352.05
+"['Jupiter Industries & Leasing Ltd', '', '507987']",2.1,4.27,4.27
+"['Jyothy Laboratories Ltd', 'JYOTHYLAB', '532926']",219.0,341.5,318.3
+"['Jyoti Resins & Adhesives Ltd', '', '514448']",8.03,25.8,25.8
+"['KRITIIND', 'KRITIIND', '']",4.85,18.15,14.52
+"['KOKUYOCMLN', 'KOKUYOCMLN', '']",51.1,126.4,108.65
+"['KOTAKBKETF', 'KOTAKBKETF', '']",169.9,207.0,174.5
+"['Kakatiya Textiles Ltd', '', '521054']",2.29,17.3,14.8
+"['Kale Consultants Ltd', 'KALECONSUL', '532268']",657.2,1229.8,1014.15
+"['Kalpataru Power Transmission Ltd', 'KALPATPOWR', '522287']",128.55,291.8,248.8
+"['Kalyani Forge Ltd', 'KALYANIFRG', '513509']",181.0,319.0,258.0
+"['Kalyanpur Cements Ltd', '', '502150']",10.45,12.6,10.45
+"['Kanpur Plastipack Ltd', '', '507779']",41.0,161.2,136.6
+"['KCP Ltd', 'KCP', '590066']",45.8,86.9,70.6
+"['KEC International Ltd', 'KEC', '532714']",72.0,160.9,131.95
+"['Keerthi Industries Ltd', '', '518011']",13.7,179.7,179.7
+"['KEI Industries Ltd', 'KEI', '517569']",29.15,121.4,104.7
+"['Kemp & Company Ltd', '', '506530']",290.0,452.0,452.0
+"['Kennametal India Ltd', 'WIDIA', '505890']",722.0,973.0,821.0
+"['Kerry Jost Engineering Ltd', '', '505285']",89.6,195.7,177.4
+"['Kesar Petroproducts Ltd', '', '524174']",16.46,275.2,260.0
+"['Kewal Kiran Clothing Ltd', 'KKCL', '532732']",1650.0,2380.0,2165.0
+"['Keynote Corporate Services Ltd', 'KEYCORPSER', '512597']",23.95,44.0,38.0
+"['KG Petrochem Ltd', '', '531609']",14.0,43.15,37.45
+"['Khandwala Securities Ltd', 'KHANDSE', '531892']",14.95,19.35,16.95
+"['Kilburn Chemicals Ltd', '', '524699']",14.1,22.35,21.5
+"['Kilburn Engineering Ltd', 'KILBUNENGG', '522101']",29.65,68.9,60.0
+"['Kirloskar Oil Engines Limited', 'KIRLOSENG', '533293']",236.3,345.05,279.05
+"['KNR Constructions Ltd', 'KNRCON', '532942']",216.15,625.0,572.75
+"['Kotak Mahindra Bank Ltd', 'KOTAKBANK', '500247']",490.18,744.8,647.45
+"['Kotak Sensex ETF', '', '532985']",255.1,309.0,266.0
+"['Kovai Medical Center & Hospital Ltd', 'KOVAI', '523323']",308.0,928.25,790.0
+"['KPR Mill Ltd', 'KPRMILL', '532889']",241.0,874.0,730.1
+"['KRBL Ltd', 'KRBL', '530813']",80.0,200.0,168.05
+"['Kriti Industries India Ltd', '', '526423']",4.85,18.15,14.52
+"['Kriti Nutrients Ltd', '', '533210']",4.0,13.5,11.6
+"['Kumar Wire Cloth Manufacturing Company Ltd', '', '513703']",1.11,20.2,19.8
+"['Kunststoffe Industries Ltd', '', '523594']",5.5,14.6,14.0
+"['Kwality Dairy India Ltd', 'KWALITY', '531882']",34.75,97.9,78.4
+"['KZ Leasing & Finance Ltd', '', '511728']",3.31,8.39,8.27
+"['LICNMFET', 'LICNMFET', '']",13.46,14.2,14.09
+"['Benchmark Asset Management Company Private Limited', 'LIQUIDBEES', '']",972.0,1025.0,1000.0
+"['L&T; Finance Holdings Limited', 'L&TFH;', '533519']",58.1,76.9,64.0
+"['La Opala RG Ltd', 'LAOPALA', '526947']",258.0,622.65,577.9
+"['La-Mere Apparels Ltd', '', '521222']",4.59,10.6,8.91
+"['Lactose India Ltd', '', '524202']",21.85,48.45,40.0
+"['Lakshmi Automatic Loom Works Ltd', '', '505302']",18.0,36.15,35.3
+"['Lakshmi Mills Company Ltd', 'LAKSHMIMIL', '502958']",1860.0,2810.0,2290.0
+"['Larsen & Toubro Ltd', 'LT', '500510']",1401.0,1893.8,1616.45
+"['Ledo Tea Company Ltd', '', '508306']",64.1,99.0,84.0
+"['Leena Consultancy Ltd', '', '509046']",11.34,13.09,13.09
+"['Libord Securities Ltd', '', '531027']",4.87,7.77,7.5
+"['LIC Housing Finance Ltd', 'LICHSGFIN', '500253']",299.2,523.95,439.25
+"['Liquid Benchmark ETS', '', '590096']",972.0,1025.0,1000.0
+"['Lohia Securities Ltd', '', '590082']",77.2,98.0,95.0
+"['Lords Chloro Alkali Ltd', 'MODIALKALI', '500284']",12.25,30.6,28.35
+"['LT Overseas Ltd', 'DAAWAT', '532783']",96.5,204.0,173.5
+"['Ludlow Jute & Specialities Ltd', '', '526179']",18.5,31.0,25.4
+"['Lupin Ltd', 'LUPIN', '500257']",1280.0,2115.0,1860.85
+"['Lyka Labs Ltd', 'LYKALABS', '500259']",13.15,94.95,79.55
+"['MENONBE', 'MENONBE', '']",24.71,63.4,51.45
+"['MTEDUCARE', 'MTEDUCARE', '']",96.2,154.75,136.7
+"['MOLDTKPAC', 'MOLDTKPAC', '']",162.55,253.8,216.6
+"['MAHINDCIE', 'MAHINDCIE', '']",163.3,313.8,278.8
+"['Lords Chloro Alkali Ltd', 'MODIALKALI', '500284']",12.25,30.6,28.35
+"['Mac Charles India Ltd', '', '507836']",111.0,223.0,193.0
+"['Mack Trading Company Ltd', '', '501471']",53.85,73.2,73.2
+"['Madhusudan Industries Ltd', 'MADSUDIND', '515059']",5.35,12.55,11.95
+"['Madras Cements Ltd', 'MADRASCEM', '500260']",277.0,380.0,322.3
+"['Mahalaxmi Rubtech Ltd', '', '514450']",2.54,5.25,4.4
+"['Mahanivesh India Ltd', '', '530441']",95.0,580.0,550.0
+"['Maharashtra Scooters Ltd', 'MAHSCOOTER', '500266']",742.55,1200.0,1020.65
+"['Mahavir Impex Ltd', '', '531664']",0.55,1.15,1.1
+"['Mahindra & Mahindra Ltd', 'M&M;', '500520']",1102.0,1442.05,1233.95
+"['Mahindra Forgings Ltd', 'MAHINDFORG', '532756']",163.3,313.8,278.8
+"['Mahindra Holidays & Resorts India Ltd', 'MHRIL', '533088']",234.05,337.9,293.0
+"['Mangalam Drugs & Organics Ltd', 'MANGALAM', '532637']",15.6,97.35,85.35
+"['Mapro Industries Ltd', '', '509762']",162.4,493.4,395.9
+"['Marathwada Refractories Ltd', '', '502250']",372.0,428.9,380.0
+"['Mardia Samyoung Capillary Tubes Company Ltd', '', '513544']",12.0,16.06,16.06
+"['Marico Ltd', 'MARICO', '531642']",268.4,467.0,410.7
+"['Marigold Glass Industries Ltd', '', '531737']",58.0,69.85,64.8
+"['Maruti Suzuki India Ltd', 'MARUTI', '532500']",2761.7,4692.4,4205.85
+"['Mathew Easow Research Securities Ltd', '', '511688']",80.5,220.0,204.8
+"['Max India Ltd', 'MAX', '500271']",306.3,575.95,504.2
+"['McNally Bharat Engineering Company Ltd', 'MBECL', '532629']",64.55,114.0,94.3
+"['Mega Fin India Ltd', '', '532105']",9.05,9.07,9.05
+"['Mehta Integrated Finance Ltd', '', '511377']",1.83,6.5,5.4
+"['Menon Bearings Ltd', '', '523828']",24.71,63.4,51.45
+"['Mewar Polytex Ltd', '', '531236']",18.2,34.45,34.45
+"['MIC Electronics Ltd', 'MIC', '532850']",3.35,29.5,24.25
+"['MindTree Ltd', 'MINDTREE', '532819']",966.6,1590.0,1396.3
+"['Mipco Seamless Rings Gujarat Ltd', '', '505797']",2.08,24.95,20.0
+"['MM Forgings Ltd', 'MMFL', '522241']",361.0,751.0,624.8
+"['Modi Rubber Ltd', 'MODIRUBBER', '500890']",19.05,39.2,35.65
+"['Mohit Paper Mills Ltd', '', '530169']",3.12,8.66,7.3
+"['Moldtek Plastics Ltd', '', '533080']",162.55,253.8,216.6
+"['Monnet Industries Ltd', '', '532078']",20.25,32.0,26.0
+"['Morgan Ventures Ltd', '', '526237']",4.38,11.75,11.35
+"['Motilal Oswal Financial Services Ltd', 'MOTILALOFS', '532892']",196.2,364.2,314.0
+"['Motilal Oswal MOSt Shares NASDAQ - 100 ETF - Growth', 'N100', '533385']",221.0,306.0,272.64
+"['Motor & General Finance Ltd', 'MOTOGENFIN', '501343']",34.0,49.9,43.0
+"['Mounteverest Trading & Investment Ltd', '', '532724']",40.25,46.9,40.25
+"['Mphasis Ltd', 'MPHASIS', '526299']",331.1,463.9,421.6
+"['MPIL Corporation Ltd', 'MATHPLATT', '500450']",42.75,75.0,65.9
+"['MRF Ltd', 'MRF', '500290']",23953.15,46399.0,40966.35
+"['MRO TEK Ltd', 'MRO-TEK', '532376']",7.0,21.4,18.1
+"['Mukat Pipes Ltd', 'MUKATPIPE', '523832']",1.42,4.15,3.45
+"['Mukesh Steels Ltd', '', '513265']",9.5,33.55,28.55
+"['Mukesh Strips Ltd', '', '517374']",5.95,31.0,31.0
+"['Multifarious Trading & Agencies Ltd', '', '504392']",557.75,569.0,568.75
+"['Mundra Port and Special Economic Zone Ltd', 'MUNDRAPORT', '532921']",244.1,374.8,362.65
+"['Munoth Financial Services Ltd', '', '531821']",9.5,11.39,10.75
+"['Muthoot Capital Services Ltd', '', '511766']",121.7,151.8,148.9
+"['My Fair Lady Ltd', '', '526622']",4.66,11.1,9.24
+"['Spicejet Ltd', 'MODILUFT', '500285']",11.25,28.75,24.65
+"['United Spirits Ltd', 'MCDOWELL-N', '532432']",2225.0,4082.0,3286.2
+"['NAGAROIL', 'NAGAROIL', '']",3.5,6.4,5.15
+"['NBCC', 'NBCC', '']",415.25,1214.4,984.5
+"['Benchmark Mutual Fund', 'NIFTYBEES', '']",777.0,915.0,810.81
+"['Motilal Oswal MOSt Shares NASDAQ - 100 ETF - Growth', 'N100', '533385']",221.0,306.0,272.64
+"['Nalin Lease Finance Ltd', '', '531212']",12.8,14.6,14.0
+"['Narendra Properties Ltd', '', '531416']",5.21,11.0,10.26
+"['Natco Pharma Ltd', 'NATCOPHARM', '524816']",1236.65,2709.85,2273.6
+"['National Plastic Industries Ltd', '', '526616']",14.4,46.45,39.2
+"['National Plastic Technologies Ltd', '', '531287']",14.0,26.45,24.0
+"['Navin Fluorine International Ltd', 'NAVINFLUOR', '532504']",560.1,1439.0,1205.35
+"['Navkar Builders Ltd', '', '531494']",10.05,21.4,18.44
+"['NCL Industries Ltd', 'NCLIND', '502168']",32.0,113.0,93.95
+"['Nectar Lifesciences Ltd', 'NECLIFE', '532649']",27.0,49.4,39.55
+"['Nelcast Ltd', 'NELCAST', '532864']",28.25,66.4,56.2
+"['Nestle India Ltd', 'NESTLEIND', '500790']",5501.0,7505.0,6104.65
+"['Neuland Laboratories Ltd', 'NEULANDLAB', '524558']",306.0,647.9,578.45
+"['New Horizon Leasing & Finance Ltd', '', '507918']",45.15,88.3,78.4
+"['NG Industries Ltd', '', '530897']",63.55,94.0,75.3
+"['NGL Fine Chem Ltd', '', '524774']",39.9,245.5,208.0
+"['Nicco Parks & Resorts Ltd', '', '526721']",13.52,50.1,46.2
+"['Nifty Junior Benchmark ETF', '', '590104']",163.65,218.4,203.55
+"['Nihar Info Global Ltd', '', '531083']",9.48,38.05,31.0
+"['NIIT Ltd', 'NIITLTD', '500304']",34.8,86.4,74.5
+"['Nilchem Industries Ltd', '', '526905']",2.78,20.15,18.79
+"['Nilkamal Ltd', 'NILKAMAL', '523385']",308.15,1173.6,993.65
+"['Nirlon Ltd', 'NIRLON', '500307']",124.5,213.9,185.0
+"['Nitco Ltd', 'NITCO', '532722']",13.65,39.4,32.3
+"['Nivedita Mercantile & Financing Ltd', '', '512381']",36.7,104.05,84.0
+"['NovaGold Petro Resources Ltd', '', '531791']",0.33,2.24,1.94
+"['Novartis India Ltd', 'NOVARTIND', '500672']",539.95,982.0,799.5
+"['NR Agarwal Industries Ltd', '', '516082']",16.05,35.8,30.5
+"['Nutech Global Ltd', '', '531304']",11.4,12.21,12.0
+"['ORIENTCEM', 'ORIENTCEM', '']",113.25,199.75,166.95
+"['Indian Sucrose Ltd', 'OSWALSUG', '500319']",5.9,10.89,9.0
+"['Olympia Industries Ltd', '', '521105']",16.0,220.0,178.2
+"['Olympic Oil Industries Ltd', '', '507609']",2.39,12.65,12.65
+"['OM Metals Infraprojects Ltd', 'OMMETALS', '531092']",24.15,54.65,48.8
+"['Omaxe Ltd', 'OMAXE', '532880']",122.3,140.05,133.6
+"['Omkar Pharmachem Ltd', '', '532167']",5.01,6.07,6.07
+"['Omnitex Industries India Ltd', '', '514324']",8.96,16.7,14.85
+"['Online Media Solutions Ltd', '', '532354']",0.6,4.05,4.04
+"['Oracle Financial Services Software Ltd', 'OFSS', '532466']",3136.1,4444.0,4059.4
+"['Oricon Enterprises Ltd', 'ORIENTCONT', '513121']",40.5,58.9,47.7
+"['Orient Abrasives Ltd', 'ORIENTABRA', '504879']",20.55,28.3,27.4
+"['Oriental Carbon & Chemicals Ltd', 'ORIENTCARB', '506579']",275.0,675.0,601.0
+"['Oriental Veneer Products Ltd', '', '531859']",135.25,650.0,620.0
+"['Orissa Sponge Iron & Steel Ltd', '', '504864']",116.0,468.0,389.2
+"['Ortin Laboratories Ltd', '', '590074']",7.73,14.35,11.95
+"['Oswal Chemicals & Fertilizers Ltd', 'BINDALAGRO', '500063']",18.75,61.75,52.55
+"['Oswal Yarns Ltd', '', '514460']",1.33,2.03,1.85
+"['Overseas Synthetics Ltd', '', '514330']",17.1,17.9,17.1
+"['PANCHSHEEL', 'PANCHSHEEL', '']",22.0,58.4,47.0
+"['PANAMAPET', 'PANAMAPET', '']",47.8,84.5,72.75
+"['PGEL', 'PGEL', '']",53.5,170.0,147.55
+"['PDSMFL', 'PDSMFL', '']",124.0,268.0,236.0
+"['PFRL', 'PFRL', '']",102.2,245.0,198.05
+"['Page Industries Ltd', 'PAGEIND', '532827']",7101.0,17000.0,14245.65
+"['Panama Petrochem Ltd', '', '524820']",47.8,84.5,72.75
+"['Panchsheel Organics Ltd', '', '531726']",22.0,58.4,47.0
+"['Pankaj Polymers Ltd', '', '531280']",10.08,17.4,14.0
+"['Pantaloon Retail India-DVR', '', '570002']",43.1,115.0,98.5
+"['Pantaloon Retail India-DVR', 'PRETAILDVR', ' 570002']",43.1,115.0,98.5
+"['Panyam Cements & Mineral Industries Ltd', 'PANYAMCEM', '500322']",25.65,71.65,58.2
+"['Paper Products Ltd', 'PAPERPROD', '509820']",160.25,331.95,289.15
+"['Paramount Cosmetics India Ltd', '', '507970']",25.35,61.2,53.25
+"['Parenteral Drugs India Ltd', 'PDPL', '524689']",16.1,34.0,30.2
+"['Parker Agrochem Exports Ltd', '', '524628']",5.36,10.51,10.51
+"['Parth Alluminium Ltd', '', '513430']",3.5,6.6,5.8
+"['PEARL Polymers Ltd', 'PEARLPOLY', '523260']",10.0,20.45,17.15
+"['Pee Cee Cosma Sope Ltd', '', '524136']",33.15,61.6,54.0
+"['Peeti Securities Ltd', '', '531352']",3.61,4.59,4.18
+"['Pfizer Ltd', 'PFIZER', '500680']",1401.6,2522.0,2309.25
+"['PG Foils Ltd', '', '526747']",35.2,49.75,41.15
+"['PH Capital Ltd', '', '500143']",4.1,15.02,15.02
+"['Pharma Com India Ltd', '', '516110']",1.9,5.88,5.88
+"['Phoenix Mills Ltd', 'PHOENIXLTD', '503100']",304.6,408.0,338.8
+"['PI Drugs & Pharmaceuticals Ltd', '', '512529']",364.0,889.0,830.0
+"['PI Industries Ltd', 'PIIND', '523642']",372.9,787.2,699.85
+"['Pidilite Industries Ltd', 'PIDILITIND', '500331']",377.5,638.0,567.55
+"['Piramal Healthcare Ltd', 'PIRHEALTH', '500302']",664.2,1044.5,932.25
+"['Planters Polysacks Ltd', '', '523105']",13.05,422.0,372.9
+"['Plastiblends India Ltd', 'PLASTIBLEN', '523648']",192.0,399.5,353.05
+"['Poona Dal & Oil Industries Ltd', '', '519359']",14.8,22.8,19.35
+"['Power Grid Corporation of India Ltd', 'POWERGRID', '532898']",125.15,159.2,134.6
+"['Prabhav Industries Ltd', '', '531855']",0.81,1.92,1.57
+"['Precision Pipes & Profiles Company Ltd', 'PPAP', '532934']",78.0,135.0,122.55
+"['Precision Wires India Ltd', 'PRECWIRE', '523539']",104.5,166.3,135.0
+"['Premier Synthetics Ltd', '', '509835']",9.03,15.61,15.61
+"['Pressure Sensitive Systems India Ltd', '', '526773']",5.12,8.05,8.03
+"['Prima Plastics Ltd', '', '530589']",23.4,95.0,78.25
+"['Prime Focus Ltd', 'PFOCUS', '532748']",35.6,59.5,48.05
+"['Prime Textiles Ltd', '', '521149']",2.95,11.4,9.93
+"['Prithvi Softech Ltd', 'PRITHVISOF', '531688']",17.25,31.05,26.0
+"['Priya Ltd', 'PRIYADYES', '524580']",23.1,48.0,42.0
+"['Procter & Gamble Hygiene & Health Care Ltd', 'PGHH', '500459']",4765.0,7449.0,6045.3
+"['Promact Plastics Ltd', '', '526494']",1.48,3.2,2.69
+"['Prudential ICICI Mutual Fund (SPIcE)', '', '555555']",226.0,336.99,309.0
+"['Pudumjee Industries Ltd', 'PDUMJEIND', '516092']",9.15,16.0,13.4
+"['Punit Commercials Ltd', '', '512099']",16.65,17.25,17.25
+"['PVR Ltd', 'PVR', '532689']",605.0,885.0,833.9
+"['Quantum Gold Fund', 'QGOLDHALF', '']",1058.8,1319.95,1205.05
+"['Quantum Index Fund -Exchange Traded Fund (ETF)', 'QNIFTY', '590110']",813.2,1040.0,873.0
+"['RELNIFTY', 'RELNIFTY', '']",77.0,102.0,83.29
+"['RAMCOCEM', 'RAMCOCEM', '']",277.0,380.0,322.3
+"['REPCOHOME', 'REPCOHOME', '']",406.0,785.0,701.5
+"['RELCNX100', 'RELCNX100', '']",75.6,100.0,84.05
+"['RELCONS', 'RELCONS', '']",27.23,41.69,37.0
+"['Raasi Refractories Ltd', '', '502271']",4.59,14.22,13.08
+"['Radico Khaitan Ltd', 'RADICO', '532497']",75.95,105.0,91.2
+"['Raghuvir Synthetics Ltd', '', '514316']",12.0,42.0,39.0
+"['Rahul Merchandising Ltd', '', '531887']",6.47,11.36,11.36
+"['Raigarh Paper & Board Mills Ltd', '', '530495']",4.4,6.78,6.43
+"['Rainbow Foundations Ltd', '', '531694']",12.07,18.65,18.0
+"['Rajasthan Tube Manufacturing Company Ltd', '', '530253']",14.0,19.95,18.8
+"['Rajdhani Leasing & Industries Ltd', '', '523030']",37.1,49.0,40.75
+"['Rajesh Exports Ltd', 'RAJESHEXPO', '531500']",117.5,621.9,517.25
+"['Rama Newsprint & Papers Ltd', 'RAMANEWS', '500356']",5.4,15.0,12.75
+"['Rama Petrochemicals Ltd', 'RAMAPETRO', '500358']",2.77,9.48,9.48
+"['Rama Pulp & Papers Ltd', '', '502587']",5.3,8.89,7.93
+"['Ramkrishna Forgings Ltd', 'RKFORGE', '532527']",212.1,781.0,655.9
+"['Ramsons Projects Ltd', '', '530925']",14.25,17.2,17.2
+"['Rane Brake Lining Ltd', 'RBL', '532987']",255.3,376.95,303.0
+"['Rane Holdings Ltd', 'RANEHOLDIN', '505800']",436.0,748.0,636.9
+"['Ras Resorts & Apart Hotels Ltd', '', '507966']",22.2,49.4,45.1
+"['Relaxo Footwears Ltd', 'RELAXO', '530517']",210.0,614.95,526.0
+"['Reliance Industries Ltd', 'RELIANCE', '500325']",796.45,1067.85,872.4
+"['Reliance Mutual Fund - Gold Exchange Traded Fund', 'RELGOLD', '']",2200.0,2559.0,2330.0
+"['Reliance Mutual Fund -Banking Exchange Traded Fund', 'RELBANK', '']",1607.0,2398.0,2025.0
+"['Religare Gold ETF', 'RELIGAREGO', '533172']",2267.0,2781.0,2426.0
+"['Religare Nifty Exchange Traded Fund', 'RELGRNIFTY', '']",736.0,899.0,755.0
+"['Richirich Agro Ltd', '', '519230']",2.45,5.18,4.18
+"['Rishi Packers Ltd', 'RISHIPACK', '523021']",5.4,11.02,9.8
+"['Rishiroop Rubber International Ltd', '', '523658']",12.3,24.1,19.5
+"['Ritesh International Ltd', '', '519097']",3.41,5.24,4.24
+"['Ritesh Properties & Industries Ltd', '', '526407']",5.87,11.26,9.75
+"['RJ Shah & Company Ltd', '', '509845']",214.5,320.5,270.55
+"['Rockland Thermionics Ltd', '', '530061']",4.0,17.15,17.15
+"['Rosebud Commercials Ltd', '', '512161']",281.0,1299.0,1238.5
+"['RR Securities Ltd', '', '530917']",2.51,2.77,2.75
+"['RTS Power Corporation Ltd', '', '531215']",18.0,36.15,32.0
+"['Ruby Mills Ltd', 'RUBYMILLS', '503169']",242.0,494.0,413.1
+"['Ruchira Papers Ltd', 'RUCHIRA', '532785']",18.7,50.95,41.7
+"['Rushil Decor Ltd', 'RUSHIL', '533470']",41.5,162.9,131.2
+"['SANOFI', 'SANOFI', '']",2932.0,4580.0,3975.05
+"['SAYAJIHOTL', 'SAYAJIHOTL', '']",110.0,150.6,144.9
+"['SIMPLEXCAS', 'SIMPLEXCAS', '']",31.1,53.8,47.2
+"['SUNCLAYLTD', 'SUNCLAYLTD', '']",1313.3,2255.4,1945.7
+"['STYABS', 'STYABS', '']",550.0,943.9,761.25
+"['SWANENERGY', 'SWANENERGY', '']",51.5,70.0,60.05
+"['SQSBFSI', 'SQSBFSI', '']",450.05,843.3,713.35
+"['SHEMAROO', 'SHEMAROO', '']",144.0,321.85,271.5
+"['SDBL', 'SDBL', '']",176.5,246.0,197.0
+"['Benchmark Mutual Fund - Shariah Benchmark Exchange', 'SHARIABEES', '']",165.0,229.55,197.0
+"['Saboo Brothers Ltd', '', '530267']",8.8,13.12,10.6
+"['Sadbhav Engineering Ltd', 'SADBHAV', '532710']",204.35,385.0,311.1
+"['Sah Petroleums Ltd', 'SAHPETRO', '532543']",22.25,53.25,43.15
+"['Sahil Financial Services Ltd', '', '531203']",22.0,51.6,49.05
+"['Sainik Finance & Industries Ltd', '', '530265']",5.64,16.0,15.22
+"['Salguti Industries Ltd', '', '526554']",5.58,23.5,20.45
+"['Sampre Nutritions Ltd', '', '530617']",7.75,14.5,14.45
+"['Sandesh Ltd', 'SANDESH', '526725']",345.05,809.0,649.8
+"['Sangam India Ltd', 'SANGAMIND', '514234']",68.05,249.0,226.55
+"['Sarda Papers Ltd', '', '516032']",5.83,19.16,18.25
+"['Sat Industries Ltd', '', '511076']",1.81,7.03,6.0
+"['Savani Financials Ltd', '', '511577']",3.52,5.43,5.25
+"['Savera Industries Ltd', 'SAVERA', '512634']",33.5,54.65,44.95
+"['Sayaji Hotels Ltd', 'SAYAJHOTEL', '523710']",110.0,150.6,144.9
+"['SBI Mutual Fund - SBI Gold Exchange Traded Scheme', 'SBIGETS', '']",2315.0,2999.0,2445.2
+"['Scenario Media Ltd', '', '505590']",11.4,27.4,26.85
+"['Seahorse Hospitals Ltd', '', '524520']",1.98,4.23,3.66
+"['Seshachal Technologies Ltd', '', '531794']",1.33,3.03,2.5
+"['Shah Foods Ltd', '', '519031']",25.6,61.0,61.0
+"['Shaily Engineering Plastics Ltd', '', '501423']",47.0,488.0,403.8
+"['Shalibhadra Finance Ltd', '', '511754']",26.05,70.0,64.6
+"['Sharad Fibres & Yarn Processors Ltd', '', '514402']",8.38,9.72,9.4
+"['Shasun Chemicals & Drugs Ltd', 'SHASUNPHAR', '524552']",175.0,415.5,363.85
+"['Sheetal Diamonds Ltd', '', '530525']",2.99,5.97,5.7
+"['Shekhawati Poly-Yarn Limited', 'SPYL', '533301']",0.75,2.8,2.4
+"['Shilp Gravures Ltd', '', '513709']",39.35,81.4,66.05
+"['Shipping Corporation of India Ltd', 'SCI', '523598']",43.65,84.8,69.05
+"['Shivagrico Implements Ltd', '', '522237']",11.85,16.49,13.9
+"['Shivam Autotech Ltd', 'SHIVAMAUTO', '532776']",52.42,169.4,147.15
+"['Shree Cement Ltd', 'SHREECEM', '500387']",7815.0,12249.0,11014.55
+"['Shree Om Trades Ltd', '', '506180']",123.4,131.0,123.4
+"['Shree Pacetronix Ltd', '', '527005']",12.03,25.2,21.85
+"['Shri Chlochem Ltd', '', '524640']",8.57,23.9,23.9
+"['Shri Ganesh Spinners Ltd', '', '531693']",0.05,0.34,0.31
+"['Shriram Asset Management Company Ltd', '', '531359']",19.55,32.35,27.5
+"['Sical Logistics Ltd', 'SICAL', '520086']",91.0,203.35,168.55
+"['Siemens Ltd', 'SIEMENS', '500550']",768.8,1559.7,1280.1
+"['Silver Oak India Ltd', '', '531635']",16.3,21.65,17.7
+"['Simmonds Marshall Ltd', '', '507998']",37.5,106.4,87.95
+"['Simplex Castings Ltd', '', '513472']",31.1,53.8,47.2
+"['SIP Industries Ltd', '', '523164']",3.8,4.0,3.8
+"['Sita Enterprises Ltd', '', '512589']",6.75,14.62,13.89
+"['SJVN Ltd', 'SJVN', '533206']",21.9,27.35,23.9
+"['Smartlink Network Systems Ltd', 'SMARTLINK', '532419']",55.0,128.65,103.3
+"['Softbpo Global Services Ltd', '', '504375']",106.0,116.55,111.0
+"['Softech Infinium Solutions Ltd', '', '530651']",2.32,6.11,5.05
+"['Solar Industries India Ltd', 'SOLARINDS', '532725']",2020.0,4301.05,3501.65
+"['Solitaire Machine Tools Ltd', '', '522152']",11.0,20.3,17.0
+"['Som Datt Finance Corporation Ltd', 'SOMDUTTFIN', '511571']",4.21,7.7,6.96
+"['Som Distilleries & Breweries Ltd', '', '507514']",176.5,246.0,197.0
+"['Sona Koyo Steering Systems Ltd', 'SONASTEER', '520057']",42.8,74.5,63.0
+"['South India Paper Mills Ltd', '', '516108']",50.25,107.4,89.0
+"['Span Diagnostics Ltd', '', '524727']",38.3,68.0,59.95
+"['Spenta International Ltd', '', '526161']",23.05,76.7,73.0
+"['Spicejet Ltd', 'MODILUFT', '500285']",11.25,28.75,24.65
+"['SPS International Ltd', '', '530177']",2.6,5.75,4.69
+"['SR Industries Ltd', '', '513515']",3.77,8.34,8.0
+"['SRF Ltd', 'SRF', '503806']",645.2,1498.85,1199.35
+"['SRF Polymers Ltd', '', '532468']",680.0,1499.0,1254.5
+"['Sri Adhikari Brothers Television Network Ltd', 'SABTN', '530943']",119.45,324.8,288.35
+"['Sri Ramakrishna Mills Coimbatore Ltd', '', '521178']",13.3,21.94,21.94
+"['Standard Capital Markets Ltd', '', '511700']",2.77,3.04,3.03
+"['Stanpacks India Ltd', '', '530931']",3.53,7.33,7.33
+"['Star Leasing Ltd', '', '508922']",29.95,185.0,149.5
+"['Starchik Specialities Ltd', '', '519455']",3.16,9.04,8.0
+"['Starvox Electronics Ltd', '', '517172']",0.0,9.15,9.15
+"['Steel Strips Infrastructures Ltd', '', '513173']",2.81,9.0,9.0
+"['Steel Strips Wheels Ltd', 'SSWL', '513262']",253.6,396.0,331.15
+"['Sterling Holiday Resorts India Ltd', 'STERLINHOL', '523363']",145.0,279.4,250.3
+"['Sterlite Projects Ltd', '', '506971']",3.22,13.3,11.07
+"['STI India Ltd', 'STINDIA', '513151']",6.25,10.6,9.6
+"['Stovec Industries Limited', '', '504959']",720.0,1993.0,1650.0
+"['Stresscrete India Ltd', '', '531444']",13.65,16.5,13.65
+"['Strides Arcolab Ltd', 'STAR', '532531']",625.0,1374.1,1191.35
+"['Suave Hotels Ltd', '', '531373']",147.25,181.5,163.65
+"['Subway Finance & Investment Company Ltd', '', '511024']",1.53,5.11,5.11
+"['Suncity Synthetics Ltd', '', '530795']",4.0,10.96,9.41
+"['Sundaram Clayton Ltd', 'SUNCLAYTON', '520056']",1313.3,2255.4,1945.7
+"['Sundaram Finance Ltd', 'SUNDARMFIN', '590071']",910.2,1640.0,1465.15
+"['Sunil Agro Foods Ltd', '', '530953']",13.07,28.65,24.95
+"['Sunil Industries Ltd', '', '521232']",12.05,27.05,27.05
+"['Sunshield Chemicals Ltd', '', '530845']",185.05,658.0,538.0
+"['Super Bakers India Ltd', '', '530735']",6.0,15.0,13.21
+"['Supertex Industries Ltd', '', '526133']",1.65,3.4,2.8
+"['Suprajit Engineering Ltd', 'SUPRAJIT', '532509']",110.75,171.0,139.3
+"['Supreme Industries Ltd', 'SUPREMEIND', '509930']",570.1,746.8,599.55
+"['Supreme Petrochem Ltd', 'SUPPETRO', '500405']",63.1,136.1,109.2
+"['Suraj Products Ltd', '', '518075']",11.4,23.0,19.0
+"['Suryanagri Finlease Ltd', '', '530867']",37.3,103.1,100.0
+"['Suryodaya Investment & Trading Company Ltd', '', '501178']",0.0,5.14,5.14
+"['Svaraj Trading & Agencies Ltd', '', '503624']",155.15,197.5,180.5
+"['Swan Mills Ltd', '', '503310']",51.5,70.0,60.05
+"['Swaraj Engines Ltd', 'SWARAJENG', '500407']",742.0,1072.95,881.5
+"['Synthiko Foils Ltd', '', '513307']",16.8,48.45,47.45
+"['THEBYKE', 'THEBYKE', '']",147.25,181.5,163.65
+"['T & I Global Ltd', '', '522294']",11.2,20.42,20.4
+"['T Spiritual World Ltd', '', '532444']",0.48,1.03,0.85
+"['TAI Industries Ltd', '', '519483']",11.05,19.75,17.0
+"['Tamboli Capital Ltd', '', '533170']",26.0,69.9,60.0
+"['Tamil Nadu Newsprint & Papers Ltd', 'TNPL', '531426']",117.0,221.4,191.8
+"['Tamilnadu Petroproducts Ltd', 'TNPETRO', '500777']",10.75,27.9,22.55
+"['TANFAC Industries Ltd', 'TANFACIND', '506854']",11.5,47.2,39.0
+"['Tanla Solutions Ltd', 'TANLA', '532790']",12.0,33.85,27.8
+"['Taparia Tools Ltd', '', '505685']",50.6,53.1,53.1
+"['Tata Coffee Ltd', 'TATACOFFEE', '532301']",84.25,107.4,89.7
+"['Tata Consultancy Services Ltd', 'TCS', '532540']",2345.0,2839.7,2570.85
+"['Tata Elxsi Ltd', 'TATAELXSI', '500408']",500.0,2317.4,1864.95
+"['Tata Investment Corporation Ltd', 'TATAINVEST', '501301']",501.1,652.3,524.7
+"['TCM Ltd', '', '524156']",21.0,92.4,78.1
+"['Techno Electric & Engg Company Limited', 'TECHNO', '533281']",240.05,569.0,534.35
+"['Thakral Services India Ltd', '', '509015']",9.11,15.66,13.92
+"['Thambbi Modern Spinning Mills Ltd', '', '514484']",3.28,7.17,5.84
+"['Themis Medicare Ltd', 'THEMISMED', '530199']",105.7,223.0,220.5
+"['Thinksoft Global Services Ltd', 'THINKSOFT', '533121']",450.05,843.3,713.35
+"['Thomas Cook India Ltd', 'THOMASCOOK', '500413']",130.05,256.0,209.45
+"['Tide Water Oil India Ltd', 'TIDEWATER', '590005']",11777.0,19679.65,16222.0
+"['Timken India Ltd', 'TIMKEN', '522113']",371.5,669.0,570.7
+"['Tirupati Foam Ltd', '', '590035']",20.0,39.0,36.6
+"['Tirupati Starch & Chemicals Ltd', '', '524582']",7.05,17.49,15.75
+"['Todays Writing Products Ltd', 'TODAYS', '531830']",2.0,5.05,4.12
+"['Tokyo Finance Ltd', '', '531644']",4.78,8.37,8.35
+"['Torrent Gujarat Biotech Ltd', 'TORRENGUJ', '523856']",91.1,173.0,142.1
+"['Torrent Pharmaceuticals Ltd', 'TORNTPHARM', '500420']",793.0,1674.75,1614.65
+"['Torrent Power Ltd', 'TORNTPOWER', '532779']",130.05,191.9,155.4
+"['Total Exports Ltd', '', '523878']",18.9,38.55,34.7
+"['Transpek Finance Ltd', '', '531254']",5.81,15.04,13.0
+"['Transport Corporation of India Ltd', 'TCI', '532349']",187.9,322.0,273.2
+"['Trishakti Electronics & Industries Ltd', '', '531279']",7.56,9.97,8.16
+"['TTK Prestige Ltd', 'TTKPRESTIG', '517506']",2980.0,4832.0,3883.75
+"['Tube Investments of India Ltd', 'TUBEINVEST', '504973']",275.25,439.0,402.95
+"['TV Today Network Ltd', 'TVTODAY', '532515']",165.0,262.0,217.8
+"['Twinstar Software Exports Ltd', '', '531917']",0.72,1.95,1.83
+"['Ultramarine & Pigments Ltd', 'ULTRMARINE', '506685']",60.0,91.25,73.9
+"['Ultratech Cement Ltd', 'ULTRACEMCO', '532538']",2297.2,3398.0,2946.75
+"['Uni Abex Alloy Products Ltd', '', '504605']",329.9,665.0,578.0
+"['Unichem Laboratories Ltd', 'UNICHEMLAB', '506690']",173.0,284.3,268.1
+"['Union Quality Plastics Ltd', '', '526799']",1.71,8.49,8.49
+"['Uniply Industries Ltd', 'UNIPLY', '532646']",6.3,156.8,127.2
+"['United Credit Ltd', '', '531091']",15.35,29.0,24.0
+"['United Phosphorus Ltd', 'UNIPHOS', '512070']",299.45,576.4,521.75
+"['United Spirits Ltd', 'MCDOWELL-N', '532432']",2225.0,4082.0,3286.2
+"['Unjha Formulations Ltd', '', '531762']",2.87,10.57,9.38
+"['UP Hotels Ltd', '', '509960']",261.0,356.9,297.7
+"['Upasana Finance Ltd', '', '511764']",7.22,21.7,18.8
+"['VIKASGLOB', 'VIKASGLOB', '']",5.62,16.8,13.7
+"['VSSL', 'VSSL', '']",29.0,48.0,42.5
+"['Vaghani Techno Build Ltd', '', '531676']",4.3,13.15,10.75
+"['Valley Indiana Leisure Ltd', '', '531962']",11.57,23.3,19.5
+"['Vardhman Holdings Ltd', 'VHL', '500439']",655.0,1198.4,1102.0
+"['Vardhman Textiles Ltd', 'VTL', '502986']",398.0,989.0,891.9
+"['Varun Shipping Company Ltd', 'VARUNSHIP', '500465']",3.7,11.5,9.85
+"['VCCL Ltd', '', '522015']",2.76,3.33,3.02
+"['Vidhi Dyestuffs Manufacturing Ltd', '', '531717']",7.2,53.3,44.7
+"['Vijay Growth Financial Services Ltd', '', '511539']",1.1,2.41,2.08
+"['Vijay Solvex Ltd', '', '531069']",65.1,122.0,103.6
+"['Vikas Profin Ltd', '', '530961']",5.62,16.8,13.7
+"['Vintage Securities Ltd', '', '531051']",8.05,13.15,11.69
+"['Vinyoflex Ltd', '', '530401']",6.29,18.35,15.5
+"['Virat Crane Industries Ltd', '', '519457']",7.0,45.35,39.5
+"['Virat Industries Ltd', '', '530521']",40.55,74.8,61.15
+"['Virtualsoft Systems Ltd', '', '531126']",4.38,5.82,5.24
+"['Visaka Industries Ltd', 'VISAKAIND', '509055']",85.0,188.8,152.6
+"['Vishal Cotspin Ltd', '', '531822']",149.9,184.9,163.0
+"['Vishal Malleables Ltd', '', '505930']",8.41,24.3,24.3
+"['Vision Corporation Ltd', '', '531668']",0.52,0.96,0.96
+"['Visu International Ltd', 'VISUINTL', '590038']",0.35,1.3,1.3
+"['Vivo Bio Tech Ltd', '', '511509']",16.55,19.55,19.55
+"['VMF Softech Ltd', '', '519602']",14.07,87.0,72.75
+"['Voltaire Leasing & Finance Ltd', '', '509038']",4.07,34.0,33.7
+"['Kennametal India Ltd', 'WIDIA', '505890']",722.0,973.0,821.0
+"['WABCO India Limited', 'WABCOINDIA', '533023']",3516.0,7450.0,6696.3
+"['Wanbury Ltd', 'WANBURY', '524212']",24.6,83.2,66.65
+"['Waterbase Ltd', 'WATERBASE', '523660']",44.0,119.9,100.1
+"['Welspun India Ltd', 'WELSPUNIND', '514162']",214.0,963.0,770.65
+"['Wendt India Ltd', 'WENDT', '505412']",1490.0,2429.95,1957.05
+"['Whirlpool of India Ltd', 'WHIRLPOOL', '500238']",386.7,847.0,681.9
+"['Wim Plast Ltd', 'WIMPLAST', '526586']",975.05,2499.0,2030.0
+"['Winsome Textile Industries Ltd', '', '514470']",29.1,66.5,57.0
+"['Wipro Ltd', 'WIPRO', '507685']",512.5,677.6,563.6
+"['Wisec Global Ltd', '', '511642']",5.46,8.35,6.84
+"['Zee Entertainment Enterprises Ltd', 'ZEEL', '505537']",272.55,421.7,387.8
+"['Zenith Exports Ltd', 'ZENITHEXPO', '512553']",51.1,68.8,64.5
+"['Zensar Technologies Ltd', 'ZENSARTECH', '504067']",440.0,1010.0,834.6
+"['3M India Ltd', '3MINDIA', '523395']",5610.0,12565.0,11034.8
