@@ -1,8 +1,7 @@
 from commonSettings import *
-from commonFunctions import getParsedHTML, getText, dumpData, csvWriter
+from commonFunctions import getParsedHTML, getText, dumpData, csvWriter, load
 
-def load(file):
-    return pickle.load(open(file,'rb'))
+
 
 StockSymbols = load('data/symbolsMCupdated.p')
 Indexes = load('data/index.p')
