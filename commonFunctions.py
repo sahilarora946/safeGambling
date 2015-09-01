@@ -23,6 +23,9 @@ def csvWriter(file, fieldnames):
 def load(file):
     return pickle.load(open(file,'rb'))
 
+def load(file):
+    return pickle.load(open(file,'rb'))
+
 def main():
     pass
 
