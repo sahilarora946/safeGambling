@@ -58,8 +58,6 @@ def getSymbolFromMCurl(url):
         nse = info[1][4:]
     return (nse,bse)
 
-def load(file):
-    return pickle.load(open(file,'rb'))
 
 def updateAllSymbols():
     symbols = load('data/symbols.p')
