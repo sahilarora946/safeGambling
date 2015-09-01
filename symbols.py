@@ -1,8 +1,8 @@
 from commonSettings import *
-from commonFunctions import getParsedHTML, getText, dumpData, csvWriter
+from commonFunctions import getParsedHTML, getText, dumpData, csvWriter, load
 
 base_url = "http://www.stockfry.com/"
-
+MC_base_url = "http://www.moneycontrol.com/"
 def getURL(i):
     return base_url + '/Report_New.asp?id=StockList&a=' + str(101+i)
 
@@ -190,9 +190,88 @@ def improveMCsearchForPreiousFails():
             print symbol, data[i][-1]
     dumpData(data, 'data/symbolsMCupdated.p')
 
-def getMCSymbolsUpdated()
+def getMCSymbolsUpdated():
     getMCSymbols()
     improveMCsearchForPreiousFails()
+
+def searchSymbol(symbol):
+    driver = webdriver.Chrome()
+    time.sleep(2)
+    driver.get("http://www.moneycontrol.com/")
+    time.sleep(2)
+    if len(symbol)<2:
+        return []
+    while True:
+        id = driver.find_elements_by_id("search_str")
+        if len(id)>0:
+            id[0].send_keys(symbol)
+            id[0].submit()
+            break
+        else: time.sleep(2)
+    mcURL = str(driver.current_url.encode('UTF-8'))
+    output = []
+    if mcURL.startswith('http://www.moneycontrol.com/india/stockpricequote/'):
+            mcURLsplit = mcURL.split('/')
+            mcSymbol = mcURLsplit[-1]
+            mcName = mcURLsplit[-2]
+            mcSector = mcURLsplit[-3]
+            output = [mcSector, mcName, mcSymbol,mcURL]
+    else:
+        parsedHTML = getParsedHTML(driver.current_url)
+        table = parsedHTML.find(attrs={'class':'srch_tbl'}).findAll('tr')
+        try:
+            for row in table:
+                entry = row.findAll('td')[1]
+                entry = getText(entry).split(' ')
+                exitFlag = False
+                for k in entry:
+                    if len(k)>0 and k[0] == ':':
+                        if k[1:] == symbol[j]:
+                            mcURL = str(row.find('td').a['href'].encode('UTF-8'))
+                            mcURLsplit = mcURL.split('/')
+                            mcSymbol = mcURLsplit[-1]
+                            mcName = mcURLsplit[-2]
+                            mcSector = mcURLsplit[-3]
+                            output = [mcSector, mcName, mcSymbol,mcURL]
+                            exitFlag = True
+                            break
+                if exitFlag:
+                    break
+        except:
+            driver.close()
+            return
+    driver.close()
+    return output
+
+
+
+
+
+def insertSymbolinDatabase(symbol):
+    index = load('data/index.p')
+    try:
+        print index[symbol]
+        print symbol + 'is already in our database'
+    except:
+        result = searchSymbol(symbol)
+        if result == []:
+            print 'symbol not found'
+            return
+        nse,bse = getSymbolFromMCurl(result[-1])
+        symbols = load('data/symbols.p')
+        data = load('data/symbolsMCupdated.p')
+        l = len(data)
+        symbols.append(['',nse,bse])
+        data.append(['',nse,bse])
+        data[-1].extend(result)
+        if nse != "":
+            index[nse] = l
+        if bse != "":
+            index[bse] = l
+        dumpData(index, 'data/index.p')
+        dumpData(symbols, 'data/symbols.p')
+        dumpData(data, 'data/symbolsMCupdated.p')
+        return True
 
 #get all the stock symbols and save the data in data folder
 def main():

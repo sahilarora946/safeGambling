@@ -1,6 +1,6 @@
 from commonSettings import *
 from commonFunctions import getParsedHTML, getText, dumpData, csvWriter, load
-
+from symbols import insertSymbolinDatabase
 
 
 StockSymbols = load('data/symbolsMCupdated.p')
@@ -49,22 +49,25 @@ def _52weeksHighZone():
 def is52WeekHigh(symbol):
     try:
         index = Indexes[symbol]
-        StockSymbols[index][-1]
+        url = StockSymbols[index][-1]
         currHighLow = getCurrentAnd52WeekHighLow(url)
         if currHighLow  is None:
             print "could not get low high, might not be trading currently"
         curr, high,low = currHighLow
         diff = (high - curr)/(high)*100
         if diff < 20:
-            return True
-        return False
-
+            print (True, (low,high, curr))
+            return
+        print (False, (low, high, curr))
     except:
-        print "Symbol not found"
-        return False
+        print "Symbol not found, trying to find and insert in database"
+        if insertSymbolinDatabase(symbol):
+            print is52WeekHigh(symbol)
+            return
+        print False
 
 def main():
-    _52weeksHighZone()
+    is52WeekHigh('8KMILES')
 
 if __name__ == "__main__":
     main()

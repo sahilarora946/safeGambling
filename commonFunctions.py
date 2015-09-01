@@ -20,8 +20,6 @@ def csvWriter(file, fieldnames):
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     return writer
-def load(file):
-    return pickle.load(open(file,'rb'))
 
 def load(file):
     return pickle.load(open(file,'rb'))
