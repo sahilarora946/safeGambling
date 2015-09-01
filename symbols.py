@@ -58,7 +58,6 @@ def getSymbolFromMCurl(url):
         nse = info[1][4:]
     return (nse,bse)
 
-
 def updateAllSymbols():
     symbols = load('data/symbols.p')
     data = load('data/symbolsMCupdated.p')
