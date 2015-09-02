@@ -1,12 +1,16 @@
 from commonSettings import *
-def getParsedHTML(url):
+def getHTML(url):
     sock = urllib.urlopen(url)
     htmlSource = sock.read()
     sock.close()
+    return htmlSource
+
+def getParsedHTML(url):
+    htmlSource = getHTML(url)
     try:
         return BeautifulSoup(htmlSource, 'html.parser')
     except:
-        BeautifulSoup(htmlSource, 'lxml')
+        return BeautifulSoup(htmlSource, 'lxml')
 
 #get the text from the parsed object
 def getText(soup):
@@ -26,8 +30,6 @@ def load(file):
 def load(file):
     return pickle.load(open(file,'rb'))
 
-def main():
-    pass
 
 if __name__ == "__main__":
-    main()
+    pass
