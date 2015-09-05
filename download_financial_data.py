@@ -45,6 +45,7 @@ def download_fin_data_from_URL(url, driver = ""):
             if quarterDataHTML1.find('Basic EPS') != -1 or quarterDataHTML1.find('Data Not Available for Quarterly Results')!= -1:
                 break
             time.sleep(0.5)
+        time.sleep(2)
         l = driver.find_elements_by_class_name("prevnext")
         if len(l) > 0:
             l[-1].click()
@@ -65,12 +66,13 @@ def download_fin_data_from_URL(url, driver = ""):
 def downloadFinancialData():
     driver = webdriver.Chrome()
     time.sleep(2)
-    for i in range(nSymbols):
-        print i
+    for i in range(2717,-1,-1):
+        print i,nSymbols
         data = download_fin_data_from_URL(StockSymbols[i][-1], driver)
         if data is not None:
             saveFinancialData(data, i)
     driver.close()
+
 
 if __name__ == "__main__":
     downloadFinancialData()
