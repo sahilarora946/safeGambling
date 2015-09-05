@@ -30,7 +30,7 @@ def download_fin_data_from_URL(url, driver = ""):
         mcSector = mcURLsplit[-3]
         annualFinancialURL = moneycontrolURL+'financials/'+mcName+'/results/yearly/'+mcSymbol+'#'+mcSymbol
         quarterlyFinancialURL = moneycontrolURL+'financials/'+mcName+'/results/quarterly-results/'+mcSymbol+'#'+mcSymbol
-        annualDataHTML = getHTML(quarterlyFinancialURL)
+        annualDataHTML = getHTML(annualFinancialURL)
 
         closeDriver = False
         if driver == "":
@@ -63,10 +63,30 @@ def download_fin_data_from_URL(url, driver = ""):
         print 'invalid url'
         return None
 
+def download_annual_data_from_URL(url,index):
+    try:
+        if url.startswith('http://www.moneycontrol.com/india/stockpricequote/'):
+            mcURLsplit = url.split('/')
+            mcSymbol = mcURLsplit[-1]
+            mcName = mcURLsplit[-2]
+            annualFinancialURL = moneycontrolURL+'financials/'+mcName+'/results/yearly/'+mcSymbol+'#'+mcSymbol
+            annualDataHTML = getHTML(annualFinancialURL)
+            directory = 'data/financials/'+str(index)+'/'
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            dumpData(annualDataHTML, directory+'annualFinancialData.p')
+    except:
+        print 'error'
+
+def downloadAnnualData(a,b):
+    for i in range(a,b):
+        print i,nSymbols
+        data = download_annual_data_from_URL(StockSymbols[i][-1], i)
+
 def downloadFinancialData():
     driver = webdriver.Chrome()
     time.sleep(2)
-    for i in range(2717,-1,-1):
+    for i in range(0,nSymbols):
         print i,nSymbols
         data = download_fin_data_from_URL(StockSymbols[i][-1], driver)
         if data is not None:
@@ -75,5 +95,6 @@ def downloadFinancialData():
 
 
 if __name__ == "__main__":
-    downloadFinancialData()
+    pass
+    #downloadAnnualData()
     #download_and_save_fin_data_from_symbol()

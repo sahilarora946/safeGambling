@@ -13,7 +13,8 @@ import time
 import csv
 
 moneycontrolURL = 'http://www.moneycontrol.com/'
-
+month = {'Jan':1,'Feb':1,'Mar':1,'Apr':1,'May':1,'Jun':1,'Jul':1,'Aug':1,'Sep':1,'Oct':1,'Nov':1,'Dec':1}
+monthList = ['Mar','Jun','Sep','Dec']
 def main():
     pass
 
