@@ -1,8 +1,7 @@
 from commonSettings import *
 from commonFunctions import getParsedHTML, getText, dumpData, csvWriter, load, getParsedSoupFromHTML, write, getEmptyFinancialDataDict
 
-completeFinancialData = {}
-filteredFinancialData = {}
+
 
 def stripNewLine(x):
     return x.strip('\n')
@@ -188,185 +187,267 @@ def saveOnlyRelevantTableData(a,b):
         print i,nSymbols
         saveOnlyRelevantTableDataOfIndex(i)
 
-def getParsedFinancialData(index):
-    '''DIR = 'data/financials/'+str(index)+'/'
-    annualData = load(DIR+'annualDict.p')
-    if annualData == None:
-        return {}
-    output = {}
-    output['Year'] = annualData['month']
-    output['Annual EPS'] = annualData['EPS Before Extra Ordinary']['Basic EPS']
-    output['Net Annual Sales'] = annualData['Net Sales/Income from operations']
-    '''
-    try:
-        DIR = 'data/financials/'+str(index)+'/'
-        return (load(DIR+'annualDict.p'), load(DIR+'quarterDict.p'))
-    except:
-        return None
 
-stockSymbols = load('data/symbolsMCupdated.p')
-nSymbols = len(stockSymbols)
-def getAllParsedFinancialData():
-    for i in range(1,100):
-        completeFinancialData[i] = getParsedFinancialData(i)
-    print ''
-    global filteredFinancialData
-    filteredFinancialData = completeFinancialData
 
 def format(x,y):
     return repr(x).ljust(y)
 
-def calculateEpsLastYearChange(eps,month):
-    if len(eps) < 5 or eps[0]=='--' or float(eps[0]) < 0.0:
-        return []
-    epsPerChangeQ = []
-    for i in range(len(eps)):
-        eps[i] = eps[i].replace(',','')
-    i = 0
-    #print month
-    while i+4 < len(eps):
-        if eps[i] == '--':
-            break
-        flag = False
-        for j in range(i+1,i+5):
-            if month[i].split(' ')[0] == month[j].split(' ')[0] and eps[i] != '--' and eps[j]!= '--':
-                if float(eps[j]) != 0:
-                    epsPerChangeQ.append((float(eps[i]) - float(eps[j]))/abs(float(eps[j]))*100)
-                else:
-                    if float(eps[j]) < 0:
-                        epsPerChangeQ.append(-100000)
-                    elif float(eps[j]) > 0:
-                        epsPerChangeQ.append(100000)
-                flag = True
-                break
+class filtering:
+    def __init__(self):
+        self.completeFinancialData = {}
+        self.filteredFinancialData = {}
+        self.stockSymbols = load('data/symbolsMCupdated.p')
+        self.nSymbols = len(self.stockSymbols)
+        self.epsQuarterThreshold = 20
+        self.epsAnnualThreshold = 20
+        self.salesThreshold = 25
+        self.filters = [self.epsQuarterFilter, self.salesQuarterFilter, self.ATPMfilter, self.epsAnnualFilter]
+        self.filterCount = 4
 
-        if flag is False:
-            break
-        i = i+1
-    return epsPerChangeQ
-
-epsThreshold = 20
-def epsQuarterFilter((annual,quarter)):
-    if quarter == None:
-        return False
-    eps = quarter['EPS Before Extra Ordinary']['Basic EPS']
-    month = quarter['month']
-    for i in range(len(eps)):
-        eps[i] = eps[i].replace(',','')
-    if len(eps) < 5 or eps[0]=='--' or float(eps[0]) < 0.0:
-        return False
-    epsPerChangeQ = calculateEpsLastYearChange(eps,month)
-    if len(epsPerChangeQ) < 1 or epsPerChangeQ[0] < epsThreshold:
-        return False
-    return True
-
-def eps2QuarterFilter((annual,quarter)):
-    if quarter == None:
-        return False
-    eps = quarter['EPS Before Extra Ordinary']['Basic EPS']
-    month = quarter['month']
-    for i in range(len(eps)):
-        eps[i] = eps[i].replace(',','')
-    if len(eps) < 6 or eps[0]=='--' or float(eps[0]) < 0.0:
-        return False
-    epsPerChangeQ = calculateEpsLastYearChange(eps,month)
-    if len(epsPerChangeQ) < 2 or epsPerChangeQ[0] < epsThreshold or epsPerChangeQ[1] < epsThreshold:
-        return False
-    return True
-
-salesThreshold = 25
-
-def salesGrowth(sales):
-    if len(sales) < 2:
-        return [-1]
-    if sales[0] == '--' or sales[1] == '--':
-        return [-1]
-    for i in range(len(sales)):
-        if sales[i] != '--':
-            sales[i] = sales[i].replace(',','')
-    if float(sales[1]) == 0.0:
-        return [-1]
-
-    i = 0
-    salesGrowthList = []
-    while i + 1 < len(sales):
-        if sales[i]=='--' or sales[i+1] == '--' or float(sales[i+1]) == 0:
-            break
-        salesGrowthList.append((float(sales[i]) - float(sales[i+1]))/float(sales[i+1])*100)
-        i = i+1
-    return salesGrowthList
-def salesQuarterFilter((annual,quarter)):
-    sales = quarter['Net Sales/Income from operations']
-    saleGrowthList =  salesGrowth(sales)
-    if saleGrowthList[0] < salesThreshold:
-        return False
-    return True
-
-def afterTaxProfitMargin(profit, sales):
-    if len(profit) ==0 or len(sales) ==0:
-        return []
-    ATPM = []
-    for i in range(len(sales)):
-        if sales[i] != '--':
-            sales[i] = sales[i].replace(',','')
-
-    for i in range(len(profit)):
-        if profit[i] != '--':
-            profit[i] = profit[i].replace(',','')
-    i = 0
-    while i <len(profit):
-        if profit[i] == '--' or sales[i] =='--' or float(sales[i])==0:
-            break
-        ATPM.append(float(profit[i])/float(sales[i]))
-        i = i+1
-    return ATPM
-def ATPMfilter((annual, quarter)):
-    sales = quarter['Net Sales/Income from operations']
-    profit = quarter['Net Profit/(Loss) For the Period']
-    ATPM  = afterTaxProfitMargin(profit, sales)
-    if ATPM == []:
-        return False
-    l = len(ATPM)
-    t = int(30*l/100)
-    currentATPM = ATPM[0]
-    ATPM.sort()
-    for i in range(l-t,l):
-        if ATPM[i] == currentATPM:
-            return True
-    return False
-
-def applyFilter(f):
-    global filteredFinancialData
-    filteredFinancialData =  dict((k,v) for (k,v) in filteredFinancialData.iteritems() if v is not None and f(v) is True)
-
-def printFilteredData():
-    l = len(filteredFinancialData)
-    for (i,v) in filteredFinancialData.iteritems():
+    def getParsedFinancialData(self,index):
+        '''DIR = 'data/financials/'+str(index)+'/'
+        annualData = load(DIR+'annualDict.p')
+        if annualData == None:
+            return {}
+        output = {}
+        output['Year'] = annualData['month']
+        output['Annual EPS'] = annualData['EPS Before Extra Ordinary']['Basic EPS']
+        output['Net Annual Sales'] = annualData['Net Sales/Income from operations']
+        '''
         try:
-            if v is not None:
-                print format("Name",25),format(stockSymbols[i][0],10)
-                print format("Symbol",25),format(stockSymbols[i][1]+'/'+stockSymbols[i][2],10)
-                print format("EPS quarterly",25),format(v[1]['EPS Before Extra Ordinary']['Basic EPS'],60)
-                print format("EPS quarterly growth",25),format(calculateEpsLastYearChange(v[1]['EPS Before Extra Ordinary']['Basic EPS'],v[1]['month']),30)
-                print format("Sales quarterly",25),format(v[1]['Net Sales/Income from operations'],30)
-                print format("Sales Growth Quarterly",25),format(salesGrowth(v[1]['Net Sales/Income from operations']),60)
-                print format("AfterTaxProfitMargin quarterly",30),format(afterTaxProfitMargin(v[1]['Net Profit/(Loss) For the Period'],v[1]['Net Sales/Income from operations']),30)
-                print format("AfterTaxProfit quarterly",20  ),format(v[1]['Net Profit/(Loss) For the Period'],30)
-                print '---------------------------------------------------------------'
+            DIR = 'data/financials/'+str(index)+'/'
+            return (load(DIR+'annualDict.p'), load(DIR+'quarterDict.p'))
         except:
-            print 'error'
-            pass
+            return None
+    def getAllParsedFinancialData(self):
+        for i in range(0,self.nSymbols):
+            self.completeFinancialData[i] = self.getParsedFinancialData(i)
+        self.filteredFinancialData = self.completeFinancialData
 
-def clearFilters():
-    global filteredFinancialData
-    filteredFinancialData = completeFinancialData
+    def calculateEpsLastYearChange(self,eps,month):
+        if len(eps) < 5 or eps[0]=='--' or float(eps[0]) < 0.0:
+            return []
+        epsPerChangeQ = []
+        for i in range(len(eps)):
+            eps[i] = eps[i].replace(',','')
+        i = 0
+        #print month
+        while i+4 < len(eps):
+            if eps[i] == '--':
+                break
+            flag = False
+            for j in range(i+1,i+5):
+                if month[i].split(' ')[0] == month[j].split(' ')[0]:
+                    if eps[j] == '--':
+                        break
+                    if float(eps[j]) != 0:
+                        epsPerChangeQ.append((float(eps[i]) - float(eps[j]))/abs(float(eps[j]))*100)
+                    else:
+                        if float(eps[j]) < 0:
+                            epsPerChangeQ.append(-100000)
+                        elif float(eps[j]) > 0:
+                            epsPerChangeQ.append(100000)
+                    flag = True
+                    break
+
+            if flag is False:
+                break
+            i = i+1
+        return epsPerChangeQ
+
+
+    def epsQuarterFilter(self,(annual,quarter)):
+        if quarter == None:
+            return False
+        eps = quarter['EPS Before Extra Ordinary']['Basic EPS']
+        month = quarter['month']
+        for i in range(len(eps)):
+            eps[i] = eps[i].replace(',','')
+        if len(eps) < 5 or eps[0]=='--' or float(eps[0]) < 0.0:
+            return False
+        epsPerChangeQ = self.calculateEpsLastYearChange(eps,month)
+        if len(epsPerChangeQ) < 1 or epsPerChangeQ[0] < self.epsQuarterThreshold:
+            return False
+        return True
+
+    def eps2QuarterFilter(self,(annual,quarter)):
+        if quarter == None:
+            return False
+        eps = quarter['EPS Before Extra Ordinary']['Basic EPS']
+        month = quarter['month']
+        for i in range(len(eps)):
+            eps[i] = eps[i].replace(',','')
+        if len(eps) < 6 or eps[0]=='--' or float(eps[0]) < 0.0:
+            return False
+        epsPerChangeQ = self.calculateEpsLastYearChange(eps,month)
+        if len(epsPerChangeQ) < 2 or epsPerChangeQ[0] < self.epsQuarterThreshold or epsPerChangeQ[1] < self.epsQuarterThreshold:
+            return False
+        return True
+
+    def calculateEpsAnnualChange(self,eps,year):
+        if len(eps) < 3 or eps[0]=='--' or float(eps[0]) < 0.0:
+            return []
+        epsPerChangeA = []
+        for i in range(len(eps)):
+            eps[i] = eps[i].replace(',','')
+        i = 0
+        #print month
+        while i+1 < len(eps):
+            if eps[i] == '--':
+                break
+            j = i+1
+            if eps[j] == '--':
+                break
+            if float(eps[j]) != 0:
+                epsPerChangeA.append((float(eps[i]) - float(eps[j]))/abs(float(eps[j]))*100)
+            else:
+                if float(eps[j]) < 0:
+                    epsPerChangeA.append(-100000)
+                elif float(eps[j]) > 0:
+                    epsPerChangeA.append(100000)
+            i = i+1
+        return epsPerChangeA
+
+    def epsAnnualFilter(self,(annual,quarter)):
+        if annual == None:
+            return False
+        eps = annual['EPS Before Extra Ordinary']['Basic EPS']
+        year = annual['month']
+        for i in range(len(eps)):
+            eps[i] = eps[i].replace(',','')
+        if len(eps) < 3 or eps[0]=='--' or float(eps[0]) < 0.0:
+            return False
+        epsPerChangeA = self.calculateEpsAnnualChange(eps,year)
+        if len(epsPerChangeA) < 2 or epsPerChangeA[0] < self.epsAnnualThreshold or epsPerChangeA[1] < self.epsAnnualThreshold:
+            return False
+        return True
+
+
+    def salesGrowth(self,sales):
+        if len(sales) < 2:
+            return [-1]
+        if sales[0] == '--' or sales[1] == '--':
+            return [-1]
+        for i in range(len(sales)):
+            if sales[i] != '--':
+                sales[i] = sales[i].replace(',','')
+        if float(sales[1]) == 0.0:
+            return [-1]
+
+        i = 0
+        salesGrowthList = []
+        while i + 1 < len(sales):
+            if sales[i]=='--' or sales[i+1] == '--' or float(sales[i+1]) == 0:
+                break
+            salesGrowthList.append((float(sales[i]) - float(sales[i+1]))/float(sales[i+1])*100)
+            i = i+1
+        return salesGrowthList
+
+    def salesQuarterFilter(self,(annual,quarter)):
+        sales = quarter['Net Sales/Income from operations']
+        saleGrowthList =  self.salesGrowth(sales)
+        if saleGrowthList[0] < self.salesThreshold:
+            return False
+        return True
+
+    def afterTaxProfitMargin(self,profit, sales):
+        if len(profit) ==0 or len(sales) ==0:
+            return []
+        ATPM = []
+        for i in range(len(sales)):
+            if sales[i] != '--':
+                sales[i] = sales[i].replace(',','')
+
+        for i in range(len(profit)):
+            if profit[i] != '--':
+                profit[i] = profit[i].replace(',','')
+        i = 0
+        while i <len(profit):
+            if profit[i] == '--' or sales[i] =='--' or float(sales[i])==0:
+                break
+            ATPM.append(float(profit[i])/float(sales[i]))
+            i = i+1
+        return ATPM
+
+    def ATPMfilter(self,(annual, quarter)):
+        sales = quarter['Net Sales/Income from operations']
+        profit = quarter['Net Profit/(Loss) For the Period']
+        ATPM  = self.afterTaxProfitMargin(profit, sales)
+        if ATPM == []:
+            return False
+        l = len(ATPM)
+        t = int(30*l/100)
+        currentATPM = ATPM[0]
+        ATPM.sort()
+        for i in range(l-t,l):
+            if ATPM[i] == currentATPM:
+                return True
+        return False
+
+
+    def applyFilter(self,f):
+        self.filteredFinancialData =  dict((k,v) for (k,v) in self.filteredFinancialData.iteritems() if v is not None and f(v) is True)
+
+
+    def applyFilterInt(self,i):
+        self.applyFilter(self.filters[i])
+
+    def printFilteredData(self):
+        for (i,v) in self.filteredFinancialData.iteritems():
+            try:
+                if v is not None:
+                    print format("Name",25),format(self.stockSymbols[i][0],10)
+                    print format("Symbol",25),format(self.stockSymbols[i][1]+'/'+self.stockSymbols[i][2],10)
+                    print format("EPS quarterly",25),format(v[1]['EPS Before Extra Ordinary']['Basic EPS'],60)
+                    print format("EPS quarterly growth",25),format(self.calculateEpsLastYearChange(v[1]['EPS Before Extra Ordinary']['Basic EPS'],v[1]['month']),30)
+                    print format("Sales quarterly",25),format(v[1]['Net Sales/Income from operations'],30)
+                    print format("Sales Growth Quarterly",25),format(self.salesGrowth(v[1]['Net Sales/Income from operations']),60)
+                    print format("AfterTaxProfitMargin quarterly",30),format(self.afterTaxProfitMargin(v[1]['Net Profit/(Loss) For the Period'],v[1]['Net Sales/Income from operations']),30)
+                    print format("AfterTaxProfit quarterly",20  ),format(v[1]['Net Profit/(Loss) For the Period'],30)
+                    print format("EPS Annually",25),format(v[0]['EPS Before Extra Ordinary']['Basic EPS'],60)
+                    print format("EPS Annual growth",25),format(self.calculateEpsAnnualChange(v[0]['EPS Before Extra Ordinary']['Basic EPS'],v[0]['month']),30)
+                    print '---------------------------------------------------------------'
+            except:
+                print 'error'
+                pass
+
+    def clearFilters(self):
+        self.filteredFinancialData = self.completeFinancialData
+
+
+    def writeTocsv(self,filename):
+        fieldnames = ['Name','NSE','BSE','Sector','epsQ','epsQ%','salesQ','salesQ%', 'ATPMQ','ATPQ','epsA','epsA%']
+        writer = csvWriter(filename, fieldnames)
+        for (i,v) in self.filteredFinancialData.iteritems():
+            if v is None or v[0] is None or v[1] is None:
+                continue
+            row = {}
+            row[fieldnames[0]] = self.stockSymbols[i][0]
+            row[fieldnames[1]] = self.stockSymbols[i][1]
+            row[fieldnames[2]] = self.stockSymbols[i][2]
+            row[fieldnames[3]] = self.stockSymbols[i][3]
+            row[fieldnames[4]] = v[1]['EPS Before Extra Ordinary']['Basic EPS']
+            row[fieldnames[5]] = self.calculateEpsLastYearChange(v[1]['EPS Before Extra Ordinary']['Basic EPS'],v[1]['month'])
+            row[fieldnames[6]] = v[1]['Net Sales/Income from operations']
+            row[fieldnames[7]] = self.salesGrowth(v[1]['Net Sales/Income from operations'])
+            row[fieldnames[8]] = self.afterTaxProfitMargin(v[1]['Net Profit/(Loss) For the Period'],v[1]['Net Sales/Income from operations'])
+            row[fieldnames[9]] = v[1]['Net Profit/(Loss) For the Period']
+            row[fieldnames[10]] = v[0]['EPS Before Extra Ordinary']['Basic EPS']
+            row[fieldnames[11]] = self.calculateEpsAnnualChange(v[0]['EPS Before Extra Ordinary']['Basic EPS'],v[0]['month'])
+            writer.writerow(row)
+
 
 
 if __name__ == "__main__":
-    getAllParsedFinancialData()
-    applyFilter(ATPMfilter)
-    #applyFilter(salesQuarterFilter)
-    printFilteredData()
-    #applyFilter(epsQuarterFilter)
+    obj = filtering()
+    obj.getAllParsedFinancialData()
+
+    #getAllParsedFinancialData()
+    #obj.applyFilter(obj.ATPMfilter)
+    #obj.applyFilter(obj.salesQuarterFilter)
+
+    obj.applyFilter(obj.epsQuarterFilter)
+    obj.applyFilter(obj.epsAnnualFilter)
+    obj.printFilteredData()
     #printFilteredData()
     pass

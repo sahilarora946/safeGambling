@@ -83,6 +83,70 @@ def downloadAnnualData(a,b):
         print i,nSymbols
         data = download_annual_data_from_URL(StockSymbols[i][-1], i)
 
+def download_split_data_from_URL(url,index):
+    try:
+        if url.startswith('http://www.moneycontrol.com/india/stockpricequote/'):
+            mcURLsplit = url.split('/')
+            mcSymbol = mcURLsplit[-1]
+            mcName = mcURLsplit[-2]
+            annualFinancialURL = moneycontrolURL+'company-facts/'+mcName+'/splits/'+mcSymbol+'#'+mcSymbol
+            annualDataHTML = getHTML(annualFinancialURL)
+            directory = 'data/financials/'+str(index)+'/'
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            dumpData(annualDataHTML, directory+'splits.p')
+    except:
+        print 'error'
+
+def downloadSplitData(a,b):
+    for i in range(a,b):
+        print i,nSymbols
+        data = download_split_data_from_URL(StockSymbols[i][-1], i)
+
+def download_other_fin_data_from_URL(url,index):
+    try:
+        if url.startswith('http://www.moneycontrol.com/india/stockpricequote/'):
+            mcURLsplit = url.split('/')
+            mcSymbol = mcURLsplit[-1]
+            mcName = mcURLsplit[-2]
+            annualFinancialURL = moneycontrolURL+'financials/'+mcName+'/balance-sheet/'+mcSymbol+'#'+mcSymbol
+            annualDataHTML = getHTML(annualFinancialURL)
+            directory = 'data/financials/'+str(index)+'/'
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            dumpData(annualDataHTML, directory+'balanceSheet.p')
+            annualFinancialURL = moneycontrolURL+'financials/'+mcName+'/cash-flow/'+mcSymbol+'#'+mcSymbol
+            annualDataHTML = getHTML(annualFinancialURL)
+            directory = 'data/financials/'+str(index)+'/'
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            dumpData(annualDataHTML, directory+'cash_flow.p')
+            annualFinancialURL = moneycontrolURL+'financials/'+mcName+'/ratios/'+mcSymbol+'#'+mcSymbol
+            annualDataHTML = getHTML(annualFinancialURL)
+            directory = 'data/financials/'+str(index)+'/'
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            dumpData(annualDataHTML, directory+'ratios.p')
+            annualFinancialURL = moneycontrolURL+'financials/'+mcName+'/profit-loss/'+mcSymbol+'#'+mcSymbol
+            annualDataHTML = getHTML(annualFinancialURL)
+            directory = 'data/financials/'+str(index)+'/'
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            dumpData(annualDataHTML, directory+'profit_loss.p')
+            annualFinancialURL = moneycontrolURL+'financials/'+mcName+'/capital-structure/'+mcSymbol+'#'+mcSymbol
+            annualDataHTML = getHTML(annualFinancialURL)
+            directory = 'data/financials/'+str(index)+'/'
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            dumpData(annualDataHTML, directory+'capital_structure.p')
+    except:
+        print 'error'
+
+def downloadOtherFinancialData(a,b):
+    for i in range(a,b):
+        print i,nSymbols
+        data = download_other_fin_data_from_URL(StockSymbols[i][-1], i)
+
 def downloadFinancialData():
     driver = webdriver.Chrome()
     time.sleep(2)
@@ -95,6 +159,6 @@ def downloadFinancialData():
 
 
 if __name__ == "__main__":
-    pass
+    downloadSplitData(6000,7630)
     #downloadAnnualData()
     #download_and_save_fin_data_from_symbol()
