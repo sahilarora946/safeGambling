@@ -192,6 +192,12 @@ def saveOnlyRelevantTableData(a,b):
 def format(x,y):
     return repr(x).ljust(y)
 
+def comparator(x,y):
+    if x[1][1] < y[1][1]:
+        return -1
+    elif x[1][1] > y[1][1]:
+        return 1
+    return 0
 class filtering:
     def __init__(self):
         self.completeFinancialData = {}
@@ -216,20 +222,20 @@ class filtering:
         '''
         try:
             DIR = 'data/financials/'+str(index)+'/'
-            return (load(DIR+'annualDict.p'), load(DIR+'quarterDict.p'))
+            return ((load(DIR+'annualDict.p'), load(DIR+'quarterDict.p')),0)
         except:
-            return None
+            return (None,0)
     def getAllParsedFinancialData(self):
         for i in range(0,self.nSymbols):
             self.completeFinancialData[i] = self.getParsedFinancialData(i)
         self.filteredFinancialData = self.completeFinancialData
 
     def calculateEpsLastYearChange(self,eps,month):
+        for i in range(len(eps)):
+            eps[i] = eps[i].replace(',','')
         if len(eps) < 5 or eps[0]=='--' or float(eps[0]) < 0.0:
             return []
         epsPerChangeQ = []
-        for i in range(len(eps)):
-            eps[i] = eps[i].replace(',','')
         i = 0
         #print month
         while i+4 < len(eps):
@@ -285,11 +291,11 @@ class filtering:
         return True
 
     def calculateEpsAnnualChange(self,eps,year):
+        for i in range(len(eps)):
+            eps[i] = eps[i].replace(',','')
         if len(eps) < 3 or eps[0]=='--' or float(eps[0]) < 0.0:
             return []
         epsPerChangeA = []
-        for i in range(len(eps)):
-            eps[i] = eps[i].replace(',','')
         i = 0
         #print month
         while i+1 < len(eps):
@@ -386,14 +392,13 @@ class filtering:
 
 
     def applyFilter(self,f):
-        self.filteredFinancialData =  dict((k,v) for (k,v) in self.filteredFinancialData.iteritems() if v is not None and f(v) is True)
-
+        self.filteredFinancialData =  dict((k,(v,l+(1 if f(v) is True else 0))) for (k,(v,l)) in self.filteredFinancialData.iteritems() if v is not None)
 
     def applyFilterInt(self,i):
         self.applyFilter(self.filters[i])
 
     def printFilteredData(self):
-        for (i,v) in self.filteredFinancialData.iteritems():
+        for (i,(v,l)) in self.filteredFinancialData.iteritems():
             try:
                 if v is not None:
                     print format("Name",25),format(self.stockSymbols[i][0],10)
@@ -415,25 +420,29 @@ class filtering:
         self.filteredFinancialData = self.completeFinancialData
 
 
+
     def writeTocsv(self,filename):
-        fieldnames = ['Name','NSE','BSE','Sector','epsQ','epsQ%','salesQ','salesQ%', 'ATPMQ','ATPQ','epsA','epsA%']
+        fieldnames = ['Name','filters passed','NSE','BSE','Sector','epsQ','epsQ%','salesQ','salesQ%', 'ATPMQ','ATPQ','epsA','epsA%']
         writer = csvWriter(filename, fieldnames)
-        for (i,v) in self.filteredFinancialData.iteritems():
+        filteredSortedList = self.filteredFinancialData.items()
+        filteredSortedList = sorted(filteredSortedList, cmp = comparator, reverse = True)
+        for (i,(v,l)) in filteredSortedList:
             if v is None or v[0] is None or v[1] is None:
                 continue
             row = {}
             row[fieldnames[0]] = self.stockSymbols[i][0]
-            row[fieldnames[1]] = self.stockSymbols[i][1]
-            row[fieldnames[2]] = self.stockSymbols[i][2]
-            row[fieldnames[3]] = self.stockSymbols[i][3]
-            row[fieldnames[4]] = v[1]['EPS Before Extra Ordinary']['Basic EPS']
-            row[fieldnames[5]] = self.calculateEpsLastYearChange(v[1]['EPS Before Extra Ordinary']['Basic EPS'],v[1]['month'])
-            row[fieldnames[6]] = v[1]['Net Sales/Income from operations']
-            row[fieldnames[7]] = self.salesGrowth(v[1]['Net Sales/Income from operations'])
-            row[fieldnames[8]] = self.afterTaxProfitMargin(v[1]['Net Profit/(Loss) For the Period'],v[1]['Net Sales/Income from operations'])
-            row[fieldnames[9]] = v[1]['Net Profit/(Loss) For the Period']
-            row[fieldnames[10]] = v[0]['EPS Before Extra Ordinary']['Basic EPS']
-            row[fieldnames[11]] = self.calculateEpsAnnualChange(v[0]['EPS Before Extra Ordinary']['Basic EPS'],v[0]['month'])
+            row[fieldnames[1]] = l
+            row[fieldnames[2]] = self.stockSymbols[i][1]
+            row[fieldnames[3]] = self.stockSymbols[i][2]
+            row[fieldnames[4]] = self.stockSymbols[i][3]
+            row[fieldnames[5]] = v[1]['EPS Before Extra Ordinary']['Basic EPS']
+            row[fieldnames[6]] = self.calculateEpsLastYearChange(v[1]['EPS Before Extra Ordinary']['Basic EPS'],v[1]['month'])
+            row[fieldnames[7]] = v[1]['Net Sales/Income from operations']
+            row[fieldnames[8]] = self.salesGrowth(v[1]['Net Sales/Income from operations'])
+            row[fieldnames[9]] = self.afterTaxProfitMargin(v[1]['Net Profit/(Loss) For the Period'],v[1]['Net Sales/Income from operations'])
+            row[fieldnames[10]] = v[1]['Net Profit/(Loss) For the Period']
+            row[fieldnames[11]] = v[0]['EPS Before Extra Ordinary']['Basic EPS']
+            row[fieldnames[12]] = self.calculateEpsAnnualChange(v[0]['EPS Before Extra Ordinary']['Basic EPS'],v[0]['month'])
             writer.writerow(row)
 
 
