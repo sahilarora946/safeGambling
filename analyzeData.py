@@ -1,6 +1,6 @@
 from commonSettings import *
 from commonFunctions import getParsedHTML, getText, dumpData, csvWriter, load, getParsedSoupFromHTML, write, getEmptyFinancialDataDict
-
+import getpass
 
 
 def stripNewLine(x):
@@ -207,9 +207,55 @@ class filtering:
         self.epsQuarterThreshold = 20
         self.epsAnnualThreshold = 20
         self.salesThreshold = 25
-        self.filters = [self.epsQuarterFilter, self.salesQuarterFilter, self.ATPMfilter, self.epsAnnualFilter]
-        self.filterCount = 4
+        self.filters = [self.epsQuarterFilter, self.salesQuarterFilter, self.ATPMfilter, self.epsAnnualFilter, self.eps2QuarterFilter]
+        self.filterCount = 5
 
+    def email(self,fileToSend):
+        emailfrom = "sahilarora946@gmail.com"
+        emailto = "sahilarora946@gmail.com"
+        username = "sahilarora946"
+
+        password = getpass.getpass('Password:')
+
+        msg = MIMEMultipart()
+        msg["From"] = emailfrom
+        msg["To"] = emailto
+        msg["Subject"] = raw_input("enter the message you want as subject")
+        msg.preamble = "Rock&Roll"
+
+        ctype, encoding = mimetypes.guess_type(fileToSend)
+        if ctype is None or encoding is not None:
+            ctype = "application/octet-stream"
+
+        maintype, subtype = ctype.split("/", 1)
+
+        if maintype == "text":
+            fp = open(fileToSend)
+            # Note: we should handle calculating the charset
+            attachment = MIMEText(fp.read(), _subtype=subtype)
+            fp.close()
+        elif maintype == "image":
+            fp = open(fileToSend, "rb")
+            attachment = MIMEImage(fp.read(), _subtype=subtype)
+            fp.close()
+        elif maintype == "audio":
+            fp = open(fileToSend, "rb")
+            attachment = MIMEAudio(fp.read(), _subtype=subtype)
+            fp.close()
+        else:
+            fp = open(fileToSend, "rb")
+            attachment = MIMEBase(maintype, subtype)
+            attachment.set_payload(fp.read())
+            fp.close()
+            encoders.encode_base64(attachment)
+        attachment.add_header("Content-Disposition", "attachment", filename=fileToSend)
+        msg.attach(attachment)
+
+        server = smtplib.SMTP("smtp.gmail.com:587")
+        server.starttls()
+        server.login(username,password)
+        server.sendmail(emailfrom, emailto, msg.as_string())
+        server.quit()
     def getParsedFinancialData(self,index):
         '''DIR = 'data/financials/'+str(index)+'/'
         annualData = load(DIR+'annualDict.p')
@@ -226,7 +272,7 @@ class filtering:
         except:
             return (None,0)
     def getAllParsedFinancialData(self):
-        for i in range(0,self.nSymbols):
+        for i in range(0,100):
             self.completeFinancialData[i] = self.getParsedFinancialData(i)
         self.filteredFinancialData = self.completeFinancialData
 
@@ -400,7 +446,7 @@ class filtering:
     def printFilteredData(self):
         for (i,(v,l)) in self.filteredFinancialData.iteritems():
             try:
-                if v is not None:
+                if v is not None and v[0] is not None and v[1] is not None and l !=0:
                     print format("Name",25),format(self.stockSymbols[i][0],10)
                     print format("Symbol",25),format(self.stockSymbols[i][1]+'/'+self.stockSymbols[i][2],10)
                     print format("EPS quarterly",25),format(v[1]['EPS Before Extra Ordinary']['Basic EPS'],60)
@@ -427,7 +473,7 @@ class filtering:
         filteredSortedList = self.filteredFinancialData.items()
         filteredSortedList = sorted(filteredSortedList, cmp = comparator, reverse = True)
         for (i,(v,l)) in filteredSortedList:
-            if v is None or v[0] is None or v[1] is None:
+            if v is None or v[0] is None or v[1] is None or l == 0 or l == 1:
                 continue
             row = {}
             row[fieldnames[0]] = self.stockSymbols[i][0]

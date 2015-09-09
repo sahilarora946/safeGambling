@@ -32,6 +32,7 @@ def analyzeData():
         elif input[0] == 3:
             input[1] = int(input[1])-1
             FILTER[input[1]] = 0
+            fObj.clearFilters()
             for i in range(len(Filter)):
                 if Filter[i] == 1:
                     fObj.applyFilterInt(i)
@@ -40,6 +41,8 @@ def analyzeData():
             FILTER = [ 0 for i in range(fObj.filterCount)]
         elif input[0] == 5:
             fObj.writeTocsv(input[1])
+        elif input[0] == 6:
+            fObj.email(input[1])
         elif input[0] == 7:
             print FILTER
         elif input[0] == 8:
