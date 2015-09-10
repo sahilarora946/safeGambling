@@ -21,6 +21,7 @@ from email.mime.base import MIMEBase
 from email.mime.image import MIMEImage
 from email.mime.text import MIMEText
 import getpass
+import time
 
 moneycontrolURL = 'http://www.moneycontrol.com/'
 month = {'Jan':1,'Feb':1,'Mar':1,'Apr':1,'May':1,'Jun':1,'Jul':1,'Aug':1,'Sep':1,'Oct':1,'Nov':1,'Dec':1}

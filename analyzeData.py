@@ -142,6 +142,8 @@ def saveAnnualDict(index):
     DIR = 'data/financials/'+str(index)+'/'
     annualData = load(DIR +'annualFinancialData.p')
     DictData = processAndDump(annualData,DIR+'annualData.txt')
+    if DictData is not None:
+        DictData['index'] = index
     dumpData(DictData, DIR + 'annualDict.p')
 
 def combine(prev, next):
@@ -160,6 +162,8 @@ def combine(prev, next):
                 key1 = c[j]
                 prev[key][key1].extend(next[key][key1])
                 j = j+1
+        elif type(prev[key]) == int:
+            pass
         else:
             print ERROR
         i = i + 1
@@ -174,18 +178,38 @@ def saveQuarterDict(index):
     quarterData2 = load(DIR +'quarterFinancialData2.p')
     DictData2 = processAndDump(quarterData2,DIR+'quarterData2.txt')
     DictData = combine(DictData1, DictData2)
+    if DictData is not None:
+        DictData['index'] = index
     dumpData(DictData, DIR+'quarterDict.p')
 
 def saveOnlyRelevantTableDataOfIndex(index):
     saveAnnualDict(index)
     saveQuarterDict(index)
 
+nSymbols = 7630
 def saveOnlyRelevantTableData(a,b):
-    data = load('data/symbolsMCupdated.p')
-    nSymbols = len(data)
     for i in range(a,b):
         print i,nSymbols
         saveOnlyRelevantTableDataOfIndex(i)
+
+def updateDicts(a,b):
+    for index in range(a,b):
+        print index,7630
+        DIR = 'data/financials/'+str(index)+'/'
+        try:
+            annual = load(DIR+'annualDict.p')
+            if annual is not None:
+                annual['index'] = index
+                dumpData(annual, 'annualDict.p')
+        except:
+            pass
+        try:
+            quarter = load(DIR+'quarterDict.p')
+            if quarter is not None:
+                quarter['index'] = index
+                dumpData(quarter, 'quarterDict.p')
+        except:
+            pass
 
 
 
@@ -199,16 +223,21 @@ def comparator(x,y):
         return 1
     return 0
 class filtering:
+    def round(x):
+        return int((x * 100) + 0.5) / 100.0
+
     def __init__(self):
         self.completeFinancialData = {}
         self.filteredFinancialData = {}
         self.stockSymbols = load('data/symbolsMCupdated.p')
+        self.indexes = load('data/index.p')
         self.nSymbols = len(self.stockSymbols)
         self.epsQuarterThreshold = 20
         self.epsAnnualThreshold = 20
         self.salesThreshold = 25
         self.filters = [self.epsQuarterFilter, self.salesQuarterFilter, self.ATPMfilter, self.epsAnnualFilter, self.eps2QuarterFilter]
         self.filterCount = 5
+        self.excludeSymbolList  = load('data/excludeSymbols.p')
 
     def email(self,fileToSend):
         emailfrom = "sahilarora946@gmail.com"
@@ -272,9 +301,53 @@ class filtering:
         except:
             return (None,0)
     def getAllParsedFinancialData(self):
-        for i in range(0,100):
+        for i in range(0,self.nSymbols):
             self.completeFinancialData[i] = self.getParsedFinancialData(i)
         self.filteredFinancialData = self.completeFinancialData
+
+    def salesGrowth(self,sales,month):
+        if len(sales) < 5:
+            return [-1]
+        if sales[0] == '--' or sales[1] == '--':
+            return [-1]
+        for i in range(len(sales)):
+            if sales[i] != '--':
+                sales[i] = sales[i].replace(',','')
+        if float(sales[1]) == 0.0:
+            return [-1]
+
+        i = 0
+        salesGrowthList = []
+        while i+4 < len(sales):
+            if sales[i]=='--':
+                break
+            flag = False
+            for j in range(i+1,i+5):
+                if month[i].split(' ')[0] == month[j].split(' ')[0]:
+                    if sales[j] == '--':
+                        break
+                    if float(sales[j]) != 0:
+                        salesGrowthList.append((float(sales[i]) - float(sales[j]))/abs(float(sales[j]))*100)
+                    else:
+                        if float(sales[i]) < 0:
+                            salesGrowthList.append(-100000)
+                        elif float(sales[j]) > 0:
+                            salesGrowthList.append(100000)
+                    flag = True
+                    break
+
+            if flag is False:
+                break
+            i = i+1
+        return map(round,salesGrowthList)
+
+    def salesQuarterFilter(self,(annual,quarter)):
+        sales = quarter['Net Sales/Income from operations']
+        month = quarter['month']
+        saleGrowthList =  self.salesGrowth(sales,month)
+        if len(saleGrowthList) < 1 or saleGrowthList[0] < self.salesThreshold:
+            return False
+        return True
 
     def calculateEpsLastYearChange(self,eps,month):
         for i in range(len(eps)):
@@ -295,9 +368,9 @@ class filtering:
                     if float(eps[j]) != 0:
                         epsPerChangeQ.append((float(eps[i]) - float(eps[j]))/abs(float(eps[j]))*100)
                     else:
-                        if float(eps[j]) < 0:
+                        if float(eps[i]) < 0:
                             epsPerChangeQ.append(-100000)
-                        elif float(eps[j]) > 0:
+                        elif float(eps[i]) > 0:
                             epsPerChangeQ.append(100000)
                     flag = True
                     break
@@ -305,7 +378,7 @@ class filtering:
             if flag is False:
                 break
             i = i+1
-        return epsPerChangeQ
+        return map(round, epsPerChangeQ)
 
 
     def epsQuarterFilter(self,(annual,quarter)):
@@ -358,7 +431,7 @@ class filtering:
                 elif float(eps[j]) > 0:
                     epsPerChangeA.append(100000)
             i = i+1
-        return epsPerChangeA
+        return map(round, epsPerChangeA)
 
     def epsAnnualFilter(self,(annual,quarter)):
         if annual == None:
@@ -375,32 +448,7 @@ class filtering:
         return True
 
 
-    def salesGrowth(self,sales):
-        if len(sales) < 2:
-            return [-1]
-        if sales[0] == '--' or sales[1] == '--':
-            return [-1]
-        for i in range(len(sales)):
-            if sales[i] != '--':
-                sales[i] = sales[i].replace(',','')
-        if float(sales[1]) == 0.0:
-            return [-1]
 
-        i = 0
-        salesGrowthList = []
-        while i + 1 < len(sales):
-            if sales[i]=='--' or sales[i+1] == '--' or float(sales[i+1]) == 0:
-                break
-            salesGrowthList.append((float(sales[i]) - float(sales[i+1]))/float(sales[i+1])*100)
-            i = i+1
-        return salesGrowthList
-
-    def salesQuarterFilter(self,(annual,quarter)):
-        sales = quarter['Net Sales/Income from operations']
-        saleGrowthList =  self.salesGrowth(sales)
-        if saleGrowthList[0] < self.salesThreshold:
-            return False
-        return True
 
     def afterTaxProfitMargin(self,profit, sales):
         if len(profit) ==0 or len(sales) ==0:
@@ -417,9 +465,9 @@ class filtering:
         while i <len(profit):
             if profit[i] == '--' or sales[i] =='--' or float(sales[i])==0:
                 break
-            ATPM.append(float(profit[i])/float(sales[i]))
+            ATPM.append(float(profit[i])/float(sales[i])*100)
             i = i+1
-        return ATPM
+        return map(round, ATPM)
 
     def ATPMfilter(self,(annual, quarter)):
         sales = quarter['Net Sales/Income from operations']
@@ -436,7 +484,66 @@ class filtering:
                 return True
         return False
 
+    def writeNotes(self,index):
+        DIR = 'data/financials/'+str(index)+'/'
+        f = open(DIR+'notes.txt','a')
+        f.write(time.strftime("%c"))
+        f.write('\n')
+        print "Enter your notes"
+        while True:
+            msg = raw_input()
+            if msg == '#':
+                f.write('\n\n')
+                break
+            f.write(msg+'\n')
 
+    def writeNotesForSymbol(self, symbol):
+        try:
+            self.writeNotes(self.indexes[symbol])
+        except:
+            print 'Symbol not found'
+
+    def excludeSymbol(self, symbol):
+        try:
+            self.excludeSymbolList.append(self.indexes[symbol])
+            dumpData(self.excludeSymbolList, 'data/excludeSymbols.p')
+        except:
+            print 'Symbol not found'
+    def removeFromExclude(self, symbol):
+        try:
+            index = self.indexes[symbol]
+            while self.excludeSymbolList.count(index)>0:
+                self.excludeSymbolList.remove(index)
+            dumpData(self.excludeSymbolList, 'data/excludeSymbols.p')
+        except:
+            print 'Symbol not found'
+
+    def clearNotes(self, index):
+        DIR = 'data/financials/'+str(index)+'/'
+        f = open(DIR+'notes.txt','w')
+        f.close()
+        print 'Notes cleared'
+
+    def clearNotesForSymbol(self, symbol):
+        try:
+            self.clearNotes(self.indexes[symbol])
+        except:
+            print 'Symbol not found'
+
+    def readNotes(self, index):
+        try:
+            DIR = 'data/financials/'+str(index)+'/'
+            f = open(DIR+'notes.txt','r')
+            print f.read()
+            f.close()
+        except:
+            print 'No notes found'
+
+    def readNotesForSymbol(self, symbol):
+        try:
+            self.readNotes(self.indexes[symbol])
+        except:
+            print 'Symbol not found'
     def applyFilter(self,f):
         self.filteredFinancialData =  dict((k,(v,l+(1 if f(v) is True else 0))) for (k,(v,l)) in self.filteredFinancialData.iteritems() if v is not None)
 
@@ -465,7 +572,12 @@ class filtering:
     def clearFilters(self):
         self.filteredFinancialData = self.completeFinancialData
 
+    def saveState(self):
+        filteredSortedList = dict([(i,(v,l)) for (i,(v,l)) in self.filteredFinancialData.items() if v is not None and v[0] is not None and v[1] is not None and l >1])
+        dumpData(filteredSortedList, 'storedState.p')
 
+    def loadState(self):
+        self.filteredFinancialData = load('storedState.p')
 
     def writeTocsv(self,filename):
         fieldnames = ['Name','filters passed','NSE','BSE','Sector','epsQ','epsQ%','salesQ','salesQ%', 'ATPMQ','ATPQ','epsA','epsA%']
@@ -484,7 +596,7 @@ class filtering:
             row[fieldnames[5]] = v[1]['EPS Before Extra Ordinary']['Basic EPS']
             row[fieldnames[6]] = self.calculateEpsLastYearChange(v[1]['EPS Before Extra Ordinary']['Basic EPS'],v[1]['month'])
             row[fieldnames[7]] = v[1]['Net Sales/Income from operations']
-            row[fieldnames[8]] = self.salesGrowth(v[1]['Net Sales/Income from operations'])
+            row[fieldnames[8]] = self.salesGrowth(v[1]['Net Sales/Income from operations'],v[1]['month'])
             row[fieldnames[9]] = self.afterTaxProfitMargin(v[1]['Net Profit/(Loss) For the Period'],v[1]['Net Sales/Income from operations'])
             row[fieldnames[10]] = v[1]['Net Profit/(Loss) For the Period']
             row[fieldnames[11]] = v[0]['EPS Before Extra Ordinary']['Basic EPS']
@@ -495,14 +607,17 @@ class filtering:
 
 if __name__ == "__main__":
     obj = filtering()
-    obj.getAllParsedFinancialData()
+    obj.removeFromExclude('ATVPROJ')
+    #obj.getAllParsedFinancialData()
 
     #getAllParsedFinancialData()
     #obj.applyFilter(obj.ATPMfilter)
     #obj.applyFilter(obj.salesQuarterFilter)
 
-    obj.applyFilter(obj.epsQuarterFilter)
-    obj.applyFilter(obj.epsAnnualFilter)
-    obj.printFilteredData()
+    #obj.applyFilter(obj.epsQuarterFilter)
+    #obj.applyFilter(obj.epsAnnualFilter)
+    #obj.printFilteredData()
     #printFilteredData()
+    #saveOnlyRelevantTableData(7000,7630)
+    #updateDicts(0, 7630)
     pass

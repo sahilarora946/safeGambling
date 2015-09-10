@@ -41,6 +41,7 @@ def write(file, content):
 
 def getEmptyFinancialDataDict():
     out={}
+    out['index'] = -1
     out['month'] = []
     out['Net Sales/Income from operations'] = []
     out['Other Operating Income'] = []
