@@ -235,8 +235,8 @@ class filtering:
         self.epsQuarterThreshold = 20
         self.epsAnnualThreshold = 20
         self.salesThreshold = 25
-        self.filters = [self.epsQuarterFilter, self.salesQuarterFilter, self.ATPMfilter, self.epsAnnualFilter, self.eps2QuarterFilter]
-        self.filterCount = 5
+        self.filters = [self.epsQuarterFilter, self.salesQuarterFilter, self.ATPMfilter, self.epsAnnualFilter, self.eps2QuarterFilter, self.ROEFilter]
+        self.filterCount = len(self.filters)
         self.excludeSymbolList  = load('data/excludeSymbols.p')
 
     def email(self,fileToSend):
@@ -484,6 +484,20 @@ class filtering:
                 return True
         return False
 
+    def ROE(self, profit, equity,reserve):
+        if len(profit)> 0 and profit[0] != '--' and equity[0] != '--' and reserve[0]!= '--' and float(equity[0].replace(',',''))+float(reserve[0].replace(',','')) > 0:
+            return float(profit[0].replace(',',''))*100/(float(equity[0].replace(',',''))+float(reserve[0].replace(',','')))
+        return -1
+
+    def ROEFilter(self,(annual, quarter)):
+        profit = annual['Net Profit/(Loss) For the Period']
+        equity = annual['Equity Share Capital']
+        reserve = annual['Reserves Excluding Revaluation Reserves']
+        roe = self.ROE(profit,equity,reserve)
+        if roe >= 15:
+            return True
+        return False
+
     def writeNotes(self,index):
         DIR = 'data/financials/'+str(index)+'/'
         f = open(DIR+'notes.txt','a')
@@ -545,7 +559,7 @@ class filtering:
         except:
             print 'Symbol not found'
     def applyFilter(self,f):
-        self.filteredFinancialData =  dict((k,(v,l+(1 if f(v) is True else 0))) for (k,(v,l)) in self.filteredFinancialData.iteritems() if v is not None)
+        self.filteredFinancialData =  dict((k,(v,l+(1 if f(v) is True else 0))) for (k,(v,l)) in self.filteredFinancialData.iteritems() if v is not None and v[0] is not None and v[1] is not None)
 
     def applyFilterInt(self,i):
         self.applyFilter(self.filters[i])
@@ -568,6 +582,7 @@ class filtering:
                     print format("AfterTaxProfit quarterly",20  ),format(map(self.FLOAT,v[1]['Net Profit/(Loss) For the Period']),30)
                     print format("EPS Annually",25),format(map(self.FLOAT,v[0]['EPS Before Extra Ordinary']['Basic EPS']),60)
                     print format("EPS Annual growth",25),format(self.calculateEpsAnnualChange(v[0]['EPS Before Extra Ordinary']['Basic EPS'],v[0]['month']),30)
+                    print format("ROE",25), format(self.ROE(v[0]['Net Profit/(Loss) For the Period'],v[0]['Equity Share Capital'],v[0]['Reserves Excluding Revaluation Reserves']),30)
                     print '---------------------------------------------------------------'
             #except:
              #  print 'error'
@@ -584,7 +599,7 @@ class filtering:
         self.filteredFinancialData = load('storedState.p')
 
     def writeTocsv(self,filename):
-        fieldnames = ['Name','filters passed','NSE','BSE','Sector','epsQ','epsQ%','salesQ','salesQ%', 'ATPMQ','ATPQ','epsA','epsA%']
+        fieldnames = ['Name','filters passed','NSE','BSE','Sector','epsQ','epsQ%','salesQ','salesQ%', 'ATPMQ','ATPQ','epsA','epsA%','ROE']
         writer = csvWriter(filename, fieldnames)
         filteredSortedList = self.filteredFinancialData.items()
         filteredSortedList = sorted(filteredSortedList, cmp = comparator, reverse = True)
@@ -597,14 +612,15 @@ class filtering:
             row[fieldnames[2]] = self.stockSymbols[i][1]
             row[fieldnames[3]] = self.stockSymbols[i][2]
             row[fieldnames[4]] = self.stockSymbols[i][3]
-            row[fieldnames[5]] = v[1]['EPS Before Extra Ordinary']['Basic EPS']
+            row[fieldnames[5]] = map(self.FLOAT,v[1]['EPS Before Extra Ordinary']['Basic EPS'])
             row[fieldnames[6]] = self.calculateEpsLastYearChange(v[1]['EPS Before Extra Ordinary']['Basic EPS'],v[1]['month'])
-            row[fieldnames[7]] = v[1]['Net Sales/Income from operations']
+            row[fieldnames[7]] = map(self.FLOAT,v[1]['Net Sales/Income from operations'])
             row[fieldnames[8]] = self.salesGrowth(v[1]['Net Sales/Income from operations'],v[1]['month'])
             row[fieldnames[9]] = self.afterTaxProfitMargin(v[1]['Net Profit/(Loss) For the Period'],v[1]['Net Sales/Income from operations'])
-            row[fieldnames[10]] = v[1]['Net Profit/(Loss) For the Period']
-            row[fieldnames[11]] = v[0]['EPS Before Extra Ordinary']['Basic EPS']
+            row[fieldnames[10]] = map(self.FLOAT,v[1]['Net Profit/(Loss) For the Period'])
+            row[fieldnames[11]] = map(self.FLOAT,v[0]['EPS Before Extra Ordinary']['Basic EPS'])
             row[fieldnames[12]] = self.calculateEpsAnnualChange(v[0]['EPS Before Extra Ordinary']['Basic EPS'],v[0]['month'])
+            row[fieldnames[13]] = round(self.ROE(v[0]['Net Profit/(Loss) For the Period'],v[0]['Equity Share Capital'],v[0]['Reserves Excluding Revaluation Reserves']),2)
             writer.writerow(row)
 
 
