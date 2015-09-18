@@ -550,24 +550,28 @@ class filtering:
     def applyFilterInt(self,i):
         self.applyFilter(self.filters[i])
 
+    def FLOAT(self,x):
+        if x != '--':
+            return float(x)
+
     def printFilteredData(self):
         for (i,(v,l)) in self.filteredFinancialData.iteritems():
-            try:
+            #try:
                 if v is not None and v[0] is not None and v[1] is not None and l !=0:
                     print format("Name",25),format(self.stockSymbols[i][0],10)
                     print format("Symbol",25),format(self.stockSymbols[i][1]+'/'+self.stockSymbols[i][2],10)
-                    print format("EPS quarterly",25),format(v[1]['EPS Before Extra Ordinary']['Basic EPS'],60)
+                    print format("EPS quarterly",25),format(map(self.FLOAT,v[1]['EPS Before Extra Ordinary']['Basic EPS']),60)
                     print format("EPS quarterly growth",25),format(self.calculateEpsLastYearChange(v[1]['EPS Before Extra Ordinary']['Basic EPS'],v[1]['month']),30)
-                    print format("Sales quarterly",25),format(v[1]['Net Sales/Income from operations'],30)
-                    print format("Sales Growth Quarterly",25),format(self.salesGrowth(v[1]['Net Sales/Income from operations']),60)
+                    print format("Sales quarterly",25),format(map(self.FLOAT,v[1]['Net Sales/Income from operations']),30)
+                    print format("Sales Growth Quarterly",25),format(self.salesGrowth(v[1]['Net Sales/Income from operations'],v[1]['month']),60)
                     print format("AfterTaxProfitMargin quarterly",30),format(self.afterTaxProfitMargin(v[1]['Net Profit/(Loss) For the Period'],v[1]['Net Sales/Income from operations']),30)
-                    print format("AfterTaxProfit quarterly",20  ),format(v[1]['Net Profit/(Loss) For the Period'],30)
-                    print format("EPS Annually",25),format(v[0]['EPS Before Extra Ordinary']['Basic EPS'],60)
+                    print format("AfterTaxProfit quarterly",20  ),format(map(self.FLOAT,v[1]['Net Profit/(Loss) For the Period']),30)
+                    print format("EPS Annually",25),format(map(self.FLOAT,v[0]['EPS Before Extra Ordinary']['Basic EPS']),60)
                     print format("EPS Annual growth",25),format(self.calculateEpsAnnualChange(v[0]['EPS Before Extra Ordinary']['Basic EPS'],v[0]['month']),30)
                     print '---------------------------------------------------------------'
-            except:
-                print 'error'
-                pass
+            #except:
+             #  print 'error'
+              # pass
 
     def clearFilters(self):
         self.filteredFinancialData = self.completeFinancialData
