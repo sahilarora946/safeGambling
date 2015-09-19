@@ -200,18 +200,72 @@ def updateDicts(a,b):
             annual = load(DIR+'annualDict.p')
             if annual is not None:
                 annual['index'] = index
-                dumpData(annual, 'annualDict.p')
+                dumpData(annual, DIR+'annualDict.p')
         except:
             pass
         try:
             quarter = load(DIR+'quarterDict.p')
             if quarter is not None:
                 quarter['index'] = index
-                dumpData(quarter, 'quarterDict.p')
+                dumpData(quarter, DIR+'quarterDict.p')
         except:
             pass
 
+def getDebtList(index):
+    DIR = 'data/financials/'+str(index)+'/'
+    DEratioData = load(DIR +'ratios.p')
+    parsedData = getParsedSoupFromHTML(DEratioData)
+    tables = parsedData.findAll('table')
+    l = len(tables)
+    for i in range(l-1,-1,-1):
+        data = getText(tables[i]).strip('\n')
+        if data == '':
+            continue
+        lines = data.split('\n')
+        if lines[0].startswith('Data Not Available'):
+            return None
+        else:
+            try:
+                month[lines[0][:3]]
+            except:
+                continue
+            #try:
+            if month[lines[0][:3]] == 1:
+                j = 0
+                lines = map(stripNewLine,lines)
+                try:
+                    while True:
+                        mon = lines[j].split(' ')[0]
+                        if month[mon] == 1:
+                            j = j+1
+                except:
+                    if j == 0:
+                        return None
+                months = j
+                while j < len(lines):
+                    if lines[j] == 'Debt Equity Ratio':
+                        DEratio = []
+                        if lines[j+1] == "":
+                            j = j+1
+                        for k in range(j+1, min(j+1+3, j+1+months)):
+                            if lines[k] == '--':
+                                return DEratio
+                            DEratio.append(float(lines[k]))
+                        return DEratio
+                    j = j+1
+            #except:
+            #    continue
+    return None
 
+def updateDictsWithDEratio(a,b):
+    stockSymbols = load('data/symbolsMCupdated.p')
+    for index in range(a,b):
+        print index,7630, stockSymbols[index][1],stockSymbols[index][2]
+        DIR = 'data/financials/'+str(index)+'/'
+        annual = load(DIR+'annualDict.p')
+        if annual is not None:
+            annual['DEratio'] = getDebtList(index)
+            dumpData(annual, DIR+'annualDict.p')
 
 def format(x,y):
     return repr(x).ljust(y)
@@ -235,7 +289,7 @@ class filtering:
         self.epsQuarterThreshold = 20
         self.epsAnnualThreshold = 20
         self.salesThreshold = 25
-        self.filters = [self.epsQuarterFilter, self.salesQuarterFilter, self.ATPMfilter, self.epsAnnualFilter, self.eps2QuarterFilter, self.ROEFilter]
+        self.filters = [self.epsQuarterFilter, self.salesQuarterFilter, self.ATPMfilter, self.epsAnnualFilter, self.eps2QuarterFilter, self.ROEFilter,self.DEFilter]
         self.filterCount = len(self.filters)
         self.excludeSymbolList  = load('data/excludeSymbols.p')
 
@@ -498,6 +552,17 @@ class filtering:
             return True
         return False
 
+    def DEFilter(self, (annual,quarter)):
+        DEratio = annual['DEratio']
+        if DEratio == None:
+            return False
+        if DEratio == [] or len(DEratio) == 1:
+            return True
+        if len(DEratio) == 2 and DEratio[0] < DEratio[1]:
+            return True
+        if len(DEratio) == 3 and DEratio[0] < DEratio[1] and DEratio[1] < DEratio[2]:
+            return True
+        return False
     def writeNotes(self,index):
         DIR = 'data/financials/'+str(index)+'/'
         f = open(DIR+'notes.txt','a')
@@ -583,6 +648,7 @@ class filtering:
                     print format("EPS Annually",25),format(map(self.FLOAT,v[0]['EPS Before Extra Ordinary']['Basic EPS']),60)
                     print format("EPS Annual growth",25),format(self.calculateEpsAnnualChange(v[0]['EPS Before Extra Ordinary']['Basic EPS'],v[0]['month']),30)
                     print format("ROE",25), format(self.ROE(v[0]['Net Profit/(Loss) For the Period'],v[0]['Equity Share Capital'],v[0]['Reserves Excluding Revaluation Reserves']),30)
+                    print format("Debt Equity Ratio",25), format(v[0]['DEratio'],30)
                     print '---------------------------------------------------------------'
             #except:
              #  print 'error'
@@ -599,7 +665,7 @@ class filtering:
         self.filteredFinancialData = load('storedState.p')
 
     def writeTocsv(self,filename):
-        fieldnames = ['Name','filters passed','NSE','BSE','Sector','epsQ','epsQ%','salesQ','salesQ%', 'ATPMQ','ATPQ','epsA','epsA%','ROE']
+        fieldnames = ['Name','filters passed','NSE','BSE','Sector','epsQ','epsQ%','salesQ','salesQ%', 'ATPMQ','ATPQ','epsA','epsA%','ROE','DEratio']
         writer = csvWriter(filename, fieldnames)
         filteredSortedList = self.filteredFinancialData.items()
         filteredSortedList = sorted(filteredSortedList, cmp = comparator, reverse = True)
@@ -621,13 +687,14 @@ class filtering:
             row[fieldnames[11]] = map(self.FLOAT,v[0]['EPS Before Extra Ordinary']['Basic EPS'])
             row[fieldnames[12]] = self.calculateEpsAnnualChange(v[0]['EPS Before Extra Ordinary']['Basic EPS'],v[0]['month'])
             row[fieldnames[13]] = round(self.ROE(v[0]['Net Profit/(Loss) For the Period'],v[0]['Equity Share Capital'],v[0]['Reserves Excluding Revaluation Reserves']),2)
+            row[fieldnames[14]] = v[0]['DEratio']
             writer.writerow(row)
 
 
 
 if __name__ == "__main__":
-    obj = filtering()
-    obj.removeFromExclude('ATVPROJ')
+    #obj = filtering()
+    #obj.removeFromExclude('ATVPROJ')
     #obj.getAllParsedFinancialData()
 
     #getAllParsedFinancialData()
@@ -639,5 +706,8 @@ if __name__ == "__main__":
     #obj.printFilteredData()
     #printFilteredData()
     #saveOnlyRelevantTableData(7000,7630)
-    #updateDicts(0, 7630)
+    a = 7000
+    b = 7630
+    updateDicts(a, b)
+    updateDictsWithDEratio(a,b)
     pass
